@@ -1,6 +1,6 @@
 # redirects:
 #  - from: /full/path/to/page
-#    to: /pull/path/to/new/page
+#    to: /full/path/to/new/page
 #  - from: ...
 #    to: ...
 
