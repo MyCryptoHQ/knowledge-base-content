@@ -1,0 +1,7 @@
+# redirects:
+#  - from: /full/path/to/page
+#    to: /full/path/to/new/page
+#  - from: ...
+#    to: ...
+
+redirects: []
