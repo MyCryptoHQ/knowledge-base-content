@@ -65,3 +65,48 @@
     to: how-to/getting-started/how-to-create-a-wallet
   - from: faq/interacting-with-ethereum-multisig-wallet.html
     to: how-to/sending/how-to-interact-with-a-multisig-contract
+  - from: addresses/signing-and-verifying-messages.html
+    to: how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum
+  - from: transactions/check-status-of-ethereum-transaction.html
+    to: how-to/sending/checking-or-replacing-a-transaction-after-it-has-been-sent
+  - from: migration/moving-from-private-key-to-metamask.html
+    to: how-to/migrating/moving-from-mycrypto-to-metamask
+  - from: migration/moving-from-private-key-to-ledger-hardware-wallet.html
+    to: how-to/migrating/moving-from-mycrypto-to-ledger
+  - from: migration/moving-from-private-key-to-trezor-hardware-wallet.html
+    to: how-to/migrating/moving-from-mycrypto-to-trezor
+  - from: migration/moving-from-mycrypto-to-parity.html
+    to: how-to/migrating/access-your-mycrypto-account-in-parity
+  - from: migration/location-of-mist-geth-wallet-files.html
+    to: how-to/migrating/access-your-mycrypto-account-in-geth-or-mist
+  - from: migration/moving-from-jaxx-to-mycrypto.html
+    to: how-to/migrating/access-your-jaxx-account-on-mycrypto
+  - from: migration/moving-from-coinbase-to-mycrypto.html
+    to: how-to/migrating/moving-from-coinbase-to-mycrypto
+  - from: tokens/receiving-tokens.html
+    to: how-to/tokens/how-to-receive-tokens
+  - from: tokens/showing-and-loading-tokens.html
+    to: how-to/tokens/showing-and-loading-tokens
+  - from: offline/running-mycrypto-locally.md.html
+    to: how-to/offline/how-to-run-mycrypto-offline-and-locally
+  - from: offline/ethereum-cold-storage-with-mycrypto.html
+    to: how-to/offline/using-mycrypto-for-cold-storage
+  - from: offline/sending-offline-with-mycrypto.html
+    to: general-knowledge/about-mycrypto/how-can-mycrypto-send-offline
+  - from: offline/using-ledger-wallet-offline.html
+    to: how-to/offline/using-ledger-wallet-offline
+  - from: hardware-wallets/trezor-hardware-wallet-sending-from-trezor.html
+    to: how-to/sending/trezor-sending-from
+  - from: hardware-wallets/trezor-sending-to-trezor-device.html
+    to: how-to/sending/trezor-sending-to
+  - from: networks/sent-etc-to-eth-address.html
+    to: how-to/nodes-networks/access-eth-sent-to-etc-address-or-etc-sent-to-eth-address
+  - from: hardware-wallets/ledger-hardware-wallet-using-with-android
+    to: how-to/hardware-wallets/ledger/how-to-use-a-ledger-wallet-with-android
+  - from: hardware-wallets/multiple-addresses-on-hardware-wallet.html
+    to: how-to/hardware-wallets/multiple-addresses-showing-on-hardware-wallet
+  - from: gas/how-do-I-know-what-gas-limit-to-use.html
+    to: how-to/sending/how-to-know-what-gas-price-or-gas-limit-to-use
+  - from: private-keys-passwords/how-to-change-ethereum-account-password-unencrypted-encrypted.html
+    to: how-to/migrating/how-to-change-your-wallet-password-unencrypted-to-encrypted
+
