@@ -145,3 +145,39 @@
     to: troubleshooting/accessing-wallet/missing-characters-of-private-key
   - from: hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-mycrypto.html
     to: troubleshooting/accessing-wallet/ledger-hardware-wallet-unable-to-connect-on-mycrypto
+  - from: tokens/adding-new-token-and-sending-custom-tokens.html
+    to: troubleshooting/tokens/adding-new-token-and-sending-custom-tokens
+  - from: tokens/adding-custom-token-errors-fix.html
+    to: troubleshooting/tokens/adding-custom-token-errors-fix
+  - from: ens/ens-debugging-a-bad-instruction-reveal.html
+    to: troubleshooting/ens/ens-debugging-a-bad-instruction-reveal
+  - from: hardware-wallets/u2f-not-supported-error.html
+    to: troubleshooting/hardware-wallets/ledger/u2f-not-supported-error
+  - from: hardware-wallets/ledger-hardware-wallet-error-invalid-stats-6a80.html
+    to: troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-error-invalid-stats-6a80
+  - from: hardware-wallets/ledger-hardware-wallet-missing-characters-from-address.html
+    to: troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-missing-characters-from-address
+  - from: hardware-wallets/error-code-5.html
+    to: troubleshooting/hardware-wallets/ledger/error-code-5
+  - from: hardware-wallets/archos-safet-mini.html
+    to: troubleshooting/hardware-wallets/archos/archos-safet-mini
+  - from: hardware-wallets/trezor-error-window-blocked.html
+    to: troubleshooting/hardware-wallets/trezor/trezor-error-window-blocked
+  - from: contributor-info/add-token-to-default-list.html
+    to: developers/add-token-to-default-list
+  - from: contributor-info/adding-a-new-network.html
+    to: developers/adding-a-new-network
+  - from: contributor-info/adding-support-for-web3-wallet.html
+    to: developers/adding-support-for-web3-wallet
+  - from: contributor-info/contributing-code.html
+    to: developers/contributing-code
+  - from: contributor-info/how-can-i-help-translate.html
+    to: developers/how-can-i-help-translate
+  - from: contributor-info/how-to-submit-pull-request.html
+    to: developers/how-to-submit-pull-request
+  - from: contributor-info/reporting-a-bug.html
+    to: developers/reporting-a-bug
+  - from: contributor-info/suggesting-a-feature.html
+    to: developers/suggesting-a-feature
+  - from: networks/run-your-own-node-with-mycrypto.html
+    to: developers/run-your-own-node-with-mycrypto
