@@ -20,15 +20,15 @@
   - from: getting-started/backing-up-your-new-wallet.html
     to: how-to/backup-restore/how-to-save-back-up-your-wallet
   - from: hardware-wallets/backing-up-trezor-mycrypto.html
-    to: how-to/backup-restore/trezor-making-a-backup  
+    to: how-to/backup-restore/trezor-making-a-backup
   - from: best-of/restoring-access-to-your-accounts-if-lose-device-with-2fa.html
-    to: how-to/backup-restore/how-to-restore-access-to-your-accounts-if-you-lose-or-destroy-your-device-with-google-authenticator-2fa  
+    to: how-to/backup-restore/how-to-restore-access-to-your-accounts-if-you-lose-or-destroy-your-device-with-google-authenticator-2fa
   - from: ens/changing-ens-owner-or-transferring-ens-name.html
-    to: how-to/ens/changing-the-ens-owner-or-transferring-an-ens-name  
+    to: how-to/ens/changing-the-ens-owner-or-transferring-an-ens-name
   - from: ens/ens-releasing-ens-names.html
-    to: how-to/ens/releasing-ens-names  
+    to: how-to/ens/releasing-ens-names
   - from: ens/manually-revealing-ens-bids-hard.html
-    to: how-to/ens/manually-revealing-ens-bids-hard  
+    to: how-to/ens/manually-revealing-ens-bids-hard
   - from: ens/ens-what-to-do-if-you-forgot-your-bid.html
     to: how-to/ens/what-to-do-if-you-forgot-how-much-you-bid
   - from: ens/visual-guide-to-buying-a-vanity-eth-address-with-ens-and-mycrypto.html
@@ -181,3 +181,63 @@
     to: developers/suggesting-a-feature
   - from: networks/run-your-own-node-with-mycrypto.html
     to: developers/run-your-own-node-with-mycrypto
+  - from: best-of/trading-advice-what-to-do-when-you-lose-it-all-trading-margin.html
+    to: general-knowledge/investing-icos-tokens/margin-trading-what-to-do-when-you-lose-it-all
+  - from: best-of/unsolicited-advice-for-those-holding-token-sales.html
+    to: general-knowledge/investing-icos-tokens/unsolicited-advice-for-those-holding-token-sales
+  - from: best-of/how-not-to-miss-out-on-ico.html
+    to: general-knowledge/investing-icos-tokens/best-ways-to-avoid-missing-out-on-that-ico
+  - from: best-of/investing-responsibly-by-brian-armstrong-coinbase.html
+    to: general-knowledge/investing-icos-tokens/investing-responsibly-by-brian-armstrong-coinbase
+  - from: faq/what-is-an-ico.html
+    to: general-knowledge/investing-icos-tokens/what-is-an-ico
+  - from: tokens/airdropped-tokens.html
+    to: general-knowledge/investing-icos-tokens/why-am-i-getting-random-tokens-in-my-wallet
+  - from: best-of/dunning-krugerrands-fud-list-of-doom.html
+    to: general-knowledge/investing-icos-tokens/dunning-krugerrands-fud-list-of-doom-from-early-2016
+  - from: best-of/getting-thru-the-shit-times.html
+    to: general-knowledge/investing-icos-tokens/getting-through-the-shit-times
+  - from: tokens/do-i-need-several-wallets-for-every-token-sale.html
+    to: general-knowledge/investing-icos-tokens/do-i-need-multiple-addresses-for-every-token-sale
+  - from: getting-started/mycrypto-help-and-quicktips.html
+    to: general-knowledge/about-mycrypto/mycryptos-quicktips
+  - from: getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html
+    to: general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto
+  - from: gas/i-cant-withdraw-them-from-your-site-less-than-minimum.html
+    to: general-knowledge/about-mycrypto/do-you-have-a-minimum-requirement-to-transfer-out-of-mycrypto
+  - from: faq/sending-bitcoin-btc-ltc-xmr-to-mycrypto.html
+    to: general-knowledge/about-mycrypto/does-mycrypto-support-bitcoin-or-other-coins
+  - from: best-of/keypairs-cryptography-encryption.html
+    to: general-knowledge/cryptography/on-keypairs-and-encryption
+  - from: best-of/ethereum-encryption-bkp-presale-files.html
+    to: general-knowledge/cryptography/on-components-of-the-ethereum-pre-sale-file-and-encryption
+  - from: best-of/how-mycrypto-gets-entropy-when-generating-wallets.html
+    to: general-knowledge/cryptography/ethereum-account-generation-and-how-mycrypto-gets-entropy
+  - from: private-keys-passwords/how-do-mnemonic-phrases-work.html
+    to: general-knowledge/cryptography/how-do-mnemonic-phrases-work
+  - from: getting-started/ethereum-glossary.html
+    to: general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space
+  - from: diving-deeper/ethereum-list-of-support-and-communities.html
+    to: general-knowledge/ethereum-blockchain/more-help-support-and-communities
+  - from: transactions/what-are-internal-transaction.html
+    to: general-knowledge/ethereum-blockchain/what-are-internal-transactions
+  - from: transactions/what-is-nonce.html
+    to: general-knowledge/ethereum-blockchain/what-is-nonce
+  - from: gas/what-is-gas-ethereum.html
+    to: general-knowledge/ethereum-blockchain/what-is-gas
+  - from: private-keys-passwords/difference-beween-private-key-and-keystore-file.html
+    to: general-knowledge/ethereum-blockchain/difference-between-wallet-types
+  - from: getting-started/getting-back-to-basics-tips-for-newbies.html
+    to: general-knowledge/ethereum-blockchain/getting-back-to-the-basics-ten-tips-for-newbies
+  - from: diving-deeper/is-the-blockchain-private.html
+    to: general-knowledge/ethereum-blockchain/is-the-blockchain-private
+  - from: diving-deeper/links-you-should-read-next.html
+    to: general-knowledge/ethereum-blockchain/links-you-should-read-next
+  - from: addresses/my-ethereum-address-has-uppercase-and-lowercase-letters.html
+    to: general-knowledge/ethereum-blockchain/ethereum-address-has-uppercase-and-lowercase-letters
+  - from: addresses/creating-new-accounts-for-eth-and-tokens.html
+    to: general-knowledge/ethereum-blockchain/should-i-keep-my-eth-or-tokens-in-single-or-multiple-addresses
+  - from: ens/why-the-ens-bid-process-is-so-complicated.html
+    to: general-knowledge/ens/why-the-ens-bid-process-is-so-complicated
+  - from: getting-started/getting-started-new.html
+    to: how-to/getting-started/how-to-get-started-on-mycrypto
