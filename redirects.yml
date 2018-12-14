@@ -109,4 +109,39 @@
     to: how-to/sending/how-to-know-what-gas-price-or-gas-limit-to-use
   - from: private-keys-passwords/how-to-change-ethereum-account-password-unencrypted-encrypted.html
     to: how-to/migrating/how-to-change-your-wallet-password-unencrypted-to-encrypted
-
+  - from: send/not-checksummed-shows-when-i-enter-an-address.html
+    to: troubleshooting/sending/not-checksummed-shows-when-i-enter-an-address
+  - from: send/what-to-do-if-you-sent-to-wrong-address.html
+    to: troubleshooting/sending/what-to-do-if-you-sent-to-wrong-address
+  - from: transactions/transaction-failed-out-of-gas.html
+    to: troubleshooting/sending/transaction-failed-out-of-gas
+  - from: transactions/transaction-fee-not-refunded.html
+    to: troubleshooting/sending/transaction-fee-not-refunded
+  - from: transactions/error-bad-jump-destination-or-out-of-gas-error.html
+    to: troubleshooting/sending/error-bad-jump-destination-or-out-of-gas-error
+  - from: transactions/transaction-not-showing-or-pending.html
+    to: troubleshooting/sending/transaction-not-showing-or-pending
+  - from: tokens/errcode-unable-to-locate-corresponding-transfer-event-log.html
+    to: troubleshooting/sending/errcode-unable-to-locate-corresponding-transfer-event-log
+  - from: gas/error-insufficient-funds-message.html
+    to: troubleshooting/sending/error-insufficient-funds-message
+  - from: addresses/ethereum-balance-not-loading-or-showing.html
+    to: troubleshooting/sending/ethereum-balance-not-loading-or-showing
+  - from: addresses/eth-or-tokens-not-showing-on-exchange.html
+    to: troubleshooting/sending/eth-or-tokens-not-showing-on-exchange
+  - from: faq/unlocking-keystore-file-freezes-browser.html
+    to: troubleshooting/accessing-wallet/unlocking-keystore-file-freezes-browser
+  - from: private-keys-passwords/lost-password-ethereum-presale-wallet-file.html
+    to: troubleshooting/accessing-wallet/lost-password-ethereum-presale-wallet-file
+  - from: private-keys-passwords/lost-eth-private-key.html
+    to: troubleshooting/accessing-wallet/lost-eth-private-key
+  - from: private-keys-passwords/lost-ethereum-wallet-password.html
+    to: troubleshooting/accessing-wallet/lost-ethereum-wallet-password
+  - from: private-keys-passwords/accessing-different-address-same-private-key-ether.html
+    to: troubleshooting/accessing-wallet/accessing-different-address-same-private-key-ether
+  - from: private-keys-passwords/private-key-not-working.html
+    to: troubleshooting/accessing-wallet/private-key-not-working
+  - from: private-keys-passwords/missing-characters-of-private-key.html
+    to: troubleshooting/accessing-wallet/missing-characters-of-private-key
+  - from: hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-mycrypto.html
+    to: troubleshooting/accessing-wallet/ledger-hardware-wallet-unable-to-connect-on-mycrypto
