@@ -181,3 +181,43 @@
     to: developers/suggesting-a-feature
   - from: networks/run-your-own-node-with-mycrypto.html
     to: developers/run-your-own-node-with-mycrypto
+  - from: getting-started/protecting-yourself-and-your-funds.html
+    to: staying-safe/protecting-yourself-and-your-funds
+  - from: security/securing-your-ethereum.html
+    to: staying-safe/protecting-yourself-and-your-funds
+  - from: security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html
+    to: staying-safe/phish-hacks-thefts-and-stolen-funds-due-to-phishing
+  - from: security/call-to-action-help-us-with-phishers-please.html
+    to: staying-safe/call-to-action-help-us-with-phishers-please
+  - from: security/turning-on-2fa-on-mycrypto.html
+    to: staying-safe/turning-on-2fa-on-mycrypto
+  - from: security/verifying-authenticity-of-desktop-app.html
+    to: staying-safe/verifying-authenticity-of-desktop-app
+  - from: security/how-to-securely-store-and-guard-your-private-key.html
+    to: staying-safe/how-to-securely-store-and-guard-your-private-key
+  - from: security/advanced-secure-wallets-by-tomshwom.html
+    to: staying-safe/advanced-secure-wallets-by-tomshwom
+  - from: security/couldnt-everybody-put-in-a-random-key-and-send-to-own-address.html
+    to: staying-safe/couldnt-everybody-put-in-a-random-key-and-send-to-own-address
+  - from: security/ethereum-two-people-same-private-key.html
+    to: staying-safe/ethereum-two-people-same-private-key
+  - from: security/mycrypto-protips-how-not-to-get-scammed-during-ico.html
+    to: staying-safe/mycrypto-protips-how-not-to-get-scammed-during-ico
+  - from: security/how-can-we-trust-mycrypto.html
+    to: staying-safe/how-can-we-trust-mycrypto
+  - from: common-scams/common-scams-overview.html
+    to: staying-safe/common-scams/common-scams-overview
+  - from: common-scams/phishing-overview.html
+    to: staying-safe/common-scams/phishing-overview
+  - from: common-scams/hardware-wallet-scams-overview.html
+    to: staying-safe/common-scams/hardware-wallet-scams-overview
+  - from: common-scams/malicious-software-overview.html
+    to: staying-safe/common-scams/malicious-software-overview
+  - from: common-scams/privacy-concerns-overview.html
+    to: staying-safe/common-scams/privacy-concerns-overview
+  - from: hardware-wallets/hardware-wallet-recommendations.html
+    to: staying-safe/hardware-wallet-recommendations
+  - from: hardware-wallets/why-you-should-backup-your-hardware-wallet.html
+    to: staying-safe/why-you-should-backup-your-hardware-wallet
+  - from: security/how-to-stay-safe.html
+    to: staying-safe/how-to-stay-safe
