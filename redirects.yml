@@ -1,0 +1,67 @@
+# redirects:
+#  - from: /full/path/to/page
+#    to: /full/path/to/new/page
+#  - from: ...
+#    to: ...
+
+ redirects:
+  - from: accessing-your-wallet/access-wallet-keystore-file.html
+    to: how-to/accessing-wallet/how-to-access-your-wallet-with-keystore-file
+  - from: accessing-your-wallet/access-wallet-mnemonic.html
+    to: how-to/accessing-wallet/how-to-access-your-wallet-with-mnemonic-phrase
+  - from: accessing-your-wallet/how-to-use-metamask-with-mycrypto.html
+    to: how-to/accessing-wallet/how-to-use-metamask-with-mycrypto
+  - from: accessing-your-wallet/how-to-use-the-parity-signer-with-mycrypto.html
+    to: how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto
+  - from: accessing-your-wallet/how-to-use-your-ledger-hardware-wallet-with-mycrypto.html
+    to: how-to/accessing-wallet/how-to-use-your-ledger-hardware-wallet-with-mycrypto
+  - from: accessing-your-wallet/how-to-use-your-trezor-with-mycrypto.html
+    to: how-to/accessing-wallet/how-to-use-your-trezor-with-mycrypto
+  - from: getting-started/backing-up-your-new-wallet.html
+    to: how-to/backup-restore/how-to-save-back-up-your-wallet
+  - from: hardware-wallets/backing-up-trezor-mycrypto.html
+    to: how-to/backup-restore/trezor-making-a-backup  
+  - from: best-of/restoring-access-to-your-accounts-if-lose-device-with-2fa.html
+    to: how-to/backup-restore/how-to-restore-access-to-your-accounts-if-you-lose-or-destroy-your-device-with-google-authenticator-2fa  
+  - from: ens/changing-ens-owner-or-transferring-ens-name.html
+    to: how-to/ens/changing-the-ens-owner-or-transferring-an-ens-name  
+  - from: ens/ens-releasing-ens-names.html
+    to: how-to/ens/releasing-ens-names  
+  - from: ens/manually-revealing-ens-bids-hard.html
+    to: how-to/ens/manually-revealing-ens-bids-hard  
+  - from: ens/ens-what-to-do-if-you-forgot-your-bid.html
+    to: how-to/ens/what-to-do-if-you-forgot-how-much-you-bid
+  - from: ens/visual-guide-to-buying-a-vanity-eth-address-with-ens-and-mycrypto.html
+    to: how-to/ens/visual-guide-to-buying-vanity-ethereum-addresses-with-ens-and-mycrypto
+  - from: ens/starting-an-ens-auction-without-bidding.html
+    to: how-to/ens/starting-an-auction-without-bidding
+  - from: ens/ens-brute-forcing-secret-word-phrases.html
+    to: how-to/ens/brute-forcing-secret-word-phrases
+  - from: ens/setting-the-resolver-for-an-ens-name.html
+    to: how-to/ens/setting-the-resolver-for-an-ens-name
+  - from: ens/ens-what-to-do-if-you-forgot-to-reveal-ens-bid.html
+    to: how-to/ens/what-to-do-if-you-forgot-to-reveal-your-ens-bid
+  - from: ens/import-bid-created-in-mycrypto-to-ens.html
+    to: how-to/ens/importing-a-bid-created-in-mycrypto-into-ens-and-vice-versa
+  - from: send/how-to-send-transaction.html
+    to: how-to/sending/how-to-send-a-transaction
+  - from: send/sending-and-adding-tokens.html
+    to: how-to/sending/sending-and-adding-tokens
+  - from: transactions/how-to-schedule-a-transaction.html
+    to: how-to/sending/how-to-schedule-a-transaction
+  - from: networks/access-your-etc-on-mycrypto.html
+    to: how-to/sending/how-to-send-ethereum-classic-via-mycrypto
+  - from: offline/making-offline-transaction-on-mycrypto.html
+    to: how-to/sending/how-to-make-an-offline-transaction
+  - from: offline/is-the-send-page-offline.html
+    to: how-to/offline/is-the-view-and-send-page-offline
+  - from: faq/where-to-get-testnet-ether.html
+    to: how-to/getting-started/where-to-get-testnet-ether
+  - from: faq/how-to-buy-ethereum-with-usd.html
+    to: how-to/getting-started/how-to-buy-ether-with-usd
+  - from: faq/buying-selling-exchanging-eth-tokens-fiat.html
+    to: how-to/getting-started/where-can-i-buy-sell-trade-or-exchange-my-eth-or-tokens
+  - from: getting-started/creating-a-new-wallet-on-mycrypto.html
+    to: how-to/getting-started/how-to-create-a-wallet
+  - from: faq/interacting-with-ethereum-multisig-wallet.html
+    to: how-to/sending/how-to-interact-with-a-multisig-contract
