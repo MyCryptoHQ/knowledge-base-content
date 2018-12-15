@@ -281,3 +281,7 @@
     to: general-knowledge/ens/why-the-ens-bid-process-is-so-complicated
   - from: getting-started/getting-started-new.html
     to: how-to/getting-started/how-to-get-started-on-mycrypto
+  - from: networks/cant-connect-to-custom-node-on-mycrypto.html
+    to: troubleshooting/unable-to-connect-to-custom-node
+  - from: security/i-cannot-see-the-extended-validation-certificate.html
+    to: troubleshooting/cannot-see-the-extended-validation-certificate
