@@ -1,15 +1,10 @@
 ---
-title: >-
-  Ledger: Not All Characters of Address are Showing When I Click 'Display
-  Address'
-description: >-
-  Not all characters of address are showing when I click 'Display Address' on
-  Ledger
+title: Not all characters of address are showing when I click 'Display Address'
+description: TODO
 priority: 17
 date_published: '2017-06-20'
 date_modified: '2018-11-29'
 ---
-
 
 This is fixed when updating the ETH application from Ledger Manager. You can learn how to do this by following  [this guide](https://support.ledgerwallet.com/hc/en-us/articles/360002731113).
 

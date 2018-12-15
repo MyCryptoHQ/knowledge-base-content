@@ -1,5 +1,5 @@
 ---
-title: 'Ledger: Invalid Status 6a80'
+title: 'Invalid status 6a80'
 description: Hardware Wallets
 priority: 16
 date_published: '2015-07-15'

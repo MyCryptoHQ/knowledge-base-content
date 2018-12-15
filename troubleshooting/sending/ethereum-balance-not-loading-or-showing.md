@@ -10,37 +10,27 @@ This is most likely due to the fact that either you are behind a firewall, you h
 
 The easiest way to check your balance is actually not by unlocking your wallet. You only need your address in order to see your balance. It is not recommended that you enter your private key anywhere if you just want to check on the balance or see incoming / outgoing transactions. Instead...
 
-#### ETH
+## Ethereum
 
 Paste your address into the search bar and it will pull up your address and transaction history on:
 
-* [https://etherscan.io/](https://etherscan.io/).
+* [Etherscan](https://etherscan.io/).
+* [Etherchain](https://www.etherchain.org/).
 
-* [https://www.etherchain.org/](https://www.etherchain.org/).
+## Tokens
 
-#### Tokens
+* Via [Ethplorer](https://ethplorer.io/): This entire site is dedicated to token transactions and their balances.
+* Via [Etherscan](https://etherscan.io/): Your token balances are in the dropdown in the header section thingy. Your transfers can be viewed on the ["Token Transfers"](https://etherscan.io/address/0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520#tokentxns) tab.
+* Via [Etherchain](https://www.etherchain.org/): Your tokens are displayed on the left sidebar.
 
-* Via [https://ethplorer.io/](https://ethplorer.io/): This entire site is dedicated to token transactions and their balances.
+## Ethereum Classic
 
-* Via [https://etherscan.io/](https://etherscan.io/): Your token balances are in the dropdown in the header section thingy. Your transfers can be viewed on the ["Token Transfers"](https://etherscan.io/address/0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520#tokentxns) tab.
+[Gastracker](https://gastracker.io/). Paste your address into the search bar and it will pull up your address and transaction history.
 
-* Via [https://www.etherchain.org/](https://www.etherchain.org/): Your tokens are displayed on the left sidebar.
+### Token balance not loading
 
+If you need to send some tokens and they aren't loading, here are some things you can try to troubleshoot:
 
-#### ETC
-
-[https://gastracker.io/](https://gastracker.io/). Paste your address into the search bar and it will pull up your address and transaction history.
-
-
-### If you need to send some tokens and they aren't loading, here are some things you can try to troubleshoot:
-
-1. Hard refresh the page. On Chrome on OSX, you hit `cmd`+`shift`+`r`. On a PC, it's `ctrl`+`shift`+`r`.
-
-2. Check your internet / firewall.
-
-3. Try connecting to a different network in the top-right corner. Choosing one that you are not currently connected to may solve your problem. If you are interacting with the Ethereum blockchain, you have four nodes to choose from:
-
-  *    MyCryptoAPI.com
-  *    Etherscan.io
-  *    Infura.io
-  *    Blockscale.net
+1. Hard refresh the page. On Chrome on OSX, you hit `Command` + `Shift` + `R`. On a PC, it's `Ctrl` + `Shift` + `R`.
+2. Check your internet or firewall.
+3. Try connecting to a different network in the top-right corner. Choosing one that you are not currently connected to may solve your problem.

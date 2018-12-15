@@ -6,10 +6,7 @@ date_published: '2017-07-05'
 date_modified: '2017-11-27'
 ---
 
-
-
-*Mismatched Private Key / Address*
-
+## Mismatched Private Key / Address
 
 Please be sure that you are **carefully and accurately** typing in your private key. A single wrong character will open a different wallet than "yours."
 
@@ -23,19 +20,17 @@ You had to unlock your wallet in order to obtain your address from MyCrypto. The
 
 If you think you may have mistyped a private key, here is a snippet that will help you check each letter for a mistype. Keep in mind, this assumes you mistyped a single character. If you mistyped more than one, it will take exponentially longer.
 
-Scroll to the bottom of https://legacy.mycrypto.com/helpers.html, enter your private key and address, and see if that resolves to anything.
+Scroll to the bottom of <https://legacy.mycrypto.com/helpers.html>, enter your private key and address, and see if that resolves to anything.
 
 ---
 
-### Related
+## Related
 
-- Finding multiple missing characters in private key: https://gist.github.com/domalak/f72414b6be6bbe497416f11bfe0d224a
+* [Finding multiple missing characters in private key](https://gist.github.com/domalak/f72414b6be6bbe497416f11bfe0d224a)
+* [Find multiple missing characters of the very end of a private key](https://support.mycrypto.com/private-keys-passwords/missing-characters-of-private-key.html)
+* Find 1 missing character anywhere in private key (fast):
 
-- Find multiple missing characters of the very end of a private key: https://support.mycrypto.com/private-keys-passwords/missing-characters-of-private-key.html
-
-- Find 1 missing character anywhere in private key (fast):
-
-```
+```javascript
     const hdkey = require('ethereumjs-wallet/hdkey');
     const util = require('ethereumjs-util');
     const Wallet = require('ethereumjs-wallet');

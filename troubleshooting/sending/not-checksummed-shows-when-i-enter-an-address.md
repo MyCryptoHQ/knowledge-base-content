@@ -6,7 +6,7 @@ date_published: '2017-07-05'
 date_modified: '2018-11-29'
 ---
 
-##### What is a checksummed address?
+## What is a checksummed address?
 
 A checksummed address is an address that contains uppercase letters, as specified in [EIP-55](https://eips.ethereum.org/EIPS/eip-55). Checksummed addresses are meant to help prevent users from sending transactions to the wrong address.
 
