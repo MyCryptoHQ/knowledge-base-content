@@ -6,13 +6,13 @@ date_published: '2017-07-06'
 date_modified: '2018-06-10'
 ---
 
-# Preface
+## Preface
 
-This is the updated version of my original post on Steemit [here](https://steemit.com/cryptocurrency/@tomshwom/tomshwom-s-advanced-crypto-security-guide-part-3-creating-a-secure-wallet).  Due to the nature of Steemit, I cannot update the original post, so the MyCrypto knowledgebase is now the permanent home for this guide where I plan to keep info up to date. 
+This is the updated version of the original post on Steemit [here](https://steemit.com/cryptocurrency/@tomshwom/tomshwom-s-advanced-crypto-security-guide-part-3-creating-a-secure-wallet).
 
-[/u/AtLeastSignificant](https://www.reddit.com/user/atleastsignificant)
+By [/u/AtLeastSignificant](https://www.reddit.com/user/atleastsignificant).
 
-# Purpose
+## Purpose
 
 In this guide, we are going to create a customizable wallet solution that is cheap, secure, and not too complicated. While simply following the steps in this guide will give you a wallet that is resistant to malware and other online threats, it does not guarantee total security of your funds. To be truly secure, you must follow the guidelines for how to actually maintain and use the wallet properly.
 
@@ -20,7 +20,7 @@ I highly recommend looking at [part 1](https://steemit.com/bitcoin/@tomshwom/tom
 
 If you're wondering about the security of existing wallet solutions, see [part 2](https://steemit.com/cryptocurrency/@tomshwom/tomshwom-s-official-security-guide-part-2-wallet-analysis) of the guide.
 
-# Overview
+## Overview
 
 I refer to this as a "wallet solution" rather than just a hardware wallet because it encompasses more than just some USB drives you stick in your computer. The way you decide to distribute the passwords and keyfiles, store the USB drives, and document your solution will all have pros and cons, and these are decisions left up for the user to determine. We will go over the security and convenience tradeoffs near the end of the guide, so I recommend you **read the entire guide *before* you start.**
 
@@ -30,27 +30,23 @@ This part of the guide relies on free & open source software,<sub>[1](https://la
 
 We are essentially creating our own hardware wallet that has multi-factor authentication built in and no single point of failure (like a backup seed). The goal is to end up with 2 USB drives (more for redundant backups) that are used for:
 
-• Booting into a secure offline OS
-
-• Accessing doubly-encrypted sensitive data like private keys
-
-• Securely generating and signing transactions
+* Booting into a secure offline OS
+* Accessing doubly-encrypted sensitive data like private keys
+* Securely generating and signing transactions
 
 The multi-factor authentication depends on how you choose to implement this system. You can have as many or few separate physical USB "keys" and passwords required to unlock your wallet as you want, and the way you backup and distribute them is also up to your discretion. Read through the rest of the guide for some recommendations and discussion about the pros and cons.
 
-# Procedure
+## Procedure
 
 Read the **entire** guide first, then go through step-by-step.
 
 ### Gather Materials
 
-• A computer with internet access capable of booting to a live OS on a USB drive (almost any PC or laptop)
+* A computer with internet access capable of booting to a live OS on a USB drive (almost any PC or laptop)
+* Minimum of two flash drives larger than 4GB, more for redundant backups - USB 3.0 is a bonus
+* A way to view this guide and other ones I'll be linking to on a different computer during the offline portions
 
-• Minimum of two flash drives larger than 4GB, more for redundant backups - USB 3.0 is a bonus
-
-• A way to view this guide and other ones I'll be linking to on a different computer during the offline portions
-
-![QR to guide](https://imgur.com/gbkOcPe)
+![QR to guide](https://imgur.com/gbkOcPe.png)
 
 <sub>*Scan this QR code to follow the Steemit guide on your phone if you only have 1 computer to work from.*</sub>
 
@@ -68,9 +64,7 @@ READ THE DIRECTIONS
 
 I'm not going to cover the installation of Tails since their assistant does a much better job than I can. If you run into trouble, don't hesitate to reach out to me on reddit.
 
-Once you have downloaded the MyCrypto client .zip archive and finished mounting the Tails .iso file using the Universal USB Installer to a USB drive, you need to shut your computer down, unplug the ethernet cable from it (or disable your wireless driver / unplug your router if you're using wireless), and then start back up. This is a precaution that you should take to avoid any sort of unwanted network traffic like malware "phoning home" and sending your keystrokes, clipboard contents, or screenshots to its host.
-
-**Always keep your internet physically disconnected when your Tails drive is in the system.**
+Once you have downloaded the MyCrypto client .zip archive and finished mounting the Tails .iso file using the Universal USB Installer to a USB drive, you need to shut your computer down, unplug the ethernet cable from it (or disable your wireless driver / unplug your router if you're using wireless), and then start back up. This is a precaution that you should take to avoid any sort of unwanted network traffic like malware "phoning home" and sending your keystrokes, clipboard contents, or screenshots to its host. **Always keep your internet physically disconnected when your Tails drive is in the system.**
 
 When you start your machine back up, you can **continue with the intermediary Tails installation by going to your boot manager** and selecting the flash drive you put Tails on. If you need help with this, I suggest googling "how to boot from USB" and then the OS you're using and the model of desktop/laptop.
 
@@ -124,43 +118,36 @@ Before you exit KeePass, go to Database > database settings and click the "bench
 
 ![benchmark](https://steemit-production-imageproxy-upload.s3.amazonaws.com/DQmWtzM8GFocSbYPQ4wkYwzz8NZ8SQHrUVfE8PRx1ybrVHr)
 
-This determines how many rounds of encryption can be run on the database in 1 second. **It drastically improves the security of the database against brute force attacks** while only being slightly inconvenient (takes 1 second for decryption).
-
-**You should now have your password, MC/MEW UTC keyfile, and private key saved in the database.**
+This determines how many rounds of encryption can be run on the database in 1 second. **It drastically improves the security of the database against brute force attacks** while only being slightly inconvenient (takes 1 second for decryption). **You should now have your password, MC/MEW UTC keyfile, and private key saved in the database.**
 
 ![database](https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmSW1Lq89qaRhkx3vC3z4QL2KJ8UuV7XLpS7UYha9VTLG7_1680x8400)
 
-**Save your KeePass Database to the Persistent Directory.**
+Save your KeePass Database to the Persistent Directory.
 
 Reboot your machine back into Tails. Once you're in, launch the MC/MEW client and access your cold storage address using the **UTC + password** stored in the KeePass database. You will have to save the keystore file from KeePass to the persistent Tor directory in order for Tor to be able to use it in the MC/MEW client. Access the address again using the **private key**. Remember, you need the password and the keyfile to open the database, and you should've stored the database keyfile on the second USB.
 
-![keepass unlock](https://steemit-production-imageproxy-upload.s3.amazonaws.com/DQmTBvYQw38ftzvctEsB8bzzDVxVDw88hbsJKQetpsE7Hp6)
+![Keepass unlock](https://steemit-production-imageproxy-upload.s3.amazonaws.com/DQmTBvYQw38ftzvctEsB8bzzDVxVDw88hbsJKQetpsE7Hp6)
 
 If everything is done correctly, you should be able to access your address using the private key and the UTC keystore + password. Go through both of your drives and verify that everything is where it belongs:
 
 ### On Your Tails Drive
 
-• Tails installed with persistent volume password stored in memory*
-
-• KeePass database (in persistent Tor directory) with password in a secure location*
-
-• MC/MEW client (in persistent Tor directory)
+* Tails installed with persistent volume password stored in memory*
+* KeePass database (in persistent Tor directory) with password in a secure location*
+* MC/MEW client (in persistent Tor directory)
 
 ### On Your Secondary Drive
 
-• Keyfile for the KeePass database
-
-• Additional passwords*
+* Keyfile for the KeePass database
+* Additional passwords*
 
 ### On an Optional Tertiary Drive or in a Password Manager
 
-• KeePass database backup
+* KeePass database backup
+* KeePass keyfile\* OR KeePass password\* (never store these on one device, especially one with the database)
+* Persistent volume password*
 
-• KeePass keyfile* OR KeePass password* (never store these on one device, especially one with the database)
-
-• Persistent volume password*
-
-<sub>* only indicates recommendations, can be changed however you like for more/less security</sub>
+<sub>\* only indicates recommendations, can be changed however you like for more/less security</sub>
 
 We keep the KeePass database located on the Tails drive so that the most sensitive information (private key) is encrypted by both the database and persistent Tails volume. Separating the UTC file and password while never storing the raw private key is another option, but I don't see any additional security benefits to it.
 
@@ -170,13 +157,10 @@ Once you're sure that everything is set up correctly the way you want, test the 
 
 At this point, I recommend documenting how your system is set up so that you and/or a trusted party can access your funds if you ever forget or become unable to. These entries should have their location, quantity, and purpose recorded:
 
-• **Tails OS with KeePass database and MC/MEW client** - stored redundantly on multiple USB drives. Recommended for database to contain MC/MEW UTC file + password and private key
-
-• **Tails persistent volume password** - recommended to be memorized and simple, can set up secondary Tails with different password to make it easy for trusted party to also access
-
-• **KeePass master password** - recommended to be unique and secure from brute force and dictionary attacks. Can store encrypted on a separate system unrelated to the wallet drives
-
-• **KeePass keystore file** - recommended to be stored redundantly on multiple USB drives, encryption is a plus
+* **Tails OS with KeePass database and MC/MEW client** - stored redundantly on multiple USB drives. Recommended for database to contain MC/MEW UTC file + password and private key
+* **Tails persistent volume password** - recommended to be memorized and simple, can set up secondary Tails with different password to make it easy for trusted party to also access
+* **KeePass master password** - recommended to be unique and secure from brute force and dictionary attacks. Can store encrypted on a separate system unrelated to the wallet drives
+* **KeePass keystore file** - recommended to be stored redundantly on multiple USB drives, encryption is a plus
 
 ### Create Backups
 
@@ -189,16 +173,12 @@ To create a backup of your Tails drive, boot into Tails and go to applications >
 At this point, you need to take a step back and look at what you're really doing. The whole point of this guide is to give you some tools so you can decide how to arrange your system of security. For a secure system, you need to make sure of at least these things:
 
 1. You cannot access your private keys without at least two drives and something you know
-
 2. Gaining access to any 2/3 (or any majority) of these **does not** compromise your system
-
 3. Loss of one of the drives does not keep you out of your system / you've made backups
-
 4. Chances of losing all of your backups and the main drive of either the KeePass keyfile drive or the database drive is extremely unlikely because they are stored in drastically different secure environments (like a lockbox at home and a safety deposit at a bank)
-
 5. You've tested accessing the wallet, depositing funds, and signing transaction offline to withdraw funds
 
-# Summary
+## Summary
 
 This is a lengthy guide and is intentionally vague in some areas to encourage users to put thought into it and figure it out on their own. The end result should be a sort of multi-signature, offline accessible, inexpensive, highly encrypted wallet. 
 

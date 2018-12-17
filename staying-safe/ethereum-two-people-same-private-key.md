@@ -6,10 +6,9 @@ date_published: '2017-07-05'
 date_modified: '2018-08-23'
 ---
 
-
 "How does it ensure that it doesn't give different people the same key?"
 
-https://ethereum.stackexchange.com/questions/4299/account-uniqueness-guaranteed
+<https://ethereum.stackexchange.com/questions/4299/account-uniqueness-guaranteed>
 
 ---
 
@@ -37,7 +36,6 @@ Disclaimer: NEVER actually pick your private key out of your own brain. It turns
 
 ---
 
-
 Also, there are approximately 7.5 x 10^18 grains of sand on Earth.
 
 That's
@@ -60,12 +58,11 @@ Even if the blockchain is in active, vigorous use for the next ten thousand year
 
 ---
 
-### Related
+## Related articles
 
-- [Couldn't everybody put in random private keys, look for a balance, and send to their own address?](https://support.mycrypto.com/security/couldnt-everybody-put-in-a-random-key-and-send-to-own-address.html)
+* [Couldn't everybody put in random private keys, look for a balance, and send to their own address?](https://support.mycrypto.com/security/couldnt-everybody-put-in-a-random-key-and-send-to-own-address.html)
 
+## Sources
 
-### Sources
-- [adapted from this reddit thread](https://www.reddit.com/r/ethereum/comments/6fr2lx/updated_its_time_to_get_real_stop_relying_on/diki8iz/)
-
-- [a video about keys](http://decypher.tv/series/ethereum-development/video/2)
+* [Adapted from this Reddit thread](https://www.reddit.com/r/ethereum/comments/6fr2lx/updated_its_time_to_get_real_stop_relying_on/diki8iz/)
+* [A video about keys](http://decypher.tv/series/ethereum-development/video/2)

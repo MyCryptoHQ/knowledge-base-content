@@ -1,23 +1,22 @@
 ---
-title: Why You Should Backup Your Hardware Wallet
+title: Why you should backup your hardware wallet
 description: Hardware Wallets
 priority: 5
 date_published: '2018-04-18'
 date_modified: '2018-11-29'
 ---
 
-
-### Preface
+## Preface
 
 The following assumes you are using a Ledger Nano S or TREZOR hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html).
 
 To save / backup your Ledger or TREZOR device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it into MyCrypto.com.
 
-### Backing Up Your Hardware Wallet
+## Backing Up Your Hardware Wallet
 
 When you have a hardware wallet, you use that device to access your funds on a day-to-day basis. 99% of the time, you will never lose this device, have the device stolen, drop it in a toilet, burn it in a fire, or anything else.
 
-### But ...
+## But ...
 
 If any of the above happens, you will want to be able to access your funds without your hardware wallet. For that reason, you need to have a backup. The backup of your hardware wallet are those 24 words (standard on both the Ledger Nano S and TREZOR). If you have those words, you can access your funds at any time. Your backup is only worthwhile if it doesn't also get destroyed with your hardware wallet.
 
@@ -38,17 +37,11 @@ Analyze your personal risk and your situation. Would your life be over if the fu
 
 Hope this helps!
 
-### Related Reading & Links
+## Related articles & links
 
 * [Seed, PIN, and Passphrase - TREZOR](https://blog.trezor.io/seed-pin-passphrase-e15d14a0b546)
-
 * [Setting Up Your Ledger Nano S](https://support.mycrypto.com/migration/moving-from-private-key-to-ledger-hardware-wallet.html)
-
 * [Buy a Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
-
 * [Buy a Trezor](https://shop.trezor.io/?offer_id=10&aff_id=1735)
-
 * [Buy a Keepkey](http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086)
-
 * [More on Hardware Wallets](https://support.mycrypto.com/hardware-wallets/)
-
