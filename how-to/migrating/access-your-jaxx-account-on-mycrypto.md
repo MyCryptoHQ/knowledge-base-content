@@ -14,6 +14,6 @@ In order to see your ETC and interact with the ETC chain, you must first connect
 
 When you want to see your ETH and send ETH or Tokens, you simply change the node switcher back to "ETH (AUTO)".
 
-###  Related Reading
+## Related articles
 
-*  [Jaxx Privacy Policy](https://jaxx.io/legal.html#privacyPolicy)
+* [Jaxx Privacy Policy](https://jaxx.io/legal.html#privacyPolicy)

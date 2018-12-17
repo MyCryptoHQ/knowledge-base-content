@@ -8,7 +8,7 @@ date_modified: '2018-11-29'
 
 The Ledger Nano S is one of the best and easiest-to-use cryptocurrency hardware wallets out there, and is available for purchase [here](https://www.ledgerwallet.com/r/1985?path=/products/). While the Ledger Nano S supports a wide range of cryptocurrencies, this guide was specifically written for using Ether and ERC-20 tokens with MyCrypto.
 
-###  Initial Setup
+## Initial setup
 
 <img src="../images/ledger-migration/welcome.jpg" style="width: 100%; height: auto; max-width: 400px;">
 
@@ -32,7 +32,7 @@ Next, the Nano S will give you 24 random words that you will have to write down 
 
 Now your Ledger Nano S is all set-up and ready to be used!
 
-###  Enabling Your Ledger Nano S to Work with MyCrypto
+## Enabling your Ledger Nano S to work with MyCrypto
 
 In order to make your Nano S work with MyCrypto, we will need to enable browser support. We are also going to enable contract data while we're at it, so we can have the ability to create token transfers as well.
 
@@ -54,7 +54,7 @@ We will do the same thing with "Browser Support." Select "Browser Support," pres
 
 Now we are done configuring the Nano S to work with MyCrypto. You can press the right button to select "Back" and press both buttons at the same time to go back to the Ethereum app. If you do this once again, you will go back to the main menu with all the apps.
 
-### Using the Ledger Nano S with MyCrypto
+## Using the Ledger Nano S with MyCrypto
 
 It's time to access our Nano S using MyCrypto! In order to do so, go to [MyCrypto](https://mycrypto.com/) and click the "Ledger" option.
 
@@ -70,18 +70,18 @@ You will see a list of all your Ethereum addresses, which are safely stored on y
 
 Once you select one of the addresses, the interface looks just the same as if you were to enter your private key to access it; it's no different. Your Nano S is ready to be used!
 
-### Transferring Funds from Your Private Key to the Nano S
+## Transferring funds from your private key to the Nano S
 
 Sending ETH or tokens to your Nano S works the same as sending to any other address. Simply pick one of the addresses from the list when you access your Nano S, copy the Ethereum address, and send your ETH/tokens from your private key to the address. After you've done that and the transaction is completed, you can access your Nano S again and you will be able to see your funds safely stored on your Nano S!
 
-### Restoring Your Nano S
+## Restoring your Nano S
 
 Ledger made a clear and easy-to-follow guide on how to restore your Nano S [here](https://support.ledgerwallet.com/hc/en-us/articles/360005434914-Restore-from-recovery-phrase).
 
-### Troubleshooting
+## Troubleshooting
 
 Ledger has an extensive knowledge base that you can find [here](https://support.ledgerwallet.com/hc/en-us), and MyCrypto's is [here](https://support.mycrypto.com/). You can select any of these addresses to access them. If not, feel free to contact either [Ledger](https://support.ledgerwallet.com/hc/en-us) or [MyCrypto](https://support.mycrypto.com/form/).
 
-### Related Links
+## Related links
 
 * [Ledger Privacy Policy](https://www.ledgerwallet.com/privacy-policy)

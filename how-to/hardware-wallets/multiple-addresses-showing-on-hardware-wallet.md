@@ -6,7 +6,7 @@ date_published: '2015-07-15'
 date_modified: '2018-11-29'
 ---
 
-_"Multiple addresses show up when I access my hardware wallet ... which one should I use?"_
+> Multiple addresses show up when I access my hardware wallet ... which one should I use?
 
 The style of keys that Ledger, TREZOR, Jaxx, and MetaMask use are known as HD (*"Hierarchical Deterministic"*) keys. This allows multiple private keys (and thus addresses) to be derived from a single mnemonic.
 

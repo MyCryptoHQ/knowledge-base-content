@@ -8,7 +8,7 @@ date_modified: '2018-12-14'
 
 *[The following is from /u/eth-o-licious2 on reddit](https://www.reddit.com/r/ethereum/comments/6j8ih6/ens_troubleshooting_if_you_use_mew_and_forgot/)*
 
-----
+---
 
 Recently, I was trying to reveal one of my bids and realized that somehow I failed to copy down my three-word secret from MyCrypto, probably because the Status Token Contribution Period was forcing me to re-attempt bids and I lost track of this one.
 
@@ -16,7 +16,7 @@ At any rate, my specific situation was that I was using MyCrypto. I knew how muc
 
 The domain being bid on, the account, the amount, and the three-word secret are all used to produce an output that is stored on the blockchain in order to verify the bid when it's later revealed.
 
-**So, what I did was write a Python script to brute-force through all of the possible three-word combinations in order to find what I needed. You can find the code for that [here](https://pastebin.com/Z4gRicGY).**
+So, what I did was write a Python script to brute-force through all of the possible three-word combinations in order to find what I needed. You can find the code for that [here](https://pastebin.com/Z4gRicGY).
 
 I'm posting this in case anyone else is finding themselves in the same situation. This might help prevent loss of your bid amount.
 
@@ -29,7 +29,6 @@ Entering the address you bid from, ENS name you bid on, amount you bid, and your
 Some assumptions I made:
 
 * MyCrypto generates the three words from the same mnemonic list of 2048 terms that TREZOR uses
-
 * The three-word secret won't use repeated words.
 
 If you use it, be aware that it can take 8 - 10 hours or so to run through the entire thing because there are billions of possible combinations.

@@ -18,6 +18,6 @@ date_modified: '2018-12-14'
 10. A pop-up will appear. Verify that the amount and the address you are sending to are correct. Then click the "Yes, I am sure! Make transaction" button.
 11. The transaction will be submitted. The transaction ID will be displayed. You can click that transaction ID to see it on the blockchain.
 
-### Related Reading
+## Related articles
 
 * [How to add a custom token if it doesn't show up in the list](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)

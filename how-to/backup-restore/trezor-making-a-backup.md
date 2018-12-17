@@ -1,5 +1,5 @@
 ---
-title: 'TREZOR: Making a Backup'
+title: 'TREZOR: Making a backup'
 description: Hardware Wallets
 priority: 8
 date_published: '2015-07-15'
@@ -10,7 +10,8 @@ All you need is the 24 seed words that you wrote down when you first initially s
 
 If you used any passphrases on the TREZOR and used any crypto or tokens with a passphrase protected wallet, then you will also need the relevant passphrase.
 
-**Do not store these recovery words on your computer, as it will be just as unsafe as using a normal private key. Always physically write it down using a pen and a piece of paper that only you have access to. Also, do not take a photo of your piece of paper.**
+Do not store these recovery words on your computer, as it will be just as unsafe as using a normal private key. Always physically write it down using a pen and a piece of paper that only you have access to. Also, do not take a photo of your piece of paper.
 
-### Related Reading
+## Related articles
+
 * [Why You Should Backup Your Hardware Wallet](https://support.mycrypto.com/hardware-wallets/why-you-should-backup-your-hardware-wallet.html)

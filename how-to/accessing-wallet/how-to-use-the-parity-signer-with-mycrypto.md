@@ -14,7 +14,7 @@ Parity Signer has been the perfect companion with Parity Wallet, allowing users 
 
 But now, you can also use MyCrypto to send transactions from your Parity Signer accounts without having to run your own Parity node.
 
-## How to Get Started
+## How to get started
 
 1. Get the App
 
@@ -48,7 +48,7 @@ This public address and QR code can be used to send and receive ETH.
 
 You can create multiple accounts by clicking on the "Accounts" button in the bottom right corner.
 
-## Recover an Account
+## Recover an account
 
 If you already have an account created in Parity Signer Mobile App or Parity Wallet (Desktop), you can recover your account by following the instructions below.
 
@@ -57,7 +57,7 @@ If you already have an account created in Parity Signer Mobile App or Parity Wal
 3. Fill in the recovery words you wrote down when creating the wallet.
 4. Set up a PIN code.
 
-## Now Let's Access Your Account from Your Phone Using MyCrypto!
+## Access your account from your phone with MyCrypto
 
 1. Go to [MyCrypto.com](https://mycrypto.com/account).
 
@@ -79,7 +79,7 @@ When you click on the Parity Signer button on MyCrypto's homepage, it will bring
 
 Check to make sure your account details match up. From this screen, you can send transactions. NOTE: if you leave this screen, you will be logged out of your Parity address.
 
-## Sending a Transaction
+## Sending a transaction
 
 1. Enter the amount and address you would like to send and click "Send Transaction."
 2. From Parity Signer, tap "Scanner" and scan the QR Code presented by MyCrypto.
@@ -90,7 +90,7 @@ Check to make sure your account details match up. From this screen, you can send
 
 Make sure to first do a trial run with a small amount of Ether before sending larger amounts.
 
-## Related Links
+## Related articles & links
 
 * [Parity Support](http://paritytech.io/)
 * [Parity Privacy Policy](http://paritytech.io/legal/)

@@ -6,32 +6,22 @@ date_published: '2017-06-20'
 date_modified: '2018-12-14'
 ---
 
-
-### Hello and welcome to Ethereum!
-
+## Hello and welcome to Ethereum!
 
 Ethereum and digital currencies are pretty new and in this new world, things can be a little bit different. First, you are responsible for your stuff: your investments, your choices, and your security. There are no babysitters or undo buttons, and no bank to call up and have a transaction reversed. The power of the blockchain lies in this autonomy, but it can also be dangerous to expect all the cushy failsaifes you've come to enjoy.
 
 Second, most of the people involved in this world are pretty technically savvy, and sometimes forget how different things are to the inexperienced. Take your time, ask questions, ask for clarification and reach out for help, read the instructions, read the warnings, hang out, and try to learn new things.
 
-- **Scams, [phishing sites](https://www.google.com/safebrowsing/static/faq.html#q1), and malicious links exist. Trust messages and random links about as much as those in your spam box. Verify, verify, verify!**
-
-- **Always save and backup your private key in a *separate* location, like a piece of paper or a USB drive. Avoid cloud storage.**
-
-- **Be skeptical. Does the person have an ulterior motive? Does an offer sound too good to be true?**
-
+* **Scams, [phishing sites](https://www.google.com/safebrowsing/static/faq.html#q1), and malicious links exist. Trust messages and random links about as much as those in your spam box. Verify, verify, verify!**
+* **Always save and backup your private key in a *separate* location, like a piece of paper or a USB drive. Avoid cloud storage.**
+* **Be skeptical. Does the person have an ulterior motive? Does an offer sound too good to be true?**
 
 ### Still with me? Good! Let's dive deeper!
 
-- [Understand the difference between a hosted wallet / exchange and client-side wallet before moving your ETH to your own wallet.](https://support.mycrypto.com/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html)
-
-- [Learn how to protect your funds!](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)
-
-- [10 Tips for Noobs](https://support.mycrypto.com/getting-started/getting-back-to-basics-tips-for-newbies.html) & [Words are Hard](https://support.mycrypto.com/getting-started/ethereum-glossary.html) are both great intros.
-
-- [And even more links to awesome things just because](https://support.mycrypto.com/diving-deeper/).
-
-
+* [Understand the difference between a hosted wallet / exchange and client-side wallet before moving your ETH to your own wallet.](https://support.mycrypto.com/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html)
+* [Learn how to protect your funds!](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)
+* [10 Tips for Noobs](https://support.mycrypto.com/getting-started/getting-back-to-basics-tips-for-newbies.html) & [Words are Hard](https://support.mycrypto.com/getting-started/ethereum-glossary.html) are both great intros.
+* [And even more links to awesome things just because](https://support.mycrypto.com/diving-deeper/).
 
 ### Now, the fun part! How To Buy ETH
 
@@ -56,24 +46,18 @@ Second, most of the people involved in this world are pretty technically savvy, 
 
 The private key is like a password, but way more intense. Plus, it's a password that is protected by another password. In MyCrypto, this private key is in the form of a `keystore file` or a `mnemonic`. You need to make a backup of this in case anything happens to your computer.
 
-
 ### Alternative steps 1-5:
 
 If you already have BTC, you can use ShapeShift.io or Changelly to convert your BTC into ETH. Start a BTC->ETH exchange and it'll tell you where to send your BTC. (If you have your BTC on an exchange, you can likely exchange them for ETH on that exchange without the need for ShapeShift.)
 
 Then, create an Ethereum account and back it up. In Circle or Coinbase, send all the BTC to that address. The ETH will appear in your ETH wallet in ~20 minutes.
 
-
 **PLEASE MAKE SURE YOU BACK IT UP**
 
-- [MyCrypto.com](https://mycrypto.com/)
-
-- [Legacy MyCrypto](https://legacy.mycrypto.com)
-
-- [JAXX](https://jaxx.io/) - multi-platform, multi-currency
-
-- [Exodus.io](https://www.exodus.io/) - multi-currency desktop app
-
+* [MyCrypto.com](https://mycrypto.com/)
+* [Legacy MyCrypto](https://legacy.mycrypto.com)
+* [JAXX](https://jaxx.io/) - multi-platform, multi-currency
+* [Exodus.io](https://www.exodus.io/) - multi-currency desktop app
 
 ---
 
@@ -81,15 +65,10 @@ Then, create an Ethereum account and back it up. In Circle or Coinbase, send all
 
 I have outlined the steps above as if you should do it all as fast as possible. Stop. Breath. There is no rush. Take your time moving your funds from an exchange to your own wallet. Test with a small amount first. Get the feel for things and make mistakes with *small amounts* rather than all your money! If you skipped steps earlier or didn't understand them, take the time to reread them now.
 
-- [Understand the difference between a hosted wallet / exchange and client-side wallet before moving your ETH to your own wallet.](https://support.mycrypto.com/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html)
-
-- [Learn how to protect your funds!](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)
-
-- [10 Tips for Noobs](https://support.mycrypto.com/getting-started/getting-back-to-basics-tips-for-newbies.html) & [Words are Hard](https://support.mycrypto.com/getting-started/ethereum-glossary.html) are both great intros.
-
-- [And even more links to awesome things just because](https://support.mycrypto.com/diving-deeper/)
-
-
+* [Understand the difference between a hosted wallet / exchange and client-side wallet before moving your ETH to your own wallet.](https://support.mycrypto.com/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html)
+* [Learn how to protect your funds!](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)
+* [10 Tips for Noobs](https://support.mycrypto.com/getting-started/getting-back-to-basics-tips-for-newbies.html) & [Words are Hard](https://support.mycrypto.com/getting-started/ethereum-glossary.html) are both great intros.
+* [And even more links to awesome things just because](https://support.mycrypto.com/diving-deeper/)
 
 ### How to Use the MyCrypto Coinbase Widget
 
@@ -113,6 +92,6 @@ For any questions or issues on how to buy ETH with USD via the MyCrypto Coinbase
 
 [Coinbase](https://www.coinbase.com/) : [Support](https://support.coinbase.com/)
 
----
+## Source
 
-*Originally posted on StackExchange: [https://ethereum.stackexchange.com/questions/1915/how-do-i-buy-ethereum-with-usd](https://ethereum.stackexchange.com/questions/1915/how-do-i-buy-ethereum-with-usd)*
+[https://ethereum.stackexchange.com/questions/1915/how-do-i-buy-ethereum-with-usd](https://ethereum.stackexchange.com/questions/1915/how-do-i-buy-ethereum-with-usd)

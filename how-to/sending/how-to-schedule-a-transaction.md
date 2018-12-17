@@ -24,6 +24,6 @@ Just like a regular transaction, you can set a gas price, gas limit, and optiona
 * **Future Gas Price**: The gas price (GWEI) that the transaction will use when it's executed.
 * **Future Gas Limit**: The gas limit that the transaction will use when it's executed.
 
-Please note that the gas limit required for the transaction to _schedule_ a future transaction is different from the future gas limit.
+Please note that the gas limit required for the transaction to *schedule* a future transaction is different from the future gas limit.
 
 After filling out all the fields, simply click on "Schedule transaction" to schedule your transaction. Note that doing so **does not guarantee** that your transaction will be executed, based on what settings you used.
