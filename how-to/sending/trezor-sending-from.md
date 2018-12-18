@@ -14,7 +14,7 @@ Here is how you can unlock your wallet, access your ETH and tokens, and send fro
 
 3. Then, select `TREZOR` from the list of wallet types.
 
-4. Select "Connect to TREZOR."
+4. Select `Connect to TREZOR`.
 
 5. Unlock your TREZOR with PIN (and passphrase if you have it).
 
