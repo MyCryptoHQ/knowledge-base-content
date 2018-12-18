@@ -8,19 +8,19 @@ date_modified: '2018-03-16'
 
 ## Privacy Concerns
 
-### Posting your public keys on social media
-
-*Why should you not do this? Why is this a problem?*
-
-You should not do this, especially if you have a large amount of crypto-wealth, as it paints a target on your back. If people know that you have cryptocurrency, you may become the victim of a targeted hacking campaign.
-
-### Interacting with your Private Keys on Public Networks
+### Posting Your Public Keys on Social Media
 
 *Why is this a problem?*
 
-The increasing popularity of cryptocurrencies correlates with an increase in bad actor attention. It is possible that anyone on the same public network (coffee shop, library, etc) as you could be packet sniffing. Your private keys could be sniffed if you're interacting with them online.
+You should never do this, especially if you have a large amount of crypto-wealth, because it paints a target on your back. If people know that you have cryptocurrency, you may become the victim of a targeted hacking campaign.
 
-You can mitigate this by [Running MyCrypto Offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
+### Interacting With Your Private Keys on Public Networks
+
+*Why is this a problem?*
+
+The increasing popularity of cryptocurrencies correlates with an increase in activity by bad actors. It is possible that anyone on the same public network (coffee shop, library, etc.) as you could be packet sniffing. Your private keys could be discovered if you're interacting with them online.
+
+You can mitigate this by [running MyCrypto offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
 
 ---
 
