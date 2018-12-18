@@ -8,7 +8,7 @@ date_modified: '2017-06-20'
 
 ## Short Version
 
-Yes, but finding an account with a balance would take millennia ... so ... no.
+Yes, but finding an account with a balance would take eons ... so ... no.
 
 ## Long Version
 
