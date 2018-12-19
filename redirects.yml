@@ -4,7 +4,7 @@
 #  - from: ...
 #    to: ...
 
- redirects:
+redirects:
   - from: accessing-your-wallet/access-wallet-keystore-file.html
     to: how-to/accessing-wallet/how-to-access-your-wallet-with-keystore-file
   - from: accessing-your-wallet/access-wallet-mnemonic.html
