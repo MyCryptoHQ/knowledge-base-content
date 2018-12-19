@@ -1,5 +1,5 @@
 ---
-title: Is the Blockchain Private?
+title: Is the blockchain private?
 description: Diving Deeper
 priority: 80
 date_published: '2018-04-30'
@@ -20,15 +20,15 @@ If you make a single transaction from `ADDRESS-1` to `ADDRESS-2`, there is no re
 
 Unless, for whatever reason, personally identifiable information becomes available.
 
-## How / What Information Could Become Public?
+## How / what information could become public?
 
-#### Interacting with Other Known Addresses
+### Interacting with other known addresses
 
-One example is because you are sending to a known address. The address above (0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520) is the MyCrypto Donation address. It is displayed on the footer of [https://mycrypto.com/](https://mycrypto.com/) and also [labeled on Etherscan.io](https://etherscan.io/address/0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520).
+One example is because you are sending to a known address. The address above (0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520) is the MyCrypto donation address. It is displayed on the footer of [https://mycrypto.com/](https://mycrypto.com/) and also [labeled on Etherscan.io](https://etherscan.io/address/0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520).
 
 If you were to send a transaction to wallet address 0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520, anyone using Etherscan to view the transaction or your address would know that your address donated to MyCrypto.
 
-#### Publishing Your Address on the Web
+### Publishing your address on the web
 
 If you were to publish your address on Reddit or Twitter for some reason, your address would be linked to your Reddit username or Twitter handle. If you use your full name on Twitter or have also published your full name on Reddit before, it would be possible for your full name to be linked to your address.
 
@@ -40,7 +40,7 @@ For this reason, it isn’t recommended that you publicly post your address on t
 
 For more information on how to protect yourself and your funds, [you can visit here](https://support.mycrypto.com/security/).
 
-#### Sharing your Address with Someone so They Can Pay You
+### Sharing your address with someone so they can pay you
 
 Let’s say your friend wants to send you some ETH to pay you back for the nice dinner you enjoyed last week. You give them your address. Your friend now knows your address. The world may not know, but your friend does.
 
@@ -50,7 +50,7 @@ Perhaps you don’t care if your friend knows what your funds have gone towards,
 
 These are all things to keep in mind when sharing addresses, both publicly and privately. We don’t typically broadcast our spending habits to the world, but if you aren’t careful you could accidentally reveal more than you intended when it comes to the blockchain.
 
-#### Interacting with Dapps or Smart Contracts
+### Interacting with Dapps or smart contracts
 
 Ethereum is unique because it is more than just transactions that can be saved to the blockchain. Transactions can also include additional information via the “data” parameter.
 
@@ -59,38 +59,30 @@ For example, if you purchase an [ENS name](https://ens.domains/) like [your-firs
 Another way this could happen is if you use some social media dapps (decentralized applications). [Peepeth](https://peepeth.com/), for example, asks you to link the address you use to sign up with to a profile photo, username, and any other information  you broadcast on the dapp. If your Ethereum accounts holds anything substantial, you’ve now publicly broadcasted information a hacker could use to target you and your funds.
 
 To show you how much information may be gleaned from this, let’s take a look at our CEO Taylor’s peepeth profile, [https://peepeth.com/tay](https://peepeth.com/tay).
-- Her name is “Taylor Monahan”
-- She uses the Ethereum address 0xd161f7fa342dcefeafdeb0827b83a400f57ad0a4.
-- [She likes sunsets](https://peepeth.com/tay/peeps/QmXDxs7XpizujWz5ka2MATNVJ1JD27sH1TqARhpsUsxJ1a)
+* Her name is “Taylor Monahan”
+* She uses the Ethereum address 0xd161f7fa342dcefeafdeb0827b83a400f57ad0a4.
+* [She likes sunsets](https://peepeth.com/tay/peeps/QmXDxs7XpizujWz5ka2MATNVJ1JD27sH1TqARhpsUsxJ1a)
 
 None of this information is necessarily bad. She is a public face, for better or worse, and this information is known. She also chose to use the Ethereum address 0xd161f7fa342dcefeafdeb0827b83a400f57ad0a4 exclusively for Peepeth.
 
 However, what happens if next year she wanted to anonymously donate to a controversial cause? What if she didn’t want anyone to know that it was her donating? Well, if she used the same address she used on Peepeth to make the donation, it would be fairly easy to discover who made the donation and therefore, her donation to the controversial cause wouldn’t be anonymous.
 
-#### Using Web3 Extensions
+### Using Web3 xxtensions
 
 Web3 extensions like MetaMask allow you to interact with the distributed web and dapps that operate on the Ethereum blockchain more easily. This is done by injecting web3.js (a web3 javascript library created by the Ethereum Foundation) into the header of every website that is accessed. Theoretically, as site could collect this data to maintain a list of users that are using web3-injection (likely cryptocurrency users), as well as to track public information like your public Ethereum address whenever your extension is logged in. With this information, websites can serve targeted-ads to you or collect public address data about their users. One of the ways to fix this is to create a whitelist for web3-injection, where only whitelisted sites will have the web3 data injected into their header. [MetaMask](https://metamask.io/) is currently pursuing this.
 
-## How to Stay (More) Anonymous
+## How to stay (more) anonymous
 
-- The good news is that addresses are really, really easy to make. You can have an unlimited number of addresses and use them all for different purposes. Perhaps one is your business’ donation account. Perhaps one is for your cold savings. Perhaps one is what you give to close friends when they need to pay you back. This reduces the number of links between addresses and allows you to keep your interests, financial situation, and identity separate.
+* The good news is that addresses are really, really easy to make. You can have an unlimited number of addresses and use them all for different purposes. Perhaps one is your business’ donation account. Perhaps one is for your cold savings. Perhaps one is what you give to close friends when they need to pay you back. This reduces the number of links between addresses and allows you to keep your interests, financial situation, and identity separate.
+* As mentioned above, limit when and where you publish your address to the web if you want to remain as secure as possible. Google indexes everything and once your address is out there, it’s going to be there for a long time.
+* Be mindful of what information you are revealing when interacting with dapps, especially those that do create some sort of “identity.” Use different addresses for different dapps when appropriate.
+* Be especially careful when publishing information to the blockchain that you may want to delete in the future. That bad meme, typo, or full name may be on the blockchain forever.
 
-- As mentioned above, limit when and where you publish your address to the web if you want to remain as secure as possible. Google indexes everything and once your address is out there, it’s going to be there for a long time.
+## Related articles
 
-- Be mindful of what information you are revealing when interacting with dapps, especially those that do create some sort of “identity.” Use different addresses for different dapps when appropriate.
-
-- Be especially careful when publishing information to the blockchain that you may want to delete in the future. That bad meme, typo, or full name may be on the blockchain forever.
-
-## Related Reading
-
-- [https://blockgeeks.com/guides/what-is-blockchain-technology/](https://blockgeeks.com/guides/what-is-blockchain-technology/)
-
-- [http://www.dummies.com/software/other-software/the-transparency-of-bitcoin/](http://www.dummies.com/software/other-software/the-transparency-of-bitcoin/)
-
-- [https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-transparency-explained](https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-transparency-explained)
-
-- [https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-privacy-explained](https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-privacy-explained)
-
-- [https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/](https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/)
-
-- [https://en.bitcoin.it/wiki/Address_reuse](https://en.bitcoin.it/wiki/Address_reuse )
+* [https://blockgeeks.com/guides/what-is-blockchain-technology/](https://blockgeeks.com/guides/what-is-blockchain-technology/)
+* [http://www.dummies.com/software/other-software/the-transparency-of-bitcoin/](http://www.dummies.com/software/other-software/the-transparency-of-bitcoin/)
+* [https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-transparency-explained](https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-transparency-explained)
+* [https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-privacy-explained](https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-privacy-explained)
+* [https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/](https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/)
+* [https://en.bitcoin.it/wiki/Address_reuse](https://en.bitcoin.it/wiki/Address_reuse )

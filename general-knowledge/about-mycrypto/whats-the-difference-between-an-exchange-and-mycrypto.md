@@ -6,7 +6,6 @@ date_published: '2015-07-15'
 date_modified: '2018-08-23'
 ---
 
-
 "What is the difference between an exchange (e.g. Coinbase, Kraken, Gemini, Poloniex, Bittrex) and MyCrypto?"
 
 Your ETH & tokens are on the blockchain, regardless of what service you use to access them. When you move them, you are sending them from one address on the blockchain to another. These are simply lines of code. Your wallet file, the user interface you interact with, the private key—these do not have funds in them. The private key gives you the ability to prove ownership over coins that are on the blockchain.
@@ -25,10 +24,10 @@ This allows you to have the more traditional username / password situation and d
 
 You also need to ensure you keep these keys securely. This means:
 
-*   Don't enter it on random websites
-*   Always ensure you are on the correct site or downloading from the legitimate repo / website.
-*   Don't email your key,  send it to anyone or post it online
-*   Don't save it to cloud storage
-*   Don't have Team Viewer or other remote access software on your computer
+* Don't enter it on random websites
+* Always ensure you are on the correct site or downloading from the legitimate repo / website.
+* Don't email your key,  send it to anyone or post it online
+* Don't save it to cloud storage
+* Don't have Team Viewer or other remote access software on your computer
 
 If this seems very overwhelming, <a href="https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html" target="_blank">we recommend purchasing a Ledger or TREZOR hardware wallet</a>. These help keep your keys safe and stored in an "offline" device, rather than on your computer. In this case, you don't have to worry about files or strings of characters; instead you just connect your hardware wallet to your computer.

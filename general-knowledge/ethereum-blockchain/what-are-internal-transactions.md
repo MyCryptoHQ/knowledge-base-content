@@ -1,5 +1,5 @@
 ---
-title: What are Internal Transactions
+title: What are internal transactions?
 description: Transactions
 priority: 100
 date_published: '2018-02-06'

@@ -1,13 +1,12 @@
 ---
-title: Getting Through The Shit Times
+title: Getting through the shit times
 description: Best Of
 priority: 30
 date_published: '2017-11-27'
 date_modified: '2017-11-27'
 ---
 
-
-## Sometimes, crypto really, really, really sucks.
+## Sometimes, crypto really, really, really sucks
 
 Believe it or not, most of us have been there. Whether you lose your private key, get phish'd or hacked, [make a bad trade](https://www.reddit.com/r/ethtrader/comments/606fz4/my_final_margin_call/df3utfr/), or send to the wrong address, crypto-land is complicated and it's still far too easy to fuck up. Complicated things combined with high-value assets are a deadly combination. Sometimes you lose, and lose hard. Sometimes it's your fault, and sometimes it's not.
 
@@ -17,13 +16,13 @@ If I had given up on crypto when I sent my first bitcoin to an address that lite
 
 Instead, I screamed at the world and eventually got my hands on another 0.1 BTC. I lost that eventually as well, but that hurt far less, and I learned a lot during the process. I didn't make the same mistake again, I made a different one and I learned another lesson: I'm absolute shit at trading. 😉
 
-### The only thing that matters is the choice you make *now*.
+### The only thing that matters is the choice you make *now*
 
 Crypto is **not** about the past. Crypto is about the future. If we all lived in the past or were happy with the present, we wouldn't be here. We want to make the future brighter. Every day new people enter this space. Every day there are new things being built and new insights being shared. Every day we collectively learn and improve and respond to the problems that exist in crypto-land, and outside crypto-land.
 
 That "we" includes *you*. You are part of this. The fact that you've lost crypto makes you an even bigger part of this. You may not know it, but you have officially joined the ranks of the most important people in crypto. Everyone who does remarkable stuff in this space has lost at some point.  I know you don't see it this way now (because the world currently sucks massive balls) but you will see it at some point. I'm going to do my best to help you see. Ready to give it a go with me?
 
-### Take 10 deep breathes and go for a walk outside.
+### Take 10 deep breathes and go for a walk outside
 
 The universe is so much larger and has so much more to offer than money and cryptocurrencies. Don't let one incident ruin that potential. Relax and break the gut-wrenching cycle by enjoying the world outside your computer screen. Or, at least go outside and then bitch about how fucking cold it is outside to your friend. That's tangible, and you can discuss these horrors with the people in your life, even if they don't know what cryptocurrency is.
 
@@ -31,11 +30,13 @@ The universe is so much larger and has so much more to offer than money and cryp
 
 Whether it's a trade, a hack, or something else, buying more right now is a bad idea. Take your time before purchasing more, and start much, much smaller. I promise you, you are **not missing out by not buying right now**. We are still *so early*. If you buy now, it will lead to more loss. Breath. Take your time.
 
-### Understand what happened & how to prevent it from happening again
+### Understand what happened
+
+Understand what happened and how to prevent it from happening again.
 
 Don't do this until you are ready. You are angry and full of pain right now. You will get past it, and when you aren't as angry or hurt, that is when you are ready to learn from it. Then and only then you should should learn from it to make sure it doesn't happen again and you can start experimenting with crypto again.
 
-### Understand that feeling anger, sadness & hopelessness is normal
+Understand that feeling anger, sadness & hopelessness is normal
 
 Like I said earlier, we've been there. Writing this now, I can remember the darkness and horrid feeling in my stomach. I remember the anger at myself, at others. I remember the embarrassment. I wanted it to go away and I didn't care how.
 
@@ -65,28 +66,21 @@ Take your pain and anger and channel it to something that *makes things better*.
 
 You don't have to take any big steps or write a huge article. All you have to to is *decide* that you want things to be better. That's all. Then take small steps every day to try to get there.
 
-
 ### Don't die
 
 This is important. I am only one person and I'm not the smartest person. What I said above may or may not have helped you. If you are feeling hopeless or depressed or suicidal, please talk to those smarter, more empathetic, and simply better than me.
 
 These people will not judge you, or argue with you, or try to talk you out of how badly you feel. Tell someone what's going on and see if they can help you:
 
-- [Send an anonymous e-mail to The Samaritans](https://metanoia.org/suicide/samaritans.htm)
-
-- (US) Call the National Suicide Prevention Lifeline at 1-800-273-8255 (TTY:1-800-799-4TTY)
-
-- [More phone numbers & websites for your country.](http://codedredalert.tumblr.com/post/109005732295/helpline-masterlist)
-
-- [And even more resources](https://www.samaritans.org/how-we-can-help-you/other-sources-help)
-
-- [And even more resources](http://www.yourlifecounts.org/need-help/crisis-lines)
-
-- [Another powerful read](https://metanoia.org/suicide/samaritans.htm)
-
+* [Send an anonymous e-mail to The Samaritans](https://metanoia.org/suicide/samaritans.htm)
+* (US) Call the National Suicide Prevention Lifeline at 1-800-273-8255 (TTY:1-800-799-4TTY)
+* [More phone numbers & websites for your country.](http://codedredalert.tumblr.com/post/109005732295/helpline-masterlist)
+* [And even more resources](https://www.samaritans.org/how-we-can-help-you/other-sources-help)
+* [And even more resources](http://www.yourlifecounts.org/need-help/crisis-lines)
+* [Another powerful read](https://metanoia.org/suicide/samaritans.htm)
 
 ---
 
-*If you have any passionate thoughts on this, good or bad, please let me know. I especially appreciate constructive critiques that I can use to improve this piece and additional resources like phone numbers and websites for the international crowd. Resources for Asia are especially lacking and important at this time. Thank you for taking the time. 💖*
+If you have any passionate thoughts on this, good or bad, please let me know. I especially appreciate constructive critiques that I can use to improve this piece and additional resources like phone numbers and websites for the international crowd. Resources for Asia are especially lacking and important at this time. Thank you for taking the time.💖
 
 -*Taylor*

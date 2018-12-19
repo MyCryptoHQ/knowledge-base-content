@@ -6,8 +6,7 @@ date_published: '2017-07-05'
 date_modified: '2017-09-26'
 ---
 
-
-*This is part of a series where Taylor pulls sweet comments she has made or found over the years in the hopes that they can be useful, searchable, remembered, referenced, and/or aid in creating the future knowledge base posts.*
+This is part of a series where Taylor pulls sweet comments she has made or found over the years in the hopes that they can be useful, searchable, remembered, referenced, and/or aid in creating the future knowledge base posts.
 
 ---
 
@@ -64,7 +63,7 @@ Ok so I'm bullish but I'l chime in with my  **FUD list of doom!** :)
 * Still no major exchanges listing and hard to buy in directly from fiat
 * Major Chinese exchanges may never add Eth because they make all their money from mining BTC so don't want Eth to succeed.
 
-### Risk Ethereum could succeed without Ether becoming really valuable
+### Ethereum could succeed without Ether becoming valuable
 
 * Stable coins, gold & other currencies will be used for payment & wealth storage not Eth.
 * Eth will lose it's monopoly for buying gas
@@ -74,6 +73,6 @@ Although even with the above I still put us way above Ripple & even BTC.
 
 ---
 
-### Source
+## Source
 
-- [https://www.reddit.com/r/ethtrader/comments/462hfk/logic_please_anyone_who_feels_eths_marketcap/d01xy12/](https://www.reddit.com/r/ethtrader/comments/462hfk/logic_please_anyone_who_feels_eths_marketcap/d01xy12/)
+* [https://www.reddit.com/r/ethtrader/comments/462hfk/logic_please_anyone_who_feels_eths_marketcap/d01xy12/](https://www.reddit.com/r/ethtrader/comments/462hfk/logic_please_anyone_who_feels_eths_marketcap/d01xy12/)

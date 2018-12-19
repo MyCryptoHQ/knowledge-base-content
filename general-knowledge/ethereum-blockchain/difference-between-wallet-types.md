@@ -6,7 +6,7 @@ date_published: '2017-07-05'
 date_modified: '2018-07-17'
 ---
 
-_What are the different types of private key formats that I can use to access my wallet?_
+> What are the different types of private key formats that I can use to access my wallet?
 
 The ETH is stored on the blockchain, your private key or Keystore File or whatever piece of information you have proves ownership of that ETH, which allows you to move it.
 
@@ -14,19 +14,19 @@ At the end of the day, you are always signing with your private key.
 
 However, for additional functionality (like protecting it with a password) there are formats & ways of storing your private key:
 
-### MetaMask
+## MetaMask
 
 * [Learn More Here](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html)
 
-### Ledger or TREZOR or Digital Bitbox Hardware Wallets
+## Hardware wallets
 
 * [Learn More Here](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)
 
-### Parity Signer
+## Parity Signer
 
 * [Learn More Here](https://support.mycrypto.com/accessing-your-wallet/how-to-use-the-parity-signer-with-mycrypto.html)
 
-### Keystore File (UTC / JSON)
+## Keystore File (UTC / JSON)
 
 * This is encrypted by the password you chose.
 * If you cannot use one of the options above, this is the recommended version to save.
@@ -38,19 +38,18 @@ However, for additional functionality (like protecting it with a password) there
 
 ![](https://i.imgur.com/j5S7mJU.png)
 
-### Mnemonic Phrases
+## Mnemonic Phrases
 
 * Typically these come in 12-word or 24-words.
 * They can derive multiple addreses - meaning your phrase actually is able to create multiple accounts, addresses, and private keys.
 * [MyCrypto](https://download.mycrypto.com), Ledger, TREZOR, MetaMask, and Jaxx create these for you.
 * Mnemonic phrases are insecure. If you unlock your account on a phishing site with a mnemonic phrase, the phishers will get full access to your wallet. Use one of the options above, or the [MyCrypto Desktop App](https://download.mycrypto.com/).
 
-
 ![](https://i.imgur.com/DPcFCuY.png)
 
 ![](https://i.imgur.com/uq7STuc.png)
 
-### Private Key (unencrypted)
+## Private Key (unencrypted)
 
 * This is the unencrypted text version of your private key, meaning no password is necessary.
 * If someone were to find your unencrypted private key, they could access your wallet without a password.
@@ -60,7 +59,7 @@ However, for additional functionality (like protecting it with a password) there
 
 ![](https://i.imgur.com/Ek8ghxf.png)
 
-### Related Articles
+## Related articles
 
-[Protecting Yourself and Your Funds](https://support.mycrypto.com/security/securing-your-ethereum.html)
-[How to Properly Save and Backup your Wallet](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html)
+* [Protecting Yourself and Your Funds](https://support.mycrypto.com/security/securing-your-ethereum.html)
+* [How to Properly Save and Backup your Wallet](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html)

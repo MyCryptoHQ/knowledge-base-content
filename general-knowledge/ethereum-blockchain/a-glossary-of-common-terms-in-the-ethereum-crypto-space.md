@@ -6,7 +6,7 @@ date_published: '2015-10-05'
 date_modified: '2018-11-18'
 ---
 
-## Words are Hard
+## Words are hard
 
 This is a list of terms you might encounter when using the MyCrypto interface.
 

@@ -1,12 +1,10 @@
 ---
-title: What Is An ICO?
+title: What is an ICO?
 description: FAQ
 priority: 15
 date_published: '2017-12-04'
 date_modified: '2017-12-04'
 ---
-
-### What Is An ICO?
 
 ICO stands for Initial Coin Offering, also known as “token sale” or crowdsale. It is an unregulated fundraising method for startups. Start-up companies use these funds to further develop and complete their blockchain based software projects. It is similar to IPO ( Initial Public Offering), in which investors purchase shares of a company.
 

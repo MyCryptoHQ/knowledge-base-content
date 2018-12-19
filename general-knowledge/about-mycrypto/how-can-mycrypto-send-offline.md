@@ -1,11 +1,10 @@
 ---
-title: How Can MyCrypto Send Offline?
+title: How can MyCrypto send offline?
 description: Offline
 priority: 8
 date_published: '2017-07-05'
 date_modified: '2018-06-07'
 ---
-
 
 One of the important things that you need to understand is that every address already "exists". When you "create a wallet" you are not actually doing anything on the blockchain or communicating with the blockchain in any way.
 
@@ -21,7 +20,6 @@ So your ETH is on the blockchain and for offline or cold storage, your private k
 
 Regardless of what service you use to "store" your ETH, your ETH are lines of code on the Ethereum blockchain. Transactions add more lines of code and all these lines together determine what address has what balance.
 
-
 Your private key or keystore file is simply the way you *access and prove ownership of a particular address on the blockchain.*
 
 The part that usually confuses people is how MyCrypto can generate a valid wallet without being online.
@@ -34,10 +32,10 @@ You can generate a transaction offline using the same MyCrypto software in an of
 
 This way your private key can remain secure on the offline device, and it can be used to generate a valid transaction for the online device to broadcast.
 
-### Further Reading
-- [https://www.reddit.com/r/ethereum/comments/6n5qja/how_can_mycrypto_create_a_private_key_while/](https://www.reddit.com/r/ethereum/comments/6n5qja/how_can_mycrypto_create_a_private_key_while/)
+## Related articles
 
+* [https://www.reddit.com/r/ethereum/comments/6n5qja/how_can_mycrypto_create_a_private_key_while/](https://www.reddit.com/r/ethereum/comments/6n5qja/how_can_mycrypto_create_a_private_key_while/)
 
-### Adapted from comments by:
+### Source
 
 * [/u/chickenbreth](https://www.reddit.com/r/ethtrader/comments/6hqycv/how_can_mew_send_coins_offline/)

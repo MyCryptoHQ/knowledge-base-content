@@ -16,6 +16,7 @@
     ["remark-lint-list-item-indent", "space"],
     ["remark-lint-no-shortcut-reference-link", false],
     ["remark-lint-no-undefined-references", false],
-    ["remark-lint-no-duplicate-headings", false]
+    ["remark-lint-no-duplicate-headings", false],
+    ["remark-lint-no-file-name-articles", false]
   ]
 }

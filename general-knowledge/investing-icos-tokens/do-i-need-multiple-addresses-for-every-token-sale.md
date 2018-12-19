@@ -1,5 +1,5 @@
 ---
-title: Do I need Multiple Addresses for Every Token Sale?
+title: Do I need multiple addresses for every token sale?
 description: Tokens
 priority: 80
 date_published: '2018-02-24'

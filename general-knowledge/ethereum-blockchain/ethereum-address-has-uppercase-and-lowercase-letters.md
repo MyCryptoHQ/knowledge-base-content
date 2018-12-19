@@ -6,8 +6,8 @@ date_published: '2017-07-05'
 date_modified: '2017-09-26'
 ---
 
+> "What does it mean if my address has uppercase and lowercase letters?"
 
-"What does it mean if my address has uppercase and lowercase letters?"
 There are two versions of Ethereum addresses: one that contains uppercase letters and one that does not:
 
 `0x7cb57b5a97eabe94205c07890be4c1ad31e486a8`
