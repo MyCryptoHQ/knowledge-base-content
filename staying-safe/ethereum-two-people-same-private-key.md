@@ -1,18 +1,18 @@
 ---
-title: Ensuring MyCrypto doesn't give different people the same private key
+title: Ensuring MyCrypto Doesn't Give Different People the Same Private Key
 description: Security & Phishing
 priority: 70
 date_published: '2017-07-05'
 date_modified: '2018-08-23'
 ---
 
-"How does it ensure that it doesn't give different people the same key?"
+"How does Ethereum ensure that two people aren't given the same key?"
 
 <https://ethereum.stackexchange.com/questions/4299/account-uniqueness-guaranteed>
 
 ---
 
-First of all, the wallet private key is not given, it is randomly generated, then the public key is derived from it, and finally the address is derived from the public key. Potentially someone else could randomly generate the same private key, but the chances of that happening are unbelievably tiny - Let's take things into perspective.
+First of all, a wallet's private key is not given, it is randomly generated. Then the public key is derived from it and, finally, the address is derived from the public key. It is remotely possible that someone else could randomly generate the same private key, but the chances of that happening are unbelievably tiny. Let's take things into perspective.
 
 ---
 
@@ -30,9 +30,9 @@ It's that simple. Pick a number, that's your account. Cross your fingers that no
 
 The mind-blowing part is that this is actually secure. That number up there is so large that if you truly did a good job picking your number randomly, then the odds that anyone else picks it is infinitesimal. (1/that number).
 
-Don't believe me? Go ahead, there are billions of dollars worth of value in the blockchain. You should set up a computer program to generate tons of these numbers and check each one to see whether they have any money in them. It's all yours if you can find one!
+Don't believe me? Go ahead, there are billions of dollars worth of value in the blockchain. You're welcome to set up a computer program to generate tons of these numbers and check each one to see whether it has any money in it.
 
-Disclaimer: NEVER actually pick your private key out of your own brain. It turns out humans are really bad at picking random numbers, even when we think we're good at it. Use a secure random number generator like the one in MyCrypto or Ledger or Trezor.
+Disclaimer: NEVER actually pick your private key out of your own brain. It turns out humans are really bad at picking random numbers, even when we think we're good at it. Use a secure random number generator like the one in MyCrypto, Ledger, or TREZOR.
 
 ---
 
@@ -46,13 +46,13 @@ compared to
 
 `1461501637330902918203684832716283019655932542976`
 
-That number is so unfathomably big that even if you were to generate one address for each grain of sand on Earth every second, and do it for as long as old the galaxy is ~13.21 billion years, you'd still be nowhere near likely to have found even a single duplicate.
+That number is so unfathomably big that even if you were to generate one address for each grain of sand on Earth every second, and do it for as long as the galaxy is old, ~13.21 billion years, you'd still be nowhere near likely to have found even a single duplicate.
 
-But what makes it impossible to find and brute force any specific address is that it would costs more energy than the Sun has.
+But what makes it impossible to find and brute force any specific address is the fact that it would cost more energy than is stored by the sun.
 
 ---
 
-The estimated age of the universe is about 4.32 x 10^17 seconds. In order to use up half of the possible addresses in 4.32 x 10^17 seconds, you would need to make approx 1.6 x 10^31 addresses per second. That's 16 nonillion addresses. Per second. For the entire life of the universe so far. That's to use up half of the addresses.
+The estimated age of the universe is about 4.32 x 10^17 seconds. In order to check half of the possible addresses in 4.32 x 10^17 seconds, you would need to make approx 1.6 x 10^31 addresses per second. That's 16 nonillion addresses. Per second. For the entire history of the universe so far. That's to cover half of the addresses.
 
 Even if the blockchain is in active, vigorous use for the next ten thousand years, the chances of a duplicate private key are stochastically zero.
 
