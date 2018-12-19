@@ -3,7 +3,7 @@ title: What is an ICO?
 description: FAQ
 priority: 15
 date_published: '2017-12-04'
-date_modified: '2017-12-04'
+date_modified: '2018-12-19'
 ---
 
 ICO stands for Initial Coin Offering, also known as “token sale” or crowdsale. It is an unregulated fundraising method for startups. Start-up companies use these funds to further develop and complete their blockchain based software projects. It is similar to IPO ( Initial Public Offering), in which investors purchase shares of a company.
@@ -24,4 +24,4 @@ There are many successful and truly valuable technologies and concepts that have
 
 After doing your own research and making a decision that a token is worth investing in, the next steps are to buy into the ICO.
 
-For more information please refer to : [Best Ways to Avoid Missing Out On That ICO](https://support.mycrypto.com/best-of/how-not-to-miss-out-on-ico.html)
+For more information please refer to : [Best Ways to Avoid Missing Out On That ICO](/general-knowledge/investing-icos-tokens/best-ways-to-avoid-missing-out-on-that-ico)

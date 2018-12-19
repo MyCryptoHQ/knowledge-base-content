@@ -3,7 +3,7 @@ title: 'Transaction Failed: Out of Gas'
 description: Transactions
 priority: 6
 date_published: '2017-07-05'
-date_modified: '2018-11-29'
+date_modified: '2018-12-19'
 ---
 
 Each transaction (TX) on the Ethereum blockchain (including token and contract transactions) requires gas, which is paid in Ether. You can think of this as a transaction fee. The more computational effort a transaction takes, the more gas you need.
@@ -20,7 +20,7 @@ We are always trying to improve how we estimate gas as contracts become more com
 
 ## Related articles
 
-* [What is Gas?](https://support.mycrypto.com/gas/what-is-gas-ethereum.html)
+* [What is Gas?](/general-knowledge/ethereum-blockchain/what-is-gas)
 * [What is gas (StackExchange)](https://ethereum.stackexchange.com/questions/3/what-is-gas-and-transaction-fee-in-ethereum)
 * [What is gas? (CryptoCompare)](https://www.cryptocompare.com/coins/guides/what-is-the-gas-in-ethereum/)
 * [Can someone explain gas to me?](https://www.reddit.com/r/ethereum/comments/271qdz/can_someone_explain_the_concept_of_gas_in_ethereum/)

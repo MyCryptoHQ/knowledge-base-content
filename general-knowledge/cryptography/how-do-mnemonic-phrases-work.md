@@ -3,7 +3,7 @@ title: How do (encrypted) mnemonic phrases work?
 description: Private Keys & Passwords
 priority: 40
 date_published: '2018-06-20'
-date_modified: '2018-06-29'
+date_modified: '2018-12-19'
 ---
 
 A **mnemonic phrase** or **mnemonic seed** is a set of typically either 12 or 24 words, which can be used to derive an infinite number of wallets. Often times these phrases are used by cryptocurrency hardware wallets, to be written down on a piece of paper by the user to safely back up the users' funds.
@@ -48,8 +48,8 @@ Since every password generates a valid seed and will unlock a different account,
 
 ### Related Reading
 
-* [How to Access Your Wallet with Mnemonic Phrase](https://support.mycrypto.com/accessing-your-wallet/access-wallet-mnemonic.html)
-* [How to Create a Wallet](https://support.mycrypto.com/getting-started/creating-a-new-wallet-on-mycrypto.html)
-* [How to Properly Save & Back Up Your Wallet](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html)
+* [How to Access Your Wallet with Mnemonic Phrase](/how-to/accessing-wallet/how-to-access-your-wallet-with-mnemonic-phrase)
+* [How to Create a Wallet](/how-to/getting-started/how-to-create-a-wallet)
+* [How to Properly Save & Back Up Your Wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
 * [bitcoin.it wiki article](https://en.bitcoin.it/wiki/Mnemonic_phrase)
 * [TREZOR's Guide to Passwords](https://doc.satoshilabs.com/trezor-user/advanced_settings.html)

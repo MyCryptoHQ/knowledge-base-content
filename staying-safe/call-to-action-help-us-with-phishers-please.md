@@ -3,7 +3,7 @@ title: How to Help Defeat the Phishers
 description: Security & Phishing
 priority: 30
 date_published: '2017-07-05'
-date_modified: '2018-11-29'
+date_modified: '2018-12-19'
 ---
 
 **These phishers will not stop until they stop getting money or get caught.** We don't have the time or manpower to do it all. There are so many things to do and watch and document. We thank you for your help.
@@ -22,17 +22,17 @@ date_modified: '2018-11-29'
 
 Help spread the word: Private keys are *private*. Use hardware wallets. Use cold storage. Go offline. Check URLs.
 
-* [Creating a wallet offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html) is good.
-* Getting a [Ledger or TREZOR Hardware Wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html) is even better.
-* [You can sign transactions offline so your key never touches a phishing site!](https://support.mycrypto.com/offline/making-offline-transaction-on-mycrypto.html)
+* [Creating a wallet offline](/how-to/offline/how-to-run-mycrypto-offline-and-locally) is good.
+* Getting a [Ledger or TREZOR Hardware Wallet](/staying-safe/hardware-wallet-recommendations) is even better.
+* [You can sign transactions offline so your key never touches a phishing site!](/how-to/sending/how-to-make-an-offline-transaction)
 * Install EtherSecurityLookup to block malicious tweets / tweeters: [https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB).
 * Install EtherAddressLookup to block malicious / phishing sites: [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn).
 * Install MetaMask to block malicious / phishing sites and interact with MyCrypto: [https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn).
 * Never enter your private keys, passwords, or sensitive data on a website that you were sent via a message.
 * ONLY unlock your wallet when you want to send a transaction. Check your balance via [https://etherscan.io/](https://etherscan.io/) or [https://ethplorer.io/](https://ethplorer.io/).
 * Do not trust messages, addresses, or URLs sent via private message. Always verify information with a secondary source.
-* Check out our guide on [How to Prevent Loss & Theft](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html).
-* [Protips: How Not to Get Scammed](https://support.mycrypto.com/security/mycrypto-protips-how-not-to-get-scammed-during-ico.html).
+* Check out our guide on [How to Prevent Loss & Theft](/staying-safe/protecting-yourself-and-your-funds).
+* [Protips: How Not to Get Scammed](/staying-safe/mycrypto-protips-how-not-to-get-scammed-during-ico).
 
 ## 3. Report malicious URLs
 
@@ -81,6 +81,6 @@ Help spread the word: Private keys are *private*. Use hardware wallets. Use cold
   * [https://decentsecurity.com/#/malware-web-and-phishing-investigation/](https://decentsecurity.com/#/malware-web-and-phishing-investigation/)
 
 * **Other References:**
-  * [https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html](https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html)
+  * [https://support.mycrypto.com/staying-safe/phish-hacks-thefts-and-stolen-funds-due-to-phishing](/staying-safe/phish-hacks-thefts-and-stolen-funds-due-to-phishing)
   * [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn (Anti-Phishing Chrome extension)](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
   * [https://www.reddit.com/r/ethereum/comments/6o04b2/protips_how_not_to_get_scammed_during_a_token_sale](https://www.reddit.com/r/ethereum/comments/6o04b2/protips_how_not_to_get_scammed_during_a_token_sale )

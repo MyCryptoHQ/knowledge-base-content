@@ -3,7 +3,7 @@ title: How to Access Your Wallet with Mnemonic Phrase
 description: Accessing your Wallet
 priority: 15
 date_published: '2017-06-20'
-date_modified: '2018-12-14'
+date_modified: '2018-12-19'
 ---
 
 ## Important Information
@@ -25,7 +25,7 @@ Mnemonic phrases are vulnerable for two reasons:
 
 We no longer allow accessing your mnemonic phrase using the MyCrypto.com website. Instead, you have to download the [MyCrypto desktop app](https://download.mycrypto.com/). A more detailed explanation of why we decided on this change can be found [here](https://medium.com/mycrypto/a-safer-mycrypto-79d65196e7d8).
 
-1. Follow our guide on [running MyCrypto offline and locally](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
+1. Follow our guide on [running MyCrypto offline and locally](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
 2. Open the MyCrypto desktop application.
 3. The "View & Send" tab will appear. Click "Mnemonic Phrase."
 4. Enter your 12-word phrase. If you entered a password when you created the wallet, enter that as well. Failure to do so can change the list of addresses that you can access. 
@@ -49,7 +49,7 @@ For this reason, it is very, very important to keep your private key a secret an
 
 ## Related articles
 
-* [Backing up your wallet](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html)
-* [Sending & Receiving](https://support.mycrypto.com/send/)
-* [Protecting Yourself and Your Funds](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)
-* [Difference between an exchange and MyCrypto](https://support.mycrypto.com/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html)
+* [Backing up your wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
+* [Sending & Receiving](/contact-us/)
+* [Protecting Yourself and Your Funds](/staying-safe/protecting-yourself-and-your-funds)
+* [Difference between an exchange and MyCrypto](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)

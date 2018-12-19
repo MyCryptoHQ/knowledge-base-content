@@ -3,17 +3,17 @@ title: 'Getting back to the basics: 10 tips for beginners'
 description: Getting Started
 priority: 30
 date_published: '2015-10-05'
-date_modified: '2018-08-23'
+date_modified: '2018-12-19'
 ---
 
 ## Tips
 
 1. Never hand-type your address. If you copy and paste your address, do it [in incognito mode](https://www.wikihow.com/Activate-Incognito-Mode) and still take the time to double check the address. This attack has not been seen yet, but a lot of Chrome extensions have access to the information that you copy and paste. Most extensions do not have access to incognito tabs by default but you can change this in your settings. (Contributed by @RaymondDurk - Thank You!)
-2. Use the version of your address that has uppercase letters. [Ethereum address has Lower and Upper Case Letters](https://support.mycrypto.com/addresses/my-ethereum-address-has-uppercase-and-lowercase-letters.html)
+2. Use the version of your address that has uppercase letters. [Ethereum address has Lower and Upper Case Letters](/general-knowledge/ethereum-blockchain/ethereum-address-has-uppercase-and-lowercase-letters)
 3. Never hand type your private key / keystore file / mnemonic phrase. Triple-check the words for mnemonic keys if hand typing (there are still mistakes you can make).
 4. Always send a small amount of ETH, ensure everything goes well & it arrives at the destination you wanted it to, before sending all the ETH.
-5. For new wallets, especially [cold storage](https://support.mycrypto.com/offline/ethereum-cold-storage-with-mycrypto.html), send small amount in, send small amount **out** from new wallet, before sending full amount in in.
-6. [Save and back up your private key](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html) in a separate location BEFORE sending ETH/Tokens to it.
+5. For new wallets, especially [cold storage](/how-to/offline/using-mycrypto-for-cold-storage), send small amount in, send small amount **out** from new wallet, before sending full amount in in.
+6. [Save and back up your private key](/how-to/backup-restore/how-to-save-back-up-your-wallet) in a separate location BEFORE sending ETH/Tokens to it.
 7. Never email your private key.
 8. Never post your private key on Reddit, Twitter, Slack.
 9. Never store your private key on Dropbox or another cloud storage service.

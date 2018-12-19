@@ -3,7 +3,7 @@ title: Private Key Opens a Different Account / Two Addresses
 description: Private Keys & Passwords
 priority: 8
 date_published: '2017-07-05'
-date_modified: '2017-11-27'
+date_modified: '2018-12-19'
 ---
 
 ## Mismatched Private Key / Address
@@ -27,7 +27,7 @@ Scroll to the bottom of <https://legacy.mycrypto.com/helpers.html>, enter your p
 ## Related
 
 * [Finding multiple missing characters in private key](https://gist.github.com/domalak/f72414b6be6bbe497416f11bfe0d224a)
-* [Find multiple missing characters of the very end of a private key](https://support.mycrypto.com/private-keys-passwords/missing-characters-of-private-key.html)
+* [Find multiple missing characters of the very end of a private key](/troubleshooting/accessing-wallet/missing-characters-of-private-key)
 * Find 1 missing character anywhere in private key (fast):
 
 ```javascript

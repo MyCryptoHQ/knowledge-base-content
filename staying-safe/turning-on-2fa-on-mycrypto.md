@@ -3,7 +3,7 @@ title: Can I turn on 2FA for MyCrypto?
 description: Security & Phishing
 priority: 50
 date_published: '2017-07-05'
-date_modified: '2018-06-10'
+date_modified: '2018-12-19'
 ---
 
 No. And if you landed on a site telling you that you could, they are lying to you and trying to steal your private keys.
@@ -32,11 +32,11 @@ If this is functionality that you do want, feel free to use an exchange or hoste
 
 ## Hardware wallets
 
-Or, you know, spend the <$100 and get a [hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html). It's worth it. You can use it for 2FA on other services and ensure the safety and security of your funds.
+Or, you know, spend the <$100 and get a [hardware wallet](/staying-safe/hardware-wallet-recommendations). It's worth it. You can use it for 2FA on other services and ensure the safety and security of your funds.
 
 More information: <https://github.com/kvhnuke/etherwallet/issues/292>
 
 ## Related articles
 
-[Security & Phishing](https://support.mycrypto.com/security/)
-[What is the Difference between an Exchange and MyCrypto?](https://support.mycrypto.com/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html)
+* [Security & Phishing](/staying-safe)
+* [What is the Difference between an Exchange and MyCrypto?](/general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto)

@@ -3,7 +3,7 @@ title: Running MyCrypto With Your Own Personal Node
 description: Networks & Nodes
 priority: 8
 date_published: '2017-07-05'
-date_modified: '2018-11-29'
+date_modified: '2018-12-19'
 ---
 
 You can use MyCrypto to connect to your own node, which decouples the frontend and features that you love about MyCrypto from our backend infrastructure. This means more nodes send more transactions and is closer to the decentralized nature of Ethereum. It also means that you fully control the entire process and don't rely on us.
@@ -81,7 +81,7 @@ If your node is local, it's much easier to simply also run MyCrypto locally. [Do
 
 If you wish to run MyCrypto locally + hardware wallet, you will need to have a self-signed certificate in order to connect to your hardware wallet via U2F. Browsers that support U2F require that these calls take place over SSL. This is not something we have control over.
 
-* [One way to do this is detailed here](https://support.mycrypto.com/offline/using-ledger-wallet-offline.html)
+* [One way to do this is detailed here](/how-to/offline/using-a-ledger-wallet-offline)
 
 #### Parity
 

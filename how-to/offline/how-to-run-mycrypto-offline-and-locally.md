@@ -3,7 +3,7 @@ title: How To Run MyCrypto Offline and Locally
 description: Offline
 priority: 2
 date_published: '2017-07-05'
-date_modified: '2018-05-11'
+date_modified: '2018-12-19'
 ---
 
 For increased security, you can run MyCrypto locally on your computer with our desktop application. The computer should have no internet connection. You can generate a wallet completely offline and send transactions from the "View & Send" page.
@@ -12,7 +12,7 @@ For increased security, you can run MyCrypto locally on your computer with our d
 
 ### Downloading and installing
 
-In order to set up your local MyCrypto, start off by downloading the latest release of the desktop application [here](https://download.mycrypto.com/), be sure that you see the green "MyCrypto, Inc [US]" bar in the URL bar. [Don't see it?](https://support.mycrypto.com/security/i-cannot-see-the-extended-validation-certificate.html) Additionally, check the signed checksums. We made a guide about verifying the authenticity of the desktop app [here](https://support.mycrypto.com/security/verifying-authenticity-of-desktop-app.html).
+In order to set up your local MyCrypto, start off by downloading the latest release of the desktop application [here](https://download.mycrypto.com/), be sure that you see the green "MyCrypto, Inc [US]" bar in the URL bar. [Don't see it?](/troubleshooting/cannot-see-the-extended-validation-certificate) Additionally, check the signed checksums. We made a guide about verifying the authenticity of the desktop app [here](/staying-safe/verifying-authenticity-of-desktop-app).
 
 ![](https://i.imgur.com/9deFpcy.png)
 
@@ -26,5 +26,5 @@ The application will let you know in case there is a new update available. To up
 
 ### Related articles
 
-* [How To Make An Offline Transaction](https://support.mycrypto.com/offline/making-offline-transaction-on-mycrypto.html)
-* [Checking the Balance of Your Account](https://support.mycrypto.com/getting-started/checking-balance-of-my-account.html)
+* [How To Make An Offline Transaction](/how-to/sending/how-to-make-an-offline-transaction)
+* [Checking the Balance of Your Account](/how-to/accessing-wallet/how-to-check-the-balance-of-your-account)

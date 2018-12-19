@@ -3,7 +3,7 @@ title: How to get started on MyCrypto
 description: TODO
 priority: 20
 date_published: '2015-10-05'
-date_modified: '2018-11-18'
+date_modified: '2018-12-19'
 ---
 
 * Please take some time to understand this for your own safety.
@@ -125,7 +125,7 @@ date_modified: '2018-11-18'
 * You don't have to rely on the security of an exchange or bank to keep your funds safe.
 * If you don't find these things valuable, ask yourself why you think the blockchain and cryptocurrencies are valuable. 😉
 * If you don't like the sound of this, consider using [Coinbase](https://www.coinbase.com/) or [Blockchain.info](https://blockchain.info/wallet/#/signup). They have more familiar accounts with usernames & passwords.
-* If you are scared but want to use MyCrypto, [get a hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.
+* If you are scared but want to use MyCrypto, [get a hardware wallet](/staying-safe/hardware-wallet-recommendations)! These keep your keys secure.
 
 </div>
 <div class='col-xs-12 col-sm-2 col-no-gutter'>
@@ -142,7 +142,7 @@ date_modified: '2018-11-18'
 
 Phishers send you a message with a link to a website that looks just like MyCrypto, EtherDelta, Paypal, or your bank, but is not the real website. They steal your information and then steal your money.
 
-* Use the [ESL](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB) or [MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html) Chrome Extension to block malicious websites.
+* Use the [ESL](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB) or [MetaMask](/how-to/migrating/moving-from-mycrypto-to-metamask) Chrome Extension to block malicious websites.
 * Always check the URL: `https://mycrypto.com`.
 * Always make sure the URL bar has `MyCrypto, Inc` in green.
 * Do not trust messages or links sent to you randomly via email, Slack, Reddit, Twitter, etc.
@@ -195,25 +195,24 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 </div>
 </div>
 
-[**More Security Tips!**](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)
+[**More Security Tips!**](/staying-safe/protecting-yourself-and-your-funds)
 
 <div class='row between-xs'>
 <div class='col-xs-12 col-sm-8 col-no-gutter'>
 
 ## Onwards!
 
-* [Get a hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html).
-* [How to set up MyCrypto + MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html).
-* [How to run MyCrypto Offline / Locally](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
-* [How to send via Ledger hardware wallet](https://support.mycrypto.com/migration/moving-from-private-key-to-ledger-hardware-wallet.html).
-* [How to send via TREZOR hardware wallet](https://support.mycrypto.com/hardware-wallets/trezor-sending-to-trezor-device.html).
-* [How to send via MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html).
-* [How to create a new wallet](https://support.mycrypto.com/getting-started/creating-a-new-wallet-on-mycrypto.html).
-* [How to back up your wallet](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html).
-* [How to verify you have access to the wallet](https://support.mycrypto.com/getting-started/accessing-your-new-eth-wallet.html).
-* [How to send funds to your wallet](https://support.mycrypto.com/faq/buying-selling-exchanging-eth-tokens-fiat.html).
-* [How to check your balance](https://support.mycrypto.com/getting-started/checking-balance-of-my-account.html).
-* [More Security Tips!](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)
+* [Get a hardware wallet](/staying-safe/hardware-wallet-recommendations).
+* [How to set up MyCrypto + MetaMask](/how-to/migrating/moving-from-mycrypto-to-metamask).
+* [How to run MyCrypto Offline / Locally](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
+* [How to send via Ledger hardware wallet](/how-to/migrating/moving-from-mycrypto-to-ledger).
+* [How to send via TREZOR hardware wallet](/how-to/migrating/moving-from-mycrypto-to-trezor).
+* [How to send via MetaMask](/how-to/migrating/moving-from-mycrypto-to-metamask).
+* [How to create a new wallet](/how-to/getting-started/how-to-create-a-wallet).
+* [How to back up your wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet).
+* [How to verify you have access to the wallet](/how-to/accessing-wallet/how-to-access-your-wallet-with-keystore-file).
+* [How to send funds to your wallet](/how-to/getting-started/where-can-i-buy-sell-trade-or-exchange-my-eth-or-tokens).
+* [More Security Tips!](/staying-safe/protecting-yourself-and-your-funds)
 
 </div>
 <div class='col-xs-12 col-sm-2 col-no-gutter'>

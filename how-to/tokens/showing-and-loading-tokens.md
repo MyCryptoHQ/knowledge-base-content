@@ -3,7 +3,7 @@ title: Showing and Loading Tokens
 description: Tokens
 priority: 10
 date_published: '2017-12-23'
-date_modified: '2018-11-28'
+date_modified: '2018-12-19'
 ---
 
 ## How to load token balances
@@ -20,7 +20,7 @@ date_modified: '2018-11-28'
 
 ![](https://i.imgur.com/4quT3w5.png)
 
-4. If a token you would like to see or send is not showing up, you will need to add it as a custom token. Click [here](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html) for instructions on how to add a token.
+4. If a token you would like to see or send is not showing up, you will need to add it as a custom token. Click [here](/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens) for instructions on how to add a token.
 
 ![](https://i.imgur.com/p2KEduQ.png)
 
@@ -30,5 +30,5 @@ date_modified: '2018-11-28'
 
 ## Related Articles
 
-[Adding a Custom Token](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)
-[Receiving Tokens](https://support.mycrypto.com/tokens/receiving-tokens.html)
+[Adding a Custom Token](/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens)
+[Receiving Tokens](/how-to/tokens/how-to-receive-tokens)

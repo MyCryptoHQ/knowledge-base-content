@@ -3,7 +3,7 @@ title: '[MyCrypto ➡ TREZOR] Moving from MyCrypto to TREZOR'
 description: Migrating to/from MyCrypto
 priority: 2
 date_published: '2017-11-08'
-date_modified: '2018-11-29'
+date_modified: '2018-12-19'
 ---
 
 The TREZOR is one of the best and easiest-to-use cryptocurrency hardware wallets out there, and is available for purchase [here](https://shop.trezor.io/?offer_id=10&aff_id=1735). While the TREZOR supports a wide range of cryptocurrencies, this guide was specifically written for using Ether and ERC-20 tokens with MyCrypto.
@@ -124,7 +124,7 @@ In order to send from your TREZOR hardware wallet, connect to your TREZOR per th
 4. Enter the `Amount` you would like to send.
 5. If you are sending tokens, click the `Scan for Tokens` button.
 6. Then select the token you would like to send from the dropdown next to the amount.
-7. Use the `Transaction Fee` slider to select how much [gas](https://support.mycrypto.com/gas/what-is-gas-ethereum.html) to use for your transaction.
+7. Use the `Transaction Fee` slider to select how much [gas](/general-knowledge/ethereum-blockchain/what-is-gas) to use for your transaction.
 
 ![](https://i.imgur.com/KteZ6QV.png)
 
@@ -140,7 +140,7 @@ In order to send from your TREZOR hardware wallet, connect to your TREZOR per th
 
 ![](https://i.imgur.com/VaY7g4h.png)
 
-[If your transaction doesn't show up on Etherscan / Etherchain / MyCrypto after a few minutes, you may need to send with more gas. Click here to learn more about gas.](https://support.mycrypto.com/gas/).
+[If your transaction doesn't show up on Etherscan / Etherchain / MyCrypto after a few minutes, you may need to send with more gas. Click here to learn more about gas.](/general-knowledge/ethereum-blockchain/what-is-gas).
 
 ## Restoring your TREZOR
 
@@ -148,5 +148,5 @@ TREZOR made a clear and easy-to-follow guide on how to restore the device [here]
 
 ## Troubleshooting
 
-* TREZOR has an extensive knowledge base that you can find [here](https://trezor.io/support/), and MyCrypto's is [here](https://support.mycrypto.com/). There is a big chance that any issue you might encounter is already listed on one of them.
-* If you need further assistance, reach out to [TREZOR](https://satoshilabs.kayako.com/conversation/new/2) or [MyCrypto](https://support.mycrypto.com/form/) support.
+* TREZOR has an extensive knowledge base that you can find [here](https://trezor.io/support/), and MyCrypto's is [here](/). There is a big chance that any issue you might encounter is already listed on one of them.
+* If you need further assistance, reach out to [TREZOR](https://satoshilabs.kayako.com/conversation/new/2) or [MyCrypto](/contact-us/) support.

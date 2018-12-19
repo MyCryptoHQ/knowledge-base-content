@@ -3,14 +3,14 @@ title: How to properly save & back up your wallet
 description: Getting Started
 priority: 10
 date_published: '2015-10-05'
-date_modified: '2018-12-14'
+date_modified: '2018-12-19'
 ---
 
 ## Preface
 
-The following assumes you are **not** using a hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html).
+The following assumes you are **not** using a hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](/staying-safe/hardware-wallet-recommendations).
 
-To save / backup your [Ledger](https://support.mycrypto.com/migration/moving-from-private-key-to-ledger-hardware-wallet.html) or [TREZOR](https://support.mycrypto.com/migration/moving-from-private-key-to-trezor-hardware-wallet.html) device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it into MyCrypto.com.
+To save / backup your [Ledger](/how-to/migrating/moving-from-mycrypto-to-ledger) or [TREZOR](/how-to/migrating/moving-from-mycrypto-to-trezor) device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it into MyCrypto.com.
 
 ## How to back up your account
 
@@ -40,5 +40,5 @@ We are a client-side interface that allows you to interact with cryptocurrencies
 
 ## Related articles
 
-* [What is the difference between private key & Keystore / UTC file?](https://support.mycrypto.com/private-keys-passwords/difference-beween-private-key-and-keystore-file.html)
-* [Protecting yourself and your funds](https://support.mycrypto.com/security/securing-your-ethereum.html)
+* [What is the difference between private key & Keystore / UTC file?](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)
+* [Protecting yourself and your funds](/staying-safe/protecting-yourself-and-your-funds)

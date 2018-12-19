@@ -3,7 +3,7 @@ title: Phishing Scams and Hacks
 description: Common Scams
 priority: 6
 date_published: '2018-03-12'
-date_modified: '2018-03-16'
+date_modified: '2018-12-19'
 ---
 
 ## Phishing
@@ -56,7 +56,7 @@ An attacker uses a Twitter account and changes the display name to impersonate c
 
 #### How can I mitigate this?
 
-Follow the [Common Scams Tips](https://support.mycrypto.com/common-scams/common-scams-overview.html) and do not attempt to get free money by sending money to others. It will not work.
+Follow the [Common Scams Tips](/staying-safe/common-scams/common-scams-overview) and do not attempt to get free money by sending money to others. It will not work.
 
 ---
 
@@ -82,4 +82,4 @@ Report scams like this to [EtherScamdb.info](https://etherscamdb.info). Furtherm
 
 ---
 
-If you don't understand any of the terms in this article, please try referencing our [Ethereum Glossary](https://support.mycrypto.com/getting-started/ethereum-glossary.html).
+If you don't understand any of the terms in this article, please try referencing our [Ethereum Glossary](/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space).

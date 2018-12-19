@@ -3,12 +3,12 @@ title: What to do if You Forgot to Reveal Your ENS Bid
 description: ENS
 priority: 2
 date_published: '2017-07-05'
-date_modified: '2018-12-14'
+date_modified: '2018-12-19'
 ---
 
 ## If there are other bidders
 
-You can get 0.5% back by manually revealing, [as written up here](https://support.mycrypto.com/ens/manually-revealing-ens-bid.html). Unfortunately, you must reveal during the reveal period in order to win the name or get the full amount back.
+You can get 0.5% back by manually revealing, [as written up here](/how-to/ens/manually-revealing-your-ens-bid). Unfortunately, you must reveal during the reveal period in order to win the name or get the full amount back.
 
 ## If there are no other bidders
 

@@ -3,7 +3,7 @@ title: Securely store & guard your private key by drewshaver
 description: Security & Phishing
 priority: 55
 date_published: '2017-07-05'
-date_modified: '2017-09-26'
+date_modified: '2018-12-19'
 ---
 
 *[Source: /u/drewshaver](https://www.reddit.com/r/CryptoCurrency/comments/6vo0tw/a_guide_for_newbies_on_how_to_properly_and/)*
@@ -16,7 +16,7 @@ This guide assumes that you just received a Trezor and Cryptosteel in the mail. 
 
 ## Onwards
 
-This is awesome that you already ordered a [hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)! Of course, you have to recognize the serious responsibility that comes from holding your own private key. If you lose it, make a mistake, forget your passphrase, etc, no one can save you, truly you are in control of your own destiny :)
+This is awesome that you already ordered a [hardware wallet](/staying-safe/hardware-wallet-recommendations)! Of course, you have to recognize the serious responsibility that comes from holding your own private key. If you lose it, make a mistake, forget your passphrase, etc, no one can save you, truly you are in control of your own destiny :)
 
 ## Terminology -- Mnemonic
 

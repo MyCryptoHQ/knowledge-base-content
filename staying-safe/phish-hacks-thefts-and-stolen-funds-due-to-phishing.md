@@ -3,7 +3,7 @@ title: What to Do If Your Funds Are Stolen
 description: Security & Phishing
 priority: 20
 date_published: '2017-07-05'
-date_modified: '2018-02-19'
+date_modified: '2018-12-19'
 ---
 
 ## Victim of a phishing attack? We are sorry this happened
@@ -14,7 +14,7 @@ Because of the nature of the blockchain and cryptography, there is no way to rev
 
 ## What we do to ensure user safety
 
-We actively attempt to track down the people behind these sites, warn others, take down the sites, and whatever else we can to help, given the particular situation. We also offer a lot of advice and guidance to users on how to do everything in their power to secure their funds and themselves in this new and hectic space. [Read here for security tips.](https://support.mycrypto.com/security/)
+We actively attempt to track down the people behind these sites, warn others, take down the sites, and whatever else we can to help, given the particular situation. We also offer a lot of advice and guidance to users on how to do everything in their power to secure their funds and themselves in this new and hectic space. [Read here for security tips.](/staying-safe)
 
 There are things you can do to help as well. You can help us document these phishers and protect others from also becoming victims of phishing. Help make the community safer. We can't always scan through the world wide web by ourselves.
 
@@ -27,13 +27,13 @@ There are things you can do to help as well. You can help us document these phis
 ## Move your funds ASAP and protect yourself moving forward
 
 * Create new accounts, safely, and move all funds from existing accounts to these new ones as soon as you are in a place to do so. (Rushing does not help. Doing it safely is the most important thing.)
-  * [Get a Ledger or Trezor Hardware Wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html). (Safest!)
-  * [Create a Cold Storage Wallet](https://support.mycrypto.com/offline/running-mycrypto-locally.html). (Still really safe!)
-  * [Use MyCrypto + MetaMask](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html).
+  * [Get a Ledger or Trezor Hardware Wallet](/staying-safe/hardware-wallet-recommendations). (Safest!)
+  * [Create a Cold Storage Wallet](/how-to/offline/using-mycrypto-for-cold-storage). (Still really safe!)
+  * [Use MyCrypto + MetaMask](/how-to/migrating/moving-from-mycrypto-to-metamask).
 
 * Never enter your private keys, passwords, or sensitive data on a website that you were sent via message.
 
-* ONLY unlock your wallet when you want to send a transaction. Check your balance via [https://etherscan.io/](https://etherscan.io/) or [https://ethplorer.io/](https://ethplorer.io/).
+* ONLY unlock your wallet when you want to send a transaction. Check your balance via [Etherscan](https://etherscan.io/) or [Ethplorer](https://ethplorer.io/).
 
 * Do not trust messages or addresses or URLs sent via private message. Always verify information w/ a secondary source.
 
@@ -49,6 +49,6 @@ If you recently participated in an ICO, you may have tokens remaining in your wa
 
 Once you know when you can move the tokens, you will need to plan on moving them as close to that time as possible. First, send 0.01 ETH into your wallet (to cover the cost of gas) and then send your tokens out of your wallet to your new, secure wallet. You should do this as quickly as possible, as soon as the tokens can be moved.
 
-Lastly, read our ["Getting Started Guide"](https://support.mycrypto.com/getting-started/getting-started-new.html) and ["Protecting Yourself and Your Funds"](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html) article. Be proactive about your security.
+Lastly, read our ["Getting Started Guide"](/how-to/getting-started/how-to-get-started-on-mycrypto) and ["Protecting Yourself and Your Funds"](/staying-safe/protecting-yourself-and-your-funds) article. Be proactive about your security.
 
-We hope this unfortunate event does not happen to you again, or to anyone else. Please take your time to [read through our Knowledge-Base](https://support.mycrypto.com/security/) to arm yourself with information on to protect yourself against the phishers.
+We hope this unfortunate event does not happen to you again, or to anyone else. Please take your time to [read through our Knowledge-Base](/staying-safe) to arm yourself with information on to protect yourself against the phishers.

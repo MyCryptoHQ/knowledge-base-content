@@ -3,10 +3,10 @@ title: Adding Your Token as a Default Token
 description: Contributor Info
 priority: 60
 date_published: '2017-10-08'
-date_modified: '2018-06-11'
+date_modified: '2018-12-19'
 ---
 
-[If you are experimenting with tokens, you can add a token to your local version of MyCrypto.](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)
+[If you are experimenting with tokens, you can add a token to your local version of MyCrypto.](/how-to/tokens/showing-and-loading-tokens)
 
 MyCrypto ships with a default token list that allows our Token Scanner functionality to check balances for a pre-determined set of tokens, which is displayed to the user.
 

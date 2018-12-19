@@ -3,7 +3,7 @@ title: On Keypairs & Encryption
 description: Best Of
 priority: 4
 date_published: '2017-07-05'
-date_modified: '2017-09-26'
+date_modified: '2018-12-19'
 ---
 
 This is part of a series where Taylor pull's sweet comments she's made in the hopes that they can be useful, searchable, remembered, referenced, and/or aid in the creation of future knowledge base posts. These are works in progress. Please excuse the typos, unclear statements, specific references to previous discussions or the user, and gratuitous cursing.
@@ -33,7 +33,7 @@ The blockchain simply checks if the transaction you want to send (e.g. `1 ETH` t
 
 I could sign a transaction saying `0x92fbC3.....` wants to send `1 ETH` to `0x2a9F48....` with any key I wanted to. I could just make it up off the top of my head. But it would fail check #2, and therefore never be accepted into the blockchain, and therefore the funds (which are your funds) would never move.
 
-The only way to move funds is to send those funds with a transaction signed by the private key that corresponds to the address you are sending from. And the amount of private keys available is so insanely large that it would take a fuckload of years to ever be able to guess someone else's private key. It's quite simple. ([More on that here if you are interested](https://support.mycrypto.com/security/couldnt-everybody-put-in-a-random-key-and-send-to-own-address.html))
+The only way to move funds is to send those funds with a transaction signed by the private key that corresponds to the address you are sending from. And the amount of private keys available is so insanely large that it would take a fuckload of years to ever be able to guess someone else's private key. It's quite simple. ([More on that here if you are interested](/staying-safe/couldnt-everybody-put-in-a-random-key-and-send-to-own-address))
 
 ### Fancy keys, passwords & encryption
 

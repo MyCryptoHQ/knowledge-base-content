@@ -3,12 +3,12 @@ title: Using MyCrypto For Cold Storage
 description: Offline
 priority: 4
 date_published: '2017-07-05'
-date_modified: '2018-06-10'
+date_modified: '2018-12-19'
 ---
 
 ## Preface
 
-The following assumes you are **not** using a Ledger or TREZOR hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html).
+The following assumes you are **not** using a Ledger or TREZOR hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](/staying-safe/hardware-wallet-recommendations).
 
 To save / backup your Ledger or TREZOR device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it in to MyCrypto.com.
 
@@ -16,7 +16,7 @@ You can run MyCrypto.com on your computer and this computer can be a cold-storag
 
 ## How to
 
-* First off, follow our guide on [running MyCrypto offline and locally](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
+* First off, follow our guide on [running MyCrypto offline and locally](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
 
 * Open the "Create New Wallet" tab in the MyCrypto desktop application. Click "Generate a Keystore File".
 
@@ -65,5 +65,5 @@ We are a client-side interface that allows you to interact with the Ethereum blo
 
 ### Related articles
 
-* [What is the difference between private key & Keystore / UTC file?](https://support.mycrypto.com/private-keys-passwords/difference-beween-private-key-and-keystore-file.html)
-* [Protecting yourself and your funds](https://support.mycrypto.com/security/securing-your-ethereum.html)
+* [What is the difference between private key & Keystore / UTC file?](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)
+* [Protecting yourself and your funds](/staying-safe/protecting-yourself-and-your-funds)

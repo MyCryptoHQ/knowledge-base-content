@@ -3,7 +3,7 @@ title: Differences between wallet types (e.g. private key vs keystore)
 description: Private Keys & Passwords
 priority: 12
 date_published: '2017-07-05'
-date_modified: '2018-07-17'
+date_modified: '2018-12-19'
 ---
 
 > What are the different types of private key formats that I can use to access my wallet?
@@ -16,15 +16,15 @@ However, for additional functionality (like protecting it with a password) there
 
 ## MetaMask
 
-* [Learn More Here](https://support.mycrypto.com/migration/moving-from-private-key-to-metamask.html)
+* [Learn More Here](/how-to/migrating/moving-from-mycrypto-to-metamask)
 
 ## Hardware wallets
 
-* [Learn More Here](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)
+* [Learn More Here](/staying-safe/hardware-wallet-recommendations)
 
 ## Parity Signer
 
-* [Learn More Here](https://support.mycrypto.com/accessing-your-wallet/how-to-use-the-parity-signer-with-mycrypto.html)
+* [Learn More Here](/how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto)
 
 ## Keystore File (UTC / JSON)
 
@@ -34,7 +34,7 @@ However, for additional functionality (like protecting it with a password) there
 * Make sure to have multiple backups.
 * Keystore files are insecure. If you unlock your account on a phishing site with a keystore file, the phishers will get full access to your wallet. Use one of the options above, or the [MyCrypto Desktop App](https://download.mycrypto.com/).
 
-[How to Properly Save and Backup your Wallet](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html)
+[How to Properly Save and Backup your Wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
 
 ![](https://i.imgur.com/j5S7mJU.png)
 
@@ -53,7 +53,7 @@ However, for additional functionality (like protecting it with a password) there
 
 * This is the unencrypted text version of your private key, meaning no password is necessary.
 * If someone were to find your unencrypted private key, they could access your wallet without a password.
-* For this reason, encrypted versions are typically recommended. To learn about how you can encrypt your private key, [click here for more information](https://support.mycrypto.com/private-keys-passwords/how-to-change-ethereum-account-password-unencrypted-encrypted.html).
+* For this reason, encrypted versions are typically recommended. To learn about how you can encrypt your private key, [click here for more information](/how-to/migrating/how-to-change-your-wallet-password-unencrypted-to-encrypted).
 * However, you should print the paper wallet or save this in an **offline** environment (like a piece of paper or USB drive). This ensures a lost password does not result in lost ETH, and acts as another backup.
 * Private keys are insecure. If you unlock your account on a phishing site with a private key, the phishers will get full access to your wallet. Use one of the options above, or the [MyCrypto Desktop App](https://download.mycrypto.com/).
 
@@ -61,5 +61,5 @@ However, for additional functionality (like protecting it with a password) there
 
 ## Related articles
 
-* [Protecting Yourself and Your Funds](https://support.mycrypto.com/security/securing-your-ethereum.html)
-* [How to Properly Save and Backup your Wallet](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html)
+* [Protecting Yourself and Your Funds](/staying-safe/protecting-yourself-and-your-funds)
+* [How to Properly Save and Backup your Wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)

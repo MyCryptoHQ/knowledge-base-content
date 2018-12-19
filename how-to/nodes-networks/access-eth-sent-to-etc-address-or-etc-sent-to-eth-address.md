@@ -3,7 +3,7 @@ title: Access ETH sent to ETC address or ETC sent to ETH address
 description: Networks & Nodes
 priority: 2
 date_published: '2017-12-23'
-date_modified: '2018-04-26'
+date_modified: '2018-12-19'
 ---
 
 > "I sent ETC to my ETH wallet by mistake".
@@ -14,7 +14,7 @@ In order to see your ETC and interact with the ETC chain, you must first be on a
 
 1. Select "ETC (AUTO)" in the network-switcher in the top-right corner of [https://mycrypto.com/account](https://mycrypto.com/account)
 2. Unlock your wallet to send ETC to interact with the ETC chain.
-3. You can see your ETC balance by clicking the "View & Send" page in the navigation and selected -> "View Address". You can also [check your balance](https://support.mycrypto.com/getting-started/checking-balance-of-my-account.html) on a blockchain explorer.
+3. You can see your ETC balance by clicking the "View & Send" page in the navigation and selected -> "View Address". You can also [check your balance](/how-to/accessing-wallet/how-to-check-the-balance-of-your-account) on a blockchain explorer.
 
 In order to switch back to ETH, simply change the node back to an ETH node in the upper right corner.
 

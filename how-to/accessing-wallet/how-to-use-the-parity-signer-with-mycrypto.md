@@ -3,7 +3,7 @@ title: How to Use the Parity Signer with MyCrypto
 description: Accessing your Wallet
 priority: 4
 date_published: '2018-04-18'
-date_modified: '2018-12-14'
+date_modified: '2018-12-19'
 ---
 
 ## What is the Parity Signer?
@@ -96,4 +96,4 @@ Make sure to first do a trial run with a small amount of Ether before sending la
 * [Parity Privacy Policy](http://paritytech.io/legal/)
 * [Parity Signer + MyCrypto Tutorial](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html)
 * [How to Keep your Recovery Seed/Phrase Secure](https://blockonomi.com/keep-recovery-seed-safe/)
-* [Traditional Hardware Wallet Recommendations](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html)
+* [Traditional Hardware Wallet Recommendations](/staying-safe/hardware-wallet-recommendations)

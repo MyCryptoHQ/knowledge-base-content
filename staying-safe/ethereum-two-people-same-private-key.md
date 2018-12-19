@@ -3,7 +3,7 @@ title: Ensuring MyCrypto doesn't give different people the same private key
 description: Security & Phishing
 priority: 70
 date_published: '2017-07-05'
-date_modified: '2018-08-23'
+date_modified: '2018-12-19'
 ---
 
 "How does it ensure that it doesn't give different people the same key?"
@@ -60,7 +60,7 @@ Even if the blockchain is in active, vigorous use for the next ten thousand year
 
 ## Related articles
 
-* [Couldn't everybody put in random private keys, look for a balance, and send to their own address?](https://support.mycrypto.com/security/couldnt-everybody-put-in-a-random-key-and-send-to-own-address.html)
+* [Couldn't everybody put in random private keys, look for a balance, and send to their own address?](/staying-safe/couldnt-everybody-put-in-a-random-key-and-send-to-own-address)
 
 ## Sources
 

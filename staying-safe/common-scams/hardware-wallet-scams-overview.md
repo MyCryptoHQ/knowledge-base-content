@@ -3,7 +3,7 @@ title: Hardware Wallet Scams and Hacks
 description: Common Scams
 priority: 8
 date_published: '2018-03-12'
-date_modified: '2018-03-16'
+date_modified: '2018-12-19'
 ---
 
 ## General Tips for Securing Hardware Wallets
@@ -37,4 +37,4 @@ When you find these scams, post about them on social media like Reddit and Twitt
 
 ---
 
-If you don't understand any of the terms in this article, please try referencing our [Ethereum Glossary](https://support.mycrypto.com/getting-started/ethereum-glossary.html).
+If you don't understand any of the terms in this article, please try referencing our [Ethereum Glossary](/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space).

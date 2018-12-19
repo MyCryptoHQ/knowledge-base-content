@@ -3,7 +3,7 @@ title: Checking or replacing a transaction after it's been sent
 description: Transactions
 priority: 10
 date_published: '2017-10-08'
-date_modified: '2018-06-10'
+date_modified: '2018-12-19'
 ---
 
 ## How can I check on the status of my transaction?
@@ -52,7 +52,7 @@ This article **only** applies to finding, checking, and *potentially* replacing 
 4. Details will appear depending on the state of the transaction. It could be...
    * **Transaction Found:** Your transaction was successfully mined and is on the blockchain. Click the link provided.
      * If you see a red ( ! ) symbol, or a "BAD INSTRUCTION" or "OUT OF GAS" error message, it means that the transaction was not successfully *sent*. You cannot cancel or replace this transaction. Instead, send a new transaction. If you received an "Out of Gas" error, you should double the gas limit you specified originally.
-     * If you do not see any errors, your transaction was successfully sent. Your ETH or tokens are where you sent them. If this balance has not been credited to your hosted wallet or exchange account within 24 hours after sending, please [contact that service](https://support.mycrypto.com/diving-deeper/ethereum-list-of-support-and-communities.html). Send them the *link* to your transaction and ask them, nicely, to look into your situation.
+     * If you do not see any errors, your transaction was successfully sent. Your ETH or tokens are where you sent them. If this balance has not been credited to your hosted wallet or exchange account within 24 hours after sending, please [contact that service](/general-knowledge/ethereum-blockchain/more-help-support-and-communities). Send them the *link* to your transaction and ask them, nicely, to look into your situation.
 
    * **Transaction Not Found:** This transaction cannot be found in the TX pool of the node you are connected to. However, it could be in a different TX pool, waiting to be mined. Please use the dropdown in the upper right to select a different ETH node (e.g., `ETH (Etherscan.io)` or `ETH (Infura.io)` or `ETH (MyCrypto)`) and check again.
    
@@ -108,5 +108,5 @@ The reason we recommend `Canceling` over  `Replacing` is that it is not guarante
 
 ## Related articles
 
-* [You can learn more about gas & gas limit vs gas price here.](https://support.mycrypto.com/gas/what-is-gas-ethereum.html)
-* [You can learn more about nonce here](https://support.mycrypto.com/transactions/what-is-nonce.html)
+* [You can learn more about gas & gas limit vs gas price here.](/general-knowledge/ethereum-blockchain/what-is-gas)
+* [You can learn more about nonce here](/general-knowledge/ethereum-blockchain/what-is-nonce)

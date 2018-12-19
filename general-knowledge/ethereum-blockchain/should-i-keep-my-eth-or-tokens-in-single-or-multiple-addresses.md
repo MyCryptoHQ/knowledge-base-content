@@ -3,7 +3,7 @@ title: Should I keep my ETH and tokens on a single or multiple addresses?
 description: Addresses & Balances
 priority: 6
 date_published: '2017-07-05'
-date_modified: '2017-11-11'
+date_modified: '2018-12-19'
 ---
 
 MyCrypto is a front end interface that enables you to interact directly with the Ethereum blockchain.
@@ -20,6 +20,6 @@ At the end of the day, it's up to you though.
 
 ## Related articles
 
-* [What is Gas?](https://support.mycrypto.com/gas/what-is-gas-ethereum.html)
-* [How to See & Add Custom Tokens](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)
-* [Which tokens does MyCrypto support?](https://support.mycrypto.com/faq/sending-bitcoin-btc-ltc-xmr-to-mycrypto.html)
+* [What is Gas?](/general-knowledge/ethereum-blockchain/what-is-gas)
+* [How to See & Add Custom Tokens](/how-to/tokens/showing-and-loading-tokens)
+* [Which tokens does MyCrypto support?](/general-knowledge/about-mycrypto/does-mycrypto-support-bitcoin-or-other-coins)

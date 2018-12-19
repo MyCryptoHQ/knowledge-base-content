@@ -3,7 +3,7 @@ title: How to sign & verify messages on Ethereum
 description: Addresses & Balances
 priority: 4
 date_published: '2018-04-18'
-date_modified: '2018-05-27'
+date_modified: '2018-12-19'
 ---
 
 ### Why?
@@ -14,7 +14,7 @@ For example, if user A wants to provide evidence to user B that user A has acces
 
 ### Signing a message
 
-1. Go to the [message signing page on MyCrypto](https://mycrypto.com/sign-and-verify-message/sign). Make sure that you see the green "MyCrypto, Inc" certificate in your URL bar. [Don't see it?](https://support.mycrypto.com/security/i-cannot-see-the-extended-validation-certificate.html)
+1. Go to the [message signing page on MyCrypto](https://mycrypto.com/sign-and-verify-message/sign). Make sure that you see the green "MyCrypto, Inc" certificate in your URL bar. [Don't see it?](/troubleshooting/cannot-see-the-extended-validation-certificate)
 2. Access your wallet.
 
 ![](../images/addresses/signing-and-verifying-messages/accessing-wallet.png)

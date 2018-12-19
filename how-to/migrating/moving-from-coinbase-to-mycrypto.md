@@ -3,14 +3,14 @@ title: '[Coinbase ➡ MyCrypto] Moving from Coinbase to MyCrypto'
 description: Migrating to/from MyCrypto
 priority: 8
 date_published: '2015-07-15'
-date_modified: '2018-04-16'
+date_modified: '2018-12-19'
 ---
 
 > How do I move from Coinbase to MyCrypto? [Exchange/Hosted Wallet -> MyCrypto]
 
 So you want to hold your own funds? Are you sure?
 
-Please understand [the difference between an exchange and MyCrypto](https://support.mycrypto.com/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html).
+Please understand [the difference between an exchange and MyCrypto](/general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto).
 
 MyCrypto is not a "web wallet". You do not create an account or give us your ETH or tokens to hold onto. We are simply an interface that allows you to easily interact with the Ethereum blockchain. In order to ensure your security & privacy, no sensitive data is ever saved, stored, or transmitted when you use MyCrypto.
 
@@ -27,9 +27,9 @@ It means that **you are ultimately responsible for your safety & security.**
 * You must back up your key in an external location and never, ever lose it.
 * You must not share this private key with anyone nor enter it on a random site.
 
-We also highly recommend that you read our guide on [How to Prevent Loss & Theft](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html) and take steps to be proactive about your security.
+We also highly recommend that you read our guide on [How to Prevent Loss & Theft](/staying-safe/protecting-yourself-and-your-funds) and take steps to be proactive about your security.
 
-**Next**, head over to our [Getting Started Guide](https://support.mycrypto.com/getting-started/backing-up-your-new-wallet.html) and make a new wallet and back it up.
+**Next**, head over to our [Getting Started Guide](/how-to/backup-restore/how-to-save-back-up-your-wallet) and make a new wallet and back it up.
 
 ### Unlock your account and get the address
 

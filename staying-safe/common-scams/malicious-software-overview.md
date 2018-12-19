@@ -3,7 +3,7 @@ title: Malicious Software
 description: Common Scams
 priority: 10
 date_published: '2018-03-12'
-date_modified: '2018-03-12'
+date_modified: '2018-12-19'
 ---
 
 ## Malicious Software-Based Attacks
@@ -39,4 +39,4 @@ Reference:
 
 ---
 
-If you don't understand any of the terms in this article, please try referencing our [Ethereum Glossary](https://support.mycrypto.com/getting-started/ethereum-glossary.html).
+If you don't understand any of the terms in this article, please try referencing our [Ethereum Glossary](/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space).

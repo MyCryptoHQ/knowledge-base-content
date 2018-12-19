@@ -3,7 +3,7 @@ title: How to Buy Ether (ETH) with USD
 description: FAQ
 priority: 12
 date_published: '2017-06-20'
-date_modified: '2018-12-14'
+date_modified: '2018-12-19'
 ---
 
 ## Hello and welcome to Ethereum!
@@ -18,10 +18,9 @@ Second, most of the people involved in this world are pretty technically savvy, 
 
 ### Still with me? Good! Let's dive deeper!
 
-* [Understand the difference between a hosted wallet / exchange and client-side wallet before moving your ETH to your own wallet.](https://support.mycrypto.com/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html)
-* [Learn how to protect your funds!](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)
-* [10 Tips for Noobs](https://support.mycrypto.com/getting-started/getting-back-to-basics-tips-for-newbies.html) & [Words are Hard](https://support.mycrypto.com/getting-started/ethereum-glossary.html) are both great intros.
-* [And even more links to awesome things just because](https://support.mycrypto.com/diving-deeper/).
+* [Understand the difference between a hosted wallet / exchange and client-side wallet before moving your ETH to your own wallet.](/general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto)
+* [Learn how to protect your funds!](/staying-safe/protecting-yourself-and-your-funds)
+* [10 Tips for Noobs](/general-knowledge/ethereum-blockchain/getting-back-to-the-basics-ten-tips-for-newbies) & [Words are Hard](/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space) are both great intros.
 
 ### Now, the fun part! How To Buy ETH
 
@@ -37,7 +36,7 @@ Second, most of the people involved in this world are pretty technically savvy, 
 
 6. ...While you are waiting for your verification and transfer, download and install the [MyCrypto Desktop App](https://download.mycrypto.com/).
 
-7. When you run it, click on `Create New Wallet` and [create a fresh wallet](https://support.mycrypto.com/getting-started/creating-a-new-wallet-on-mycrypto.html). Use a password that you will never, ever forget and create the account. Then, it'll give you an address that starts with 0x. This is what you will enter on your exchange to move your ETH from their account to your own.
+7. When you run it, click on `Create New Wallet` and [create a fresh wallet](/how-to/getting-started/how-to-create-a-wallet). Use a password that you will never, ever forget and create the account. Then, it'll give you an address that starts with 0x. This is what you will enter on your exchange to move your ETH from their account to your own.
 
 8. To safely keep your account, you have 3 pieces of information:
    * Your address (0x4bbeEB.....)
@@ -65,10 +64,9 @@ Then, create an Ethereum account and back it up. In Circle or Coinbase, send all
 
 I have outlined the steps above as if you should do it all as fast as possible. Stop. Breath. There is no rush. Take your time moving your funds from an exchange to your own wallet. Test with a small amount first. Get the feel for things and make mistakes with *small amounts* rather than all your money! If you skipped steps earlier or didn't understand them, take the time to reread them now.
 
-* [Understand the difference between a hosted wallet / exchange and client-side wallet before moving your ETH to your own wallet.](https://support.mycrypto.com/getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html)
-* [Learn how to protect your funds!](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html)
-* [10 Tips for Noobs](https://support.mycrypto.com/getting-started/getting-back-to-basics-tips-for-newbies.html) & [Words are Hard](https://support.mycrypto.com/getting-started/ethereum-glossary.html) are both great intros.
-* [And even more links to awesome things just because](https://support.mycrypto.com/diving-deeper/)
+* [Understand the difference between a hosted wallet / exchange and client-side wallet before moving your ETH to your own wallet.](/general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto)
+* [Learn how to protect your funds!](/staying-safe/protecting-yourself-and-your-funds)
+* [10 Tips for Noobs](/general-knowledge/ethereum-blockchain/getting-back-to-the-basics-ten-tips-for-newbies) & [Words are Hard](/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space) are both great intros.
 
 ### How to Use the MyCrypto Coinbase Widget
 

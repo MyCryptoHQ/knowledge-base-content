@@ -3,7 +3,7 @@ title: A glossary of common terms in the Ethereum and crypto space
 description: Getting Started
 priority: 10
 date_published: '2015-10-05'
-date_modified: '2018-11-18'
+date_modified: '2018-12-19'
 ---
 
 ## Words are hard
@@ -76,7 +76,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 * Typically, they use a 24-word phrase. This phrase you should write down (not on your computer) and store separately from your hardware wallet.
 * If you lose your hardware wallet, you can still gain access to your accounts & funds via the word-phrase you wrote down.
 * Never type the word-phrase on your computer. It defeats the purpose of your hardware wallet.
-* [See here for more information about Hardware Wallets](https://support.mycrypto.com/hardware-wallets/)
+* [See here for more information about Hardware Wallets](/how-to/hardware-wallets)
 
 ### AddressIdenticon / AddressIcon:
 

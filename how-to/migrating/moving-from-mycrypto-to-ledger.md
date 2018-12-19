@@ -3,7 +3,7 @@ title: '[MyCrypto ➡ Ledger] Moving from MyCrypto to Ledger'
 description: Migrating to/from MyCrypto
 priority: 2
 date_published: '2017-10-08'
-date_modified: '2018-11-29'
+date_modified: '2018-12-19'
 ---
 
 The Ledger Nano S is one of the best and easiest-to-use cryptocurrency hardware wallets out there, and is available for purchase [here](https://www.ledgerwallet.com/r/1985?path=/products/). While the Ledger Nano S supports a wide range of cryptocurrencies, this guide was specifically written for using Ether and ERC-20 tokens with MyCrypto.
@@ -80,7 +80,7 @@ Ledger made a clear and easy-to-follow guide on how to restore your Nano S [here
 
 ## Troubleshooting
 
-Ledger has an extensive knowledge base that you can find [here](https://support.ledgerwallet.com/hc/en-us), and MyCrypto's is [here](https://support.mycrypto.com/). You can select any of these addresses to access them. If not, feel free to contact either [Ledger](https://support.ledgerwallet.com/hc/en-us) or [MyCrypto](https://support.mycrypto.com/form/).
+Ledger has an extensive knowledge base that you can find [here](https://support.ledgerwallet.com/hc/en-us), and MyCrypto's is [here](/). You can select any of these addresses to access them. If not, feel free to contact either [Ledger](https://support.ledgerwallet.com/hc/en-us) or [MyCrypto](/contact-us/).
 
 ## Related links
 

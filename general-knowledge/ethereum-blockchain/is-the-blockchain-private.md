@@ -3,7 +3,7 @@ title: Is the blockchain private?
 description: Diving Deeper
 priority: 80
 date_published: '2018-04-30'
-date_modified: '2018-06-10'
+date_modified: '2018-12-19'
 ---
 
 > “Picture a spreadsheet that is duplicated thousands of times across a network of computers. Then imagine that this network is designed to regularly update this spreadsheet and you have a basic understanding of the blockchain.”
@@ -38,7 +38,7 @@ If an attacker decides they want your funds, they could use information availabl
 
 For this reason, it isn’t recommended that you publicly post your address on the internet. If you must publicly use an address, create a new address for that purpose alone. Similarly, do not make it known which or how much  cryptocurrency you hold (or even that you do at all). Just like you don’t leave piles cash laying around your house or post screenshots of your bank account to Facebook, don’t publish your cryptocurrency addresses or screenshots of your balances.
 
-For more information on how to protect yourself and your funds, [you can visit here](https://support.mycrypto.com/security/).
+For more information on how to protect yourself and your funds, [you can visit here](/staying-safe).
 
 ### Sharing your address with someone so they can pay you
 

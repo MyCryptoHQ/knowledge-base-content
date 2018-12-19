@@ -3,7 +3,7 @@ title: Protecting Yourself and Your Funds
 description: Getting Started
 priority: 20
 date_published: '2015-07-15'
-date_modified: '2018-11-29'
+date_modified: '2018-12-19'
 ---
 
 ## 1. Get yourself a hardware wallet
@@ -14,7 +14,7 @@ One of the safest and easiest ways to store your ETH, Tokens, ETC, BTC, and many
 * [Buy a Trezor](https://shop.trezor.io/?offer_id=10&aff_id=1735)
 * [Buy a Keepkey](http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086)
 
-If you don't want one of these nifty devices, use [cold storage](https://support.mycrypto.com/offline/ethereum-cold-storage-with-mycrypto.html) for a majority of your savings. Please. Pretty please.
+If you don't want one of these nifty devices, use [cold storage](/how-to/offline/using-mycrypto-for-cold-storage) for a majority of your savings. Please. Pretty please.
 
 ## 2. Bookmark your crypto sites.
 
@@ -24,7 +24,7 @@ Use those bookmarks and only those.
 
 Install the [EAL Chrome Extension](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or the [MetaMask Chrome Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) to warn you if you go to a crypto-phishing link.
 
-## 4. [Use MyCrypto locally and offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html).
+## 4. [Use MyCrypto locally and offline](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
 
 ## 5. Do not trust random URLs
 

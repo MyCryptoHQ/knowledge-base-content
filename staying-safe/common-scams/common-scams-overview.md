@@ -3,7 +3,7 @@ title: Overview of Common Scams
 description: Common Scams
 priority: 2
 date_published: '2018-03-12'
-date_modified: '2018-03-16'
+date_modified: '2018-12-19'
 ---
 
 ## Introduction
@@ -22,7 +22,7 @@ You can see the diversity of phishing sites, fake airdrop sites, fake ICO sites,
 
 Beyond that, we've also seen computers be compromised with malware, keyloggers, clipboard loggers, and more. Having remote access software (TeamViewer) or keeping keys on cloud storage can also be detrimental.  
 
-We hope that the [Common Scams](https://support.mycrypto.com/common-scams/) articles can help people that are new to information security avoid common scams that are prevalent in today's Ethereum ecosystem.
+We hope that the [Common Scams](/staying-safe/common-scams) articles can help people that are new to information security avoid common scams that are prevalent in today's Ethereum ecosystem.
 
 ### High-Level Tips for Security
 
@@ -34,13 +34,13 @@ We hope that the [Common Scams](https://support.mycrypto.com/common-scams/) arti
 
 ## Visit the following links to see instances of common Scams
 
-* [Phishing Overview](https://support.mycrypto.com/common-scams/phishing-overview.html) - Scams / hacks relating to phishing
-* [Hardware Wallet Scams](https://support.mycrypto.com/common-scams/hardware-wallet-scams-overview.html) - Scams / hacks relating to hardware wallets
-* [Malicious Software](https://support.mycrypto.com/common-scams/malicious-software-overview.html) - Scams / hacks relating to computing habits
-* [Privacy Concerns](https://support.mycrypto.com/common-scams/privacy-concerns-overview.html) - Privacy concerns
+* [Phishing Overview](/staying-safe/common-scams/phishing-overview) - Scams / hacks relating to phishing
+* [Hardware Wallet Scams](/staying-safe/common-scams/hardware-wallet-scams-overview) - Scams / hacks relating to hardware wallets
+* [Malicious Software](/staying-safe/common-scams/malicious-software-overview) - Scams / hacks relating to computing habits
+* [Privacy Concerns](/staying-safe/common-scams/privacy-concerns-overview) - Privacy concerns
 
 ---
 
 ## Security and Cryptocurrency Terminology
 
-Some terminology that is useful for security-related discussions and general cryptocurrency discussions can be found here: [https://support.mycrypto.com/getting-started/ethereum-glossary.html](https://support.mycrypto.com/getting-started/ethereum-glossary.html).
+Some terminology that is useful for security-related discussions and general cryptocurrency discussions can be found here: [Ethereum Glossary](/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space).

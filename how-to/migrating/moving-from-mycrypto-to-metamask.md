@@ -3,7 +3,7 @@ title: '[MyCrypto ➡ MetaMask] Moving from MyCrypto to MetaMask'
 description: Migrating to/from MyCrypto
 priority: 1
 date_published: '2017-10-08'
-date_modified: '2018-05-27'
+date_modified: '2018-12-19'
 ---
 
 ## Using MetaMask + MyCrypto has 3 key benefits:
@@ -86,9 +86,9 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 
 ## Warning!
 
-* If you are sending a huge amount of tokens or ETH, please send a small test amount first. Or consider [getting a hardware wallet](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html) or [running MyCrypto offline](https://support.mycrypto.com/offline/running-mycrypto-locally.html). This ensures you are as secure as possible.
+* If you are sending a huge amount of tokens or ETH, please send a small test amount first. Or consider [getting a hardware wallet](/staying-safe/hardware-wallet-recommendations) or [running MyCrypto offline](/how-to/offline/how-to-run-mycrypto-offline-and-locally). This ensures you are as secure as possible.
 
 ## Related articles
 
 * [MetaMask Privacy Policy](https://metamask.io/privacy.html)
-* [How to Transfer Funds](https://support.mycrypto.com/send/how-to-send-transaction.html)
+* [How to Transfer Funds](/how-to/sending/how-to-send-a-transaction)

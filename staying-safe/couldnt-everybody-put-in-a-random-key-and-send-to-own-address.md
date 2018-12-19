@@ -3,7 +3,7 @@ title: Couldn't everybody type in random private keys & steal funds?
 description: Security & Phishing
 priority: 65
 date_published: '2017-06-20'
-date_modified: '2017-06-20'
+date_modified: '2018-12-19'
 ---
 
 ## Short version
@@ -35,7 +35,7 @@ Of course, this all assumes that keys are generated in a truly random way & with
 ## Related articles
 
 * [BIP-39s (mnemonic phrases & Ledger hardware wallets)](https://www.reddit.com/r/ledgerwallet/comments/6cjvam/probability_of_seed_phrase_collisionbrute_forcing/)
-* [How does it ensure that it doesn't give different people the same key?](https://support.mycrypto.com/security/ethereum-two-people-same-private-key.html)
+* [How does it ensure that it doesn't give different people the same key?](/staying-safe/ethereum-two-people-same-private-key)
 * [Not all private keys are valid on the curve](https://crypto.stackexchange.com/questions/30269/are-all-possible-ec-private-keys-valid)
 * [https://en.wikipedia.org/wiki/Public-key_cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 * [https://eprint.iacr.org/2013/734.pdf](https://eprint.iacr.org/2013/734.pdf)

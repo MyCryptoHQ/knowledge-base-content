@@ -3,14 +3,14 @@ title: How to create a wallet
 description: Getting Started
 priority: 5
 date_published: '2015-10-05'
-date_modified: '2018-12-14'
+date_modified: '2018-12-19'
 ---
 
 ## Preface
 
 We highly recommend getting a hardware wallet or using MetaMask as a method to access your wallet and store your funds.
 
-The following assumes you are **not** using a hardware wallet or MetaMask. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html).
+The following assumes you are **not** using a hardware wallet or MetaMask. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](/staying-safe/hardware-wallet-recommendations).
 
 Remember to back up any wallets you create! Including the 12-word or 24-word private seed phrase for your hardware wallets! MyCrypto <em>CANNOT</em> recover any lost passwords or access accounts. MyCrypto only has access to information that is publicly available on the blockchain. The security and responsibilty of your funds rests on your own shoulders! But MyCrypto will always be here for guidance and to answer any questions that you may have regarding how to be safe with your funds.  
 
@@ -103,5 +103,5 @@ We are a client-side interface that allows you to interact with the Ethereum blo
 
 ## Related articles
 
-* [What is the difference between private key & Keystore / UTC file?](https://support.mycrypto.com/private-keys-passwords/difference-beween-private-key-and-keystore-file.html)
-* [Protecting yourself and your funds](https://support.mycrypto.com/security/securing-your-ethereum.html)
+* [What is the difference between private key & Keystore / UTC file?](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)
+* [Protecting yourself and your funds](/staying-safe/protecting-yourself-and-your-funds)

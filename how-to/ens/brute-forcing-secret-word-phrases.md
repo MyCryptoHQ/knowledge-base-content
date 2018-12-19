@@ -3,7 +3,7 @@ title: Brute-Forcing Secret Word Phrases
 description: ENS
 priority: 16
 date_published: '2017-07-05'
-date_modified: '2018-12-14'
+date_modified: '2018-12-19'
 ---
 
 *[The following is from /u/eth-o-licious2 on reddit](https://www.reddit.com/r/ethereum/comments/6j8ih6/ens_troubleshooting_if_you_use_mew_and_forgot/)*
@@ -20,7 +20,7 @@ So, what I did was write a Python script to brute-force through all of the possi
 
 I'm posting this in case anyone else is finding themselves in the same situation. This might help prevent loss of your bid amount.
 
-You need to know the account you bid from and the amount; this will not work without that information. If you have that, then go to [section 1 of this troubleshooting page](https://support.mycrypto.com/ens/ens-debugging-a-bad-instruction-reveal.html) and follow the instructions in order to get the `New Bid Data` string, which is the combination of the `MethodId:" and "[0]:` from your bid transaction.
+You need to know the account you bid from and the amount; this will not work without that information. If you have that, then go to [section 1 of this troubleshooting page](/troubleshooting/ens/ens-debugging-a-bad-instruction-reveal) and follow the instructions in order to get the `New Bid Data` string, which is the combination of the `MethodId:" and "[0]:` from your bid transaction.
 
 Once you have that, all you need to do is replace the information that the four variables at the top of the Python script are currently set to. The variable names correspond with the fields under the ENS Debugger on the [MyCrypto Helpers Page](https://legacy.mycrypto.com/helpers.html).
 

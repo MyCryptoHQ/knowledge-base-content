@@ -3,12 +3,12 @@ title: Why you should backup your hardware wallet
 description: Hardware Wallets
 priority: 5
 date_published: '2018-04-18'
-date_modified: '2018-11-29'
+date_modified: '2018-12-19'
 ---
 
 ## Preface
 
-The following assumes you are using a Ledger Nano S or TREZOR hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](https://support.mycrypto.com/hardware-wallets/hardware-wallet-recommendations.html).
+The following assumes you are using a Ledger Nano S or TREZOR hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](/staying-safe/hardware-wallet-recommendations).
 
 To save / backup your Ledger or TREZOR device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it into MyCrypto.com.
 
@@ -40,8 +40,8 @@ Hope this helps!
 ## Related articles & links
 
 * [Seed, PIN, and Passphrase - TREZOR](https://blog.trezor.io/seed-pin-passphrase-e15d14a0b546)
-* [Setting Up Your Ledger Nano S](https://support.mycrypto.com/migration/moving-from-private-key-to-ledger-hardware-wallet.html)
+* [Setting Up Your Ledger Nano S](/how-to/migrating/moving-from-mycrypto-to-ledger)
 * [Buy a Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
 * [Buy a Trezor](https://shop.trezor.io/?offer_id=10&aff_id=1735)
 * [Buy a Keepkey](http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086)
-* [More on Hardware Wallets](https://support.mycrypto.com/hardware-wallets/)
+* [More on Hardware Wallets](/how-to/hardware-wallets)

@@ -3,7 +3,7 @@ title: Sending & Adding Tokens
 description: Sending & Receiving
 priority: 6
 date_published: '2017-07-05'
-date_modified: '2018-12-14'
+date_modified: '2018-12-19'
 ---
 
 1. Navigate to the [View & Send](https://mycrypto.com/account) page.
@@ -11,7 +11,7 @@ date_modified: '2018-12-14'
 3. Enter the address you would like to send to in the "To Address:" field.
 4. Enter the amount you would like to send.
 5. Select which token you would like to send.
-6. **If you do not see the token listed, follow this guide [this guide](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html).**
+6. **If you do not see the token listed, follow this guide [this guide](/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens).**
 7. Click "Send Transaction."
 8. A couple more fields will appear. This is your browser generating the transaction.
 9. Click the blue "Send Transaction" button below that.
@@ -20,4 +20,4 @@ date_modified: '2018-12-14'
 
 ## Related articles
 
-* [How to add a custom token if it doesn't show up in the list](https://support.mycrypto.com/tokens/adding-new-token-and-sending-custom-tokens.html)
+* [How to add a custom token if it doesn't show up in the list](/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens)

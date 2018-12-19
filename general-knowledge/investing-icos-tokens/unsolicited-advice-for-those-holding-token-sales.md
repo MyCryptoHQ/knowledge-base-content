@@ -3,7 +3,7 @@ title: Unsolicited advice for those holding token sales
 description: Best Of
 priority: 16
 date_published: '2017-07-05'
-date_modified: '2018-02-19'
+date_modified: '2018-12-19'
 ---
 
 This is part of a series where Taylor pulls sweet comments she has made or found over the years in the hopes that they can be useful, searchable, remembered, referenced, and / or aid in the creation of future Knowledge Base posts. Many are unpolished and contain typos, specific references to previous discussions or the user, and gratuitous cursing.
@@ -24,7 +24,7 @@ Building a product is easy ... dealing with people is hard. If you are not prepa
 8. Get an ENS name for your token sale.
 9. Get all contracts verified on etherscan.io beforehand. Teach users how to check if they're verified, how to check comments on etherscan.io, and how to tell whether they are sending to a normal account or contract (sending to a normal account would indicate a scam).
 10. Encourage users to get a hardware wallet, run MyCrypto offline, or run a full node.
-11. Get your token on MyCrypto and provide a custom message when users enter your address: <https://support.mycrypto.com/tokens/token-creators-add-your-token-to-mycrypto.html>.
+11. [Get your token on MyCrypto and provide a custom message when users enter your address](/developers/add-token-to-default-list).
 
 You are free to use, modify, or shamelessly steal any information in our Knowledge Base. A shoutout is nice, but not required. Take advantage of this: <https://support.mycrypto.com/>.
 
@@ -51,10 +51,10 @@ You are free to use, modify, or shamelessly steal any information in our Knowled
 
 * Report Scams / Phishes: [https://etherscamdb.info/](https://etherscamdb.info/).
 * Encourage people to install [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) (uses above to block malicious sites).
-* Encourage people to be secure: [https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html](https://support.mycrypto.com/getting-started/protecting-yourself-and-your-funds.html).
+* Encourage people to be secure: [https://support.mycrypto.com/staying-safe/protecting-yourself-and-your-funds](/staying-safe/protecting-yourself-and-your-funds).
 * Look over how 0x did things to prevent scams. Philippe is like the best ever, touch base with him for the code for Slack if you need it (blacklists and auto-deletes malicious messages). [https://blog.0xproject.com/a-note-on-scams-and-phishing-attempts-e2d72577a470](https://blog.0xproject.com/a-note-on-scams-and-phishing-attempts-e2d72577a470).
 * MetaCert also provides similar functionality. Paul (Founder) is on Twitter and loves helping ICO's protect their investors. Get in touch with him.
-* Starter template on what to tell people who get phished: [https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html](https://support.mycrypto.com/security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html).
+* Starter template on what to tell people who get phished: [https://support.mycrypto.com/staying-safe/phish-hacks-thefts-and-stolen-funds-due-to-phishing](/staying-safe/phish-hacks-thefts-and-stolen-funds-due-to-phishing).
 
 ![](../images/best-of/unsolicited-advice.png)
 
