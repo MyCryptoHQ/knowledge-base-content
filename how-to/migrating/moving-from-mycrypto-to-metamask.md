@@ -10,7 +10,7 @@ date_modified: '2018-12-19'
 
 1. If you use MetaMask, it is far less likely you will be phished or affected by a phishing site, as your key remains in MetaMask and the scam website will not be able to steal it.
 2. It is by far the fastest, easiest way to unlock your wallet via MyCrypto.com and is completely free. You *just* click a button. No more searching for keys or Keystore files!
-3. MetaMask will block you with a big, red warning if you go to a malicious site [found on our blacklists](https://github.com/409H/EtherAddressLookup/blob/master/blacklists/domains.json). Look at all these crypto phishing websites! ![](../images/metamask/moving-from-private-key-to-metamask_03.jpg)
+3. MetaMask will block you with a big, red warning if you go to a malicious site [found on our blacklists](https://github.com/409H/EtherAddressLookup/blob/master/blacklists/domains.json). Look at all these crypto phishing websites! ![Phishing Websites](../../assets/how-to/migrating/moving-from-mycrypto-to-metamask/moving-from-mycrypto-to-metamask-3.jpg)
 
 Damn! That's a lot of phishing sites!
 
@@ -33,7 +33,7 @@ When you set up MetaMask, you will be given a new wallet address and a new priva
 1. [Find the MetaMask extension in the Chrome Store](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn).
 2. Check to make sure it's the legit site. Are there are a ton of positive reviews? Are there a ton of users? If so, it's probably the right one.
 
-![](../images/metamask/moving-from-private-key-to-metamask_01.jpg)
+![MetaMask](../../assets/how-to/migrating/moving-from-mycrypto-to-metamask/moving-from-mycrypto-to-metamask-1.jpg)
 
 3. Install the program by clicking "Add to Chrome."
 4. Click the new orange MetaMask logo in your extension bar.
@@ -73,7 +73,7 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 4. Unlock your account how you typically do.
 5. Get your address from MetaMask. Click the orange extension icon, click the three dots (`. . .`) next to your new account, and click `Copy Address to clipboard`.
 
-![](../images/metamask/moving-from-private-key-to-metamask_02.jpg)
+![MetaMask Overview](../../assets/how-to/migrating/moving-from-mycrypto-to-metamask/moving-from-mycrypto-to-metamask-2.jpg)
 
 6. Paste your MetaMask address in the `To Address` field on MyCrypto.
 7. First, send all your tokens. Click "Scan For Tokens" in the sidebar and wait for all those tokens to load.

@@ -56,7 +56,7 @@ You are free to use, modify, or shamelessly steal any information in our Knowled
 * MetaCert also provides similar functionality. Paul (Founder) is on Twitter and loves helping ICO's protect their investors. Get in touch with him.
 * Starter template on what to tell people who get phished: [https://support.mycrypto.com/staying-safe/phish-hacks-thefts-and-stolen-funds-due-to-phishing](/staying-safe/phish-hacks-thefts-and-stolen-funds-due-to-phishing).
 
-![](../images/best-of/unsolicited-advice.png)
+![Unsolicited Advice](../../assets/general-knowledge/investing-icos-tokens/unsolicited-advice-for-those-holding-token-sales/unsolicited-advice-1.png)
 
 * Suggestions in this discussion to move to other platforms with better anti-spam tools [https://github.com/aragon/governance/issues/7](https://github.com/aragon/governance/issues/7).
 * Install and encourage others to install @Harry's EAL extension, which blocks known bad addresses and sites: [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn).

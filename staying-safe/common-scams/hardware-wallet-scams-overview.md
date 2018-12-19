@@ -21,7 +21,7 @@ In this type of attack, a bad actor would purchase hardware wallets, record the 
 
 The image below shows a hardware wallet posted for resale:
 
-[<img src="../images/common-scams/preowned-hardware-wallet.PNG" style="width: 100%; height: auto; max-width: 400px;">](https://support.mycrypto.com/images/common-scams/preowned-hardware-wallet.PNG)
+![Pre-Owned Hardware Wallet](../../assets/staying-safe/common-scams/hardware-wallet-scams-overview/pre-owned-hardware-wallet.png)
 
 #### How can I mitigate this?
 

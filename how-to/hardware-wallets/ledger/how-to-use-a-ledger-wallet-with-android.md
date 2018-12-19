@@ -1,9 +1,9 @@
 ---
-title: 'Using a Ledger with an Android device'
+title: Using a Ledger with an Android device
 description: Hardware Wallets
 priority: 15
 date_published: '2015-12-29'
-date_modified: '2018-11-29'
+date_modified: '2018-12-19'
 ---
 
 ## Requirements
@@ -18,6 +18,6 @@ Before you connect your Ledger Wallet to your device, you first have to install 
 
 Now, connect your Ledger Wallet and open the Ethereum application. Make sure both `Contract Data` and `Browser Support` are **ON** *(Note: this is no longer required in newer versions of the Ledger firmware)*. Open your browser and go to MyCrypto. On the Send & Receive page, select the Ledger option and tap on `Connect to Ledger Wallet`.
 
-![](../images/hardware-wallets/ledger-hardware-wallet-using-with-android-01.png)
+![](../../../assets/how-to/hardware-wallets/ledger/how-to-use-a-ledger-wallet-with-android/how-to-use-a-ledger-wallet-with-android-1.png)
 
 You should see a pop-up asking if you want to allow the Ledger application you just installed to access the Ledger Wallet. Tap on `OK` and you should be able to see your addresses on MyCrypto.

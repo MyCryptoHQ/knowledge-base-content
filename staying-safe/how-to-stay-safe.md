@@ -3,7 +3,7 @@ title: How to stay safe during ICOs and other periods
 description: Security & Phishing
 priority: 89
 date_published: '2018-04-30'
-date_modified: '2018-11-29'
+date_modified: '2018-12-19'
 ---
 
 ## Domain verification
@@ -14,7 +14,7 @@ There are many website clones of ICOs with fake contribution addresses. Sometime
 the domain (e.g., an "i" becomes an "l" in the scam site). Sometimes they use IDN domains which are harder to see with your eye
 (e.g., a "c" becomes a "ƈ").
 
-![/images/security/how-to-stay-safe/idn-demo-domains.png](/images/security/how-to-stay-safe/idn-demo-domains.png)
+![IDN Demo Domains](../assets/staying-safe/how-to-stay-safe/idn-demo-domains.png)
 
 ### The solutions
 
@@ -79,7 +79,7 @@ profile picture and announcing giveaways.
 
 An example
 
-![/images/security/how-to-stay-safe/trust-trading-scam-twitter.PNG](/images/security/how-to-stay-safe/trust-trading-scam-twitter.PNG)
+![Trust Trading Scam (Twitter)](../assets/staying-safe/how-to-stay-safe/trust-trading-scam-twitter.png)
 
 ### The solution
 
@@ -97,7 +97,7 @@ giveaway
 Get BTC or ETH for free
 ``` 
 
-![/images/security/how-to-stay-safe/how-to-mute-words-twitter.png](/images/security/how-to-stay-safe/how-to-mute-words-twitter.png)
+![How To Mute Words (Twitter)](../assets/staying-safe/how-to-stay-safe/how-to-mute-words-twitter.png)
 
 #### Disabling notifications from fresh accounts
 
@@ -119,4 +119,4 @@ ICO you follow, and other types of phishers / scammers.
 This browser extension comes with functionality that will highlight similar account handles to those "verified" by the 
 extension and show a "verified" icon next to the handle on your timeline.
 
-![/images/security/how-to-stay-safe/esl-fake-account-twitter.png](/images/security/how-to-stay-safe/esl-fake-account-twitter.png)
+![ESL Fake Account (Twitter)](../assets/staying-safe/how-to-stay-safe/esl-fake-account-twitter.png)

@@ -17,11 +17,11 @@ For example, if user A wants to provide evidence to user B that user A has acces
 1. Go to the [message signing page on MyCrypto](https://mycrypto.com/sign-and-verify-message/sign). Make sure that you see the green "MyCrypto, Inc" certificate in your URL bar. [Don't see it?](/troubleshooting/cannot-see-the-extended-validation-certificate)
 2. Access your wallet.
 
-![](../images/addresses/signing-and-verifying-messages/accessing-wallet.png)
+![](../../assets/how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum/accessing-wallet.png)
 
 3. Enter the message that you wish to use to prove your ownership of the address.
 
-![](../images/addresses/signing-and-verifying-messages/signing-message.png)
+![](../../assets/how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum/signing-message.png)
 
 4. Click the big blue "Sign Message" button.
 5. Your signed message will appear in a box below. It should look a bit like this:
@@ -42,6 +42,6 @@ You can use this message as proof that you own an address, and share it with any
 1. Go to the [message verifying page on MyCrypto](https://mycrypto.com/sign-and-verify-message/verify).
 2. Enter the signed message that you want to check, and click "Verify Message."
 
-![](../images/addresses/signing-and-verifying-messages/verifying-message.png)
+![](../../assets/how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum/verifying-message.png)
 
 If the signature is correct, a green bar will be displayed.

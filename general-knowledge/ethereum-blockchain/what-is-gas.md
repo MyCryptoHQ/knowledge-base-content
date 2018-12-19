@@ -3,10 +3,10 @@ title: What is gas?
 description: Gas & Transaction Fees
 priority: 2
 date_published: '2017-07-05'
-date_modified: '2018-02-24'
+date_modified: '2018-12-19'
 ---
 
-![](../images/tx_pool_infographic.png)
+![](../../assets/shared/transaction-pool-infographic.png)
 
 ## Introduction
 

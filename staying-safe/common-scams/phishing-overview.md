@@ -26,13 +26,13 @@ After that, all they need to do is advertise their website for others to see and
 
 #### The correct URL
 
-[<img src="../images/common-scams/correct-url.PNG" style="width: 100%; height: auto; max-width: 400px;">](https://support.mycrypto.com/images/common-scams/correct-url.PNG)
+![Correct URL](../../assets/staying-safe/common-scams/phising-overview/correct-url.png)
 
 vs.
 
 #### The phishing URL
 
-[<img src="../images/common-scams/phishing-url.PNG" style="width: 100%; height: auto; max-width: 400px;">](https://support.mycrypto.com/images/common-scams/phishing-url.PNG)
+![Phishing URL](../../assets/staying-safe/common-scams/phising-overview/phishing-url.png)
 
 #### How can I mitigate this?
 
@@ -52,7 +52,7 @@ Additionally, you can download the [EtherAddressLookup Chrome extension](https:/
 
 An attacker uses a Twitter account and changes the display name to impersonate crypto-related people/organizations like [Vitalik Buterin](https://twitter.com/VitalikButerin), [MyCrypto.com](https://twitter.com/MyCrypto) and [ShapeShift.io](https://twitter.com/ShapeShift_io). Then, they proceed to create an offer for the impersonated account's followers, trying to claim that they're giving out handouts, like so:
 
-[<img src="../images/common-scams/twitter-phish.png" style="width: 100%; height: auto; max-width: 400px;">](https://support.mycrypto.com/images/common-scams/twitter-phish.png)
+![Twitter Phishing](../../assets/staying-safe/common-scams/phising-overview/twitter-phish.png)
 
 #### How can I mitigate this?
 
@@ -68,7 +68,7 @@ An attacker creates an app using logos and names of popular online tools like [M
 
 Mobile phishing applications will appear in the mobile app store, masquerading as mobile versions of popular web-based tools, as pictured below.
 
-[<img src="../images/common-scams/play-store-phish.jpg" style="width: 100%; height: auto; max-width: 400px;">](https://support.mycrypto.com/images/common-scams/play-store-phish.jpg)
+![Fake Play Store App](../../assets/staying-safe/common-scams/phising-overview/play-store-phish.jpg)
 
 #### How can I mitigate this?
 
