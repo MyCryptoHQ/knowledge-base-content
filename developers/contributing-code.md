@@ -6,22 +6,26 @@ date_published: '2017-10-08'
 date_modified: '2018-11-29'
 ---
 
-
 If you're a developer looking to pitch in, you're more than welcome to help out. Here are some suggestions for diving in:
 
-### Read the Documentation
+## Read the Documentation
+
 Make sure you read the entire Readme to understand some basics about the project and how to run it. You can also check out our [style guide](https://github.com/MyCryptoHQ/MyCrypto/wiki/Style-Guides) for how to write code that matches the way we write things.
 
-### Find a Good First Issue
+## Find a Good First Issue
+
 If this is your first time contributing to MyCrypto, you'd probably do well to start small. We often mark good tasks for this on our issue queue with the "good first issue" label. [You can find those over here](https://github.com/MyCryptoHQ/mycrypto/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
 
-### Make an Issue First
+## Make an Issue First
+
 Before you dive into coding your change, it's often a good idea to first make an issue or work on an existing issue before you start. This will allow anyone to provide feedback about what you're going to work on before you spend time on something that may change. Likewise, it will prevent someone else from working on the same issue as you. Pull requests against an existing issue have a much higher chance of getting merged.
 
-### Write Unit Tests
+## Write Unit Tests
+
 If your changes touch the more structural parts of the codebase, you'll be asked to write tests for them, and make sure the existing tests pass. Detailed documentation of writing and running tests is forthcoming, but for now, just try to follow the example of existing tests.
 
-### Make a Detailed Pull Request
+## Make a Detailed Pull Request
+
 Make sure you follow the format of a new pull request where applicable. 
 
 You'll want to:

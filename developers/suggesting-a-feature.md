@@ -1,5 +1,5 @@
 ---
-title: How To Suggest a Feature
+title: How to suggest a feature
 description: Contributor Info
 priority: 66
 date_published: '2017-11-16'
@@ -13,10 +13,12 @@ want to know. Here's the best way to tell us:
     chances are someone else may have too. To consolidate issues, we'll keep
     feature requests in one thread. Show your support for a request by using
     the thumbs up response on the GitHub issue.
+
 2. **Describe your suggestion** - Describe in detail how you would want this
     new feature to work. If something doesn't work very well, it helps to know
     the pain points. If you have an idea of how to make it better, feel free to
     suggest!
+
 3. **Provide examples** - If it's something another website or app is doing,
     shoot us a link or a screenshot. We build better projects by working with
     other developers in our community.
