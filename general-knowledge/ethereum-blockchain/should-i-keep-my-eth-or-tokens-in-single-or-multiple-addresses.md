@@ -6,7 +6,7 @@ date_published: '2017-07-05'
 date_modified: '2018-12-19'
 ---
 
-MyCrypto is a front end interface that enables you to interact directly with the Ethereum blockchain.
+MyCrypto is a front-end interface that enables you to interact directly with the Ethereum blockchain.
 
 Any Ethereum address can receive and store Ethereum-based tokens ("ERC-20" tokens).
 
@@ -14,7 +14,7 @@ MyCrypto enables you, through the interface, to send tokens from your address, v
 
 Whether you store all your ETH and tokens in the same address is up to you. Some people prefer to have different wallets. Some people have a smaller "hot" wallet that is kept on their computer with small amounts of the coins they hold while keeping a majority of their funds in a cold-storage wallet.
 
-The only thing to keep in mind is that in order to send tokens you must also have a small amount (<0.1 ETH) in your account to cover the cost of gas. For this reason, it can be quite inefficient and frustrating to have all your tokens in different addresses.
+The only thing to keep in mind is that in order to send tokens, you must also have a small amount (<0.1 ETH) in your account to cover the cost of gas. For this reason, it can be quite inefficient and frustrating to have all your tokens in different addresses.
 
 At the end of the day, it's up to you though.
 
