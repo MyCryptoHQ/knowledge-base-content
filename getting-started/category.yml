@@ -1,8 +1,0 @@
-title: Getting started
-icon: rocket
-description: Learn how to get started with MyCrypto and Ethereum
-priority: 150
-
-redirects:
- - from: getting-started-new.html
-   to: getting-started-on-mycrypto

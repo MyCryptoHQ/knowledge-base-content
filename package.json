@@ -19,7 +19,7 @@
     "slash": "^2.0.0"
   },
   "scripts": {
-    "mdlint": "remark -q ."
+    "mdlint": "remark -q -f ."
   },
   "lint-staged": {
     "*.md": [
