@@ -59,7 +59,7 @@ Do not trust any address except the one posted on the official site.
 
 * Scam sites rarely last long. Value real comments by real people over a random blog. Value a collection of information over a single source. Understand that legit services will likely have a mix of positive and negative reviews over a long period of time. Scam sites typically have either no one talking about them at all, a lot of yelling about how people got robbed, or the most perfect reviews ever. The latter one is just as much of a red flag as the first one.
 
-## 11. Don't ever run remote-access software (e.g., TeamViewer).
+## 11. Don't run remote-access software (e.g., TeamViewer).
 
 * Don't ever ... but especially not on a computer with keys on them. The number of security holes in these programs is atrocious. It would be a shame if you enabled 2FA on everything in your life but then let a single string of characters give someone access to your entire computer and every account.
 
