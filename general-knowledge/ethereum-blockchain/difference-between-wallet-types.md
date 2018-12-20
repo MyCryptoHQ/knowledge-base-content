@@ -1,24 +1,24 @@
 ---
-title: Differences between wallet types (e.g. private key vs keystore)
+title: Differences Between Wallet Types (e.g., Private Key vs Keystore)
 description: Private Keys & Passwords
 priority: 12
 date_published: '2017-07-05'
 date_modified: '2018-12-19'
 ---
 
-> What are the different types of private key formats that I can use to access my wallet?
+_What are the different types of private key formats that I can use to access my wallet?_
 
-The ETH is stored on the blockchain, your private key or Keystore File or whatever piece of information you have proves ownership of that ETH, which allows you to move it.
+The ETH is stored on the blockchain. Your private key, Keystore file, or whatever piece of information you have proves ownership of that ETH, which allows you to move it.
 
 At the end of the day, you are always signing with your private key.
 
-However, for additional functionality (like protecting it with a password) there are formats & ways of storing your private key:
+However, for additional functionality (like protecting it with a password), there are different formats and ways of storing your private key:
 
 ## MetaMask
 
 * [Learn More Here](/how-to/migrating/moving-from-mycrypto-to-metamask)
 
-## Hardware wallets
+## Hardware Wallets
 
 * [Learn More Here](/staying-safe/hardware-wallet-recommendations)
 
@@ -32,16 +32,16 @@ However, for additional functionality (like protecting it with a password) there
 * If you cannot use one of the options above, this is the recommended version to save.
 * This Keystore file matches the format used by Mist so you can easily import it in the future.
 * Make sure to have multiple backups.
-* Keystore files are insecure. If you unlock your account on a phishing site with a keystore file, the phishers will get full access to your wallet. Use one of the options above, or the [MyCrypto Desktop App](https://download.mycrypto.com/).
+* Keystore files are insecure. If you unlock your account on a phishing site with a Keystore file, the phishers will get full access to your wallet. Use one of the options above, or the [MyCrypto Desktop App](https://download.mycrypto.com/).
 
-[How to Properly Save and Backup your Wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
+[How to Properly Save and Backup Your Wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
 
 ![](https://i.imgur.com/j5S7mJU.png)
 
-## Mnemonic Phrases
+## Mnemonic Phrase
 
-* Typically these come in 12-word or 24-words.
-* They can derive multiple addreses - meaning your phrase actually is able to create multiple accounts, addresses, and private keys.
+* Typically, these come in 12-word or 24-word strings.
+* They can derive multiple addresses, meaning your phrase actually is able to create multiple accounts, addresses, and private keys.
 * [MyCrypto](https://download.mycrypto.com), Ledger, TREZOR, MetaMask, and Jaxx create these for you.
 * Mnemonic phrases are insecure. If you unlock your account on a phishing site with a mnemonic phrase, the phishers will get full access to your wallet. Use one of the options above, or the [MyCrypto Desktop App](https://download.mycrypto.com/).
 
@@ -49,7 +49,7 @@ However, for additional functionality (like protecting it with a password) there
 
 ![](https://i.imgur.com/uq7STuc.png)
 
-## Private Key (unencrypted)
+## Private Key (Unencrypted)
 
 * This is the unencrypted text version of your private key, meaning no password is necessary.
 * If someone were to find your unencrypted private key, they could access your wallet without a password.
