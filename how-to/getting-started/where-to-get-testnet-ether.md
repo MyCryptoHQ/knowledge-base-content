@@ -28,7 +28,6 @@ Rinkeby is a public testnet for Ethereum that uses PoA (Proof of Authority).
 | <http://rinkeby-faucet.com/>      |
 | <https://faucets.blockxlabs.com/> |
 
-
 ### Ropsten
 
 Ropsten is a public testnet for Ethereum that uses PoW (Proof of Work).
@@ -46,7 +45,6 @@ Ropsten is a public testnet for Ethereum that uses PoW (Proof of Work).
 | <https://faucet.bitfwd.xyz/>                                           |
 | <https://ipfs.io/ipfs/QmVAwVKys271P5EQyEfVSxm7BJDKWt42A2gHvNmxLjZMps/> |
 | <http://testnet-faucet.com/>                                           |
-
 
 | Token Faucets                                                          |
 |------------------------------------------------------------------------|
@@ -69,4 +67,3 @@ Kovan is a public testnet for Ethereum that uses Parity's PoA (Proof of Authorit
 | Ask on <https://gitter.im/kovan-testnet/faucet>                                    |
 | Verify your account <https://www.youtube.com/watch?v=99UucFzYCRc&feature=youtu.be> |
 | <https://faucets.blockxlabs.com/>                                                  |
-
