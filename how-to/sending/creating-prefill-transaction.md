@@ -10,14 +10,14 @@ date_modified: '2019-01-22'
 
 Pre-Filled Transactions can be created by appending certain parameters into the query section of a url. Each individual parameter must include a `&` at the beginning and come in the form
 
-###### Currently supported parameters:
+### Currently supported parameters:
 * `to` - The *To* address of the transaction.
 * `value` - The *Value* of the transaction (in Ether).
 * `data` - The *Data* field of the transaction (should be in hex format).
 
 An example:
 
-https://mycrypto.com/account/send?&to=0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520&value=1&data=0xadefadedafdef
+<https://mycrypto.com/account/send?&to=0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520&value=1&data=0xadefadedafdef>
 
 Breaking this down, the transaction will have:
 
