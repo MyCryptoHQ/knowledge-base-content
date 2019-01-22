@@ -1,5 +1,5 @@
 ---
-title: Creating a Pre-Fill Transaction Link
+title: Creating a Pre-Filled Transaction Link
 description: Transactions
 priority: 15
 date_published: '2019-01-22'
@@ -37,4 +37,4 @@ After accessing your wallet, this will open with the prefilled transaction scree
 ## Related articles
 
 * [You can learn more about gas & gas limit vs gas price here.](/general-knowledge/ethereum-blockchain/what-is-gas)
-* [You can read more about pre-fill fields here:.](https://ethereum.stackexchange.com/questions/27909/how-to-prefill-fields-on-myetherwallet-with-given-receiver-address-amount-and)
+* [You can read more about pre-filled fields here:.](https://ethereum.stackexchange.com/questions/27909/how-to-prefill-fields-on-myetherwallet-with-given-receiver-address-amount-and)
