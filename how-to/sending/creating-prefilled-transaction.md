@@ -26,7 +26,7 @@ Breaking this down, the transaction will have:
 * A *Data* field = `0xadefadedafdef`.
 
 After accessing your wallet, this will open with the prefilled transaction screen:
-![Pre-Filled Transaction Screen](../../assets/shared/pre-filled-transaction-page)
+![Pre-Filled Transaction Screen](../../assets/shared/pre-filled-transaction-page.png)
 
 ## Final notes
 
