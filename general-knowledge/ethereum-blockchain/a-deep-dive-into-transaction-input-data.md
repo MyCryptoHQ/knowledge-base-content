@@ -2,7 +2,7 @@
 title: A Deep Dive into Transaction Input Data
 description: Technical explanation of the transaction input data
 priority: 30
-date_published: '2018-01-24'
+date_published: '2019-01-24'
 date_modified: '2019-01-24'
 ---
 
