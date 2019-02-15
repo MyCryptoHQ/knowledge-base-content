@@ -124,7 +124,7 @@ date_modified: '2018-12-19'
 * You don't have to rely on your bank, government, or anyone else when you want to move your funds.
 * You don't have to rely on the security of an exchange or bank to keep your funds safe.
 * If you don't find these things valuable, ask yourself why you think the blockchain and cryptocurrencies are valuable. 😉
-* If you don't like the sound of this, consider using [Coinbase](https://www.coinbase.com/) or [Blockchain.info](https://blockchain.info/wallet/#/signup). They have more familiar accounts with usernames & passwords.
+* If you don't like the sound of this, consider using [Coinbase](https://coinbase-consumer.sjv.io/k9Wjv) or [Blockchain.info](https://blockchain.info/wallet/#/signup). They have more familiar accounts with usernames & passwords.
 * If you are scared but want to use MyCrypto, [get a hardware wallet](/staying-safe/hardware-wallet-recommendations)! These keep your keys secure.
 
 </div>
