@@ -24,7 +24,7 @@ Second, most of the people involved in this world are pretty technically savvy, 
 
 ### Now, the fun part! How To Buy ETH
 
-1. Create an account on either Gemini, [Coinbase](https://buy.coinbase.com/widget?code=60c05061-3a76-57be-b1cd-a7afa97bcb8c&address=0xed72f30c82162f0e95796834daca3f95e06f1baa&crypto_currency=ETH&currency=USD), or Kraken.
+1. Create an account on either Gemini, [Coinbase](https://coinbase-consumer.sjv.io/k9Wjv), or Kraken.
 
 2. Verify that account. You will need to upload a wide variety of documents to prove you are who you say you are. Once you upload all this regulatory stuff, verification takes about a day or two. (Time is dependent on how busy the service is and can be affected by price increases and influxes of new users. Be patient.)
 
@@ -68,27 +68,15 @@ I have outlined the steps above as if you should do it all as fast as possible. 
 * [Learn how to protect your funds!](/staying-safe/protecting-yourself-and-your-funds)
 * [10 Tips for Noobs](/general-knowledge/ethereum-blockchain/getting-back-to-the-basics-ten-tips-for-newbies) & [Words are Hard](/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space) are both great intros.
 
-### How to Use the MyCrypto Coinbase Widget
+### How to Create a Coinbase Account
 
-The Coinbase widget is visible on your "View & Send" screen just below your address information. See below.
+Navigate to [Coinbase](https://coinbase-consumer.sjv.io/k9Wjv)
 
-![](https://i.imgur.com/k0moemj.png)
+For a NEW Coinbase account, click on the *Get Started* button, enter your email address and follow the directions to register and verify your account and device.
 
-Just click on the widget and you will be redirected to a new tab in the window below. Double check that you are on the "secure" Coinbase URL.
+For any questions or issues on how to buy ETH with USD via Coinbase, please contact Coinbase directly.
 
-![](https://i.imgur.com/YfdgA1b.png)
-
-For a NEW Coinbase account, enter your email address and follow the directions to register and verify your account and device. Once you have successfully created your account, you MAY need to go back to the Coinbase widget and enter the email address connected with the Coinbase account that you just created. 
-
-![](https://i.imgur.com/qIswrmN.png)
-
-For a CURRENT and VALID Coinbase account, enter the email address associated with your Coinbase account along with your password, then you should be directed to the screen below.
-
-![](https://i.imgur.com/VBKBlq3.png)
-
-For any questions or issues on how to buy ETH with USD via the MyCrypto Coinbase widget, please contact Coinbase directly.
-
-[Coinbase](https://www.coinbase.com/) : [Support](https://support.coinbase.com/)
+[Coinbase](https://coinbase-consumer.sjv.io/k9Wjv) : [Support](https://support.coinbase.com/)
 
 ## Source
 
