@@ -230,7 +230,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * A digital asset that’s value is pegged to another currency (fiat or digital). This pegging of value is intended to combat volatility. In theory, 1 Dai will always be worth $1 (however, at the time of writing, CoinMarketCap lists the value of 1 Dai to be $1.01).
 
-### thereum vs. Ether
+### Ethereum vs. Ether
 
 * Ethereum is the name of the network (blockchain) that Ether runs on. Ether (or ETH) refers to the cryptocurrency that runs on the Ethereum network. These two terms are commonly (incorrectly) used interchangeably.
 
