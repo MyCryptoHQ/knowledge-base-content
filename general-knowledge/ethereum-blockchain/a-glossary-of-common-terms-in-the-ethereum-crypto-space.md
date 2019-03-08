@@ -12,6 +12,16 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 ---
 
+### Asset
+
+* MyCrypto uses the umbrella term “asset” to refer to any cryptocurrency or token. 
+
+### Cryptocurrency
+
+* A digital store of value that uses complex cryptography to secure financial transactions, control the creation of additional units, and/or verify the transfer of other assets or property. 
+* Possession of cryptocurrencies and their activity are tracked using immutable distributed ledger technology, most commonly in the form of blockchains. 
+* The values of cryptocurrencies vary drastically and in many cases are volatile. In the case of Ether, it is also used as payment (gas) for the computational resources required to run an application (or dapp).
+
 ### Wallet
 
 * The interface / client / wrapper / holder that you use to manage your account(s).
@@ -198,5 +208,30 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 ### Pseudonymous
 
 * Writing under a fake name. In this case, we are signing transactions under an "alias," which is our private key.
+
+### Token
+
+* A digital asset that exists on a blockchain but is not the main cryptocurrency of that blockchain. Examples of tokens that exist on the Ethereum blockchain are BAT, DAI, and OMG. 
+* Different tokens have different functions, such as storing value, representing a vote, or many others that are being created all the time.
+
+#### Security Token
+
+* A token that represents a level of investment in a project, often bought/distributed through an inittal coin offering (ICO). In the US, the Securities and Exchange Commission defines something as a security based on the Howey Test, meaning it is a representation of an investment of money in a common enterprise that the investor hopes to profit from.
+
+#### Utility Token
+
+* A token that is used to interact with a product or service. Filecoin is built on top of the InterPlanetary File System (IPFS), and uses its Filecoin token to pay users who offer storage space to the decentralized storage network. Votem hopes its VAST token can be used to “enable citizens around the world to easily vote online and from their mobile devices with an unprecedented level of verifiability, accessibility, security, and transparency.”
+
+#### Non-Fungible Token (NFT)
+
+* When something is non-fungible, it means that it is unique and cannot be interchanged with another of it’s kind. Pennies minted in 2019 are fungible because one holds the exact same value to someone as another. So too is Ether. Baseball cards are non-fungible because a low-performing rookie from this year will not hold the same value as a 1952 Micky Mantle. Collectables like CryptoKitties are non-fungible. Another potential use for NFTs would be to prove authenticity and/or ownership of valuables (like art) and property.
+
+### Stablecoin
+
+* A digital asset that’s value is pegged to another currency (fiat or digital). This pegging of value is intended to combat volatility. In theory, 1 Dai will always be worth $1 (however, at the time of writing, CoinMarketCap lists the value of 1 Dai to be $1.01).
+
+### thereum vs. Ether
+
+* Ethereum is the name of the network (blockchain) that Ether runs on. Ether (or ETH) refers to the cryptocurrency that runs on the Ethereum network. These two terms are commonly (incorrectly) used interchangeably.
 
 All feedback, rewrites, clarification, typo fixing, and requests for additions are more than welcome!
