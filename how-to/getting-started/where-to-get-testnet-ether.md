@@ -74,9 +74,9 @@ Goerli is a public testnet for Ethereum that POA (Proof of Authority) consensus 
 
 #### Useful links
 
-* Block explorer: https://goerli.etherscan.io/
-* GitHub: https://github.com/goerli/
+* Block explorer: <https://goerli.etherscan.io/>
+* GitHub: <https://github.com/goerli/>
 
-| Faucets                                                                          |
-|----------------------------------------------------------------------------------|
-| Request on https://goerli-faucet.slock.it/index.html                             |
+| Faucets                                                                            |
+|------------------------------------------------------------------------------------|
+| Request on <https://goerli-faucet.slock.it/index.html>                             |
