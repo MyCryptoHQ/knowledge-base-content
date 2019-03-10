@@ -6,7 +6,7 @@ date_published: '2017-07-05'
 date_modified: '2018-12-19'
 ---
 
-_What are the different types of private key formats that I can use to access my wallet?_
+> What are the different types of private key formats that I can use to access my wallet?
 
 The ETH is stored on the blockchain. Your private key, Keystore file, or whatever piece of information you have proves ownership of that ETH, which allows you to move it.
 
