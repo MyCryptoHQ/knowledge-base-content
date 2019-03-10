@@ -12,7 +12,7 @@ date_modified: '2018-12-19'
 2. Use the version of your address that has uppercase letters. [Ethereum addresses have lower and uppercase letters](/general-knowledge/ethereum-blockchain/ethereum-address-has-uppercase-and-lowercase-letters).
 3. Never hand type your private key, Keystore file, or mnemonic phrase. Triple-check the words for mnemonic keys if hand typing (there are still mistakes you can make).
 4. Always send a small amount of ETH to ensure everything goes well and it arrives at the intended destination before sending a large sum.
-5. For new wallets, especially [cold storage](/how-to/offline/using-mycrypto-for-cold-storage), send small amount in _and_ send small amount **out** before sending full amount in.
+5. For new wallets, especially [cold storage](/how-to/offline/using-mycrypto-for-cold-storage), send small amount in *and* send small amount **out** before sending full amount in.
 6. [Save and back up your private key](/how-to/backup-restore/how-to-save-back-up-your-wallet) in a separate location BEFORE sending ETH/tokens to it.
 7. Never email your private key.
 8. Never post your private key on Reddit, Twitter, or Slack.
