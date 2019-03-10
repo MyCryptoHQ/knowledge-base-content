@@ -22,10 +22,11 @@ Rinkeby is a public testnet for Ethereum that uses PoA (Proof of Authority).
 
 * Block explorer: <https://rinkeby.etherscan.io/>
 
-| Faucets                      |
-|------------------------------|
-| <https://faucet.rinkeby.io/> |
-| <http://rinkeby-faucet.com/> |
+| Faucets                           |
+|------------------------------     |
+| <https://faucet.rinkeby.io/>      |
+| <http://rinkeby-faucet.com/>      |
+| <https://faucets.blockxlabs.com/> |
 
 ### Ropsten
 
@@ -65,6 +66,7 @@ Kovan is a public testnet for Ethereum that uses Parity's PoA (Proof of Authorit
 |------------------------------------------------------------------------------------|
 | Ask on <https://gitter.im/kovan-testnet/faucet>                                    |
 | Verify your account <https://www.youtube.com/watch?v=99UucFzYCRc&feature=youtu.be> |
+| <https://faucets.blockxlabs.com/>                                                  |
 
 ### **Goerli**
 
