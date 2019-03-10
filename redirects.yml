@@ -15,6 +15,8 @@ redirects:
     to: how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto
   - from: accessing-your-wallet/how-to-use-your-ledger-hardware-wallet-with-mycrypto.html
     to: how-to/migrating/moving-from-mycrypto-to-ledger
+  - from: accessing-your-wallet/how-to-use-your-ledger-with-mycrypto.html
+    to: how-to/migrating/moving-from-mycrypto-to-ledger
   - from: accessing-your-wallet/how-to-use-your-trezor-with-mycrypto.html
     to: how-to/migrating/moving-from-mycrypto-to-trezor
   - from: getting-started/backing-up-your-new-wallet.html
