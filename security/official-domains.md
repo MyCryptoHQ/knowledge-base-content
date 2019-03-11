@@ -1,5 +1,5 @@
 ---
-title: Official Domains
+title: Official Domain Names Used By MyCrypto
 description: Domains owned by MyCrypto
 priority: 100
 date_published: 2019-02-27
@@ -19,7 +19,7 @@ Most of the things a typical user is interested on will be on the `mycrypto.com`
 All MyCrypto content should originate from one of the following domains;
 
 * `mycrypto.com` - the production-stable blockchain interface
-* `about.mycrytpo.com` - team profile and job opportunities
+* `about.mycrypto.com` - team profile and job opportunities
 * `beta.mycrypto.com` - a public staging area
 * `buy.mycrypto.com` - a portal to buy Ethereum and Bitcoin with your credit card
 * `download.mycrypto.com` - download our desktop app
@@ -51,19 +51,14 @@ conviction as production (`mycrypto.com`).
 
 * `mycryptobuilds.com` - serves QA builds for the blockchain interface
 
-### Verified mycryptoapi.com domains
-
-* `proxy.mycryptoapi.com` - handles proxying requests to third-parties in the background
-* `raidentransport.mycryptoapi.com` - [matrix] server for Raiden related stuff
-* `api.mycryptoapi.com` - handles requests to our Blockchain RPC nodes
-* `apis.mycryptoapi.com` - used for weighted load balancing between two regions
-
 
 ## Official email from MyCrypto
 
-If you recieve a communication that looks like it's from MyCrypto but _doesn't_ come from
+If you recieve a communication that looks like it's from MyCrypto but *doesn't* come from
 one of the domains listed, please be careful as it may contain malware or be a phishing
 attempt.
+
+You can signup to our newsletter by looking in the footer at [MyCrypto.com](https://mycrypto.com)
 
 * `mycrypto.com` - all emails from employees and support staff
 
