@@ -51,7 +51,6 @@ conviction as production (`mycrypto.com`).
 
 * `mycryptobuilds.com` - serves QA builds for the blockchain interface
 
-
 ## Official email from MyCrypto
 
 If you recieve a communication that looks like it's from MyCrypto but *doesn't* come from
