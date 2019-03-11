@@ -1,20 +1,19 @@
 language: node_js
 node_js: 8.9.4
-
 cache:
   yarn: true
   directories:
-   - node_modules
-
+  - node_modules
 install:
- - yarn --silent
-
+- yarn --silent
 script:
- - yarn run mdlint
-
+- yarn run mdlint
 deploy:
   provider: script
   script: node deploy.js
   skip_cleanup: true
   on:
     branch: master
+env:
+  global:
+    secure: lxIwOiApNO9s3lhx4wSleJrP7JgGEwsljpVSqoV9Ao9yNe2Gxl7lXFo9APN4IIH+SmWhXoH9UT9upjj0l00Iza914FFAL4wHVxINeN1E4+/qqwINUhEE8hmb1bfebSio2jvYUPYsoBA5aV0qNYS84zOtBJzB8cF6Fm8isprkawJZIEU46uw4bDAKvA3hloNT5lyfuICWGLMMuEZ3HAJMRxB0g4hkPJvlRojP1+5U0tnyjp/SSa8+eiq3TmfQDLcS8VU1WSHruIXHZ2UT9OzVzyGxm75E/fi1dhJErXFVseiSl2HdXI0OmpjforjMhMloW84i88ATB6Vd+oPYUe+nrQtI60daLi42Dj1eu2oZr3B1Zjo3AvcGXo73pcX/VHx4XZHqNk9xCwnb4XpRtseRddKkxCFTTuxdxabjFRezQc4n/8ziqr8iKTImpY8Lpx+GpdqdUU6k0CkdY+e1QWndz49jrMlec20HuH6l/p85m0ai6nNCAEE/X8vK3/G5ndwaC8mpvBuR2dQgYDoseK7lG1s0M/3htyWuzSvoM8f6cGcN9IYq7+KdLQjs4V3w/D5AbrrFQMzyRSdjGD5J1MFNkb4u9sWorK+wvAGf/CPmqA0XWHt0+1Cm3c6jDSStIyC5w70RtOH/L9Ld1aiy7TZLUkhoUPUSM/qQrm/xIvfTnF4=

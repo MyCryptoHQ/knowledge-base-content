@@ -1,0 +1,289 @@
+# redirects:
+#  - from: /full/path/to/page
+#    to: /full/path/to/new/page
+#  - from: ...
+#    to: ...
+
+redirects:
+  - from: accessing-your-wallet/access-wallet-keystore-file.html
+    to: how-to/accessing-wallet/how-to-access-your-wallet-with-keystore-file
+  - from: accessing-your-wallet/access-wallet-mnemonic.html
+    to: how-to/accessing-wallet/how-to-access-your-wallet-with-mnemonic-phrase
+  - from: accessing-your-wallet/how-to-use-metamask-with-mycrypto.html
+    to: how-to/migrating/moving-from-mycrypto-to-metamask
+  - from: accessing-your-wallet/how-to-use-the-parity-signer-with-mycrypto.html
+    to: how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto
+  - from: accessing-your-wallet/how-to-use-your-ledger-hardware-wallet-with-mycrypto.html
+    to: how-to/migrating/moving-from-mycrypto-to-ledger
+  - from: accessing-your-wallet/how-to-use-your-ledger-with-mycrypto.html
+    to: how-to/migrating/moving-from-mycrypto-to-ledger
+  - from: accessing-your-wallet/how-to-use-your-trezor-with-mycrypto.html
+    to: how-to/migrating/moving-from-mycrypto-to-trezor
+  - from: getting-started/backing-up-your-new-wallet.html
+    to: how-to/backup-restore/how-to-save-back-up-your-wallet
+  - from: hardware-wallets/backing-up-trezor-mycrypto.html
+    to: how-to/backup-restore/trezor-making-a-backup
+  - from: best-of/restoring-access-to-your-accounts-if-lose-device-with-2fa.html
+    to: how-to/backup-restore/how-to-restore-access-to-your-accounts-if-you-lose-or-destroy-your-device-with-google-authenticator-2fa
+  - from: ens/changing-ens-owner-or-transferring-ens-name.html
+    to: how-to/ens/changing-the-ens-owner-or-transferring-an-ens-name
+  - from: ens/ens-releasing-ens-names.html
+    to: how-to/ens/releasing-ens-names
+  - from: ens/manually-revealing-ens-bids-hard.html
+    to: how-to/ens/manually-revealing-ens-bids-hard
+  - from: ens/ens-what-to-do-if-you-forgot-your-bid.html
+    to: how-to/ens/what-to-do-if-you-forgot-how-much-you-bid
+  - from: ens/visual-guide-to-buying-a-vanity-eth-address-with-ens-and-mycrypto.html
+    to: how-to/ens/visual-guide-to-buying-vanity-ethereum-addresses-with-ens-and-mycrypto
+  - from: ens/starting-an-ens-auction-without-bidding.html
+    to: how-to/ens/starting-an-auction-without-bidding
+  - from: ens/ens-brute-forcing-secret-word-phrases.html
+    to: how-to/ens/brute-forcing-secret-word-phrases
+  - from: ens/setting-the-resolver-for-an-ens-name.html
+    to: how-to/ens/setting-the-resolver-for-an-ens-name
+  - from: ens/ens-what-to-do-if-you-forgot-to-reveal-ens-bid.html
+    to: how-to/ens/what-to-do-if-you-forgot-to-reveal-your-ens-bid
+  - from: ens/import-bid-created-in-mycrypto-to-ens.html
+    to: how-to/ens/importing-a-bid-created-in-mycrypto-into-ens-and-vice-versa
+  - from: send/how-to-send-transaction.html
+    to: how-to/sending/how-to-send-a-transaction
+  - from: send/sending-and-adding-tokens.html
+    to: how-to/sending/sending-and-adding-tokens
+  - from: transactions/how-to-schedule-a-transaction.html
+    to: how-to/sending/how-to-schedule-a-transaction
+  - from: networks/access-your-etc-on-mycrypto.html
+    to: how-to/sending/how-to-send-ethereum-classic-via-mycrypto
+  - from: offline/making-offline-transaction-on-mycrypto.html
+    to: how-to/sending/how-to-make-an-offline-transaction
+  - from: offline/is-the-send-page-offline.html
+    to: how-to/offline/is-the-view-and-send-page-offline
+  - from: faq/where-to-get-testnet-ether.html
+    to: how-to/getting-started/where-to-get-testnet-ether
+  - from: faq/how-to-buy-ethereum-with-usd.html
+    to: how-to/getting-started/how-to-buy-ether-with-usd
+  - from: faq/buying-selling-exchanging-eth-tokens-fiat.html
+    to: how-to/getting-started/where-can-i-buy-sell-trade-or-exchange-my-eth-or-tokens
+  - from: getting-started/creating-a-new-wallet-on-mycrypto.html
+    to: how-to/getting-started/how-to-create-a-wallet
+  - from: faq/interacting-with-ethereum-multisig-wallet.html
+    to: how-to/sending/how-to-interact-with-a-multisig-contract
+  - from: addresses/signing-and-verifying-messages.html
+    to: how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum
+  - from: transactions/check-status-of-ethereum-transaction.html
+    to: how-to/sending/checking-or-replacing-a-transaction-after-it-has-been-sent
+  - from: migration/moving-from-private-key-to-metamask.html
+    to: how-to/migrating/moving-from-mycrypto-to-metamask
+  - from: migration/moving-from-private-key-to-ledger-hardware-wallet.html
+    to: how-to/migrating/moving-from-mycrypto-to-ledger
+  - from: migration/moving-from-private-key-to-trezor-hardware-wallet.html
+    to: how-to/migrating/moving-from-mycrypto-to-trezor
+  - from: migration/moving-from-mycrypto-to-parity.html
+    to: how-to/migrating/access-your-mycrypto-account-in-parity
+  - from: migration/location-of-mist-geth-wallet-files.html
+    to: how-to/migrating/access-your-mycrypto-account-in-geth-or-mist
+  - from: migration/moving-from-jaxx-to-mycrypto.html
+    to: how-to/migrating/access-your-jaxx-account-on-mycrypto
+  - from: migration/moving-from-coinbase-to-mycrypto.html
+    to: how-to/migrating/moving-from-coinbase-to-mycrypto
+  - from: tokens/receiving-tokens.html
+    to: how-to/tokens/how-to-receive-tokens
+  - from: tokens/showing-and-loading-tokens.html
+    to: how-to/tokens/showing-and-loading-tokens
+  - from: offline/running-mycrypto-locally.md.html
+    to: how-to/offline/how-to-run-mycrypto-offline-and-locally
+  - from: offline/ethereum-cold-storage-with-mycrypto.html
+    to: how-to/offline/using-mycrypto-for-cold-storage
+  - from: offline/sending-offline-with-mycrypto.html
+    to: general-knowledge/about-mycrypto/how-can-mycrypto-send-offline
+  - from: offline/using-ledger-wallet-offline.html
+    to: how-to/offline/using-ledger-wallet-offline
+  - from: hardware-wallets/trezor-hardware-wallet-sending-from-trezor.html
+    to: how-to/sending/trezor-sending-from
+  - from: hardware-wallets/trezor-sending-to-trezor-device.html
+    to: how-to/sending/trezor-sending-to
+  - from: networks/sent-etc-to-eth-address.html
+    to: how-to/nodes-networks/access-eth-sent-to-etc-address-or-etc-sent-to-eth-address
+  - from: hardware-wallets/ledger-hardware-wallet-using-with-android
+    to: how-to/hardware-wallets/ledger/how-to-use-a-ledger-wallet-with-android
+  - from: hardware-wallets/multiple-addresses-on-hardware-wallet.html
+    to: how-to/hardware-wallets/multiple-addresses-showing-on-hardware-wallet
+  - from: gas/how-do-I-know-what-gas-limit-to-use.html
+    to: how-to/sending/how-to-know-what-gas-price-or-gas-limit-to-use
+  - from: private-keys-passwords/how-to-change-ethereum-account-password-unencrypted-encrypted.html
+    to: how-to/migrating/how-to-change-your-wallet-password-unencrypted-to-encrypted
+  - from: send/not-checksummed-shows-when-i-enter-an-address.html
+    to: troubleshooting/sending/not-checksummed-shows-when-i-enter-an-address
+  - from: send/what-to-do-if-you-sent-to-wrong-address.html
+    to: troubleshooting/sending/what-to-do-if-you-sent-to-wrong-address
+  - from: transactions/transaction-failed-out-of-gas.html
+    to: troubleshooting/sending/transaction-failed-out-of-gas
+  - from: transactions/transaction-fee-not-refunded.html
+    to: troubleshooting/sending/transaction-fee-not-refunded
+  - from: transactions/error-bad-jump-destination-or-out-of-gas-error.html
+    to: troubleshooting/sending/error-bad-jump-destination-or-out-of-gas-error
+  - from: transactions/transaction-not-showing-or-pending.html
+    to: troubleshooting/sending/transaction-not-showing-or-pending
+  - from: tokens/errcode-unable-to-locate-corresponding-transfer-event-log.html
+    to: troubleshooting/sending/errcode-unable-to-locate-corresponding-transfer-event-log
+  - from: gas/error-insufficient-funds-message.html
+    to: troubleshooting/sending/error-insufficient-funds-message
+  - from: addresses/ethereum-balance-not-loading-or-showing.html
+    to: troubleshooting/sending/ethereum-balance-not-loading-or-showing
+  - from: addresses/eth-or-tokens-not-showing-on-exchange.html
+    to: troubleshooting/sending/eth-or-tokens-not-showing-on-exchange
+  - from: faq/unlocking-keystore-file-freezes-browser.html
+    to: troubleshooting/accessing-wallet/unlocking-keystore-file-freezes-browser
+  - from: private-keys-passwords/lost-password-ethereum-presale-wallet-file.html
+    to: troubleshooting/accessing-wallet/lost-password-ethereum-presale-wallet-file
+  - from: private-keys-passwords/lost-eth-private-key.html
+    to: troubleshooting/accessing-wallet/lost-eth-private-key
+  - from: private-keys-passwords/lost-ethereum-wallet-password.html
+    to: troubleshooting/accessing-wallet/lost-ethereum-wallet-password
+  - from: private-keys-passwords/accessing-different-address-same-private-key-ether.html
+    to: troubleshooting/accessing-wallet/accessing-different-address-same-private-key-ether
+  - from: private-keys-passwords/private-key-not-working.html
+    to: troubleshooting/accessing-wallet/private-key-not-working
+  - from: private-keys-passwords/missing-characters-of-private-key.html
+    to: troubleshooting/accessing-wallet/missing-characters-of-private-key
+  - from: hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-mycrypto.html
+    to: troubleshooting/accessing-wallet/ledger-hardware-wallet-unable-to-connect-on-mycrypto
+  - from: tokens/adding-new-token-and-sending-custom-tokens.html
+    to: troubleshooting/tokens/adding-new-token-and-sending-custom-tokens
+  - from: tokens/adding-custom-token-errors-fix.html
+    to: troubleshooting/tokens/adding-custom-token-errors-fix
+  - from: ens/ens-debugging-a-bad-instruction-reveal.html
+    to: troubleshooting/ens/ens-debugging-a-bad-instruction-reveal
+  - from: hardware-wallets/u2f-not-supported-error.html
+    to: troubleshooting/hardware-wallets/ledger/u2f-not-supported-error
+  - from: hardware-wallets/ledger-hardware-wallet-error-invalid-stats-6a80.html
+    to: troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-error-invalid-stats-6a80
+  - from: hardware-wallets/ledger-hardware-wallet-missing-characters-from-address.html
+    to: troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-missing-characters-from-address
+  - from: hardware-wallets/error-code-5.html
+    to: troubleshooting/hardware-wallets/ledger/error-code-5
+  - from: hardware-wallets/archos-safet-mini.html
+    to: troubleshooting/hardware-wallets/archos/archos-safet-mini
+  - from: hardware-wallets/trezor-error-window-blocked.html
+    to: troubleshooting/hardware-wallets/trezor/trezor-error-window-blocked
+  - from: contributor-info/add-token-to-default-list.html
+    to: developers/add-token-to-default-list
+  - from: contributor-info/adding-a-new-network.html
+    to: developers/adding-a-new-network
+  - from: contributor-info/adding-support-for-web3-wallet.html
+    to: developers/adding-support-for-web3-wallet
+  - from: contributor-info/contributing-code.html
+    to: developers/contributing-code
+  - from: contributor-info/how-can-i-help-translate.html
+    to: developers/how-can-i-help-translate
+  - from: contributor-info/how-to-submit-pull-request.html
+    to: developers/how-to-submit-pull-request
+  - from: contributor-info/reporting-a-bug.html
+    to: developers/reporting-a-bug
+  - from: contributor-info/suggesting-a-feature.html
+    to: developers/suggesting-a-feature
+  - from: networks/run-your-own-node-with-mycrypto.html
+    to: developers/run-your-own-node-with-mycrypto
+  - from: getting-started/protecting-yourself-and-your-funds.html
+    to: staying-safe/protecting-yourself-and-your-funds
+  - from: security/securing-your-ethereum.html
+    to: staying-safe/protecting-yourself-and-your-funds
+  - from: security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html
+    to: staying-safe/phish-hacks-thefts-and-stolen-funds-due-to-phishing
+  - from: security/call-to-action-help-us-with-phishers-please.html
+    to: staying-safe/call-to-action-help-us-with-phishers-please
+  - from: security/turning-on-2fa-on-mycrypto.html
+    to: staying-safe/turning-on-2fa-on-mycrypto
+  - from: security/verifying-authenticity-of-desktop-app.html
+    to: staying-safe/verifying-authenticity-of-desktop-app
+  - from: security/how-to-securely-store-and-guard-your-private-key.html
+    to: staying-safe/how-to-securely-store-and-guard-your-private-key
+  - from: security/advanced-secure-wallets-by-tomshwom.html
+    to: staying-safe/advanced-secure-wallets-by-tomshwom
+  - from: security/couldnt-everybody-put-in-a-random-key-and-send-to-own-address.html
+    to: staying-safe/couldnt-everybody-put-in-a-random-key-and-send-to-own-address
+  - from: security/ethereum-two-people-same-private-key.html
+    to: staying-safe/ethereum-two-people-same-private-key
+  - from: security/mycrypto-protips-how-not-to-get-scammed-during-ico.html
+    to: staying-safe/mycrypto-protips-how-not-to-get-scammed-during-ico
+  - from: security/how-can-we-trust-mycrypto.html
+    to: staying-safe/how-can-we-trust-mycrypto
+  - from: common-scams/common-scams-overview.html
+    to: staying-safe/common-scams/common-scams-overview
+  - from: common-scams/phishing-overview.html
+    to: staying-safe/common-scams/phishing-overview
+  - from: common-scams/hardware-wallet-scams-overview.html
+    to: staying-safe/common-scams/hardware-wallet-scams-overview
+  - from: common-scams/malicious-software-overview.html
+    to: staying-safe/common-scams/malicious-software-overview
+  - from: common-scams/privacy-concerns-overview.html
+    to: staying-safe/common-scams/privacy-concerns-overview
+  - from: hardware-wallets/hardware-wallet-recommendations.html
+    to: staying-safe/hardware-wallet-recommendations
+  - from: hardware-wallets/why-you-should-backup-your-hardware-wallet.html
+    to: staying-safe/why-you-should-backup-your-hardware-wallet
+  - from: security/how-to-stay-safe.html
+    to: staying-safe/how-to-stay-safe
+  - from: best-of/trading-advice-what-to-do-when-you-lose-it-all-trading-margin.html
+    to: general-knowledge/investing-icos-tokens/margin-trading-what-to-do-when-you-lose-it-all
+  - from: best-of/unsolicited-advice-for-those-holding-token-sales.html
+    to: general-knowledge/investing-icos-tokens/unsolicited-advice-for-those-holding-token-sales
+  - from: best-of/how-not-to-miss-out-on-ico.html
+    to: general-knowledge/investing-icos-tokens/best-ways-to-avoid-missing-out-on-that-ico
+  - from: best-of/investing-responsibly-by-brian-armstrong-coinbase.html
+    to: general-knowledge/investing-icos-tokens/investing-responsibly-by-brian-armstrong-coinbase
+  - from: faq/what-is-an-ico.html
+    to: general-knowledge/investing-icos-tokens/what-is-an-ico
+  - from: tokens/airdropped-tokens.html
+    to: general-knowledge/investing-icos-tokens/why-am-i-getting-random-tokens-in-my-wallet
+  - from: best-of/dunning-krugerrands-fud-list-of-doom.html
+    to: general-knowledge/investing-icos-tokens/dunning-krugerrands-fud-list-of-doom-from-early-2016
+  - from: best-of/getting-thru-the-shit-times.html
+    to: general-knowledge/investing-icos-tokens/getting-through-the-shit-times
+  - from: tokens/do-i-need-several-wallets-for-every-token-sale.html
+    to: general-knowledge/investing-icos-tokens/do-i-need-multiple-addresses-for-every-token-sale
+  - from: getting-started/mycrypto-help-and-quicktips.html
+    to: general-knowledge/about-mycrypto/mycryptos-quicktips
+  - from: getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html
+    to: general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto
+  - from: gas/i-cant-withdraw-them-from-your-site-less-than-minimum.html
+    to: general-knowledge/about-mycrypto/do-you-have-a-minimum-requirement-to-transfer-out-of-mycrypto
+  - from: faq/sending-bitcoin-btc-ltc-xmr-to-mycrypto.html
+    to: general-knowledge/about-mycrypto/does-mycrypto-support-bitcoin-or-other-coins
+  - from: best-of/keypairs-cryptography-encryption.html
+    to: general-knowledge/cryptography/on-keypairs-and-encryption
+  - from: best-of/ethereum-encryption-bkp-presale-files.html
+    to: general-knowledge/cryptography/on-components-of-the-ethereum-pre-sale-file-and-encryption
+  - from: best-of/how-mycrypto-gets-entropy-when-generating-wallets.html
+    to: general-knowledge/cryptography/ethereum-account-generation-and-how-mycrypto-gets-entropy
+  - from: private-keys-passwords/how-do-mnemonic-phrases-work.html
+    to: general-knowledge/cryptography/how-do-mnemonic-phrases-work
+  - from: getting-started/ethereum-glossary.html
+    to: general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space
+  - from: diving-deeper/ethereum-list-of-support-and-communities.html
+    to: general-knowledge/ethereum-blockchain/more-help-support-and-communities
+  - from: transactions/what-are-internal-transaction.html
+    to: general-knowledge/ethereum-blockchain/what-are-internal-transactions
+  - from: transactions/what-is-nonce.html
+    to: general-knowledge/ethereum-blockchain/what-is-nonce
+  - from: gas/what-is-gas-ethereum.html
+    to: general-knowledge/ethereum-blockchain/what-is-gas
+  - from: private-keys-passwords/difference-beween-private-key-and-keystore-file.html
+    to: general-knowledge/ethereum-blockchain/difference-between-wallet-types
+  - from: getting-started/getting-back-to-basics-tips-for-newbies.html
+    to: general-knowledge/ethereum-blockchain/getting-back-to-the-basics-ten-tips-for-newbies
+  - from: diving-deeper/is-the-blockchain-private.html
+    to: general-knowledge/ethereum-blockchain/is-the-blockchain-private
+  - from: diving-deeper/links-you-should-read-next.html
+    to: general-knowledge/ethereum-blockchain/links-you-should-read-next
+  - from: addresses/my-ethereum-address-has-uppercase-and-lowercase-letters.html
+    to: general-knowledge/ethereum-blockchain/ethereum-address-has-uppercase-and-lowercase-letters
+  - from: addresses/creating-new-accounts-for-eth-and-tokens.html
+    to: general-knowledge/ethereum-blockchain/should-i-keep-my-eth-or-tokens-in-single-or-multiple-addresses
+  - from: ens/why-the-ens-bid-process-is-so-complicated.html
+    to: general-knowledge/ens/why-the-ens-bid-process-is-so-complicated
+  - from: getting-started/getting-started-new.html
+    to: how-to/getting-started/how-to-get-started-on-mycrypto
+  - from: networks/cant-connect-to-custom-node-on-mycrypto.html
+    to: troubleshooting/unable-to-connect-to-custom-node
+  - from: security/i-cannot-see-the-extended-validation-certificate.html
+    to: troubleshooting/cannot-see-the-extended-validation-certificate
