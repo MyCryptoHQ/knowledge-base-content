@@ -3,7 +3,7 @@ title: Setting the resolver for an ENS name
 description: ENS
 priority: 6
 date_published: '2017-05-05'
-date_modified: '2018-12-14'
+date_modified: '2019-03-28'
 ---
 
 ## Set the resolver for your name
@@ -11,7 +11,7 @@ date_modified: '2018-12-14'
 1. Go to the contracts tab.
 2. Choose ENS - Registry: 0x314159265dD8dbb310642f98f50C066173C1259b. Click `"Access"`.
 3. Select `setResolver`.
-4. Find your name on etherscan.io and copy the namehash.
+4. Go to mycrypto.com/ens and search for the ens name you wish to resolve to grab your namehash.
 5. Enter the namehash of your name under `node (bytes32)`.
 6. Enter the Public Resolver Address under `resolver (address)`: `0x5FfC014343cd971B7eb70732021E26C35B744cc4`
 7. Unlock the owner's account.
