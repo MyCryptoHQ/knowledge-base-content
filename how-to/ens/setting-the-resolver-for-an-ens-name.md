@@ -11,13 +11,14 @@ date_modified: '2019-03-28'
 1. Go to the contracts tab.
 2. Choose ENS - Registry: 0x314159265dD8dbb310642f98f50C066173C1259b. Click `"Access"`.
 3. Select `setResolver`.
-4. Go to mycrypto.com/ens and search for the ens name you wish to resolve to grab your namehash.
-5. Enter the namehash of your name under `node (bytes32)`.
-6. Enter the Public Resolver Address under `resolver (address)`: `0x5FfC014343cd971B7eb70732021E26C35B744cc4`
-7. Unlock the owner's account.
-8. Click WRITE.
-9. Generate and send this transaction, leaving "Amount to Send" as 0.
-10. [Transaction should look like this.](https://etherscan.io/tx/0x60eec50b492375bce25684f806599873b7f682e1ba504c8bed7cc90c33368118)
+4. Go to mycrypto.com/ens and search for the ens name you wish to resolve.
+5. Copy your namehash which is displayed to the right of square brackets encompassing your ens name.
+6. Enter your namehash of your name under `node (bytes32)`.
+7. Enter the Public Resolver Address under `resolver (address)`: `0x5FfC014343cd971B7eb70732021E26C35B744cc4`
+8. Unlock the owner's account.
+9. Click WRITE.
+10. Generate and send this transaction, leaving "Amount to Send" as 0.
+11. [Transaction should look like this.](https://etherscan.io/tx/0x60eec50b492375bce25684f806599873b7f682e1ba504c8bed7cc90c33368118)
 
 ### Set the address that your name will resolve to
 
