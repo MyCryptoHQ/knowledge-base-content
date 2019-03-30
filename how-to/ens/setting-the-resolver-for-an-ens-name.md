@@ -26,7 +26,7 @@ date_modified: '2019-03-30'
 2. Choose ENS-Public Resolver: 0x5FfC014343cd971B7eb70732021E26C35B744cc4. Click "Access".
 3. Select `setAddr`.
 4. Find your name on etherscan.io and copy the namehash.
-5. Enter the namehash of your name under "node (bytes32)":
+5. Enter the namehash of your name under `node (bytes32)`.
 6. Enter the address you would like to resolve to under `addr (address)`.
 7. Unlock the owner's account.
 8. Click `WRITE`.
