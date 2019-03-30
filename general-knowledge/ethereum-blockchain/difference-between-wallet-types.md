@@ -1,9 +1,9 @@
 ---
-title: Differences Between Wallet Types (e.g., Private Key vs Keystore)
+title: 'Differences Between Wallet Types (e.g., Private Key vs Keystore)'
 description: Private Keys & Passwords
-priority: 12
+priority: 110
 date_published: '2017-07-05'
-date_modified: '2018-12-19'
+date_modified: '2019-03-30'
 ---
 
 > What are the different types of private key formats that I can use to access my wallet?
