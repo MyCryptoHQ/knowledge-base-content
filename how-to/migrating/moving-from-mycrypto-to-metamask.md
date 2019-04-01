@@ -1,9 +1,9 @@
 ---
 title: '[MyCrypto ➡ MetaMask] Moving from MyCrypto to MetaMask'
 description: Migrating to/from MyCrypto
-priority: 1
+priority: 80
 date_published: '2017-10-08'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## Using MetaMask + MyCrypto has 3 key benefits:

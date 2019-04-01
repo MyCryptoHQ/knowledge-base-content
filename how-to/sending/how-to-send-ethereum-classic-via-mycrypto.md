@@ -1,9 +1,9 @@
 ---
 title: How to send Ethereum Classic (ETC) via MyCrypto
 description: Networks & Nodes
-priority: 1
+priority: 70
 date_published: '2017-10-08'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 In order to see your ETC and interact with the ETC chain, you must first connect to an ETC node.

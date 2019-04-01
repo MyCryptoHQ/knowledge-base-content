@@ -1,9 +1,9 @@
 ---
 title: 'When I unlock via keystore file, it freezes my browser'
 description: FAQ
-priority: 24
+priority: 10
 date_published: '2017-06-20'
-date_modified: '2018-11-27'
+date_modified: '2019-04-01'
 ---
 Decrypting the keystore files is an intensive process and doesn't enjoy being done in Javascript. We recommend...
 

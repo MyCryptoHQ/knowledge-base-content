@@ -1,9 +1,9 @@
 ---
-title: 'Error Code 5'
+title: Error Code 5
 description: Hardware Wallets
-priority: 18
+priority: 100
 date_published: '2018-01-01'
-date_modified: '2018-11-29'
+date_modified: '2019-04-01'
 ---
 
 ## The most common fix: close other Ledger applications.

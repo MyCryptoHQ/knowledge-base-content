@@ -1,9 +1,9 @@
 ---
 title: Phishing Scams and Hacks
 description: Common Scams
-priority: 6
+priority: 80
 date_published: '2018-03-12'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## Phishing

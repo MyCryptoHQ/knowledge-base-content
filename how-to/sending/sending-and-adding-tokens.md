@@ -1,9 +1,9 @@
 ---
 title: Sending & Adding Tokens
 description: Sending & Receiving
-priority: 6
+priority: 80
 date_published: '2017-07-05'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 1. Navigate to the [View & Send](https://mycrypto.com/account) page.

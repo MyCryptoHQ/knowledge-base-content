@@ -1,9 +1,9 @@
 ---
 title: Not all characters of address are showing when I click 'Display Address'
 description: TODO
-priority: 17
+priority: 50
 date_published: '2017-06-20'
-date_modified: '2018-11-29'
+date_modified: '2019-04-01'
 ---
 
 This is fixed when updating the ETH application from Ledger Manager. You can learn how to do this by following  [this guide](https://support.ledgerwallet.com/hc/en-us/articles/360002731113).

@@ -1,9 +1,9 @@
 ---
 title: How to create a wallet
 description: Getting Started
-priority: 5
+priority: 90
 date_published: '2015-10-05'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## Preface

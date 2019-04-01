@@ -1,9 +1,9 @@
 ---
 title: Overview of Common Scams
 description: Common Scams
-priority: 2
+priority: 100
 date_published: '2018-03-12'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## Introduction

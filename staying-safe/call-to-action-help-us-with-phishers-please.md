@@ -1,9 +1,9 @@
 ---
 title: How to Help Defeat the Phishers
 description: Security & Phishing
-priority: 30
+priority: 35
 date_published: '2017-07-05'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 **These phishers will not stop until they stop getting money or get caught.** We don't have the time or manpower to do it all. There are so many things to do and watch and document. We thank you for your help.

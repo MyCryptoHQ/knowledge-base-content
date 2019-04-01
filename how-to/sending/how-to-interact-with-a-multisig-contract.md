@@ -1,9 +1,9 @@
 ---
 title: How to interact with a Multisig Contract
 description: FAQ
-priority: 20
+priority: 40
 date_published: '2017-06-20'
-date_modified: '2018-12-14'
+date_modified: '2019-04-01'
 ---
 
 ## Getting Started

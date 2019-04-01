@@ -1,9 +1,9 @@
 ---
 title: 'Transaction Failed: Out of Gas'
 description: Transactions
-priority: 6
+priority: 60
 date_published: '2017-07-05'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 Each transaction (TX) on the Ethereum blockchain (including token and contract transactions) requires gas, which is paid in Ether. You can think of this as a transaction fee. The more computational effort a transaction takes, the more gas you need.

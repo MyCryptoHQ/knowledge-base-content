@@ -1,9 +1,9 @@
 ---
 title: Manually Revealing ENS Bids (Hard)
 description: ENS
-priority: 24
+priority: 60
 date_published: '2017-07-05'
-date_modified: '2018-12-14'
+date_modified: '2019-04-01'
 ---
 
 ## Use our tool...

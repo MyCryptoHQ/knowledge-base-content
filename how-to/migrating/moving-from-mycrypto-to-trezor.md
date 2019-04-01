@@ -1,9 +1,9 @@
 ---
 title: '[MyCrypto ➡ TREZOR] Moving from MyCrypto to TREZOR'
 description: Migrating to/from MyCrypto
-priority: 2
+priority: 90
 date_published: '2017-11-08'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 The TREZOR is one of the best and easiest-to-use cryptocurrency hardware wallets out there, and is available for purchase [here](https://shop.trezor.io/?offer_id=10&aff_id=1735). While the TREZOR supports a wide range of cryptocurrencies, this guide was specifically written for using Ether and ERC-20 tokens with MyCrypto.

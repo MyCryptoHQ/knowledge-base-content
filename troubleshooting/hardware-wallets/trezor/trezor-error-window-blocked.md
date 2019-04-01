@@ -1,9 +1,9 @@
 ---
 title: 'TREZOR: Window Blocked Before Confirming Transaction'
 description: Hardware Wallets
-priority: 10
+priority: 100
 date_published: '2015-07-15'
-date_modified: '2018-11-29'
+date_modified: '2019-04-01'
 ---
 
 > I keep getting a message saying "Window Blocked" before confirming my transaction.

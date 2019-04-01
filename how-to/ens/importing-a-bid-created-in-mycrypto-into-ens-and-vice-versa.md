@@ -1,9 +1,9 @@
 ---
 title: Importing a bid created in MyCrypto into ENS and vice-versa
 description: ENS
-priority: 10
+priority: 50
 date_published: '2018-02-14'
-date_modified: '2018-12-14'
+date_modified: '2019-04-01'
 ---
 
 The fields of the JSON files created by MyCrypto and ENS (registrar.ens.domains) appear to be different but in fact they have different names and styles for the same thing.

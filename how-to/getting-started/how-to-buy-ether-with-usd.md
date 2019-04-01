@@ -1,9 +1,9 @@
 ---
 title: How to Buy Ether (ETH) with USD
 description: FAQ
-priority: 12
+priority: 60
 date_published: '2017-06-20'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## Hello and welcome to Ethereum!

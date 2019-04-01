@@ -1,9 +1,9 @@
 ---
 title: How to access your Ledger Live address in MyCrypto
 description: Hardware Wallets
-priority: 5
+priority: 100
 date_published: '2019-03-29'
-date_modified: '2019-03-29'
+date_modified: '2019-04-01'
 ---
 
 Ledger Live changed the way addresses are derived from the master seed. Unfortunately, MyCrypto is not fully compatible with this change. You can still access your Ledger Live addresses in MyCrypto, by manually setting the derivation path for the address.

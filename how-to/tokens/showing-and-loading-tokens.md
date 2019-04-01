@@ -1,9 +1,9 @@
 ---
 title: Showing and Loading Tokens
 description: Tokens
-priority: 10
+priority: 100
 date_published: '2017-12-23'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## How to load token balances

@@ -1,9 +1,9 @@
 ---
 title: Couldn't Everybody Type in Random Private Keys and Steal Funds?
 description: Security & Phishing
-priority: 65
+priority: 45
 date_published: '2017-06-20'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## Short Version

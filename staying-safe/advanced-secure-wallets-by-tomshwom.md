@@ -1,9 +1,9 @@
 ---
 title: 'Advanced: Creating a Secure Wallet by Tomshwom'
 description: Security & Phishing
-priority: 60
+priority: 70
 date_published: '2017-07-06'
-date_modified: '2018-06-10'
+date_modified: '2019-04-01'
 ---
 
 ## Preface
@@ -26,7 +26,7 @@ I refer to this as a "wallet solution" rather than just a hardware wallet becaus
 
 This part of the guide relies on free & open source software,<sub>[1](https://labs.riseup.net/code/projects/tails/),[2](https://keepass.info/download.html),[3](https://github.com/MyCryptoHQ/mycrypto.com/releases/latest)</sub> cheap hardware, and a bit of time in order to produce a system where sensitive data can be stored securely, accessed safely, and backed up easily. It follows the idea of security controls<sub>[1](https://en.wikipedia.org/wiki/Security_controls)</sub> to implement physical, technical, and administrative safeguards, but is left up to the user to ultimately choose which ones and how to implement them.
 
-![Wallet Diagram](https://imgur.com/YstbPkk)
+![Wallet Diagram](https://i.imgur.com/YstbPkk.png)
 
 We are essentially creating our own hardware wallet that has multi-factor authentication built in and no single point of failure (like a backup seed). The goal is to end up with 2 USB drives (more for redundant backups) that are used for:
 

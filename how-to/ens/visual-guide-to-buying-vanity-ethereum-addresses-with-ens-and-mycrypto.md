@@ -1,9 +1,9 @@
 ---
 title: Visual Guide to Buying Vanity Ethereum Addresses with ENS and MyCrypto
 description: ENS
-priority: 100
+priority: 40
 date_published: '2018-02-12'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 The following was taken from Edward T Giraffe via hackernoon.com.

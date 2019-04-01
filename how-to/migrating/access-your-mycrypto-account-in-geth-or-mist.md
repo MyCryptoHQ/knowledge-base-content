@@ -1,9 +1,9 @@
 ---
 title: '[MyCrypto ➡ Mist] Access Your MyCrypto Account in Geth / Mist'
 description: Migrating to/from MyCrypto
-priority: 4
+priority: 50
 date_published: '2015-07-15'
-date_modified: '2018-11-29'
+date_modified: '2019-04-01'
 ---
 
 ## Mist & Geth
