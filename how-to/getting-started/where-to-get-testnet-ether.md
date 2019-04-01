@@ -3,7 +3,7 @@ title: Where to Get Testnet Ether?
 description: FAQ
 priority: 24
 date_published: '2018-07-02'
-date_modified: '2018-12-14'
+date_modified: '2019-04-01'
 ---
 
 ## Where to get testnet Ether?
