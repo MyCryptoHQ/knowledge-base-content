@@ -1,9 +1,9 @@
 ---
 title: What to Do If Your Funds Are Stolen
 description: Security & Phishing
-priority: 20
+priority: 75
 date_published: '2017-07-05'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## Victim of a phishing attack? We are sorry this happened

@@ -1,9 +1,9 @@
 ---
 title: Transaction has a 'Bad Jump Destination' or 'Out of Gas' Error
 description: Transactions
-priority: 2
+priority: 85
 date_published: '2017-07-05'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 > My transaction has a `Bad jump destination` or `Out of Gas` error. When do I get my ETH back?

@@ -1,9 +1,9 @@
 ---
 title: Releasing ENS names
 description: ENS
-priority: 22
+priority: 30
 date_published: '2018-06-14'
-date_modified: '2018-12-14'
+date_modified: '2019-04-01'
 ---
 
 ## How to release Your ENS name after a year

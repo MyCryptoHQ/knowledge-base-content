@@ -1,9 +1,9 @@
 ---
 title: How to get started on MyCrypto
 description: TODO
-priority: 20
+priority: 100
 date_published: '2015-10-05'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 * Please take some time to understand this for your own safety.

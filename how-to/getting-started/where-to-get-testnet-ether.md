@@ -1,9 +1,9 @@
 ---
 title: Where to Get Testnet Ether?
 description: FAQ
-priority: 24
+priority: 40
 date_published: '2018-07-02'
-date_modified: '2018-12-14'
+date_modified: '2019-04-01'
 ---
 
 ## Where to get testnet Ether?
@@ -42,9 +42,7 @@ Ropsten is a public testnet for Ethereum that uses PoW (Proof of Work).
 | <http://faucet.ropsten.be:3001/>                                       |
 | <https://faucet.kyber.network/>                                        |
 | <https://faucet.metamask.io/>                                          |
-| <https://faucet.bitfwd.xyz/>                                           |
 | <https://ipfs.io/ipfs/QmVAwVKys271P5EQyEfVSxm7BJDKWt42A2gHvNmxLjZMps/> |
-| <http://testnet-faucet.com/>                                           |
 
 | Token Faucets                                                          |
 |------------------------------------------------------------------------|

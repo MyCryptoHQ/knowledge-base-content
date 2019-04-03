@@ -1,9 +1,9 @@
 ---
 title: Investing Responsibly (by Brian Armstrong / Coinbase)
 description: Best Of
-priority: 24
+priority: 50
 date_published: '2017-12-09'
-date_modified: '2017-12-09'
+date_modified: '2019-04-01'
 ---
 
 ## Please invest responsibly

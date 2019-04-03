@@ -1,9 +1,9 @@
 ---
 title: Changing the ENS owner or transferring an ENS Name
 description: ENS
-priority: 8
+priority: 70
 date_published: '2017-07-05'
-date_modified: '2018-12-14'
+date_modified: '2019-04-01'
 ---
 
 ## Transferring a domain (best practice!)

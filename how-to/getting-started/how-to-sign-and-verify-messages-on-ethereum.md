@@ -1,9 +1,9 @@
 ---
 title: How to sign & verify messages on Ethereum
 description: Addresses & Balances
-priority: 4
+priority: 70
 date_published: '2018-04-18'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ### Why?

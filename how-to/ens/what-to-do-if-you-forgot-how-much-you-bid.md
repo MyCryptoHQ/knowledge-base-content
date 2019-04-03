@@ -1,9 +1,9 @@
 ---
 title: What to do if you forgot how much you bid
 description: ENS
-priority: 10
+priority: 80
 date_published: '2017-07-05'
-date_modified: '2018-12-14'
+date_modified: '2019-04-01'
 ---
 
 First, look up your address on [Etherscan](https://etherscan.io) in order to find the transaction in which you placed your bid. 

@@ -1,9 +1,9 @@
 ---
 title: Invalid status 6a80
 description: Hardware Wallets
-priority: 16
+priority: 90
 date_published: '2015-07-15'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 In order to send data (e.g., when sending tokens) with your transaction via your Ledger Nano S or Ledger Blue, you need to enable "contract data" on your Ledger device. If you do not, you will receive the error "Invalid status 6a80." To enable this setting:

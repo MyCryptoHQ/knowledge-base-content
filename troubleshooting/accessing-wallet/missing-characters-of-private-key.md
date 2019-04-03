@@ -1,9 +1,9 @@
 ---
 title: Missing Characters from Private Key
 description: Private Keys & Passwords
-priority: 50
+priority: 60
 date_published: '2017-12-12'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 Credit goes to Bahk (<https://github.com/domalak>) for making the best helper tools ever!

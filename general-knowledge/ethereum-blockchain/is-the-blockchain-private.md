@@ -1,12 +1,12 @@
 ---
 title: Is the Blockchain Private?
 description: Diving Deeper
-priority: 80
+priority: 30
 date_published: '2018-04-30'
-date_modified: '2018-12-19'
+date_modified: '2019-03-30'
 ---
 
-> “Picture a spreadsheet that is duplicated thousands of times across a network of computers. Then imagine that this network is designed to regularly update this spreadsheet and you have a basic understanding of the blockchain.”
+> Picture a spreadsheet that is duplicated thousands of times across a network of computers. Then imagine that this network is designed to regularly update this spreadsheet and you have a basic understanding of the blockchain.
 
 — [What is Blockchain Technology? A Step-by-Step Guide For Beginners by Blockgeeks](https://blockgeeks.com/guides/what-is-blockchain-technology/)
 

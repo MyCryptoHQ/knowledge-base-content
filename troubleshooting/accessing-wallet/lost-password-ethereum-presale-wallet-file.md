@@ -1,9 +1,9 @@
 ---
 title: Lost Password - Ethereum Presale Wallet File
 description: Private Keys & Passwords
-priority: 16
+priority: 0
 date_published: '2017-10-08'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 Important note: This article is talking about presale wallets, for regular wallets take a look at the [Lost Password](/troubleshooting/accessing-wallet/lost-ethereum-wallet-password) article.

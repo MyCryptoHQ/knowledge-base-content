@@ -1,9 +1,9 @@
 ---
 title: 'Error: Unable to Locate Corresponding Transfer Event Log'
 description: Tokens
-priority: 50
+priority: 30
 date_published: '2018-01-25'
-date_modified: '2018-11-29'
+date_modified: '2019-04-01'
 ---
 
 ## Why does this keep happening?!

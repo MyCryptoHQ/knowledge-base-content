@@ -1,9 +1,9 @@
 ---
 title: Transactions Not Showing Up or Pending Forever
 description: Transactions
-priority: 1
+priority: 100
 date_published: '2017-12-07'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 At times, combinations of new users, increased interest, popular apps like CryptoKitties, and misc. ICOs can create quite a mess of the transaction (TX) pool. This sometimes results in an accumulation of pending TXs that take longer than normal to send, and is a network issue that affects all exchanges and clients.

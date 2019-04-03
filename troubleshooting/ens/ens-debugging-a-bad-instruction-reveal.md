@@ -1,9 +1,9 @@
 ---
 title: 'Debugging a [BAD INSTRUCTION] Reveal'
 description: ENS
-priority: 4
+priority: 100
 date_published: '2017-07-05'
-date_modified: '2018-05-09'
+date_modified: '2019-04-01'
 ---
 
 ## 1. Make sure you actually placed a bid

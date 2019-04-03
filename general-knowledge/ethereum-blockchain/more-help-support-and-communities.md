@@ -1,9 +1,9 @@
 ---
 title: 'More Help, Support and Communities'
 description: Insert page description
-priority: 100
+priority: 50
 date_published: '2018-06-21'
-date_modified: '2018-11-18'
+date_modified: '2019-03-30'
 ---
 
 ## General Questions and Ethereum

@@ -1,9 +1,9 @@
 ---
 title: Why am I getting random (airdropped) tokens in my wallet?
 description: Tokens
-priority: 70
+priority: 20
 date_published: '2017-11-26'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 Lately, a lot of blockchain projects on Ethereum have been 'airdropping' tokens in the wallets of users. This is done to either spread the distribution of tokens, or to advertise the token to users.

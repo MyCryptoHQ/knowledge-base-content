@@ -1,9 +1,9 @@
 ---
 title: Starting an Auction without Bidding
 description: ENS
-priority: 14
+priority: 40
 date_published: '2017-05-05'
-date_modified: '2018-12-14'
+date_modified: '2019-04-01'
 ---
 
 You can open an auction without bidding. It's not the simplest thing in the world, but it's not the worst. It looks harder than it is:

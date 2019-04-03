@@ -1,9 +1,9 @@
 ---
 title: 'Getting Back to the Basics: 10 Tips for Beginners'
 description: Getting Started
-priority: 30
+priority: 80
 date_published: '2015-10-05'
-date_modified: '2018-12-19'
+date_modified: '2019-03-30'
 ---
 
 ## Tips

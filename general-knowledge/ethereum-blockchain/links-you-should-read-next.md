@@ -1,9 +1,9 @@
 ---
 title: Links you should read next
 description: Diving Deeper
-priority: 10
+priority: 0
 date_published: '2017-07-05'
-date_modified: '2018-10-21'
+date_modified: '2019-03-30'
 ---
 
 * [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
