@@ -1,9 +1,9 @@
 ---
 title: How to check the balance of your account
 description: Accessing your Wallet
-priority: 1
+priority: 50
 date_published: '2018-04-18'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 You only need your **public wallet address** (the one starting with `0x`) in order to see your balance. It is not recommended that you access your wallet by entering your private key/Menmonic Phrase/Keystore file anywhere if you just want to check the balance or see incoming or outgoing transactions. The fewer times that you need to open your wallet, the better.

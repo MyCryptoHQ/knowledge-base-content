@@ -1,9 +1,9 @@
 ---
 title: How to stay safe during ICOs and other periods
 description: Security & Phishing
-priority: 89
+priority: 65
 date_published: '2018-04-30'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## Domain verification

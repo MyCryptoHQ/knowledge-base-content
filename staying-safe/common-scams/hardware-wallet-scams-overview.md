@@ -1,9 +1,9 @@
 ---
 title: Hardware Wallet Scams and Hacks
 description: Common Scams
-priority: 8
+priority: 90
 date_published: '2018-03-12'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## General Tips for Securing Hardware Wallets

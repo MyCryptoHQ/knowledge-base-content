@@ -1,9 +1,9 @@
 ---
 title: How to properly save & back up your wallet
 description: Getting Started
-priority: 10
+priority: 100
 date_published: '2015-10-05'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## Preface

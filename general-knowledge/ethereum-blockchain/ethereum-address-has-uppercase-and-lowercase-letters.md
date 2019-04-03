@@ -1,9 +1,9 @@
 ---
 title: Ethereum Address Has Uppercase and Lowercase Letters
 description: Addresses & Balances
-priority: 2
+priority: 10
 date_published: '2017-07-05'
-date_modified: '2017-09-26'
+date_modified: '2019-03-30'
 ---
 
 > What does it mean if my address has uppercase and lowercase letters?

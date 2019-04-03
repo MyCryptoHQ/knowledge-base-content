@@ -1,9 +1,9 @@
 ---
 title: Setting the resolver for an ENS name
 description: ENS
-priority: 6
+priority: 100
 date_published: '2017-05-05'
-date_modified: '2019-03-30'
+date_modified: '2019-04-01'
 ---
 
 ## Set the resolver for your name

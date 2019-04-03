@@ -1,9 +1,9 @@
 ---
 title: A glossary of common terms in the Ethereum and crypto space
 description: Getting Started
-priority: 10
+priority: 60
 date_published: '2015-10-05'
-date_modified: '2018-12-19'
+date_modified: '2019-03-30'
 ---
 
 ## Words are Hard

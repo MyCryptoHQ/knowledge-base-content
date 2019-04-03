@@ -1,9 +1,9 @@
 ---
 title: How to verify your recovery phrase
 description: Hardware Wallets
-priority: 0
+priority: 90
 date_published: '2019-03-29'
-date_modified: '2019-03-29'
+date_modified: '2019-04-01'
 ---
 
 When you first set up your Ledger device, you are asked to write down your recovery phrase. You can use this recovery phrase to get access to your funds when the device breaks, or you have to setup the device again for some reason. It is good practice to verify the recovery phrase, to make sure you didn't make any mistakes when writing it down.

@@ -1,9 +1,9 @@
 ---
 title: Brute-Forcing Secret Word Phrases
 description: ENS
-priority: 16
+priority: 50
 date_published: '2017-07-05'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 *[The following is from /u/eth-o-licious2 on reddit](https://www.reddit.com/r/ethereum/comments/6j8ih6/ens_troubleshooting_if_you_use_mew_and_forgot/)*

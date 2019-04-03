@@ -1,9 +1,9 @@
 ---
 title: '[Jaxx ➡ MyCrypto] Access your Jaxx account on MyCrypto'
 description: Migrating to/from MyCrypto
-priority: 6
+priority: 60
 date_published: '2017-07-05'
-date_modified: '2018-11-29'
+date_modified: '2019-04-01'
 ---
 
 You can use both MyCrypto and Jaxx at the same time; both are client side wallets that simply allow you to access your ETH on the blockchain. There is no need to "import" or "sweep" your ETH from your Jaxx to a new wallet on MyCrypto.

@@ -1,9 +1,9 @@
 ---
 title: '[Coinbase ➡ MyCrypto] Moving from Coinbase to MyCrypto'
 description: Migrating to/from MyCrypto
-priority: 8
+priority: 75
 date_published: '2015-07-15'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 > How do I move from Coinbase to MyCrypto? [Exchange/Hosted Wallet -> MyCrypto]

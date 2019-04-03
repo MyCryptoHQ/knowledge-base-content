@@ -1,19 +1,19 @@
 ---
 title: What is nonce?
 description: Transactions
-priority: 4
+priority: 90
 date_published: '2017-07-05'
-date_modified: '2017-09-26'
+date_modified: '2019-03-30'
 ---
 
 In Ethereum, every transaction has a nonce. The nonce is the number of transactions sent from a given address.
 
 Each time you send a transaction, the nonce increases by `1`. There are rules about what transactions are valid, and the nonce is used to enforce some of these rules. Specifically:
 
-*- **Transactions must be in order:** You cannot have a transaction with a nonce of `1` mined before one with a nonce of `0`.
+* **Transactions must be in order:** You cannot have a transaction with a nonce of `1` mined before one with a nonce of `0`.
 * **No skipping!** You cannot have a transaction with a nonce of `2` mined if you have not already sent transactions with a nonce of `1` and `0`.
 
-### Why?
+## Why?
 
 This field prevents double-spends, as the nonce is the order in which transactions are sorted. In order for a double-spend to be successful, you typically ...
 

@@ -1,9 +1,9 @@
 ---
 title: MyCrypto's Quick Tips
 description: Getting Started
-priority: 45
+priority: 70
 date_published: '2015-07-15'
-date_modified: '2018-06-07'
+date_modified: '2019-04-01'
 ---
 
 1. Hardware wallets ensure your key isn't vulnerable to phishers. Order a [TREZOR](https://shop.trezor.io/), [Ledger](https://www.ledgerwallet.com/products/?utm_source=&utm_medium=affiliate&utm_campaign=1985&utm_content=) or [KeepKey](https://www.keepkey.com/?source=hasoffers) today!

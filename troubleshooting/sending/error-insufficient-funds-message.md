@@ -1,9 +1,9 @@
 ---
 title: 'Error: Cannot send due to insufficient funds'
 description: Gas & Transaction Fees
-priority: 4
+priority: 90
 date_published: '2017-07-05'
-date_modified: '2017-09-26'
+date_modified: '2019-04-01'
 ---
 
 If you are getting the error, `"WARNING: Your ether or token balance isn't high enough to complete this transaction. Please send more funds or switch to a different wallet."`, it means you do not have enough **ETH** in your account to cover the cost of gas.

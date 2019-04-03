@@ -1,9 +1,9 @@
 ---
 title: Privacy Concerns
 description: Common Scams
-priority: 12
+priority: 60
 date_published: '2018-03-12'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## Privacy Concerns

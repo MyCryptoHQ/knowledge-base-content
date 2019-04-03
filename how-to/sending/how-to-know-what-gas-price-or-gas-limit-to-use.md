@@ -1,9 +1,9 @@
 ---
 title: How to know what gas price and gas limit to use
 description: Gas
-priority: 100
+priority: 60
 date_published: '2018-02-06'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 If you encounter the following error "Warning! Error encountered during contract execution [Out of Gas], you can use the following steps below to determine the gas limit needed for your transaction.

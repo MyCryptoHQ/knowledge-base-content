@@ -1,9 +1,9 @@
 ---
 title: Should I keep my ETH and tokens on a single or multiple addresses?
 description: Addresses & Balances
-priority: 6
+priority: 10
 date_published: '2017-07-05'
-date_modified: '2018-12-19'
+date_modified: '2019-03-30'
 ---
 
 MyCrypto is a front-end interface that enables you to interact directly with the Ethereum blockchain.

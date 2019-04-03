@@ -1,9 +1,9 @@
 ---
 title: Can I turn on 2FA for MyCrypto?
 description: Security & Phishing
-priority: 50
+priority: 60
 date_published: '2017-07-05'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 No. And if you landed on a site telling you that you could, they are lying to you and trying to steal your private keys.

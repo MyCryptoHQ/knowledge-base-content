@@ -1,9 +1,9 @@
 ---
 title: Malicious Software
 description: Common Scams
-priority: 10
+priority: 70
 date_published: '2018-03-12'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## Malicious Software-Based Attacks

@@ -1,9 +1,9 @@
 ---
 title: Using a Ledger Wallet Offline
 description: Offline
-priority: 8
+priority: 70
 date_published: '2018-02-15'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 Storing your ETH, tokens, ETC, BTC and many other cryptocurrencies on a [hardware wallet](/staying-safe/hardware-wallet-recommendations) like the Ledger wallet is one of the safest and easiest ways to store your coins. Though the keys are stored on the device itself, you can increase your security by accessing your Ledger wallet offline. This reduces various risks, like [phishing attacks](/staying-safe/common-scams/common-scams-overview).

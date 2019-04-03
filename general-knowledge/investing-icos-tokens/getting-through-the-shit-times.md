@@ -1,9 +1,9 @@
 ---
 title: Getting through the shit times
 description: Best Of
-priority: 30
+priority: 60
 date_published: '2017-11-27'
-date_modified: '2017-11-27'
+date_modified: '2019-04-01'
 ---
 
 ## Sometimes, crypto really, really, really sucks

@@ -1,9 +1,9 @@
 ---
 title: What to do if you sent to the wrong address
 description: Sending & Receiving
-priority: 3
+priority: 75
 date_published: '2017-07-05'
-date_modified: '2018-11-29'
+date_modified: '2019-04-01'
 ---
 
 MyCrypto is not a "web wallet." You do not create an account or give us your ETH or tokens to hold onto. We are simply an interface that allows you to easily interact with cryptocurrency.

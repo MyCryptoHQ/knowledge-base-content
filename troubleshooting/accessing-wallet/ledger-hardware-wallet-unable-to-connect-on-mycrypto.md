@@ -1,9 +1,9 @@
 ---
 title: Unable to Connect Ledger Hardware Wallet on MyCrypto
 description: Hardware Wallets
-priority: 30
+priority: 100
 date_published: '2017-07-15'
-date_modified: '2019-03-29'
+date_modified: '2019-04-01'
 ---
 
 Sample error message: *"Your Ledger is currently in use with another application. Please wait, or close other wallet applications before trying again."*

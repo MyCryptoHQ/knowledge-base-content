@@ -1,9 +1,9 @@
 ---
 title: What to do if You Forgot to Reveal Your ENS Bid
 description: ENS
-priority: 2
+priority: 90
 date_published: '2017-07-05'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## If there are other bidders

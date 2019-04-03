@@ -1,9 +1,9 @@
 ---
 title: Checking or replacing a transaction after it's been sent
 description: Transactions
-priority: 10
+priority: 70
 date_published: '2017-10-08'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## How can I check on the status of my transaction?

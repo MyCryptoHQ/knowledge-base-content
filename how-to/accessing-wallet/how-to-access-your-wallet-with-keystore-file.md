@@ -1,9 +1,9 @@
 ---
 title: How to Access Your Wallet with Keystore File
 description: Accessing your Wallet
-priority: 15
+priority: 40
 date_published: '2017-06-20'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## Important Information

@@ -1,9 +1,9 @@
 ---
 title: /u/Dunning_Krugerrands's 'FUD list of doom' from early 2016
 description: Best Of
-priority: 22
+priority: 10
 date_published: '2017-07-05'
-date_modified: '2017-09-26'
+date_modified: '2019-04-01'
 ---
 
 This is part of a series where Taylor pulls sweet comments she has made or found over the years in the hopes that they can be useful, searchable, remembered, referenced, and/or aid in creating the future knowledge base posts.

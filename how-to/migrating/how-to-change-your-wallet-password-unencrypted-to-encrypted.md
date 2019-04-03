@@ -1,9 +1,9 @@
 ---
 title: Change your wallet password (Unencrypted -> Encrypted)
 description: Private Keys & Passwords
-priority: 2
+priority: 70
 date_published: '2017-10-08'
-date_modified: '2018-05-17'
+date_modified: '2019-04-01'
 ---
 
 > Can I turn my unencrypted private key into an encrypted private key?

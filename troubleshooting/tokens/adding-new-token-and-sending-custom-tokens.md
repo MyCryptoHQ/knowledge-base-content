@@ -1,9 +1,9 @@
 ---
 title: Unable to See Tokens (How to add a custom token)
 description: Tokens
-priority: 20
+priority: 100
 date_published: '2017-01-25'
-date_modified: '2018-05-25'
+date_modified: '2019-04-01'
 ---
 
 ## How to add a new ERC-20 token

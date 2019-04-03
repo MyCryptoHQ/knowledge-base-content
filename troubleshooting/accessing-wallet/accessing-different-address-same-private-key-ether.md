@@ -1,9 +1,9 @@
 ---
 title: Private Key Opens a Different Account / Two Addresses
 description: Private Keys & Passwords
-priority: 8
+priority: 60
 date_published: '2017-07-05'
-date_modified: '2018-12-19'
+date_modified: '2019-04-01'
 ---
 
 ## Mismatched Private Key / Address
