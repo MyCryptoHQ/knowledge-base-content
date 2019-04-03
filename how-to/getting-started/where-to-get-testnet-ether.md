@@ -42,9 +42,7 @@ Ropsten is a public testnet for Ethereum that uses PoW (Proof of Work).
 | <http://faucet.ropsten.be:3001/>                                       |
 | <https://faucet.kyber.network/>                                        |
 | <https://faucet.metamask.io/>                                          |
-| <https://faucet.bitfwd.xyz/>                                           |
 | <https://ipfs.io/ipfs/QmVAwVKys271P5EQyEfVSxm7BJDKWt42A2gHvNmxLjZMps/> |
-| <http://testnet-faucet.com/>                                           |
 
 | Token Faucets                                                          |
 |------------------------------------------------------------------------|
