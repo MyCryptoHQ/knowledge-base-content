@@ -8,6 +8,8 @@ date_modified: '2019-04-08'
 
 ![Cryptocurrency Security Guide](../assets/staying-safe/protecting-yourself-and-your-funds/cryptocurrenty-security-guide.jpg)
 
+(Source: [@Jennicide](https://twitter.com/Jennicide))
+
 ## 1. Get yourself a hardware wallet.
 
 One of the safest and easiest ways to store your ETH, Tokens, ETC, BTC, and many other coins is via a **Ledger Nano S** or **TREZOR**. Both are hardware wallets. Both work with MyCrypto.com and both cost less than $100.
