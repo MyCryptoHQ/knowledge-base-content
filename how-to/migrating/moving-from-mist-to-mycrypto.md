@@ -18,9 +18,9 @@ Any keystore files that you used with Mist are, by default, stored on your compu
 
 The location of the files depends on your operating system:
 
-* Linux: ~/.ethereum/keystore
-* MacOS: /Library/Ethereum/keystore
-* Windows: %APPDATA%\Ethereum\keystore
+* Linux: `~/.ethereum/keystore`
+* MacOS: `/Library/Ethereum/keystore`
+* Windows: `%APPDATA%\Ethereum\keystore`
 
 Keystore file names begin with `UTC--` followed by a timestamp and address.
 
