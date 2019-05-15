@@ -34,13 +34,13 @@ Once you’ve found your keystore file, you can easily use this same wallet with
 
 **Step 3**: Open the MyCrypto Desktop App and click **Keystore File**.
 
-![Choose To Access Via Keystore File](https://github.com/jspence425/knowledge-base-content/raw/master/assets/how-to/migrating/moving-from-mist-to-mycrypto/AccessWalletKeystore.png)
+![Choose To Access Via Keystore File](../../assets/how-to/migrating/moving-from-mist-to-mycrypto/AccessWalletKeystore.png)
 
 **Step 4**: Click **SELECT WALLET FILE** and navigate to your Keystore File.
 
 **Step 5**: Enter the password that you set when you originally created the wallet. Click **Unlock**.
 
-![Select Keystore File](https://github.com/jspence425/knowledge-base-content/raw/master/assets/how-to/migrating/moving-from-mist-to-mycrypto/InsertKeystore.png)
+![Select Keystore File](../../assets/how-to/migrating/moving-from-mist-to-mycrypto/InsertKeystore.png)
 
 **Step 6**: Voilà! You’ve successfully accessed your Mist wallet with MyCrypto.
 
@@ -48,7 +48,7 @@ Now you can send, receive, and otherwise manage your funds!
 
 *Note: Transitioning from Mist is the perfect time to consider upgrading to a hardware wallet. A keystore file is generally acceptable if you’re confident in your personal security, but a hardware wallet is recommended if you want to take an extra step and be even more secure. [Here are some of our recommendations](https://support.mycrypto.com/staying-safe/hardware-wallet-recommendations).*
 
-## How do I use my Mist wallet to interact with smart contracts now?
+## Use my Mist wallet to interact with smart contracts
 
 If you’re looking to interact with smart contracts with your Mist wallet (keystore file), the best place to do so is with the [MyCrypto Desktop App](https://download.mycrypto.com). Simply open the app and click on the ‘Contracts’ tab. When you go to sign a transaction within a smart contract, you’ll be prompted to input your keystore file and password.
 
