@@ -34,13 +34,13 @@ Once you’ve found your keystore file, you can easily use this same wallet with
 
 **Step 3**: Open the MyCrypto Desktop App and click **Keystore File**.
 
-![Choose To Access Via Keystore File](assets/how-to/migrating/moving-from-mist-to-mycrypto/AccessWalletKeystore.png)
+![Choose To Access Via Keystore File](https://github.com/jspence425/knowledge-base-content/raw/master/assets/how-to/migrating/moving-from-mist-to-mycrypto/AccessWalletKeystore.png)
 
 **Step 4**: Click **SELECT WALLET FILE** and navigate to your Keystore File.
 
 **Step 5**: Enter the password that you set when you originally created the wallet. Click **Unlock**.
 
-![Select Keystore File](assets/how-to/migrating/moving-from-mist-to-mycrypto/InsertKeystore.png)
+![Select Keystore File](https://github.com/jspence425/knowledge-base-content/raw/master/assets/how-to/migrating/moving-from-mist-to-mycrypto/InsertKeystore.png)
 
 **Step 6**: Voilà! You’ve successfully accessed your Mist wallet with MyCrypto.
 
