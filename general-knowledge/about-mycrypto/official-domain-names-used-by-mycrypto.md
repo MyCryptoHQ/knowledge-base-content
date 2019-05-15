@@ -1,9 +1,9 @@
 ---
 title: Official Domain Names Used By MyCrypto
 description: Domains owned by MyCrypto
-priority: 100
+priority: 40
 date_published: '2019-02-27'
-date_modified: '2019-03-11'
+date_modified: '2019-05-08'
 ---
 
 MyCrypto uses several domains to run the service. Each domain serves a specific purpose, such as; running the interface, running the support center, running a public staging area, running RPC nodes.
@@ -40,6 +40,10 @@ This domain holds many background processes that we rely on.
 * `raidentransport.mycryptoapi.com` - [matrix] server for Raiden related stuff
 * `api.mycryptoapi.com` - handles requests to our Blockchain RPC nodes
 * `apis.mycryptoapi.com` - used for weighted load balancing between two regions
+* `monero.mycryptoapi.com` - used for the backend of [monerovision.com](https://monerovision.com)
+* `goerli.mycryptoapi.com` - a gateway for the Goerli Ethereum testnet
+* `gas.mycryptoapi.com` - an api to estimate gas prices from recent blocks
+* `analytics.mycryptoapi.com` - a self-hosted Matomo analytics server
 
 ## mycryptobuilds.com
 
@@ -50,6 +54,16 @@ conviction as production (`mycrypto.com`).
 ### Verified mycryptobuilds.com domains
 
 * `mycryptobuilds.com` - serves QA builds for the blockchain interface
+
+## Other MyCrypto domains
+
+These are other domains in the MyCrypto family.
+
+* `etherscamdb.info` - a directory of scams in the ecosystem
+* `cryptoscamdb.org` - a directory of scams in the ecosystem
+* `defiscan.io` - a read-only snapshot explorer for decentralised finance
+* `monerovision.com` - a block explorer for Monero
+* `ambo.io` - the homepage for the Ambo wallet
 
 ## Official email from MyCrypto
 
