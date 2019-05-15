@@ -12,7 +12,7 @@ This document is meant to allow hackers to skip the recon stage and get straight
 
 Our responsible disclosure program is run on HackerOne - [https://hackerone.com/mycrypto](https://hackerone.com/mycrypto).
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 <!-- Domain: *.mycrypto -->
 
@@ -36,7 +36,7 @@ It is built with Typescript and Javascript (React framework).
 
 https://builtwith.com/mycrypto.com
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### buy.mycrypto.com
 
@@ -58,7 +58,7 @@ It is built with Javascript.
 
 https://builtwith.com/buy.mycrypto.com
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### support.mycrypto.com
 
@@ -80,7 +80,7 @@ It is built with Typescript and Javascript (Gatsby framework).
 
 https://builtwith.com/support.mycrypto.com
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### overflow.mycrypto.com
 
@@ -102,7 +102,7 @@ It is built with Typescript and Javascript (React framework).
 
 https://builtwith.com/overflow.mycrypto.com
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### about.mycrypto.com
 
@@ -124,7 +124,7 @@ It is built with Javascript.
 
 https://builtwith.com/about.mycrypto.com
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### beta.mycrypto.com
 
@@ -146,7 +146,7 @@ It is built with Typescript and Javascript (React framework).
 
 https://builtwith.com/beta.mycrypto.com
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### download.mycrypto.com
 
@@ -170,7 +170,7 @@ It is built with Typescript and Javascript.
 
 https://builtwith.com/download.mycrypto.com
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 <!-- Domain: *.etherscamdb.info -->
 
@@ -196,7 +196,7 @@ It is built with Javascript (NodeJS).
 
 https://builtwith.com/etherscamdb.info
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 <!-- Domain: *.cryptoscamdb.org -->
 
@@ -222,7 +222,7 @@ It is built with Typescript and Javascript (Gatsby framework).
 
 https://builtwith.com/cryptoscamdb.org
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 <!-- Domain *.ambo.io -->
 
@@ -244,7 +244,7 @@ It is built with PHP 5.6 (Wordpress platform).
 
 https://builtwith.com/ambo.io
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### ambo.herokuapp.com
 
@@ -262,7 +262,7 @@ It is served on a Heroku Dyno.
 
 It is built with Express and NodeJs. 
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### Ambo iOS App
 
@@ -280,7 +280,7 @@ It is served via the iOS App Store.
 
 It is built using Swift 4.2, made for devices >= iOS11.0. 
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### analytics.mycryptoapi.com
 
@@ -298,7 +298,7 @@ It is hosted on an Amazon EC2 instance proxied with ELB.
 
 It is built using Matomo (Piwik) for the analytics
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### gas.mycryptoapi.com
 
@@ -316,7 +316,7 @@ The service is routed through Cloudfront with Amazon S3.
 
 The application is running in an ECS container.
 
-![](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
+![separator](../../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### proxy.mycryptoapi.com
 
