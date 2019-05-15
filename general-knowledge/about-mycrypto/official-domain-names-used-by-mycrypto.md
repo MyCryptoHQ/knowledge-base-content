@@ -1,7 +1,7 @@
 ---
 title: Official Domain Names Used By MyCrypto
 description: Domains owned by MyCrypto
-priority: 100
+priority: 40
 date_published: '2019-02-27'
 date_modified: '2019-05-08'
 ---
