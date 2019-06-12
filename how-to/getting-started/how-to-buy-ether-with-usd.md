@@ -22,7 +22,11 @@ Second, most of the people involved in this world are pretty technically savvy, 
 * [Learn how to protect your funds!](/staying-safe/protecting-yourself-and-your-funds)
 * [10 Tips for Noobs](/general-knowledge/ethereum-blockchain/getting-back-to-the-basics-ten-tips-for-newbies) & [Words are Hard](/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space) are both great intros.
 
-### Now, the fun part! How To Buy ETH
+### Now, the fun part! How To Buy ETH with USD
+
+GO TO https://buy.mycrypto.com/ and use our new Simplex integration!
+
+Other Options
 
 1. Create an account on either Gemini, [Coinbase](https://coinbase-consumer.sjv.io/k9Wjv), or Kraken.
 
