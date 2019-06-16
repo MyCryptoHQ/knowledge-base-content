@@ -24,7 +24,7 @@ Second, most of the people involved in this world are pretty technically savvy, 
 
 ### Now, the fun part! How To Buy ETH with USD
 
-GO TO https://buy.mycrypto.com/ and use our new Simplex integration!
+GO TO [buy.mycrypto.com](https://buy.mycrypto.com/) and use our new Simplex integration!
 
 Other Options
 
