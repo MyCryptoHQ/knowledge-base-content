@@ -1,18 +1,13 @@
 ---
-title: How to get started on MyCrypto
+title: Learn More About MyCrypto and How to Get Started
 description: TODO
 priority: 100
 date_published: '2015-10-05'
-date_modified: '2019-04-01'
+date_modified: '2019-07-05'
 ---
 
-* Please take some time to understand this for your own safety.
-* Your funds will be stolen if you do not heed these warnings.
-
-![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/infographic.png)
-
-<div class='row between-xs'>
-<div class='col-xs-12 col-sm-8 col-no-gutter'>
+* Please take some time to understand this for your own security.
+* Your may run the risk of losing your funds if you do not fully understand the warnings listed below.
 
 ## What is MyCrypto?
 
@@ -213,6 +208,13 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 * [How to verify you have access to the wallet](/how-to/accessing-wallet/how-to-access-your-wallet-with-keystore-file).
 * [How to send funds to your wallet](/how-to/getting-started/where-can-i-buy-sell-trade-or-exchange-my-eth-or-tokens).
 * [More Security Tips!](/staying-safe/protecting-yourself-and-your-funds)
+
+Below is a visual example of how transactions are made.
+
+![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/infographic.png)
+
+<div class='row between-xs'>
+<div class='col-xs-12 col-sm-8 col-no-gutter'>
 
 </div>
 <div class='col-xs-12 col-sm-2 col-no-gutter'>
