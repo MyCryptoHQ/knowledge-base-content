@@ -3,7 +3,7 @@ title: 'Transaction Failed: Out of Gas'
 description: Transactions
 priority: 60
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2019-07-05'
 ---
 
 Each transaction (TX) on the Ethereum blockchain (including token and contract transactions) requires gas, which is paid in Ether. You can think of this as a transaction fee. The more computational effort a transaction takes, the more gas you need.
@@ -17,6 +17,13 @@ Manually increasing the "Gas Limit." First, try doubling the amount of gas that 
 Any excess gas will be returned to you, so you could even triple or quadruple it.
 
 We are always trying to improve how we estimate gas as contracts become more complex. However, sometimes we still get it wrong. We apologize for the inconvenience.
+
+## My transaction has a `Bad jump destination` or `Out of Gas` error. When do I get my ETH back?
+
+When a transaction fails due to a `Bad jump destination` or `Out of Gas` error, the ETH never actually leaves your account. If you [check your balance](/how-to/) on etherscan.io, ethplorer.io, or MyCrypto, you should see the same amount you had before.
+
+There are a lot of complicated things about gas and transactions, especially during ICO-times, but luckily [we have a pretty sweet write-up that should help clarify things.](/general-knowledge/ethereum-blockchain/what-is-gas)
+
 
 ## Related articles
 
