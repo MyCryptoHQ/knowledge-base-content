@@ -3,7 +3,7 @@ title: How to stay safe during ICOs and other periods
 description: Security & Phishing
 priority: 65
 date_published: '2018-04-30'
-date_modified: '2019-04-01'
+date_modified: '2019-07-08'
 ---
 
 ## Domain verification
@@ -28,10 +28,6 @@ attack domains, fake project domains, other scam domains).
 * EtherAddressLookup - 
 [Github](https://github.com/409H/EtherAddressLookup) - 
 [Chrome extension](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
-
-* EtherSecurityLookup - 
-[Github](https://github.com/409H/EtherSecurityLookup) - 
-[Chrome extension](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf)
 
 * MetaMask - 
 [Github](https://github.com/MetaMask/metamask-extension) - 

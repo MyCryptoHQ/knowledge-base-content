@@ -3,7 +3,7 @@ title: Investing Responsibly (by Brian Armstrong / Coinbase)
 description: Best Of
 priority: 50
 date_published: '2017-12-09'
-date_modified: '2019-04-01'
+date_modified: '2019-07-08'
 ---
 
 ## Please invest responsibly
@@ -42,7 +42,7 @@ We are committed to safety, security and transparency. We are working tirelessly
 
 ## Related articles
 
-* [https://buynhodl.com/ether-investor-focus-olaf-carlson-wee-polychain-capital/](https://buynhodl.com/ether-investor-focus-olaf-carlson-wee-polychain-capital/) -- the video is gone but the notes are still great.
+* [https://buynhodl.com/ether-investor-focus-olaf-carlson-wee-polychain-capital/](https://buynhodl.com/ether-investor-focus-olaf-carlson-wee-polychain-capital/)
 
 ---
 

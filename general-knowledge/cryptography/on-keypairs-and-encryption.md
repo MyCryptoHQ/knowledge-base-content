@@ -3,7 +3,7 @@ title: On Keypairs & Encryption
 description: Best Of
 priority: 4
 date_published: '2017-07-05'
-date_modified: '2018-12-19'
+date_modified: '2019-07-08'
 ---
 
 This is part of a series where Taylor pull's sweet comments she's made in the hopes that they can be useful, searchable, remembered, referenced, and/or aid in the creation of future knowledge base posts. These are works in progress. Please excuse the typos, unclear statements, specific references to previous discussions or the user, and gratuitous cursing.
@@ -60,4 +60,4 @@ I hope this helps somewhat. I know it's long, typo-filled, and probably confusin
 
 ## Source
 
-* [https://www.reddit.com/r/MyCrypto/comments/6vm6xa/moron_question_why_the_wallet/dm3ntq9/](https://www.reddit.com/r/MyCrypto/comments/6vm6xa/moron_question_why_the_wallet/dm3ntq9/)
+* [https://www.reddit.com/r/MyEtherWallet/comments/6vm6xa/moron_question_why_the_wallet/dm3ntq9/](https://www.reddit.com/r/MyEtherWallet/comments/6vm6xa/moron_question_why_the_wallet/dm3ntq9/)

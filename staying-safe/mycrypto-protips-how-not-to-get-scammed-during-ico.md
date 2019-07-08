@@ -3,12 +3,12 @@ title: How to avoid getting scammed and phished
 description: Security & Phishing
 priority: 85
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2019-07-08'
 ---
 
 Below are some tips to reduce the risk of losing your hard-earned coins
 
-1. Install [EtherSecurityLookup](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB) if you use Twitter, and either [EtherAddressLookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) if you use MyCrypto or other crypto-related sites. These warn you if you go to a malicious website.
+1. Install either [EtherAddressLookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) if you use MyCrypto or other crypto-related sites. These warn you if you go to a malicious website.
 2. Did you just get sent a link to a token sale, MyCrypto, EtherDelta, ShapeShift, or eBay? **Don't click it!** Instead, search for that service on Google. Click the top one **that is not an ad.**
 3. You **do not** have to enter your private key for an airdrop. Don't enter your private key on random sites!
 4. Double-check the URL. Are there any weird characters? Symbols? It is `shapshift` instead of `shapeshift`? Or `myctypto` instead of `mycrypto`?

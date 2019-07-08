@@ -3,7 +3,7 @@ title: Unsolicited advice for those holding token sales
 description: Best Of
 priority: 30
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2019-07-08'
 ---
 
 This is part of a series where Taylor pulls sweet comments she has made or found over the years in the hopes that they can be useful, searchable, remembered, referenced, and / or aid in the creation of future Knowledge Base posts. Many are unpolished and contain typos, specific references to previous discussions or the user, and gratuitous cursing.
@@ -62,7 +62,6 @@ You are free to use, modify, or shamelessly steal any information in our Knowled
 * Install and encourage others to install @Harry's EAL extension, which blocks known bad addresses and sites: [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn).
 * Read Harry's blog on EAL: [https://steemit.com/ethereum/@sniko/my-attempt-to-prevent-private-key-phishing](https://steemit.com/ethereum/@sniko/my-attempt-to-prevent-private-key-phishing).
 * Status.im built a slack bot that auto-adds everyone to a scam alert channel, so when scammers come in, they can be reported and everyone can be alerted. I think it is this [https://github.com/status-im/gone-phishing](https://github.com/status-im/gone-phishing).
-* @ummjackson <http://phishbert.com/>
 * Phillippe / 0x: <https://www.youtube.com/watch?v=pFKFSlfdWeM>
 * Harry / 409H: <https://safeslack.harrydenley.com/>
 * Paul / Metacert: <https://metacert.com/>
