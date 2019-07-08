@@ -1,9 +1,9 @@
 ---
-title: 'Cannot See the Extended Validation (''MyCrypto, Inc.'') Certificate'
+title: 'EV SSL Certificate is Missing'
 description: Security & Phishing
 priority: 85
 date_published: '2017-12-28'
-date_modified: '2018-12-15'
+date_modified: '2019-07-05'
 ---
 
 On MyCrypto.com you should be able to see the Extended Validation Certificate (EV SSL) in your  URL bar. However, some anti-virus applications like BitDefender prevent you from seeing the EV SSL. These antivirus applications essentially perform a man-in-the-middle attack. Simply put, they scan all your traffic from and to MyCrypto by replacing the original SSL certificate.
