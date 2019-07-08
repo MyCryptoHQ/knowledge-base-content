@@ -22,4 +22,3 @@ ETH is going to the moon as it is... we just have to keep building for the futur
 ## Related links
 
 [Meet the MyCrypto Team](https://about.mycrypto.com/)
-\
