@@ -110,7 +110,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 * An account generated from a seed or password or passphrase of your choosing.
 * Humans are not capable of generating enough entropy and therefore the wallets derived from these phrases are insecure.
 * Brain wallets can be brute-forced by super fast computers.
-* [Brain wallets are insecure.](https://www.reddit.com/r/ethereum/comments/45y8m7/brain_wallets_are_now_generally_shunned_by/).
+* [Brain wallets are insecure](https://www.reddit.com/r/ethereum/comments/45y8m7/brain_wallets_are_now_generally_shunned_by/).
 * Don't use brain wallets.
 
 ### Entropy

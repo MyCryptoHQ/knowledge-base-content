@@ -3,7 +3,7 @@ title: Best ways to avoid missing out on that ICO
 description: Best Of
 priority: 90
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2019-07-08'
 ---
 
 This is part of a series where Taylor pull's sweet comments she's made or found over the years in the hopes that they can be useful, searchable, remembered, referenced, and/or aid in the creation of future knowledge base posts. Many are unpolished & contain typos, specific references to previous discussions or the user, and gratuitous cursing.
@@ -20,7 +20,7 @@ There are a few posts I made after GNT and before MLN that contain good advice b
 
 ## 24 hours before the ICO
 
-* Go to the offline page: <https://mycrypto.com/pushTx>
+* Go to the offline page: <https://legacy.mycrypto.com/#offline-transaction>
 * Generate the info from *your* address. Your address is the address you are sending FROM.
 * Fill in the ICO's address.
 * Fill in the amount of ETH you want to invest.

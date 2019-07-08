@@ -3,11 +3,11 @@ title: MyCrypto's Quick Tips
 description: Getting Started
 priority: 70
 date_published: '2015-07-15'
-date_modified: '2019-04-01'
+date_modified: '2019-07-08'
 ---
 
 1. Hardware wallets ensure your key isn't vulnerable to phishers. Order a [TREZOR](https://shop.trezor.io/), [Ledger](https://www.ledgerwallet.com/products/?utm_source=&utm_medium=affiliate&utm_campaign=1985&utm_content=) or [KeepKey](https://www.keepkey.com/?source=hasoffers) today!
-2. The EtherSecurityLookup Chrome Extension warns you if you go to a malicious site: [https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf)
+2. The EtherAddressLookup Chrome Extension warns you if you go to a malicious site: [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
 3. [The MyCrypto Philosophy] Education is Key: Ethereum, security, privacy, importance of controlling your keys & how the blockchain works
 4. [The MyCrypto Philosophy] Empower the people: Give people the ability to interact with the Ethereum blockchain without having to run a full node
 5. [The MyCrypto Philosophy] If it can be hacked, it will be hacked: Never save, store, or transmit passwords or keys
@@ -24,7 +24,7 @@ date_modified: '2019-04-01'
 16. Do not ever run remote-access software (e.g. TeamViewer)
 17. Do not trust addresses or URLs. Always verify information w/ a secondary source
 18. Do not trust any address except the one posted on the official site
-19. Do you know another language? Help keep MyCrypto translations up to date! [https://www.reddit.com/r/ethereum/comments/4z55s2](https://www.reddit.com/r/ethereum/comments/4z55s2)
+19. Do you know another language? Help keep MyCrypto translations up to date! [https://support.mycrypto.com/developers/how-can-i-help-translate](https://support.mycrypto.com/developers/how-can-i-help-translate)
 20. Don't click on links from Slackbots or Slack DMs
 21. Don't ever trade / buy / sell ETH via Paypal. They can file a dispute and take your money 90 days later
 22. Don't trust DMs or Emails. We will never DM you or email except in response to you
@@ -34,7 +34,7 @@ date_modified: '2019-04-01'
 26. Double check the URL: it's always [https://mycrypto.com](https://mycrypto.com)
 27. Follow us on Twitter for important alerts: [https://twitter.com/mycrypto](https://twitter.com/mycrypto)
 28. For new accounts, especially cold storage, send small amount in & out
-29. [https://ethplorer.io/ allows you to easily see token balances and transfers](https://ethplorer.io/) allows you to easily see token balances and transfers
+29. [https://ethplorer.io/](https://ethplorer.io/) allows you to easily see token balances and transfers
 30. If you ever have an Issue with you Swap, click the orange "Issue with your Swap?" button on the Swap page. This will get you help fastest!
 31. If you have accidentally visited or typed a malicious site, clean out your recent history and autocomplete
 32. If you mistyped your private key, you can try the tool at the bottom of our helpers page: [https://legacy.mycrypto.com/helpers.html](https://legacy.mycrypto.com/helpers.html)
