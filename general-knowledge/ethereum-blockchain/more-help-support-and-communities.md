@@ -1,5 +1,5 @@
 ---
-title: 'More Help, Support and Communities'
+title: 'More Help, Support, and Communities'
 description: Insert page description
 priority: 50
 date_published: '2018-06-21'
