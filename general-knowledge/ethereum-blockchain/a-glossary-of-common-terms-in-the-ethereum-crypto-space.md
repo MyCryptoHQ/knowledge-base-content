@@ -1,5 +1,5 @@
 ---
-title: A glossary of common terms in the Ethereum and crypto space
+title: A Glossary of Common Terms in the Ethereum and Crypto Space
 description: Getting Started
 priority: 60
 date_published: '2015-10-05'
@@ -88,7 +88,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 * Never type the word phrase on your computer. It defeats the purpose of your hardware wallet.
 * [See here for more information about Hardware Wallets](/how-to/hardware-wallets).
 
-### AddressIdenticon / AddressIcon:
+### Address Identicon / Address Icon:
 
 * The colorful blob that corresponds to your address.
 * It is an easy way to see if your address is correct.
@@ -123,7 +123,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 ### Key Derivation
 
-* Key derivation functions derive bytes suitable for cryptographic operations from passwords or other data sources using a pseudo-random function (PRF). Different KDFs are suitable for different tasks such as:
+* Key derivation functions (KDFs) derive bytes suitable for cryptographic operations from passwords or other data sources using a pseudo-random function (PRF). Different KDFs are suitable for different tasks such as:
 
 #### Cryptographic key derivation
 
