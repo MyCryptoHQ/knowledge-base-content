@@ -1,9 +1,9 @@
 ---
-title: Checking or replacing a transaction after it's been sent
+title: Checking or Replacing a Transaction After It Has Been Sent
 description: Transactions
 priority: 70
 date_published: '2017-10-08'
-date_modified: '2019-04-01'
+date_modified: '2019-07-19'
 ---
 
 ## How can I check on the status of my transaction?
@@ -43,7 +43,7 @@ This article **only** applies to finding, checking, and *potentially* replacing 
 
 ## How to check the status of a transaction
 
-1. Go to our [Check TX Status](https://mycrypto.com/tx-status) page.
+1. Go to our [transaction status](https://mycrypto.com/tx-status) page.
 
 2. Copy and paste the transaction hash into the field provided.
 

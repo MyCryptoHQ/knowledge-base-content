@@ -3,10 +3,10 @@ title: How to Schedule a Transaction
 description: Transactions
 priority: 50
 date_published: '2018-09-13'
-date_modified: '2019-04-01'
+date_modified: '2019-07-19'
 ---
 
-It is now possible to schedule transactions to be sent later, powered by the [Ethereum Alarm Clock](https://www.ethereum-alarm-clock.com/) project. Simply put, it works by sending your transaction to a "time node" which will broadcast the transaction at your specified time. Your computer does not need to be powered on at the scheduled time. For a technical explanation of how it works, please refer to [the Ethereum Alarm Clock documentation](https://ethereum-alarm-clock.readthedocs.io/en/latest/index.html).
+It is possible to schedule transactions to be sent later, powered by the [Ethereum Alarm Clock](https://www.ethereum-alarm-clock.com/) project. Simply put, it works by sending your transaction to a "time node" which will broadcast the transaction at your specified time. Your computer does not need to be powered on at the scheduled time. For a technical explanation of how it works, please refer to [the Ethereum Alarm Clock documentation](https://ethereum-alarm-clock.readthedocs.io/en/latest/index.html).
 
 To use this feature, click the "Send Later" button on the "Send Ether & Tokens" page.
 

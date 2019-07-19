@@ -1,16 +1,15 @@
 ---
-title: Creating a Pre-Filled Transaction Link
+title: How To Create a Pre-Filled Transaction Link
 description: Transactions
 priority: 40
 date_published: '2019-01-22'
-date_modified: '2019-04-01'
+date_modified: '2019-07-19'
 ---
 
-## How can I create a pre-filled transaction link?
+Pre-filled transactions can be created by appending certain parameters into the query section of a URL.
 
-Pre-Filled Transactions can be created by appending certain parameters into the query section of a url. Each individual parameter must include a `&` at the beginning and come in the form
+### Currently supported parameters
 
-### Currently supported parameters:
 * `to` - The *To* address of the transaction.
 * `value` - The *Value* of the transaction (in Ether).
 * `data` - The *Data* field of the transaction (should be in hex format).
@@ -32,9 +31,9 @@ After accessing your wallet, this will open with the prefilled transaction scree
 
 * We only support the parameters listed above. 
 * We do not support setting a *gas price*, *gas limit* or *nonce* because we auto-calculate those fields.
-* We do not currently support the *tokenSymbol* and *sendMode* token parameters. We may add this in the future when we have time.
+* We do not currently support the *tokenSymbol* and *sendMode* token parameters. We may add this in the future.
 
 ## Related articles
 
-* [You can learn more about gas & gas limit vs gas price here.](/general-knowledge/ethereum-blockchain/what-is-gas)
-* [You can read more about pre-filled fields here.](https://ethereum.stackexchange.com/questions/27909/how-to-prefill-fields-on-myetherwallet-with-given-receiver-address-amount-and)
+* [What is Gas](/general-knowledge/ethereum-blockchain/what-is-gas)
+* [What are pre-flled transactions](https://ethereum.stackexchange.com/questions/27909/how-to-prefill-fields-on-myetherwallet-with-given-receiver-address-amount-and)
