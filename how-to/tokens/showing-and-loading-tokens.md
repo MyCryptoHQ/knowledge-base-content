@@ -3,7 +3,7 @@ title: Showing and Loading Tokens
 description: Tokens
 priority: 100
 date_published: '2017-12-23'
-date_modified: '2019-04-01'
+date_modified: '2019-07-19'
 ---
 
 ## How to load token balances
@@ -30,5 +30,5 @@ date_modified: '2019-04-01'
 
 ## Related Articles
 
-[Adding a Custom Token](/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens)
-[Receiving Tokens](/how-to/tokens/how-to-receive-tokens)
+* [Adding a Custom Token](/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens)
+* [Receiving Tokens](/how-to/tokens/how-to-receive-tokens)

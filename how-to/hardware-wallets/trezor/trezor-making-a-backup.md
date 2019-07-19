@@ -3,7 +3,7 @@ title: 'TREZOR: Making a backup'
 description: Hardware Wallets
 priority: 80
 date_published: '2015-07-15'
-date_modified: '2019-04-01'
+date_modified: '2019-07-19'
 ---
 
 All you need is the 24 seed words that you wrote down when you first initially setup the TREZOR. You can use the words on MyCrypto to recover your crypto and tokens.

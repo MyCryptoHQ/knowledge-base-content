@@ -1,9 +1,9 @@
 ---
-title: 'TREZOR: Sending From'
+title: How To Send From a Trezor
 description: Hardware Wallets
 priority: 5
 date_published: '2015-07-15'
-date_modified: '2018-12-19'
+date_modified: '2019-07-19'
 ---
 
 Here is how you can unlock your wallet, access your ETH and tokens, and send from your TREZOR hardware wallet:

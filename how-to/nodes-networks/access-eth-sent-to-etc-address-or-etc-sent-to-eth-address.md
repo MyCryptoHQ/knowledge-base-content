@@ -3,12 +3,8 @@ title: Access ETH sent to ETC address or ETC sent to ETH address
 description: Networks & Nodes
 priority: 2
 date_published: '2017-12-23'
-date_modified: '2018-12-19'
+date_modified: '2019-07-19'
 ---
-
-> "I sent ETC to my ETH wallet by mistake".
-
-## How to
 
 In order to see your ETC and interact with the ETC chain, you must first be on an ETC node.
 
@@ -18,7 +14,7 @@ In order to see your ETC and interact with the ETC chain, you must first be on a
 
 In order to switch back to ETH, simply change the node back to an ETH node in the upper right corner.
 
-### When it involves a hardware wallet...
+## When it involves a hardware wallet...
 
 1. Select "ETC (ETH)" in the network-switcher in the top-right corner of [MyCrypto](https://mycrypto.com/account).
 2. Connect to your hardware wallet like normal

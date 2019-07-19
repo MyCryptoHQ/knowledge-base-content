@@ -3,7 +3,7 @@ title: '[MyCrypto ➡ Parity] Access Your MyCrypto Account in Parity'
 description: Migrating to/from MyCrypto
 priority: 50
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2019-07-19'
 ---
 
 Starting from Parity v1.10, the Parity Ethereum client (the node) has been separated from the Parity User Interface (UI). The user interface, accessible from the browser in previous versions up to and including 1.9, is now available as a standalone app. Parity UI isn’t actively maintained anymore.
@@ -25,4 +25,4 @@ Command-line options:
 
 ## Related articles
 
-* [How to find your keystore file](/how-to/migrating/access-your-mycrypto-account-in-geth-or-mist)
+* [Access Your MyCrypto Account in Geth](/how-to/migrating/access-your-mycrypto-account-in-geth-or-mist)
