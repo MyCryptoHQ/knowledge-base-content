@@ -3,7 +3,7 @@ title: Lost Private Key
 description: Private Keys & Passwords
 priority: 90
 date_published: '2017-10-08'
-date_modified: '2019-07-05'
+date_modified: '2019-07-26'
 ---
 
 MyCrypto is not a "web wallet." You do not create an account or give us your crypto or tokens to hold on to. We are simply an interface that allows you to easily interact with cryptocurrencies.
@@ -28,4 +28,8 @@ There may be a chance that you saved it without realizing it. We recommend the f
 
 In the future, we highly recommend you print out a paper version of your wallet and keep it in multiple physical locations. [You can read more about how to safely back up your wallet here.](/how-to/backup-restore/how-to-save-back-up-your-wallet)
 
-Additional Reading - [How to Stay Safe](https://support.mycrypto.com/staying-safe)
+Additional Reading
+
+[How to Potentially Recover your Private Keys](https://cointelegraph.com/news/how-to-recover-your-wallet-if-your-private-keys-are-lost)
+
+[How to Stay Safe](https://support.mycrypto.com/staying-safe)
