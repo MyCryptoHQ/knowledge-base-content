@@ -1,12 +1,12 @@
 ---
-title: Unsolicited advice for those holding token sales
+title: Unsolicited Advice for Those Holding Token Sales
 description: Best Of
 priority: 30
 date_published: '2017-07-05'
 date_modified: '2019-07-08'
 ---
 
-This is part of a series where Taylor pulls sweet comments she has made or found over the years in the hopes that they can be useful, searchable, remembered, referenced, and / or aid in the creation of future Knowledge Base posts. Many are unpolished and contain typos, specific references to previous discussions or the user, and gratuitous cursing.
+This is part of a series where Taylor pulls sweet comments she has made or found over the years in the hope that they can be useful, searchable, remembered, referenced, and / or aid in the creation of future Knowledge Base posts. Many are unpolished and may contain specific references to previous discussions or the user.
 
 ---
 
