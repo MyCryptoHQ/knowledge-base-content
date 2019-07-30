@@ -1,5 +1,5 @@
 ---
-title: 'More Help, Support and Communities'
+title: 'More Help, Support, and Communities'
 description: Links to various help and support pages of different projects in the crypto space
 priority: 50
 date_published: '2018-06-21'
