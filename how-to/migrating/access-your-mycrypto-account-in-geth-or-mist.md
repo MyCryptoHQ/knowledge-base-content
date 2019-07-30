@@ -1,32 +1,30 @@
 ---
-title: '[MyCrypto ➡ Mist] Access Your MyCrypto Account in Geth / Mist'
+title: '[MyCrypto ➡ Geth] Access Your MyCrypto Account in Geth'
 description: Migrating to/from MyCrypto
 priority: 50
 date_published: '2015-07-15'
-date_modified: '2019-04-01'
+date_modified: '2019-07-19'
 ---
 
-## Mist & Geth
-
-Mist files are typically found in the file locations below but it's much easier to open Mist, select "Accounts" in the top bar, select "Backup," and select "Accounts." This will open the folder where your files are stored.
+Geth files are typically found in the file locations below.
 
 * Mac:`~/Library/Ethereum/keystore`
 * Linux:`~/.ethereum/keystore`
 * Windows:`%APPDATA%/Ethereum/keystore`
 
-Command-line options:
+Optionally, you can specify the path through a command line option:
 
 ```text
 --keystore
   Directory for the keystore (default = inside the datadir)
 ```
 
+Simply copy your file to this folder in order to access it in Geth.
+
 ## Presale
 
-Wherever you saved it. ;)
+This file is stored wherever you saved it. It was also emailed to you, so check your email inbox and any older email addresses you may have had.
 
-It also was emailed to you, so check your email inbox and any older email addresses you may have had.
-
-Search for the file called "`ethereum_wallet_backup.json`." This wallet file will be encrypted with a password that you created when you made your presale purchase.
+If you are unable to find the file, search for a file called "`ethereum_wallet_backup.json`." This wallet file is encrypted with the password that you created when you made your presale purchase.
 
 Hopefully, you will find the file and can access it.

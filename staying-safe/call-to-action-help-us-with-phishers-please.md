@@ -3,7 +3,7 @@ title: How to Help Defeat the Phishers
 description: Security & Phishing
 priority: 35
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2019-07-08'
 ---
 
 **These phishers will not stop until they stop getting money or get caught.** We don't have the time or manpower to do it all. There are so many things to do and watch and document. We thank you for your help.
@@ -25,7 +25,6 @@ Help spread the word: Private keys are *private*. Use hardware wallets. Use cold
 * [Creating a wallet offline](/how-to/offline/how-to-run-mycrypto-offline-and-locally) is good.
 * Getting a [Ledger or TREZOR Hardware Wallet](/staying-safe/hardware-wallet-recommendations) is even better.
 * [You can sign transactions offline so your key never touches a phishing site!](/how-to/sending/how-to-make-an-offline-transaction)
-* Install EtherSecurityLookup to block malicious tweets / tweeters: [https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB).
 * Install EtherAddressLookup to block malicious / phishing sites: [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn).
 * Install MetaMask to block malicious / phishing sites and interact with MyCrypto: [https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn).
 * Never enter your private keys, passwords, or sensitive data on a website that you were sent via a message.
@@ -45,10 +44,8 @@ Help spread the word: Private keys are *private*. Use hardware wallets. Use cold
 * Report to NetCraft: [http://toolbar.netcraft.com/report_url](http://toolbar.netcraft.com/report_url).
 * Report to Norton: [https://submit.symantec.com/antifraud/phish.cgi](https://submit.symantec.com/antifraud/phish.cgi).
 * Report to McAfee: [https://www.trustedsource.org/en/feedback/url](https://www.trustedsource.org/en/feedback/url).
-* Report to ForcePoint: [https://csi.websense.com/](https://csi.websense.com/).
 * Report to Webroot BrightCloud (PaloAlto firewalls): [http://brightcloud.com/tools/change-request-url-categorization.php](http://brightcloud.com/tools/change-request-url-categorization.php).
 * Report to Kaspersky: [https://virusdesk.kaspersky.com/](https://virusdesk.kaspersky.com/).
-* If have IE / Edge, report there: [https://support.microsoft.com/en-us/help/930167/how-to-report-a-phishing-web-site](https://support.microsoft.com/en-us/help/930167/how-to-report-a-phishing-web-site ).
 * If you want to report an Apple Appstore app, send an email to reportphishing@apple.com.
 * Report any Google Adwords Campaigns here: [https://support.google.com/adsense/troubleshooter/1190500?hl=en](https://support.google.com/adsense/troubleshooter/1190500?hl=en) & [https://support.google.com/adwords/answer/176378?hl=en](https://support.google.com/adwords/answer/176378?hl=en).
 * Notify the host regarding a malicious website / DMCA / copyright violation / trademark violation.

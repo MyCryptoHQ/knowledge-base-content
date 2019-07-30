@@ -1,9 +1,9 @@
 ---
-title: 'TREZOR: Sending to'
+title: How To Send To a Trezor
 description: Hardware Wallets
 priority: 4
 date_published: '2015-07-15'
-date_modified: '2018-12-19'
+date_modified: '2019-07-19'
 ---
 
 Here is how you can get your address to send to your TREZOR:

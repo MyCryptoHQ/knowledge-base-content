@@ -1,9 +1,9 @@
 ---
 title: 'More Help, Support, and Communities'
-description: Insert page description
+description: Links to various help and support pages of different projects in the crypto space
 priority: 50
 date_published: '2018-06-21'
-date_modified: '2019-03-30'
+date_modified: '2019-07-08'
 ---
 
 ## General Questions and Ethereum

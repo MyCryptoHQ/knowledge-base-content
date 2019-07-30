@@ -3,13 +3,13 @@ title: How To Send A Transaction
 description: Sending & Receiving
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2019-07-19'
 ---
 
 If you plan to move a large amount of Ether or tokens, you should first send a test transaction of a small amount to the destination wallet to ensure everything goes as planned.
 Optional, but **highly recommended** (if you haven't already): Install [MetaMask](/how-to/migrating/moving-from-mycrypto-to-metamask) or the [EtherAddressLookup Chrome Extension](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) to protect yourself from malicious websites around the crypto-space that will steal your private keys. Or even better, think about getting yourself a hardware wallet. If you have hundreds or thousands of dollars online, you might as well spend a little bit more money to ensure that your funds are safe.
 
-1. Navigate to the [Send] page (<https://mycrypto.com/account>).
+1. Navigate to the [Send page](https://mycrypto.com/account).
 
 2. Select how you would like to [access your wallet and unlock it](/how-to/accessing-wallet/how-to-access-your-wallet-with-keystore-file).
 
@@ -35,6 +35,7 @@ Optional, but **highly recommended** (if you haven't already): Install [MetaMask
 
 Just as a reminder, any transaction that you make will require gas which is paid in Ether. It is a transaction fee that is paid to the miners as an incentive to include your transactions in the blocks that they mine.
 
-For more information about gas, [please click here](/general-knowledge/ethereum-blockchain/what-is-gas).
+## Related Articles
 
-During busy network times, [please read here for more information](/troubleshooting/sending/transactions-not-showing-or-pending) as to why your transaction is taking forever to get broadcasted onto the network.
+* [What is Gas](/general-knowledge/ethereum-blockchain/what-is-gas)
+* [Transactions Not Showing Up or Pending Forever](/troubleshooting/sending/transactions-not-showing-or-pending)

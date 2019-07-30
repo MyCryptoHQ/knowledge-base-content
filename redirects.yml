@@ -287,3 +287,9 @@ redirects:
     to: troubleshooting/unable-to-connect-to-custom-node
   - from: security/i-cannot-see-the-extended-validation-certificate.html
     to: troubleshooting/cannot-see-the-extended-validation-certificate
+  - from: how-to/backup-restore/trezor-making-a-backup
+    to: how-to/hardware-wallets/trezor/trezor-making-a-backup
+  - from: how-to/sending/trezor-sending-from
+    to: how-to/hardware-wallets/trezor/trezor-sending-from
+  - from: how-to/sending/trezor-sending-to
+    to: how-to/hardware-wallets/trezor/trezor-sending-to

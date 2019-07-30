@@ -3,17 +3,14 @@ title: Links you should read next
 description: Diving Deeper
 priority: 0
 date_published: '2017-07-05'
-date_modified: '2019-03-30'
+date_modified: '2019-07-08'
 ---
 
 * [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
 * [CryptoList: Curated collection of blockchain & cryptocurrency links.](https://github.com/coinpride/CryptoList/blob/master/README.md)
 * [EthList: The Crowdsourced Ethereum Reading List](https://github.com/Scanate/EthList/blob/master/README.md)
-* [https://www.ethadvisor.com/](https://www.ethadvisor.com/)
-* [https://etherenvoy.com/](https://etherenvoy.com/)
 * [What is An Ethereum Token: The Ultimate Beginner’s Guide](https://blockgeeks.com/guides/ethereum-token/)
 * [Goldman Sachs on Blockchains](http://www.goldmansachs.com/our-thinking/pages/blockchain/)
-* [EtherBasics](https://etherbasics.com/)
 * [Sebfor: What is Ethereum – The Ultimate Guide](http://sebfor.com/what-is-ethereum-explained/)
 * [CoinCenter / Vitalik: What is Ethereum](https://coincenter.org/entry/what-is-ethereum)
 * [a16z: Blockchain Building Blocks and Basics.](https://a16z.com/2018/02/10/crypto-readings-resources/)

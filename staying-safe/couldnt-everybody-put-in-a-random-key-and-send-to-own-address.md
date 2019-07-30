@@ -3,7 +3,7 @@ title: Couldn't Everybody Type in Random Private Keys and Steal Funds?
 description: Security & Phishing
 priority: 45
 date_published: '2017-06-20'
-date_modified: '2019-04-01'
+date_modified: '2019-07-08'
 ---
 
 ## Short Version
@@ -39,7 +39,6 @@ Of course, this all assumes that keys are generated in a truly random way and wi
 * [Not all private keys are valid on the curve](https://crypto.stackexchange.com/questions/30269/are-all-possible-ec-private-keys-valid)
 * [https://en.wikipedia.org/wiki/Public-key_cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 * [https://eprint.iacr.org/2013/734.pdf](https://eprint.iacr.org/2013/734.pdf)
-* [Randomness of Private Keys Explained](https://www.reddit.com/r/ethereum/comments/6s1wzp/probably_a_stupid_question_about_mew_vulnerability/)
 
 ### Sources
 

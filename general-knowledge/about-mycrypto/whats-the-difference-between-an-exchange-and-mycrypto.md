@@ -3,7 +3,7 @@ title: What's the Difference Between an Exchange and MyCrypto?
 description: Getting Started
 priority: 90
 date_published: '2015-07-15'
-date_modified: '2019-04-01'
+date_modified: '2019-07-08'
 ---
 
 "What is the difference between an exchange (e.g. Coinbase, Kraken, Gemini, Poloniex, Bittrex) and MyCrypto?"
@@ -30,4 +30,4 @@ You also need to ensure you keep these keys securely. This means:
 * Don't save it to cloud storage
 * Don't have Team Viewer or other remote access software on your computer
 
-If this seems very overwhelming, [>we recommend purchasing a Ledger or TREZOR hardware wallet](/staying-safe/hardware-wallet-recommendations). These help keep your keys safe and stored in an "offline" device, rather than on your computer. In this case, you don't have to worry about files or strings of characters; instead you just connect your hardware wallet to your computer.
+If this seems very overwhelming, [we recommend purchasing a Ledger or TREZOR hardware wallet](/staying-safe/hardware-wallet-recommendations). These help keep your keys safe and stored in an "offline" device, rather than on your computer. In this case, you don't have to worry about files or strings of characters; instead you just connect your hardware wallet to your computer.
