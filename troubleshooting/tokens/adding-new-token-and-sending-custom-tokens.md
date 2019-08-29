@@ -26,6 +26,8 @@ If your token is not on the list, click the "Add Custom Token" button which will
 
 You can use Ethplorer or Etherscan to find out the parameters of your token. 
 
+If there is an issue with adding a custom token, try adding it again but suffixing the name with `-1`. For example `TOK` becomes `TOK-1`.
+
 ### via [Ethplorer](https://ethplorer.io/) 
 
 1. On the ["Send"](https://mycrypto.com/account) page on MyCrypto, click `View Address` and paste *your* address.
