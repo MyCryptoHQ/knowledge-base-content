@@ -3,7 +3,7 @@ title: Unable to See Tokens (How to add a custom token)
 description: Tokens
 priority: 100
 date_published: '2017-01-25'
-date_modified: '2019-04-01'
+date_modified: '2019-08-29'
 ---
 
 ## How to add a new ERC-20 token
@@ -25,6 +25,8 @@ If your token is not on the list, click the "Add Custom Token" button which will
 ![](https://i.imgur.com/p1wwXQ9.png)
 
 You can use Ethplorer or Etherscan to find out the parameters of your token. 
+
+If there is an issue with adding a custom token, try adding it again but suffixing the name with `-1`. For example `TOK` becomes `TOK-1`.
 
 ### via [Ethplorer](https://ethplorer.io/) 
 
