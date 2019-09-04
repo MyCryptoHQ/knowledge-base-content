@@ -80,4 +80,4 @@ Help spread the word: Private keys are *private*. Use hardware wallets. Use cold
 * **Other References:**
   * [https://support.mycrypto.com/staying-safe/phish-hacks-thefts-and-stolen-funds-due-to-phishing](/staying-safe/phish-hacks-thefts-and-stolen-funds-due-to-phishing)
   * [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn (Anti-Phishing Chrome extension)](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
-  * [https://www.reddit.com/r/ethereum/comments/6o04b2/protips_how_not_to_get_scammed_during_a_token_sale](https://www.reddit.com/r/ethereum/comments/6o04b2/protips_how_not_to_get_scammed_during_a_token_sale )
+  * <https://www.reddit.com/r/ethereum/comments/6o04b2/protips_how_not_to_get_scammed_during_a_token_sale>
