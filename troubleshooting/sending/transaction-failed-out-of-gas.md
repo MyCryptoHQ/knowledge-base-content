@@ -16,7 +16,7 @@ Manually increasing the "Gas Limit." First, try doubling the amount of gas that 
 
 Any excess gas will be returned to you, so you could even triple or quadruple it.
 
-We are always trying to improve how we estimate gas as contracts become more complex. However, sometimes we still get it wrong. We apologize for the inconvenience.
+We are always trying to improve how we estimate gas as contracts become more complex. However, please understand that with greater complexity comes increased chances for errors to occur. 
 
 ## Related articles
 
