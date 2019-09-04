@@ -21,8 +21,8 @@ Unfortunately, this means we cannot:
 
 **However**, there are some services that can help you recover your private key.
  
-* [Wallet Recovery Services](https://walletrecoveryservices.com/) - Can potentially recover your account if you have an idea of what your password may be. They have great reviews. Check out their site for more details on what they can and cannot recover.
-* [Keychainx](https://keychainx.io/) - Another recovery service that can help you out if you have a slight idea of what your password may be.
+* [Wallet Recovery Services](https://walletrecoveryservices.com/) - These folks can potentially recover your account if you have an idea of what your password may be, and they have great reviews. Check out their site for more details on what they can and cannot recover.
+* [Keychainx](https://keychainx.io/) - This is another recovery service that can help you out if you have a slight idea of what your password may be.
 
 In the future, we highly recommend you print out a paper version of your wallet and keep it somewhere safe as a backup. [You can read more about how to safely back up your wallet here.](/how-to/backup-restore/how-to-save-back-up-your-wallet)
 
