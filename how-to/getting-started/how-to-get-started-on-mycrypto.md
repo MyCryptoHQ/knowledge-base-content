@@ -3,7 +3,7 @@ title: Learn More About MyCrypto and How to Get Started
 description: TODO
 priority: 100
 date_published: '2015-10-05'
-date_modified: '2019-07-05'
+date_modified: '2019-09-06'
 ---
 
 * Please take some time to understand this for your own security.
@@ -11,12 +11,13 @@ date_modified: '2019-07-05'
 
 ## What is MyCrypto?
 
+<div class='row between-xs'>
+
 * MyCrypto is a free, open-source, client-side interface.
 * We allow you to interact directly with the blockchain while remaining in full control of your keys & your funds.
 * You and only you are responsible for your security.
 * We cannot recover your funds or freeze your account if you visit a phishing site or lose your private key.
 
-</div>
 <div class='col-xs-12 col-sm-2 col-no-gutter'>
 
 ![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-1.svg)
@@ -214,12 +215,11 @@ Below is a visual example of how transactions are made.
 ![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/infographic.png)
 
 <div class='row between-xs'>
-<div class='col-xs-12 col-sm-8 col-no-gutter'>
-
-</div>
 <div class='col-xs-12 col-sm-2 col-no-gutter'>
 
 ![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-10.svg)
 
+</div>
+</div>
 </div>
 </div>
