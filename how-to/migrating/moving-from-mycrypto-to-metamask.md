@@ -4,6 +4,10 @@ description: Migrating to/from MyCrypto
 priority: 80
 date_published: '2017-10-08'
 date_modified: '2019-04-01'
+related_articles:
+ - url: 'how-to/sending/how-to-send-a-transaction'
+ - title: MetaMask Privacy Policy
+   url: https://metamask.io/privacy.html
 ---
 
 ## Using MetaMask + MyCrypto has 3 key benefits:
