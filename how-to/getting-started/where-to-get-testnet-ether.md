@@ -80,3 +80,4 @@ Goerli is a public testnet for Ethereum that POA (Proof of Authority) consensus 
 | Faucets                                                                            |
 |------------------------------------------------------------------------------------|
 | Request on <https://goerli-faucet.slock.it/index.html>                             |
+| <https://faucet.goerli.mudit.blog/>                                                |
