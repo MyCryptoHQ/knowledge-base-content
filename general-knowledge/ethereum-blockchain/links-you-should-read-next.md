@@ -19,3 +19,4 @@ date_modified: '2019-07-08'
 * [Where To Start Fresh After The Crypto Crash](https://www.reddit.com/r/CryptoCurrency/comments/7uzrta/want_to_start_fresh_after_the_crypto_crash_here/)
 * [The Ultimate Security Guide For Ethereum Beginners](https://medium.com/@RaymondDurk/the-ultimate-security-guide-for-ethereum-beginners-eeb713f4e9af)
 * [MultiSig Functions of Ethereum](https://www.reddit.com/r/ethdev/comments/8le4tn/executing_functions_on_other_contracts_with/)
+* [How to buy ERC20 tokens with Bancor](https://releaseyourdigitaltalent.com/how-to-buy-erc20-tokens-easy-and-quick/)
