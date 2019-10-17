@@ -274,7 +274,6 @@ date_modified: '2019-07-08'
 * WCT / WePower:                    [Web](https://wepower.network) · [Support](mailto:info@wepower.network) · [Slack](https://wepower.network/slack/) · [Telegram](https://t.me/Wepower)
 * WINGS:                            [Web](https://wings.ai/) · [Support](mailto:support@url.ai) · [Support Website](https://hi.wings.ai/)
 * WOLK / Wolk Token:                [Web](https://www.wolk.com) · [Support](mailto:services@wolk.com) · [Blog](https://blog.wolk.com/) · [Reddit](https://www.reddit.com/r/wolktoken/) · [Telegram](https://t.me/joinchat/GkePIg2-n4y5VQn4epAQOw) · [Twitter](https://twitter.com/wolkinc)
-* WRC:                              [Web](https://www.wrcoin.net) · [Support Website](mailto:support@wrcoin.net)
 * XUAR / Xaurum:                    [Web](http://www.xaurum.org/)
 * ZAP:                              [Web](https://zap.store/) · [Support](mailto:hello@zapproject.org) · [GitHub](https://github.com/zapproject/)
 * ZST / Zeus Exchange:              [Web](http://zeus.exchange/) · [Support](mailto:info@zeus.exchange) · [Facebook](https://facebook.com/Zeus-Exchange-158864051329242/) · [Telegram](https://t.me/joinchat/B8kRS0IMUdyEVi9CxH7Djw) · [Twitter](https://twitter.com/ExchangeZeus)
