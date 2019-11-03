@@ -10,7 +10,7 @@ date_modified: '2019-11-03'
 
 You must have Windows 10 Pro or Windows 10 Enterprise to access BitLocker.
 
-#### Back it Up!
+## Back it Up!
 
 Before encrypting your machine, make a backup to an external storage device. Make sure you leave your PC plugged in for the process, which does take some time that varies from machine to machine.
 1. Open Control Panel.
@@ -23,7 +23,7 @@ Before encrypting your machine, make a backup to an external storage device. Mak
 8. You’ll be asked if you want to create repair disc; you can but don’t have to because you’re backing up to external storage.
 9. Make sure you keep the external storage device somewhere safe and offline.
 
-#### Tales from the Encryption
+## Tales from the Encryption
 
 To encrypt using BitLocker, make sure you can leave your PC plugged in for several hours, possibly overnight. Go to Power & Sleep Settings in the start menu. Select “Never” for the Sleep option for “when plugged in.”
 1. Open Control Panel.
@@ -39,7 +39,7 @@ To encrypt using BitLocker, make sure you can leave your PC plugged in for sever
 
 ![Encryption progress](../assets/staying-safe/encrypting-your-windows-pc-with-bitlocker/encryption-progress.png)
 
-#### The Waiting Game
+## The Waiting Game
 
 You can check the actual status by opening a command prompt as administrator.
 1. Right click on the desktop and select New and then Shortcut
@@ -60,7 +60,7 @@ To get a new status update, hit the up-arrow key and then enter, and it will run
 
 You can keep working while your PC is encrypting. It may take a long time but, eventually, it will say “Percentage Encrypted: 100%” and the additional icon from your taskbar will disappear.
 
-#### Changing Your Password
+## Changing Your Password
 
 1. Click the Start button at the bottom left of your screen.
 2. Click Settings from the list to the left.
