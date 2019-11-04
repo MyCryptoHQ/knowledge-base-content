@@ -6,8 +6,6 @@ date_published: '2019-11-03'
 date_modified: '2019-11-03'
 ---
 
-# Encrypting Your Windows PC with BitLocker
-
 You must have Windows 10 Pro or Windows 10 Enterprise to access BitLocker.
 
 ## Back it Up!
