@@ -3,7 +3,7 @@ title: How to Submit a Pull Request
 description: Contributor Info
 priority: 65
 date_published: '2017-11-16'
-date_modified: '2018-12-11'
+date_modified: '2019-11-04'
 ---
 
 1. Navigate to the file you would like to modify.
@@ -15,3 +15,4 @@ date_modified: '2018-12-11'
 7. This next page is a review of what you did.
 8. Click the "Create Pull Request" button twice.
 9. That's it. You successfully made a new pull request! Tell all your friends.
+10. Feel proud.
