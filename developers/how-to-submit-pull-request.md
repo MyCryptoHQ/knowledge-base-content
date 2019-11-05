@@ -29,6 +29,6 @@ date_modified: '2019-11-04'
 
 7. Click the "Create Pull Request" button.
 
-![Create pull requesr](../assets/developers/submit-pull-request/create-pull-request.png)
+![Create pull request](../assets/developers/submit-pull-request/create-pull-request.png)
 
 8. That's it. You successfully made a new pull request! Tell all your friends.
