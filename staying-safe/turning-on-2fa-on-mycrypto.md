@@ -29,7 +29,7 @@ When you do this, you send your email and password to the central server, that s
 
 ![Traditional method of authentication](../../assets/staying-safe/turning-on-2fa-on-mycrypto/traditional-authentication.jpeg)
 
-### You don’t need a username and a password, just the single private key.
+### No username and password, just a private key.
 
 When sending your ether or tokens, you’re not required to have both the public and private keys. All you need is a private key to gain access to a wallet. This creates additional risk, as a scammer or phishing site only needs to obtain that one piece of information to ruin your day/month/year/life.
 
@@ -41,7 +41,7 @@ If you ever lose your private key, there’s nothing that can be done. Because y
 
 If someone gains access to your private key, the only thing you can do is hope you’re faster at moving assets than they are. There’s no 2FA to ensure that your key is behind another layer of protection. If you lose it, you lose it.
 
-### There’s no insurance if you do screw up. No reversing transactions.
+### No reversing transactions.
 
 This is true for all of cryptocurrency, but it highlights the significance of keeping your keys safe (and not typing/pasting them into a browser). If someone gets a hold of your private key and sends your funds elsewhere, there’s nothing you can do.
 
