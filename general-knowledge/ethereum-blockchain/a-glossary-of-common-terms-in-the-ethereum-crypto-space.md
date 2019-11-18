@@ -92,7 +92,9 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * The colorful blob that corresponds to your address.
 * It is an easy way to see if your address is correct.
+
 ![Example 1](../../assets/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space/identicon-example-1.jpg)
+
 ![Example 2](../../assets/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space/identicon-example-2.jpg)
 * *Note: the above addresses are a single character different but have remarkably different icons and colors. Magic!*
 
