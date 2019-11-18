@@ -3,18 +3,18 @@ title: How to Schedule a Transaction
 description: Transactions
 priority: 50
 date_published: '2018-09-13'
-date_modified: '2019-07-19'
+date_modified: '2019-11-18'
 ---
 
 It is possible to schedule transactions to be sent later, powered by the [Ethereum Alarm Clock](https://www.ethereum-alarm-clock.com/) project. Simply put, it works by sending your transaction to a "time node" which will broadcast the transaction at your specified time. Your computer does not need to be powered on at the scheduled time. For a technical explanation of how it works, please refer to [the Ethereum Alarm Clock documentation](https://ethereum-alarm-clock.readthedocs.io/en/latest/index.html).
 
 To use this feature, click the "Send Later" button on the "Send Ether & Tokens" page.
 
-![](https://i.imgur.com/oqzfAol.png)
+![Send later](../../assets/how-to/sending/how-to-schedule-a-transaction/send-later.png)
 
 Just like a regular transaction, you can set a gas price, gas limit, and optional data, but there are some other fields that you have to fill out as well.
 
-![](https://i.imgur.com/C2Cyb3l.png)
+![Scheduled transaction settings](../../assets/how-to/sending/how-to-schedule-a-transaction/scheduled-transaction-settings.png)
 
 * **Date & Time and Timezone**: As the name suggests, these fields are to set at which time your transaction should be sent. (Hint: type in the timezone text box to search!)
 * **Block Number**: Alternatively, you can specify a block number at which your transaction should be sent.

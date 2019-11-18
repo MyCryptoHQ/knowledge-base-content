@@ -3,25 +3,25 @@ title: Ethereum Account Generation & How MyCrypto gets Entropy
 description: Best Of
 priority: 2
 date_published: '2017-07-05'
-date_modified: '2018-02-25'
+date_modified: '2019-11-18'
 ---
 
 This is part of a series where Taylor pull's sweet comments she's made or found over the years in the hopes that they can be useful, searchable, remembered, referenced, and/or aid in the creation of future knowledge base posts. Many are unpolished & contain typos, specific references to previous discussions or the user, and gratuitous cursing.
 
 ---
 
-![](https://i.imgur.com/7eO4jiH.jpg)
+![Don't roll your own](../../assets/general-knowledge/cryptography/ethereum-account-generation-and-how-does-mycrypto-get-entropy/dont-roll-your-own.jpg)
 
 We use the window.crypto method which is a cryptographically secure pseudo-random number generator. It does not matter if you are online or offline (honestly, if you thought that your seeds or keys were being generated on a server somewhere and sent to you, the randomness should not worry you - the fact that your seeds could (would have already been) intercepted at any time would be the problem. Holy shit I can't believe I had to say that.)
 
 **A key will not be generated if this method is not supported by a particular implementation or if something fails during the initialization of the crypto method.** In our opinion, it is more secure to generate a key using only this method instead of adding complexity and opening ourselves up to failures or half-failures by combining different methods of generating randomness. Especially with the range of browsers and OS's today, running tests for every circumstance ever is serious undertaking.
 
-Again: ![](https://i.imgur.com/7eO4jiH.jpg)
+![Don't roll your own](../../assets/general-knowledge/cryptography/ethereum-account-generation-and-how-does-mycrypto-get-entropy/dont-roll-your-own.jpg)
 
 This avoids situations (see: TrueCrypt) where you think you are happily RNG-ing away with proper entropy (e.g. using the Windows Crypto API + mouse movements) but since the Windows Crypto API actually didn't initialize, you're really only getting entropy from mouse movements. As the TrueCrypt audit stated, "When this happens, Truecrypt
 should barf and catch fire. Instead it silently accepts this failure and continues to generate keys." We don't generate keys in that situation, because we avoid that situation entirely. No window.crypto = no key generated.
 
-Let me just say it again: ![](https://i.imgur.com/7eO4jiH.jpg)
+![Don't roll your own](../../assets/general-knowledge/cryptography/ethereum-account-generation-and-how-does-mycrypto-get-entropy/dont-roll-your-own.jpg)
 
 So really, you're asking what we are using and whether or not that system has enough entropy, even on a new computer. First, here's the W3 spec for the WebCryptoAPI:
 

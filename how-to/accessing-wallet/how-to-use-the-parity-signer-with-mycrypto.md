@@ -3,7 +3,7 @@ title: How to Use the Parity Signer with MyCrypto
 description: Accessing your Wallet
 priority: 60
 date_published: '2018-04-18'
-date_modified: '2019-04-01'
+date_modified: '2019-11-18'
 ---
 
 ## What is the Parity Signer?
@@ -20,31 +20,31 @@ But now, you can also use MyCrypto to send transactions from your Parity Signer 
 
 You can download the app for your device using one of the links below.
 
-[![App Store](https://i.imgur.com/4dG7hQ2.png)](https://itunes.apple.com/us/app/parity-signer/id1218174838?mt=8) [![Google Play](https://i.imgur.com/PYTWho7.png)](https://play.google.com/store/apps/details?id=io.parity.signer)
+[![App Store](../../assets/shared/app-store.png)](https://itunes.apple.com/us/app/parity-signer/id1218174838?mt=8) [![Google Play](../../assets/shared/google-play.png)](https://play.google.com/store/apps/details?id=io.parity.signer)
 
 Currently, the Android app is still in beta, but it is publicly available via the link above.
 
-![](https://i.imgur.com/uaVisbZ.jpg)
+![Parity Signer on the App Store](../../assets/how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto/app-store.jpg)
 
 2. Create a new account and select your identicon.
 
-![](https://i.imgur.com/gs3D3fx.png)
+![Create new account](../../assets/how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto/new-account.png)
 
 3. Fill in an account name.
 
-![](https://i.imgur.com/Y9Q6qGU.png)
+![Account name](../../assets/how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto/account-name.png)
 
 Your recovery phrase and public address will be generated. After you type in your account name, make sure your back up your recovery phrase. Click [here](https://blockonomi.com/keep-recovery-seed-safe/) for more info on how to back up and store your recovery phrase.
 
 4. Enter and confirm your PIN.
 
-![](https://i.imgur.com/H1VDNOd.png)
+![Add PIN](../../assets/how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto/add-pin.png)
 
 5. Account Name - Public Address - QR Code for Public Address
 
 This public address and QR code can be used to send and receive ETH.
 
-![](https://i.imgur.com/TjKQd6s.png)
+![Public address & QR code](../../assets/how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto/public-address-qr.png)
 
 You can create multiple accounts by clicking on the "Accounts" button in the bottom right corner.
 
@@ -61,21 +61,21 @@ If you already have an account created in Parity Signer Mobile App or Parity Wal
 
 1. Go to [MyCrypto.com](https://mycrypto.com/account).
 
-![](https://i.imgur.com/IRQUSDb.png)
+![MyCrypto access wallet page](../../assets/how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto/mycrypto-access-wallet.png)
 
 2. Open the Parity Signer App on your phone and select the account you want to access. This will bring up your account info and QR Code.
 
-![](https://i.imgur.com/4dE9Pv4.png)
+![Account info](../../assets/how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto/account-info.png)
 
 3. Scan your QR code.
 
-![](https://i.imgur.com/jdHZIu9.png)
+![Scan QR code](../../assets/how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto/scan-qr.png)
 
 When you click on the Parity Signer button on MyCrypto's homepage, it will bring you to screen where you can scan your QR code. Make sure the camera on your PC / Mac is on. Position the QR code on your phone within the camera lines as presented on your PC / Mac.
 
 4. View account details on MyCrypto.
 
-![](https://i.imgur.com/xI1EeHg.png)
+![MyCrypto account details](../../assets/how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto/mycrypto-account-details.png)
 
 Check to make sure your account details match up. From this screen, you can send transactions. NOTE: if you leave this screen, you will be logged out of your Parity address.
 

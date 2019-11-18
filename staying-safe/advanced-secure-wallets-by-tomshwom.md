@@ -3,7 +3,7 @@ title: 'Advanced: Creating a Secure Wallet by Tomshwom'
 description: Security & Phishing
 priority: 70
 date_published: '2017-07-06'
-date_modified: '2019-04-01'
+date_modified: '2019-11-18'
 ---
 
 ## Preface
@@ -26,7 +26,7 @@ I refer to this as a "wallet solution" rather than just a hardware wallet becaus
 
 This part of the guide relies on free & open source software,<sub>[1](https://labs.riseup.net/code/projects/tails/),[2](https://keepass.info/download.html),[3](https://github.com/MyCryptoHQ/mycrypto.com/releases/latest)</sub> cheap hardware, and a bit of time in order to produce a system where sensitive data can be stored securely, accessed safely, and backed up easily. It follows the idea of security controls<sub>[1](https://en.wikipedia.org/wiki/Security_controls)</sub> to implement physical, technical, and administrative safeguards, but is left up to the user to ultimately choose which ones and how to implement them.
 
-![Wallet Diagram](https://i.imgur.com/YstbPkk.png)
+![Wallet Diagram](../assets/staying-safe/advanced-secure-wallets-by-tomshwom/wallet-diagram.png)
 
 We are essentially creating our own hardware wallet that has multi-factor authentication built in and no single point of failure (like a backup seed). The goal is to end up with 2 USB drives (more for redundant backups) that are used for:
 
@@ -46,7 +46,7 @@ Read the **entire** guide first, then go through step-by-step.
 * Minimum of two flash drives larger than 4GB, more for redundant backups - USB 3.0 is a bonus
 * A way to view this guide and other ones I'll be linking to on a different computer during the offline portions
 
-![QR to guide](https://imgur.com/gbkOcPe.png)
+![QR to guide](../assets/staying-safe/advanced-secure-wallets-by-tomshwom/guide-qr.png)
 
 <sub>*Scan this QR code to follow the Steemit guide on your phone if you only have 1 computer to work from.*</sub>
 
@@ -102,13 +102,13 @@ Enter a master password that is different from the one you used for the encrypte
 
 Click the option for a keyfile and create it. **Save this to the second USB drive, NOT the Tails drive.** Locating the other drive can be done by going to the "/" directory > media > amnesia > your drive.
 
-![files](https://steemit-production-imageproxy-upload.s3.amazonaws.com/DQmYUo8eBniyN95aAZcqNKxwnHvB73KVtkea1rkCuNHsYaN)
+![Select key file](../assets/staying-safe/advanced-secure-wallets-by-tomshwom/select-key-file.png)
 
 ### Generate Your Cold Storage Address
 
 Create an entry for your MC/MEW password and use the password generator to give you a **long random password.**
 
-![password generation](https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmSZ5cQ2K8jc9dfND16JMwQ2bQh6eWzT631wKkWewqmNPY_1680x8400)
+![Password generation](../assets/staying-safe/advanced-secure-wallets-by-tomshwom/password-generation.png)
 
 Go back to the MC/MEW client and put this password in to generate a new wallet. Download your Keystore File. 
 
@@ -116,17 +116,17 @@ In KeePass, open your password entry and attach the keystore file in the advance
 
 Before you exit KeePass, go to Database > database settings and click the "benchmark" button.
 
-![benchmark](https://steemit-production-imageproxy-upload.s3.amazonaws.com/DQmWtzM8GFocSbYPQ4wkYwzz8NZ8SQHrUVfE8PRx1ybrVHr)
+![Benchmark](../assets/staying-safe/advanced-secure-wallets-by-tomshwom/benchmark.png)
 
 This determines how many rounds of encryption can be run on the database in 1 second. **It drastically improves the security of the database against brute force attacks** while only being slightly inconvenient (takes 1 second for decryption). **You should now have your password, MC/MEW UTC keyfile, and private key saved in the database.**
 
-![database](https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmSW1Lq89qaRhkx3vC3z4QL2KJ8UuV7XLpS7UYha9VTLG7_1680x8400)
+![Database](../assets/staying-safe/advanced-secure-wallets-by-tomshwom/database.png)
 
 Save your KeePass Database to the Persistent Directory.
 
 Reboot your machine back into Tails. Once you're in, launch the MC/MEW client and access your cold storage address using the **UTC + password** stored in the KeePass database. You will have to save the keystore file from KeePass to the persistent Tor directory in order for Tor to be able to use it in the MC/MEW client. Access the address again using the **private key**. Remember, you need the password and the keyfile to open the database, and you should've stored the database keyfile on the second USB.
 
-![Keepass unlock](https://steemit-production-imageproxy-upload.s3.amazonaws.com/DQmTBvYQw38ftzvctEsB8bzzDVxVDw88hbsJKQetpsE7Hp6)
+![Keepass unlock](../assets/staying-safe/advanced-secure-wallets-by-tomshwom/keepass-unlock.png)
 
 If everything is done correctly, you should be able to access your address using the private key and the UTC keystore + password. Go through both of your drives and verify that everything is where it belongs:
 
