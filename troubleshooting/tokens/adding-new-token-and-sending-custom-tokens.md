@@ -37,6 +37,7 @@ If there is an issue with adding a custom token, try adding it again but suffixi
 5. Click on the token that you want to add from the tokens shown in your wallet.
 6. You will be taken to a page that will you show all the information needed to add your token. Please look at the following image for further guidance.
 ![Token information](../../assets/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens/token-information.png)
+
 7. Back on MyCrypto, click the `Add Custom Token` button on the right sidebar.
 8. Paste the `Contract Address`, `Symbol`, and `Decimals` that you got from Ethplorer.io.
 9. Click `"Save"`.
