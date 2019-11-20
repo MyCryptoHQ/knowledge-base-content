@@ -3,7 +3,7 @@ title: 'Differences Between Wallet Types (e.g., Private Key vs Keystore)'
 description: Private Keys & Passwords
 priority: 110
 date_published: '2017-07-05'
-date_modified: '2019-03-30'
+date_modified: '2019-11-15'
 ---
 
 > What are the different types of private key formats that I can use to access my wallet?
@@ -28,6 +28,14 @@ However, for additional functionality (like protecting it with a password), ther
 
 ## Keystore File (UTC / JSON)
 
+A keystore file is a file that is generated using your private key + a password of your choosing. Using fancy math and code…
+
+![Keystore file graphic](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/keystore-file-graphic.png)
+
+If you only have the keystore file (without the password), you cannot “go backward” to get the private key. However, if you combine the password with the keystore file, you can use fancy math and code…
+
+![Private key graphic](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/private-key-graphic.png)
+
 * This is encrypted by the password you chose.
 * If you cannot use one of the options above, this is the recommended version to save.
 * This Keystore file matches the format used by Mist so you can easily import it in the future.
@@ -36,18 +44,24 @@ However, for additional functionality (like protecting it with a password), ther
 
 [How to Properly Save and Backup Your Wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
 
-![](https://i.imgur.com/j5S7mJU.png)
+![Keystore file unlock](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/keystore-file-unlock.png)
 
 ## Mnemonic Phrase
+
+A mnemonic phrase is actually a whole bunch of private keys, represented by a 12- or 24-word phrase that looks something like: brain surround have swap horror body response double fire dumb bring hazard. Again, using fancy math and code…
+
+![Mnemonic phrase graphic](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/mnemonic-phrase-graphic.png)
+
+The derivation path is a numerical representation of which private key / address you wish to access. Have you ever had trouble accessing your older Ethereum addresses when you use Ledger Live? The derivation path is why. Unlike a keystore file, there is no way to turn a private key into a mnemonic phrase. It’s a one way street.
 
 * Typically, these come in 12-word or 24-word strings.
 * They can derive multiple addresses, meaning your phrase actually is able to create multiple accounts, addresses, and private keys.
 * [MyCrypto](https://download.mycrypto.com), Ledger, TREZOR, MetaMask, and Jaxx create these for you.
 * Mnemonic phrases are insecure. If you unlock your account on a phishing site with a mnemonic phrase, the phishers will get full access to your wallet. Use one of the options above, or the [MyCrypto Desktop App](https://download.mycrypto.com/).
 
-![](https://i.imgur.com/DPcFCuY.png)
+![Create new wallet](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/create-new-wallet.png)
 
-![](https://i.imgur.com/uq7STuc.png)
+![Generate mnemonic phrase](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/generate-mnemonic-phrase.png)
 
 ## Private Key (Unencrypted)
 
@@ -57,7 +71,7 @@ However, for additional functionality (like protecting it with a password), ther
 * However, you should print the paper wallet or save this in an **offline** environment (like a piece of paper or USB drive). This ensures a lost password does not result in lost ETH, and acts as another backup.
 * Private keys are insecure. If you unlock your account on a phishing site with a private key, the phishers will get full access to your wallet. Use one of the options above, or the [MyCrypto Desktop App](https://download.mycrypto.com/).
 
-![](https://i.imgur.com/Ek8ghxf.png)
+![Save private key](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/save-private-key.png)
 
 ## Related articles
 
