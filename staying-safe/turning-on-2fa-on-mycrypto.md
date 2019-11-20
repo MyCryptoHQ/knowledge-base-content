@@ -16,7 +16,7 @@ No. And if you landed on a site telling you that you could, they are lying to yo
 > 
 > When logging into a website, your device generates a unique code based on the shared secret and the current time. Then you have to manually submit this code. The server generates the exact same thing, based on the same secret, in order to compare and validate the login request.
 
-![Traditional method of authentication](../../assets/staying-safe/turning-on-2fa-on-mycrypto/totp-graphic.png)
+![Traditional method of authentication](../assets/staying-safe/turning-on-2fa-on-mycrypto/totp-graphic.png)
 
 [*Source*](https://blog.trezor.io/why-you-should-never-use-google-authenticator-again-e166d09d4324)
 
