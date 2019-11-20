@@ -3,10 +3,10 @@ title: What is gas?
 description: Gas & Transaction Fees
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2019-07-08'
+date_modified: '2019-11-18'
 ---
 
-![](../../assets/shared/transaction-pool-infographic.png)
+![Transaction pool infographic](../../assets/shared/transaction-pool-infographic.png)
 
 ## Introduction
 
@@ -116,7 +116,7 @@ Before the BAT Token Creation Period, the average gas price was 20 GWEI (the def
 * 7590 GWEI * 200000 == 1.518 ETH == $394.68 USD
 * 58000 GWEI * 200000 == 11.6 ETH == $3,016 USD
 
-![](https://s3.amazonaws.com/groovehq/uploaded/9m3i4qusym67q6jpgyfibnlnmxslyj0hgs79waizcmsva9u5un?1496991455)
+![BAT ICO gas prices sheet](../../assets/general-knowledge/ethereum-blockchain/what-is-gas/bat-ico-sheet.jpg)
 
 That's right. Someone paid $6000+ to send a failed transaction. Ouch, indeed.
 

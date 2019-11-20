@@ -3,7 +3,7 @@ title: Running MyCrypto With Your Own Personal Node
 description: Networks & Nodes
 priority: 8
 date_published: '2017-07-05'
-date_modified: '2018-12-19'
+date_modified: '2019-11-18'
 ---
 
 You can use MyCrypto to connect to your own node, which decouples the frontend and features that you love about MyCrypto from our backend infrastructure. This means more nodes send more transactions and is closer to the decentralized nature of Ethereum. It also means that you fully control the entire process and don't rely on us.
@@ -32,7 +32,7 @@ You will be using MyCrypto to sign and then broadcast the transactions via your 
 * URL: `http://127.0.0.1:8545`.
 * Select the chain. This is for some frontend features, such as default tokens, ENS addresses, and more. See above for more details.
 
-![](https://i.imgur.com/wx5vZbs.jpg)
+![Add custom node](../assets/developers/run-your-own-node-with-mycrypto/add-custom-node.jpg)
 
 * Click "Save & Use Custom Node."
 * This should immediately connect or an error message will display.

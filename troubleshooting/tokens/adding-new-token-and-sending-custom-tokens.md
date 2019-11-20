@@ -14,15 +14,15 @@ Any ERC-20 token can be added to your local MyCrypto interface by following thes
 
 1. After accessing your address, click the "Scan For Tokens" button. 
 
-![](https://i.imgur.com/kXmezaU.png)
+![Scan for tokens](../../assets/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens/scan-for-tokens.png)
 
 2. Your tokens should appear if the token is on our token list. If you have a balance, you won't have to load it again — it will automatically load in the future.
 
-![](https://i.imgur.com/vxho4sO.png)
+![Token balances](../../assets/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens/token-balances.png)
 
 If your token is not on the list, click the "Add Custom Token" button which will bring up the fields below.
 
-![](https://i.imgur.com/p1wwXQ9.png)
+![Add custom token](../../assets/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens/add-custom-token.png)
 
 You can use Ethplorer or Etherscan to find out the parameters of your token. 
 
@@ -41,7 +41,7 @@ If there is an issue with adding a custom token, try adding it again but suffixi
 5. Click on the token that you want to add from the tokens shown in your wallet.
 
 6. You will be taken to a page that will you show all the information needed to add your token. Please look at the following image for further guidance.
-   * ![](https://i.imgur.com/5UCTIng.png)
+![Token information](../../assets/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens/token-information.png)
 
 7. Back on MyCrypto, click the `Add Custom Token` button on the right sidebar.
 

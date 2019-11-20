@@ -3,7 +3,7 @@ title: How to create a wallet
 description: Getting Started
 priority: 90
 date_published: '2015-10-05'
-date_modified: '2019-04-01'
+date_modified: '2019-11-18'
 ---
 
 ## Preface
@@ -18,23 +18,23 @@ Remember to back up any wallets you create! Including the 12-word or 24-word pri
 
 * Go to <https://mycrypto.com/generate>.
 
-![](https://i.imgur.com/N7xEOtS.png)
+![Generate page](../../assets/how-to/getting-started/how-to-create-a-wallet/generate-page.png)
 
 If you do not choose to use a hardware wallet, MetaMask, or Parity Signer, then we recommend to use MyCrypto desktop app. The desktop app is available for Mac, Windows, Linux or as a standalone app.
 
-* [Download the MyCrypto Desktop App](https://download.mycrypto.com/)
+[Download the MyCrypto Desktop App](https://download.mycrypto.com/)
 
 Once you have downloaded and successfully installed the app, open the app from your applications folder. This should open the MyCrypto Desktop interface.
 
-![](https://i.imgur.com/dlXS2Xd.png)
+![Desktop app interfaxe](../../assets/how-to/getting-started/how-to-create-a-wallet/desktop-app.png)
 
-* Click "Create New Wallet" in the side navigation bar. This will bring up three options.
+Click "Create New Wallet" in the side navigation bar. This will bring up three options.
 
-![](https://i.imgur.com/xFEwshp.png)
+![Create new wallet overview](../../assets/how-to/getting-started/how-to-create-a-wallet/create-new-wallet-overview.png)
 
-* Select an option for a type of wallet to create. In this case, click "Generate a Wallet" in the "Create New Wallet" box.
+Select an option for a type of wallet to create. In this case, click "Generate a Wallet" in the "Create New Wallet" box.
 
-![](https://i.imgur.com/1JgaeHB.png)
+![Create new wallet selection](../../assets/how-to/getting-started/how-to-create-a-wallet/create-new-wallet-selection.png)
 
 ### Generate a keystore file
 

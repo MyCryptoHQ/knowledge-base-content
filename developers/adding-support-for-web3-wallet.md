@@ -3,14 +3,14 @@ title: Adding Support for a Web3 Wallet
 description: Contributor Info
 priority: 62
 date_published: '2018-05-29'
-date_modified: '2018-11-29'
+date_modified: '2019-11-18'
 ---
 
 ## Identifying Your Provider
 
 If you're a web3 wallet developer or user, you'll definitely want to have people see your name and logo when they browse MyCrypto with your browser:
 
-![](https://i.imgur.com/vsj1NqA.png)
+![Web3 on MyCrypto](../assets/developers/adding-support-for-web3-wallet/web3-mycrypto.png)
 
 It's easy to make that happen, just [open a pull request](https://github.com/MyCryptoHQ/MyCrypto) with the following changes:
 

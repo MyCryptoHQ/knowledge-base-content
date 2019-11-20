@@ -3,18 +3,18 @@ title: How To Run MyCrypto Offline and Locally
 description: Offline
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2019-07-19'
+date_modified: '2019-11-18'
 ---
 
 For increased security, you can run MyCrypto locally on your computer with our desktop application. The computer should have no internet connection. You can generate a wallet completely offline and send transactions from the "View & Send" page.
 
-![](https://download.mycrypto.com/images/mac.png)
+![MyCrypto on Mac](../../assets/how-to/offline/how-to-run-mycrypto-offline-and-locally/mycrypto-mac.png)
 
 ## Downloading and installing
 
 In order to set up your local MyCrypto, start off by downloading the latest release of the desktop application [here](https://download.mycrypto.com/), be sure that you see the green "MyCrypto, Inc [US]" bar in the URL bar. [Don't see it?](/troubleshooting/cannot-see-the-extended-validation-certificate) Additionally, check the signed checksums. We made a guide about verifying the authenticity of the desktop app [here](/staying-safe/verifying-authenticity-of-desktop-app).
 
-![](https://i.imgur.com/9deFpcy.png)
+![SSL certificicate](../../assets/how-to/offline/how-to-run-mycrypto-offline-and-locally/ssl-certificate.png)
 
 Move the downloaded executable to a USB stick or something similar, in order to move it to your offline computer. Plug the USB stick into your offline computer and move the executable to a place that you can easily find on your offline computer.
 

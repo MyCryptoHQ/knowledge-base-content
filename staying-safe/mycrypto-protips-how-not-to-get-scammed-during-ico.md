@@ -3,7 +3,7 @@ title: How to avoid getting scammed and phished
 description: Security & Phishing
 priority: 85
 date_published: '2017-07-05'
-date_modified: '2019-07-08'
+date_modified: '2019-11-18'
 ---
 
 Below are some tips to reduce the risk of losing your hard-earned coins
@@ -20,19 +20,19 @@ The screenshots below point out specific things to check to make sure you are in
 
 ## 1. Use Google instead of clicking links sent to you
 
-![](https://i.imgur.com/XwiVCSY.jpg)
+![Use Google](../assets/staying-safe/mycrypto-protips-how-not-to-get-scammed-during-ico/use-google.jpg)
 
 So you received a message, saw a tweet, or whatever about hot new ICO. Don't click. Google the name of the token + "token contribution," "Ethereum," or "token."
 
 ## 2. Check the URL. Is it the same as the message received?
 
-![](https://i.imgur.com/8wmJRYg.jpg)
+![Check URL](../assets/staying-safe/mycrypto-protips-how-not-to-get-scammed-during-ico/check-url.jpg)
 
 Okay ... but how do I know this is the *right* URL?
 
 ## 3. Google the name of the token + "twitter"
 
-![](https://i.imgur.com/cLC6kWK.jpg)
+![Google Token + Twitter](../assets/staying-safe/mycrypto-protips-how-not-to-get-scammed-during-ico/google-token-twitter.jpg)
 
 ## 4. Check out the Twitter. Everything looking good still?
 
@@ -46,7 +46,7 @@ If you have followers in common, this is a good sign! The URL they provided matc
 
 ## 5. Check out the address on [Etherscan](https://etherscan.io)
 
-![](https://i.imgur.com/nVB3esg.png)
+![Check Twitter](../assets/staying-safe/mycrypto-protips-how-not-to-get-scammed-during-ico/check-twitter.jpg)
 
 ... and let's check the comments on Etherscan.
 
@@ -56,7 +56,7 @@ Or is there some extra verification that this is legit? Again, never rely on a s
 
 ## 6. And always make sure you are on the correct MyCrypto
 
-![](https://i.imgur.com/kIzLh8t.png)
+![Check address](../assets/staying-safe/mycrypto-protips-how-not-to-get-scammed-during-ico/check-address.png)
 
 Finally, when you go to contribute, make sure you are on a legit version of MyCrypto (<https://mycrypto.com/>).
 
@@ -66,13 +66,9 @@ Check the address. Check the identicon (the blob of colors that corresponds to y
 
 In this case, district0x's is kinda pinky-yellow and the address starts with 0xF80.
 
-![](https://i.imgur.com/1OvTydO.jpg)
+![Check identicon + address](../assets/staying-safe/mycrypto-protips-how-not-to-get-scammed-during-ico/check-identicon.jpg)
 
 Sweetness.
-
-Oh, and now the URL on MyCrypto displays on load and node change. This is another easy reminder to let you know if you are on a scam site.
-
-![](https://i.imgur.com/FeUNqAY.png)
 
 ### Related articles
 

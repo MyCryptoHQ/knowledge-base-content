@@ -3,7 +3,7 @@ title: A Glossary of Common Terms in the Ethereum and Crypto Space
 description: Getting Started
 priority: 60
 date_published: '2015-10-05'
-date_modified: '2019-03-30'
+date_modified: '2019-11-18'
 ---
 
 ## Words are Hard
@@ -92,8 +92,10 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * The colorful blob that corresponds to your address.
 * It is an easy way to see if your address is correct.
-* [Example 1](https://i.imgur.com/lHUrIiZ.jpg).
-* [Example 2](https://i.imgur.com/FvyLewS.jpg).
+
+![Example 1](../../assets/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space/identicon-example-1.jpg)
+
+![Example 2](../../assets/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space/identicon-example-2.jpg)
 * *Note: the above addresses are a single character different but have remarkably different icons and colors. Magic!*
 
 ### Hexadecimal
