@@ -3,14 +3,18 @@ title: How to Buy Ether (ETH) with USD
 description: FAQ
 priority: 60
 date_published: '2017-06-20'
-date_modified: '2019-04-01'
+date_modified: '2020-02-14'
 ---
 
 ## Hello and welcome to Ethereum!
 
-Ethereum and digital currencies are pretty new and in this new world, things can be a little bit different. First, you are responsible for your stuff: your investments, your choices, and your security. There are no babysitters or undo buttons, and no bank to call up and have a transaction reversed. The power of the blockchain lies in this autonomy, but it can also be dangerous to expect all the cushy failsaifes you've come to enjoy.
+Ethereum and digital currencies are pretty new and in this new financial world, things can be a little bit different.
 
-Second, most of the people involved in this world are pretty technically savvy, and sometimes forget how different things are to the inexperienced. Take your time, ask questions, ask for clarification and reach out for help, read the instructions, read the warnings, hang out, and try to learn new things.
+First, YOU are responsible for the stuff: your investments, your choices, and and most importantly, your security. There are no babysitters or undo buttons, and no bank to call up and have a transaction reversed. The power of the blockchain lies in this autonomy, but it can also be dangerous to expect all the convenient failsafes you've come to enjoy.
+
+Second, most of the people involved in this world are pretty tech-savvy, and sometimes forget how different things are to the inexperienced. Take your time, read the instructions and warnings, ask for clarification and reach out for help if you still have questions.
+
+Here are three basic security tips you need to know when buying and holding cryptocurrencies.
 
 * **Scams, [phishing sites](https://www.google.com/safebrowsing/static/faq.html#q1), and malicious links exist. Trust messages and random links about as much as those in your spam box. Verify, verify, verify!**
 * **Always save and backup your private key in a *separate* location, like a piece of paper or a USB drive. Avoid cloud storage.**
@@ -26,7 +30,11 @@ Second, most of the people involved in this world are pretty technically savvy, 
 
 GO TO [buy.mycrypto.com](https://buy.mycrypto.com/) and use our new Simplex integration!
 
-Other Options
+### Buying through an Exchange
+
+What is an exchange? If you use an exchange like Coinbase, Gemini, Kraken, Polonix, Bittrex, then you have an account with that company, and they hold your ETH and your keys for you. They have their own account on the blockchain with all their and their customers' funds in it. Then you have a username / password with them, on their servers, and they keep track of how much ETH they "owe" you.
+
+This allows you to have the more traditional username / password situation and do things like reset your password if you forget it, change your password if your password is compromised, and turn on 2FA. However, it also means that if the exchange loses ETH, it's your ETH that is lost. If you still want to purchase eth through an exchange, follow the steps below.
 
 1. Create an account on either Gemini, [Coinbase](https://coinbase-consumer.sjv.io/k9Wjv), or Kraken.
 
@@ -51,7 +59,7 @@ The private key is like a password, but way more intense. Plus, it's a password 
 
 ### Alternative steps 1-5:
 
-If you already have BTC, you can use ShapeShift.io or Changelly to convert your BTC into ETH. Start a BTC->ETH exchange and it'll tell you where to send your BTC. (If you have your BTC on an exchange, you can likely exchange them for ETH on that exchange without the need for ShapeShift.)
+If you already have BTC(Bitcoin), you can use ShapeShift.io or Changelly to convert your BTC into ETH. Start a BTC->ETH exchange and it'll tell you where to send your BTC. (If you have your BTC on an exchange, you can likely exchange them for ETH on that exchange without the need for ShapeShift.)
 
 Then, create an Ethereum account and back it up. In Circle or Coinbase, send all the BTC to that address. The ETH will appear in your ETH wallet in ~20 minutes.
 
@@ -66,7 +74,7 @@ Then, create an Ethereum account and back it up. In Circle or Coinbase, send all
 
 ### Refresher Course!
 
-I have outlined the steps above as if you should do it all as fast as possible. Stop. Breath. There is no rush. Take your time moving your funds from an exchange to your own wallet. Test with a small amount first. Get the feel for things and make mistakes with *small amounts* rather than all your money! If you skipped steps earlier or didn't understand them, take the time to reread them now.
+I have outlined the steps above as if you should do it all as fast as possible. Stop. Breathe. There is no rush. Take your time moving your funds from an exchange to your own wallet. Test with a small amount first. Get the feel for things and make mistakes with *small amounts* rather than all your money! If you skipped steps earlier or didn't understand them, take the time to reread them now.
 
 * [Understand the difference between a hosted wallet / exchange and client-side wallet before moving your ETH to your own wallet.](/general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto)
 * [Learn how to protect your funds!](/staying-safe/protecting-yourself-and-your-funds)
