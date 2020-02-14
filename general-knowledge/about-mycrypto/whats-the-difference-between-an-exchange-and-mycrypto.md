@@ -16,7 +16,7 @@ The upside is that you, and only you, control your keys. An exchange getting hac
 
 If you do lose your private key or wallet file or password, you cannot prove ownership of an account and therefore you cannot ever send your coins again.
 
-**If you use an exchange like Coinbase, Gemini, Kraken, Polonix, Bittrex,** then you have any account with that company, and they hold your ETH and your keys for you. They have their own account on the blockchain with all their and their customers' funds in it. Then you have a username / password with them, on their servers, and they keep track of how much ETH they "owe" you.
+**If you use an exchange like Coinbase, Gemini, Kraken, Polonix, Bittrex,** then you have an account with that company, and they hold your ETH and your keys for you. They have their own account on the blockchain with all their and their customers' funds in it. Then you have a username / password with them, on their servers, and they keep track of how much ETH they "owe" you.
 
 This allows you to have the more traditional username / password situation and do things like reset your password if you forget it, change your password if your password is compromised, and turn on 2FA. However, it also means that if the exchange loses ETH, it's **your ETH that is lost.**
 
@@ -31,3 +31,5 @@ You also need to ensure you keep these keys securely. This means:
 * Don't have Team Viewer or other remote access software on your computer
 
 If this seems very overwhelming, [we recommend purchasing a Ledger or TREZOR hardware wallet](/staying-safe/hardware-wallet-recommendations). These help keep your keys safe and stored in an "offline" device, rather than on your computer. In this case, you don't have to worry about files or strings of characters; instead you just connect your hardware wallet to your computer.
+
+
