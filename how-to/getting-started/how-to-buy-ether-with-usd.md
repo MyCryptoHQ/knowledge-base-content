@@ -3,7 +3,7 @@ title: How to Buy Ether (ETH) with USD
 description: FAQ
 priority: 60
 date_published: '2017-06-20'
-date_modified: '2020-02-14'
+date_modified: '2020-02-18'
 ---
 
 ## Hello and welcome to Ethereum!
@@ -32,7 +32,7 @@ GO TO [buy.mycrypto.com](https://buy.mycrypto.com/) and use our new Simplex inte
 
 ### Buying through an Exchange
 
-What is an exchange? If you use an exchange like Coinbase, Gemini, Kraken, Polonix, Bittrex, then you have an account with that company, and they hold your ETH and your keys for you. They have their own account on the blockchain with all their and their customers' funds in it. Then you have a username / password with them, on their servers, and they keep track of how much ETH they "owe" you.
+What is an exchange? If you use an exchange like Coinbase, Gemini, Kraken, Poloniex, Bittrex, then you have an account with that company, and they hold your ETH and your keys for you. They have their own account on the blockchain with all their and their customers' funds in it. Then you have a username / password with them, on their servers, and they keep track of how much ETH they "owe" you.
 
 This allows you to have the more traditional username / password situation and do things like reset your password if you forget it, change your password if your password is compromised, and turn on 2FA. However, it also means that if the exchange loses ETH, it's your ETH that is lost. If you still want to purchase eth through an exchange, follow the steps below.
 
