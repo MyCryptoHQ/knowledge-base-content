@@ -3,7 +3,7 @@ title: What's the Difference Between an Exchange and MyCrypto?
 description: Getting Started
 priority: 90
 date_published: '2015-07-15'
-date_modified: '2019-07-08'
+date_modified: '2020-02-18'
 ---
 
 "What is the difference between an exchange (e.g. Coinbase, Kraken, Gemini, Poloniex, Bittrex) and MyCrypto?"
@@ -16,7 +16,7 @@ The upside is that you, and only you, control your keys. An exchange getting hac
 
 If you do lose your private key or wallet file or password, you cannot prove ownership of an account and therefore you cannot ever send your coins again.
 
-**If you use an exchange like Coinbase, Gemini, Kraken, Polonix, Bittrex,** then you have any account with that company, and they hold your ETH and your keys for you. They have their own account on the blockchain with all their and their customers' funds in it. Then you have a username / password with them, on their servers, and they keep track of how much ETH they "owe" you.
+**If you use an exchange like Coinbase, Gemini, Kraken, Polonix, Bittrex,** then you have an account with that company, and they hold your ETH and your keys for you. They have their own account on the blockchain with all their and their customers' funds in it. Then you have a username / password with them, on their servers, and they keep track of how much ETH they "owe" you.
 
 This allows you to have the more traditional username / password situation and do things like reset your password if you forget it, change your password if your password is compromised, and turn on 2FA. However, it also means that if the exchange loses ETH, it's **your ETH that is lost.**
 
