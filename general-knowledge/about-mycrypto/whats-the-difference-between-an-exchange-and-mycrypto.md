@@ -3,7 +3,7 @@ title: What's the Difference Between an Exchange and MyCrypto?
 description: Getting Started
 priority: 90
 date_published: '2015-07-15'
-date_modified: '2019-07-08'
+date_modified: '2020-02-18'
 ---
 
 "What is the difference between an exchange (e.g. Coinbase, Kraken, Gemini, Poloniex, Bittrex) and MyCrypto?"
