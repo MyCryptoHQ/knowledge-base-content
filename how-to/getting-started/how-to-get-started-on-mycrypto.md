@@ -3,7 +3,7 @@ title: Learn More About MyCrypto and How to Get Started
 description: TODO
 priority: 100
 date_published: '2015-10-05'
-date_modified: '2019-09-06'
+date_modified: '2020-02-19'
 ---
 
 * Please take some time to understand this for your own security.
@@ -11,22 +11,12 @@ date_modified: '2019-09-06'
 
 ## What is MyCrypto?
 
-<div class='row between-xs'>
-
 * MyCrypto is a free, open-source, client-side interface.
 * We allow you to interact directly with the blockchain while remaining in full control of your keys & your funds.
 * You and only you are responsible for your security.
 * We cannot recover your funds or freeze your account if you visit a phishing site or lose your private key.
 
-<div class='col-xs-12 col-sm-2 col-no-gutter'>
-
-![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-1.svg)
-
-</div>
-</div>
-
-<div class='row between-xs'>
-<div class='col-xs-12 col-sm-8 col-no-gutter'>
+<Image float="right" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-1.svg" />
 
 ## MyCrypto is not a bank
 
@@ -36,16 +26,9 @@ date_modified: '2019-09-06'
 * The bank allows you to write a check or charge your debit card to send money, go online to check your balance, reset your password, and get a new debit card if you lose it.
 * You have an account with the bank or exchange and they decide how much money you can send, where you can send it, and how long to hold on a suspicious deposit. All for a fee.
 
-</div>
-<div class='col-xs-12 col-sm-2 col-no-gutter'>
+<Clearfix />
 
-![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-2.svg)
-
-</div>
-</div>
-
-<div class='row between-xs'>
-<div class='col-xs-12 col-sm-8 col-no-gutter'>
+<Image float="left" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-2.svg" />
 
 ## MyCrypto is an interface
 
@@ -57,16 +40,9 @@ date_modified: '2019-09-06'
 * If you send your public key (address) to someone, they can send you ETH or tokens.
 * If you send your private key to someone, they now have full control of your account.
 
-</div>
-<div class='col-xs-12 col-sm-2 col-no-gutter'>
+<Clearfix />
 
-![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-3.svg)
-
-</div>
-</div>
-
-<div class='row between-xs'>
-<div class='col-xs-12 col-sm-8 col-no-gutter'>
+<Image float="right" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-3.svg" />
 
 ## Wait, what is a blockchain?
 
@@ -77,16 +53,9 @@ date_modified: '2019-09-06'
 * When you see your balance on MyCrypto.com or view your transactions on etherscan.io, you are seeing data on the blockchain, MyCrypto does *NOT* store any data.
 * We are not the blockchain, we allow you to interact *WITH* the Ethereum blockchain (send transactions), and view information that is publicly available on the blockchain
 
-</div>
-<div class='col-xs-12 col-sm-2 col-no-gutter'>
+<Clearfix />
 
-![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-4.svg)
-
-</div>
-</div>
-
-<div class='row between-xs'>
-<div class='col-xs-12 col-sm-8 col-no-gutter'>
+<Image float="left" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-4.svg" />
 
 ## We need you to understand that we **cannot**...
 
@@ -97,22 +66,15 @@ date_modified: '2019-09-06'
 * Freeze accounts.
 * **We do not store any of your information, so we can not access any information besides what is publicly available on the blockchain.
 
+<Clearfix />
+
 ## **You** and **only you** are responsible for your security
 
 * Be diligent to keep your private key and password safe. Your private key is sometimes called your mnemonic phrase, keystore file, UTC file, JSON file, wallet file.
 * If lose your private key or password, no one can recover it.
 * If you enter your private key on a phishing website, you will have all your funds taken.
 
-</div>
-<div class='col-xs-12 col-sm-2 col-no-gutter'>
-
-![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-5.svg)
-
-</div>
-</div>
-
-<div class='row between-xs'>
-<div class='col-xs-12 col-sm-8 col-no-gutter'>
+<Image float="right" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-5.svg" />
 
 ## If MyCrypto can't do those things, what's the point?
 
@@ -123,16 +85,9 @@ date_modified: '2019-09-06'
 * If you don't like the sound of this, consider using [Coinbase](https://coinbase-consumer.sjv.io/k9Wjv) or [Blockchain.info](https://blockchain.info/wallet/#/signup). They have more familiar accounts with usernames & passwords.
 * If you are scared but want to use MyCrypto, [get a hardware wallet](/staying-safe/hardware-wallet-recommendations)! These keep your keys secure.
 
-</div>
-<div class='col-xs-12 col-sm-2 col-no-gutter'>
+<Clearfix />
 
-![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-6.svg)
-
-</div>
-</div>
-
-<div class='row between-xs'>
-<div class='col-xs-12 col-sm-8 col-no-gutter'>
+<Image float="left" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-6.svg" />
 
 ## How to protect yourself from phishers
 
@@ -145,16 +100,9 @@ Phishers send you a message with a link to a website that looks just like MyCryp
 * Always navigate directly to a site before you enter information. Do not enter information after clicking a link from a message or email.
 * [Install an AdBlocker](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) and do not click ads on your search engine (e.g. Google).
 
-</div>
-<div class='col-xs-12 col-sm-2 col-no-gutter'>
+<Clearfix />
 
-![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-7.svg)
-
-</div>
-</div>
-
-<div class='row between-xs'>
-<div class='col-xs-12 col-sm-8 col-no-gutter'>
+<Image float="right" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-7.svg" />
 
 ## How to protect yourself from scams
 
@@ -163,16 +111,9 @@ Phishers send you a message with a link to a website that looks just like MyCryp
 * Ask questions when you don't understand something or it doesn't seem right.
 * Don't let fear, FUD, or FOMO win over common sense. If something is very urgent, ask yourself "why?". It may be to create FOMO or prevent you from doing research.
 
-</div>
-<div class='col-xs-12 col-sm-2 col-no-gutter'>
+<Clearfix />
 
-![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-8.svg)
-
-</div>
-</div>
-
-<div class='row between-xs'>
-<div class='col-xs-12 col-sm-8 col-no-gutter'>
+<Image float="left" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-8.svg" />
 
 ## How to protect yourself from loss
 
@@ -183,18 +124,9 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 * Do not store your private key in Dropbox, Google Drive, or other cloud storage. If that account is compromised, your funds will be stolen.
 * If you have more than 1-week's worth of pay worth of cryptocurrency, get a hardware wallet. No excuses. It's worth it. I promise.
 
-</div>
-<div class='col-xs-12 col-sm-2 col-no-gutter'>
+<Clearfix />
 
-![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-9.svg)
-
-</div>
-</div>
-
-[**More Security Tips!**](/staying-safe/protecting-yourself-and-your-funds)
-
-<div class='row between-xs'>
-<div class='col-xs-12 col-sm-8 col-no-gutter'>
+<Image float="right" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-9.svg" />
 
 ## Onwards!
 
@@ -209,17 +141,3 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 * [How to verify you have access to the wallet](/how-to/accessing-wallet/how-to-access-your-wallet-with-keystore-file).
 * [How to send funds to your wallet](/how-to/getting-started/where-can-i-buy-sell-trade-or-exchange-my-eth-or-tokens).
 * [More Security Tips!](/staying-safe/protecting-yourself-and-your-funds)
-
-Below is a visual example of how transactions are made.
-
-![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/infographic.png)
-
-<div class='row between-xs'>
-<div class='col-xs-12 col-sm-2 col-no-gutter'>
-
-![](../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-10.svg)
-
-</div>
-</div>
-</div>
-</div>
