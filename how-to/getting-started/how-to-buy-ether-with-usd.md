@@ -77,4 +77,3 @@ Navigate to [Coinbase](https://coinbase-consumer.sjv.io/k9Wjv).
 For a NEW Coinbase account, click on the Get Started button, enter your email address and follow the directions to register and verify your account and device.
 
 For any questions or issues on how to buy ETH with USD via Coinbase, please contact Coinbase directly. You can find Coinbase’s support page [here](https://support.coinbase.com/).
-
