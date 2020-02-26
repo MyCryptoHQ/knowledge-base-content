@@ -105,3 +105,4 @@ We are a client-side interface that allows you to interact with the Ethereum blo
 
 * [What is the difference between private key & Keystore / UTC file?](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)
 * [Protecting yourself and your funds](/staying-safe/protecting-yourself-and-your-funds)
+* [How to Back Up Your Wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
