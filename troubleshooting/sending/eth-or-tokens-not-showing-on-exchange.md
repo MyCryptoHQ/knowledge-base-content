@@ -3,7 +3,7 @@ title: ETH or Tokens sent to or from exchange haven't shown up
 description: Addresses & Balances
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2019-04-01'
+date_modified: '2020-03-02'
 ---
 
 First, check the transaction on [Etherscan](https://etherscan.io/) or [Etherchain](https://www.etherchain.org/), and ensure that there is no red ( ! ) symbol by the transaction.
@@ -30,3 +30,4 @@ If you do not see the transaction on etherscan or etherchain, please check with 
 
 * [More help, support and communities](/general-knowledge/ethereum-blockchain/more-help-support-and-communities)
 * [Where can I buy, sell, trade or exchange my Ether or tokens?](/how-to/getting-started/where-can-i-buy-sell-trade-or-exchange-my-eth-or-tokens)
+* [Showing and Loading Tokens](https://support.mycrypto.com/how-to/tokens/showing-and-loading-tokens)
