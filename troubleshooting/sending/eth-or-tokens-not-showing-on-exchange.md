@@ -30,4 +30,4 @@ If you do not see the transaction on etherscan or etherchain, please check with 
 
 * [More help, support and communities](/general-knowledge/ethereum-blockchain/more-help-support-and-communities)
 * [Where can I buy, sell, trade or exchange my Ether or tokens?](/how-to/getting-started/where-can-i-buy-sell-trade-or-exchange-my-eth-or-tokens)
-* [Showing and Loading Tokens](https://support.mycrypto.com/how-to/tokens/showing-and-loading-tokens)
+* [Showing and Loading Tokens](/how-to/tokens/showing-and-loading-tokens)
