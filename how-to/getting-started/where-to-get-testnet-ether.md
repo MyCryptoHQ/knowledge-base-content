@@ -6,8 +6,6 @@ date_published: '2018-07-02'
 date_modified: '2020-03-05'
 ---
 
-## Where to get testnet Ether?
-
 There are currently 4 different testnets for the Ethereum public chain:
 
 * Rinkeby
