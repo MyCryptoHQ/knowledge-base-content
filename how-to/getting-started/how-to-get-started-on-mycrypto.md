@@ -3,7 +3,7 @@ title: Learn More About MyCrypto and How to Get Started
 description: TODO
 priority: 100
 date_published: '2015-10-05'
-date_modified: '2020-02-19'
+date_modified: '2020-03-04'
 ---
 
 * Please take some time to understand this for your own security.
@@ -64,7 +64,7 @@ date_modified: '2020-02-19'
 * Recover or reset your password.
 * Reverse, cancel, or refund transactions.
 * Freeze accounts.
-* **We do not store any of your information, so we can not access any information besides what is publicly available on the blockchain.
+* We do not store any of your information, so we can not access any information besides what is publicly available on the blockchain.
 
 <Clearfix />
 
