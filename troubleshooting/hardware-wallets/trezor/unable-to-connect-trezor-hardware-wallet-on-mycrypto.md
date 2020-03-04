@@ -3,7 +3,7 @@ title: Unable to Connect Trezor Hardware Wallet on MyCrypto
 description: Hardware Wallets
 priority: 30
 date_published: '2019-03-29'
-date_modified: '2019-04-03'
+date_modified: '2020-02-27'
 ---
 
 Sometimes your Trezor hardware wallet won't connect to MyCrypto. Here are some troubleshooting tips to try:
@@ -16,4 +16,4 @@ Sometimes your Trezor hardware wallet won't connect to MyCrypto. Here are some t
 * Try restarting your computer
 * Check to make sure you are taking required actions in pop ups or new tabs
 
-If none of these work, please contact us and we will try our best to help you out.
+[Troubleshooting Guide from Trezor via Reddit](https://www.reddit.com/r/TREZOR/comments/bcdv79/trezor_troubleshooting_guide/)
