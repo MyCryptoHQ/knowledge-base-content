@@ -3,14 +3,15 @@ title: Where to Get Testnet Ether?
 description: FAQ
 priority: 40
 date_published: '2018-07-02'
-date_modified: '2020-03-04'
+date_modified: '2020-03-05'
 ---
 
-There are currently 3 different testnets for the Ethereum public chain:
+There are currently 4 different testnets for the Ethereum public chain:
 
 * Rinkeby
 * Ropsten
 * Kovan
+* Goerli
 
 ## Rinkeby
 
@@ -65,7 +66,7 @@ Kovan is a public testnet for Ethereum that uses Parity's PoA (Proof of Authorit
 
 ## **Goerli**
 
-Goerli is a public testnet for Ethereum that POA (Proof of Authority) consensus engine - it is cross client compatiable.
+Goerli is a public testnet for Ethereum that POA (Proof of Authority) consensus engine - it is cross client compatible.
 
 * Immune to spam attacks (Ether supply is controlled by trusted parties)
 
