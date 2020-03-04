@@ -3,7 +3,7 @@ title: How to create a wallet
 description: Getting Started
 priority: 90
 date_published: '2015-10-05'
-date_modified: '2019-11-18'
+date_modified: '2020-03-04'
 ---
 
 ## Preface
@@ -12,7 +12,7 @@ We highly recommend getting a hardware wallet or using MetaMask as a method to a
 
 The following assumes you are **not** using a hardware wallet or MetaMask. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](/staying-safe/hardware-wallet-recommendations).
 
-Remember to back up any wallets you create! Including the 12-word or 24-word private seed phrase for your hardware wallets! MyCrypto <em>CANNOT</em> recover any lost passwords or access accounts. MyCrypto only has access to information that is publicly available on the blockchain. The security and responsibilty of your funds rests on your own shoulders! But MyCrypto will always be here for guidance and to answer any questions that you may have regarding how to be safe with your funds.  
+Remember to back up any wallets you create! Including the 12-word or 24-word private seed phrase for your hardware wallets! MyCrypto <em>CANNOT</em> recover any lost passwords or access accounts. MyCrypto only has access to information that is publicly available on the blockchain. The security and responsibility of your funds rests on your own shoulders! But MyCrypto will always be here for guidance and to answer any questions that you may have regarding how to be safe with your funds.  
 
 ## How To Create a New Wallet
 
@@ -26,7 +26,7 @@ If you do not choose to use a hardware wallet, MetaMask, or Parity Signer, then 
 
 Once you have downloaded and successfully installed the app, open the app from your applications folder. This should open the MyCrypto Desktop interface.
 
-![Desktop app interfaxe](../../assets/how-to/getting-started/how-to-create-a-wallet/desktop-app.png)
+![Desktop app interface](../../assets/how-to/getting-started/how-to-create-a-wallet/desktop-app.png)
 
 Click "Create New Wallet" in the side navigation bar. This will bring up three options.
 
