@@ -1,22 +1,66 @@
-const request = require('request');
+const fetch = require('node-fetch');
+
+const GITHUB_API_URL = 'https://api.github.com/repos/MyCryptoHQ/knowledge-base';
+const TRAVIS_API_URL = 'https://api.travis-ci.org/repo/MyCryptoHQ%2Fknowledge-base/requests';
 
 /**
- * Send a request to Travis to rebuild the main knowledge base repo with the updated content.
+ * Get the latest tag from the Knowledge Base repository.
+ *
+ * @return {Promise<string>}
  */
-request.post('https://api.travis-ci.org/repo/MyCryptoHQ%2Fknowledge-base/requests', {
-  headers: {
-    'Content-Type': 'application/json',
-    'Accept': 'application/json',
-    'Travis-API-Version': '3',
-    'Authorization': `token ${process.env.TRAVIS_API_TOKEN}`
-  },
-  body: JSON.stringify({
-    request: {
-      branch: 'master'
+const fetchTag = async () => {
+  const data = await (await fetch(`${GITHUB_API_URL}/tags`, {
+    method: 'get',
+    headers: {
+      Accept: 'application/vnd.github.v3+json'
     }
-  })
-}, (error) => {
-  if (error) {
-    throw error;
+  })).json();
+
+  return data[0].name;
+};
+
+/**
+ * Trigger a Travis build for the Knowledge Base repository in order to redeploy with the updated content.
+ *
+ * @param {string} tag
+ * @return {Promise<void>}
+ */
+const deploy = async (tag) => {
+  const response = await fetch(TRAVIS_API_URL, {
+    method: 'post',
+    headers: {
+      Accept: 'application/json',
+      Authorization: `token ${process.env.TRAVIS_API_TOKEN}`,
+      'Content-Type': 'application/json',
+      'Travis-API-Version': '3',
+    },
+    body: JSON.stringify({
+      request: {
+        branch: tag,
+        config: {
+          merge_mode: 'deep_merge_append',
+          env: {
+            global: [
+              `TRAVIS_TAG=${tag}`
+            ]
+          }
+        }
+      }
+    })
+  });
+
+  if (response.status !== 200) {
+    const text = await response.text();
+    throw new Error(`Invalid response status code: ${response.status}.\n${text}`);
   }
-});
+};
+
+/**
+ * Start automatic deployment.
+ */
+fetchTag()
+    .then(deploy)
+    .catch(error => {
+      console.error('Failed to deploy:\n', error);
+      process.exit(1);
+    });

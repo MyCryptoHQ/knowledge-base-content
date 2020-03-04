@@ -16,4 +16,4 @@ Sometimes your Trezor hardware wallet won't connect to MyCrypto. Here are some t
 * Try restarting your computer
 * Check to make sure you are taking required actions in pop ups or new tabs
 
-If none of these work, please contact us and we will try our best to help you out.
+[Troubleshooting Guide from Trezor via Reddit](https://www.reddit.com/r/TREZOR/comments/bcdv79/trezor_troubleshooting_guide/)
