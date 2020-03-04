@@ -3,7 +3,7 @@ title: How to fix accidentally inputting incorrect custom token details
 description: Tokens
 priority: 90
 date_published: '2017-11-12'
-date_modified: '2019-04-01'
+date_modified: '2020-03-04'
 ---
 
 ## Not a valid ERC-20 token error
@@ -20,4 +20,4 @@ This happens when you input an incorrect decimal value while entering custom tok
 
 To fix these errors please remove the token from your MyCrypto Interface and re-add the token. To remove a custom token, click the little `( - )` icon next to token you wish to re-add. This will remove it from the interface. It is not deleting or removing the tokens from your wallet, they are still safely in your wallet, we promise.
 
-Please follow our guide on how to add a token for further guidance. [Adding Custom Ethereum (ERC-20) Tokens](/how-to/sending/sending-and-adding-tokens)
+Please follow our guide on how to add a token for further guidance, [how to add a custom token](/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens).

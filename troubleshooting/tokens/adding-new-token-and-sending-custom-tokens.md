@@ -3,10 +3,8 @@ title: Unable to See Tokens (How to add a custom token)
 description: Tokens
 priority: 100
 date_published: '2017-01-25'
-date_modified: '2019-08-29'
+date_modified: '2020-03-04'
 ---
-
-## How to add a new ERC-20 token
 
 If you can't see a token when you access your wallet on MyCrypto, you simply just need to add it to your interface in order to see it and then send it in a transaction.
 
@@ -28,7 +26,7 @@ You can use Ethplorer or Etherscan to find out the parameters of your token.
 
 If there is an issue with adding a custom token, try adding it again but suffixing the name with `-1`. For example `TOK` becomes `TOK-1`.
 
-### via [Ethplorer](https://ethplorer.io/) 
+## Via [Ethplorer](https://ethplorer.io/) 
 
 1. On the ["Send"](https://mycrypto.com/account) page on MyCrypto, click `View Address` and paste *your* address.
 
@@ -51,7 +49,7 @@ If there is an issue with adding a custom token, try adding it again but suffixi
 
 🎉You can now send your new token and see it's balance in the sidebar!
 
-### via [Etherscan](https://etherscan.io)
+## Via [Etherscan](https://etherscan.io)
 
 1. On the ["Send"](https://mycrypto.com/account) page on MyCrypto, click `View Address` and paste *your* address.
 2. In the sidebar, click the `https://etherscan.io` link under `Transaction History` or `How to See your Tokens`.
@@ -67,11 +65,11 @@ If there is an issue with adding a custom token, try adding it again but suffixi
 
 🎉 You can now send your new token and see it's balance in the sidebar!
 
-### Removing a custom token
+## Removing a custom token
 
 To remove a custom token, click the little ( - ) icon next to the token. This will remove it from the interface. It will not delete or remove the token from the wallet itself. They are still safely stored in your wallet, we promise.
 
-### Related articles
+## Related articles
 
 * [Showing & Loading Custom Tokens](/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens)
 * [Can I store any coin in MyCrypto?](/general-knowledge/about-mycrypto/does-mycrypto-support-bitcoin-or-other-coins)
