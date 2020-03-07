@@ -3,7 +3,7 @@ title: '[Coinbase ➡ MyCrypto] Moving from Coinbase to MyCrypto'
 description: Migrating to/from MyCrypto
 priority: 75
 date_published: '2015-07-15'
-date_modified: '2019-04-01'
+date_modified: '2020-03-07'
 ---
 
 > How do I move from Coinbase to MyCrypto? [Exchange/Hosted Wallet -> MyCrypto]
@@ -31,14 +31,14 @@ We also highly recommend that you read our guide on [How to Prevent Loss & Theft
 
 **Next**, head over to our [Getting Started Guide](/how-to/backup-restore/how-to-save-back-up-your-wallet) and make a new wallet and back it up.
 
-### Unlock your account and get the address
+## Unlock your account and get the address
 
 1. Go to [MyCrypto](https://mycrypto.com/).
 2. Unlock your wallet.
 3. Your address can be seen on the right-hand side, next to a colorful icon.
 4. Use this as the destination address to send from your exchange to your new wallet
 
-### Bookmark your address
+## Bookmark your address
 
 Head over to [Etherscan](https://etherscan.io/) or [Etherchain](https://www.etherchain.org/) and search for your address.
 
@@ -47,7 +47,7 @@ Head over to [Etherscan](https://etherscan.io/) or [Etherchain](https://www.ethe
 
 When it shows up, you now have your funds. If you want to send them, simply unlock your wallet on MyCrypto.
 
-### Just Remember!
+## Just Remember!
 
 If you do not back up your private key, you cannot access your ETH and we cannot recover them. Please make sure to have backups of your private key.
 
