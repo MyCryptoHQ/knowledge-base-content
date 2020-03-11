@@ -6,7 +6,7 @@ date_published: '2017-07-05'
 date_modified: '2019-03-30'
 ---
 
-![](../../assets/shared/Gas Illustration@3x.png)
+![](../../assets/shared/transaction-pool-infographic2020.png)
 
 ## Introduction
 
