@@ -24,7 +24,7 @@ With WalletConnect, only one device, like a mobile wallet, needs to store the fu
 
 A supported dapp will allow the user to access their address by scanning a QR code with their mobile wallet. Once scanned, the mobile app will ask them to confirm that they want to share their wallet address with the dapp.
 
-![QR code](../../assets/general-knowledge/ethereum-blockchain/what-is-walletconnect/cryptokitties-example.png)
+![CryptoKitties example](../../assets/general-knowledge/ethereum-blockchain/what-is-walletconnect/cryptokitties-example.png)
 
 Once this is confirmed, the dapp won’t actually be able to send any transactions from the address that was just connected on its own. The user must make an additional, manual confirmation for each transaction that’s made on the dapp interface from their mobile device. This way, the private key is always securely stored on the user’s device, and they have full control of which transactions get broadcast to the network.
 
