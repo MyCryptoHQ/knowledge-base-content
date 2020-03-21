@@ -49,7 +49,7 @@ You are free to use, modify, or shamelessly steal any information in our Knowled
 
 ## Related articles & links
 
-* Report Scams / Phishes: [https://etherscamdb.info/](https://etherscamdb.info/).
+* Report Scams / Phishes: [https://cryptoscamdb.org/](https://cryptoscamdb.org/report).
 * Encourage people to install [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) (uses above to block malicious sites).
 * Encourage people to be secure: [https://support.mycrypto.com/staying-safe/protecting-yourself-and-your-funds](/staying-safe/protecting-yourself-and-your-funds).
 * Look over how 0x did things to prevent scams. Philippe is like the best ever, touch base with him for the code for Slack if you need it (blacklists and auto-deletes malicious messages). [https://blog.0xproject.com/a-note-on-scams-and-phishing-attempts-e2d72577a470](https://blog.0xproject.com/a-note-on-scams-and-phishing-attempts-e2d72577a470).
