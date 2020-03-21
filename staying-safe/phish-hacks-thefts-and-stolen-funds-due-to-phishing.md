@@ -21,7 +21,7 @@ There are things you can do to help as well. You can help us document these phis
 ## Document and collect information
 
 1. Look through your history for any URLs that look like MyCrypto.com but are actually a very similar URL (e.g., mycrypto . su or mycrypto . com . co).
-2. Fill out the form here: [https://etherscamdb.info/report/](https://etherscamdb.info/report/)
+2. Fill out the form here: [https://cryptoscamdb.org/report/](https://cryptoscamdb.info/report/)
 3. Include your address, the URL you visited, and any additional information, including which Slack channels you were a part of or how you accessed the malicious link.
 
 ## Move your funds ASAP and protect yourself moving forward
