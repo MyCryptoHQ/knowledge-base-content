@@ -64,6 +64,7 @@ These are other domains in the MyCrypto family.
 * `defiscan.io` - a read-only snapshot explorer for decentralised finance
 * `monerovision.com` - a block explorer for Monero
 * `ambo.io` - the homepage for the Ambo wallet
+* `findeth.io` - a tool to help you find lost ether or address
 
 ## Official email from MyCrypto
 
@@ -81,3 +82,4 @@ support ticket. Communications will only come from;
 * `newsletter@mycrypto.com` - for newsletter communications
 * `noreply@mycrypto.com` - for newsletter communications
 * `support@mycrypto.com` - for any support tickets
+* `security@mycrypto.com` - for any security related tickets
