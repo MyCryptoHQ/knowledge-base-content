@@ -26,6 +26,12 @@ A supported dapp will allow you to access your address by scanning a QR code wit
 
 Once this is confirmed, the dapp won’t actually be able to send any transactions from the address that was just connected on its own. You must make an additional, manual confirmation for each transaction that’s made on the dapp interface from your mobile device. This way, the private key is always securely stored on your device, and you have full control of which transactions get broadcast to the network.
 
+## Is WalletConnect safe?
+
+With WalletConnect, the transaction signature is conducted on your mobile device's WalletConnect app. The considerations for this are that you need to make sure the transaction sent to WalletConnect is the transaction you intend to send (is it the correct recipient address and amount) and you need to make sure that your WalletConnect Mobile app is not changing the transaction and submitting a malicious transaction (intending to route your funds to malicious entity) back. This relies primarily on the security of the WalletConnect app you use.
+
+WalletConnect mobile apps do not expose your private key to MyCrypto, similar to how hardware wallets don't expose your private key to MyCrypto. However, mobile apps are NOT as safe as hardware wallets because hardware wallets have well-defined security models and usually have specific security-oriented hardware that allows them to more-safely store and interact with your private keys.
+
 ## Further reading
 
 * [WalletConnect: A simple way for web-based dapps to talk to mobile wallets](https://medium.com/balance-io/walletbridge-a-simple-way-for-web-based-dapps-to-talk-to-mobile-wallets-5c4015f1838c)
