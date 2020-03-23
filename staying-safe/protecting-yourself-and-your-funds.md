@@ -3,7 +3,7 @@ title: Protecting Yourself and Your Funds
 description: Getting Started
 priority: 100
 date_published: '2015-07-15'
-date_modified: '2019-04-08'
+date_modified: '2020-03-23'
 ---
 
 ![Cryptocurrency Security Guide](../assets/staying-safe/protecting-yourself-and-your-funds/cryptocurrenty-security-guide.jpg)
@@ -16,7 +16,6 @@ One of the safest and easiest ways to store your ETH, Tokens, ETC, BTC, and many
 
 * [Buy a Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
 * [Buy a Trezor](https://shop.trezor.io/?offer_id=10&aff_id=1735)
-* [Buy a Keepkey](http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086)
 
 If you don't want one of these nifty devices, use [cold storage](/how-to/offline/using-mycrypto-for-cold-storage) for a majority of your savings. Please. Pretty please.
 
@@ -104,3 +103,8 @@ ONLY unlock your wallet when you want to send a transaction. Check your balance 
 ## 19. Lastly: Use your brain.
 
 * Think for a moment. Don't assume—ask. Don't blindly follow—question. If something doesn't seem right, if you feel like the luckiest person on Earth, or if you find yourself pondering, "I wonder why I haven't seen this on Reddit yet," there is likely a reason.
+
+## Additional Reading
+
+[How to Stay Safe](https://support.mycrypto.com/staying-safe)
+
