@@ -106,5 +106,4 @@ ONLY unlock your wallet when you want to send a transaction. Check your balance 
 
 ## Additional Reading
 
-[How to Stay Safe](https://support.mycrypto.com/staying-safe)
-
+* [How to Stay Safe](https://support.mycrypto.com/staying-safe)
