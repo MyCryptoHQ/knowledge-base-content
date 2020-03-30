@@ -36,8 +36,8 @@ If you use an exchange like Coinbase, Gemini, Kraken, Poloniex, Bittrex, then yo
 
 This allows you to have a  more traditional username / password situation and do things like reset your password if you forget it, change your password if your password is compromised, and turn on 2FA. However, it also means that if the exchange loses ETH, it's your ETH that is lost. If you still want to purchase ETH through an exchange, follow the steps below.
 
-1. Create an account on either Gemini, [Coinbase](https://coinbase-consumer.sjv.io/k9Wjv), or Kraken.
-Verify that account. You will need to upload a variety of documents to prove you are who you say you are. Once you upload all this regulatory stuff, verification takes about a day or two (Time is dependent on how busy the service is and can be affected by price increases and influxes of new users. Be patient.).
+1. Create an account on either [Coinbase](https://coinbase-consumer.sjv.io/RVmkN), Gemini, or Kraken.
+Verify that account. You will need to upload a variety of documents to prove you are who you say you are. Once you upload all this regulatory stuff, verification takes about a day or two (time is dependent on how busy the service is and can be affected by price increases and influxes of new users. Be patient.).
 
 2. Follow the instructions on the exchange to deposit USD into that exchange. This, depending on your bank and the wire transfer, will typically take 3-5 business days.
 
@@ -47,7 +47,7 @@ Verify that account. You will need to upload a variety of documents to prove you
 
 5. ...while you are waiting for your verification and transfer, download and install the [MyCrypto desktop app](https://download.mycrypto.com/).
 
-6. When you run it, click on Create New Wallet and [create a fresh wallet](https://support.mycrypto.com/how-to/getting-started/how-to-create-a-wallet). Use a password that you will never, ever forget and create the account. Then, it'll give you an address that starts with 0x. This is what you will enter on your exchange to move your ETH from their account to your own.
+6. When you run it, click on Create New Wallet and [create a fresh wallet](/how-to/getting-started/how-to-create-a-wallet). Use a password that you will never, ever forget and create the account. Then, it'll give you an address that starts with 0x. This is what you will enter on your exchange to move your ETH from their account to your own.
 
 7. To safely keep your account, you have 3 pieces of information:
    * Your address (0x4bbeEB.....)
@@ -72,7 +72,7 @@ Then, create an Ethereum account and back it up. From where you have stored your
 
 ## How to Create a Coinbase Account
 
-Navigate to [Coinbase](https://coinbase-consumer.sjv.io/k9Wjv).
+Navigate to [Coinbase](https://coinbase-consumer.sjv.io/RVmkN).
 
 For a NEW Coinbase account, click on the Get Started button, enter your email address and follow the directions to register and verify your account and device.
 
