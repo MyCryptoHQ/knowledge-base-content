@@ -8,12 +8,11 @@ date_modified: '2020-03-30'
 
 Bitcoin is one of the most popular cryptocurrencies, and is considered to be the first decentralized cryptocurrency to have been created back in 2009. It pioneered the concept of a blockchain, of which many other applications and cryptocurrencies have been created.
 
-Since Bitcoin works a bit differently than the regular financial world, it's important to educate yourself on how to be as secure as possible. You are responsible for your stuff: your investments, your choices, and and most importantly, your security. There are no babysitters or undo buttons, and no bank to call up and have a transaction reversed. The power of the blockchain lies in this autonomy, but it can also be dangerous to expect all of the convenient failsafes we have come to enjoy. We wrote an in-depth guide about securing yourself which you can find [here](/staying-safe/protecting-yourself-and-your-funds), which we highly recommend any newcomer to this space to read.
+Since Bitcoin works a bit differently than the regular financial world, it's important to educate yourself on how to be as secure as possible. You are responsible for your stuff: your investments, your choices, and most importantly, your security. There are no babysitters or undo buttons, and no bank to call up and have a transaction reversed. The power of the blockchain lies in this autonomy, but it can also be dangerous to expect all of the convenient failsafes we have come to enjoy. We wrote an in-depth guide about securing yourself which you can find [here](/staying-safe/protecting-yourself-and-your-funds), which we highly recommend any newcomer to this space to read.
 
 ## Buying Bitcoin with USD
 
 You can go to [buy.mycrypto.com](https://buy.mycrypto.com/) and use our Simplex integration, or alternatively, use an exchange for purchasing cryptocurrency.
-
 
 ## Buying through an exchange
 

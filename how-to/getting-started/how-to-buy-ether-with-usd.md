@@ -8,7 +8,7 @@ date_modified: '2020-02-25'
 
 Hello and welcome to Ethereum! Ethereum and digital currencies are pretty new and in this new financial world, things can be a little bit different.
 
-First, YOU are responsible for the stuff: your investments, your choices, and and most importantly, your security. There are no babysitters or undo buttons, and no bank to call up and have a transaction reversed. The power of the blockchain lies in this autonomy, but it can also be dangerous to expect all of the convenient failsafes we have  come to enjoy.
+First, YOU are responsible for the stuff: your investments, your choices, and most importantly, your security. There are no babysitters or undo buttons, and no bank to call up and have a transaction reversed. The power of the blockchain lies in this autonomy, but it can also be dangerous to expect all of the convenient failsafes we have  come to enjoy.
 
 Second, most of the people involved in this world are pretty tech-savvy, and sometimes forget how different things are to the inexperienced. Take your time, read the instructions and warnings, ask for clarification and reach out for help if you still have questions.
 
