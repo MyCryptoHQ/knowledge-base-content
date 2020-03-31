@@ -77,7 +77,7 @@ The reason these exploits occurred was that some of the #DeFi systems connect, r
 
 ![Forwarded message](../../assets/general-knowledge/ethereum-blockchain/what-is-decentralized-finance/quote-3.png)
 
-**Let’s take a step back. This is absurd**. “Oh, well, at least our smart contract didn’t get hacked! I didn’t write bad code in the traditionally insecure way! I just wrote code that did something unexpected in a different way! 🍻”
+Let’s take a step back. This is absurd. “Oh, well, at least our smart contract didn’t get hacked! I didn’t write bad code in the traditionally insecure way! I just wrote code that did something unexpected in a different way! 🍻”
 
 This is why I say we need to be more diligent and more paranoid. Don’t hide behind legalese. Don’t shroud reality with fancy word choices. Trying to get away with something technically or legally does not negate the outcome of what actually happened and who it happened to. Instead, focus on making safe, secure products that don’t do unexpected things and don’t lose people’s money.
 
@@ -111,7 +111,7 @@ Just because we think, or we assume, that some contract is secure, it doesn’t 
 
 ![Sam Sun Curve](../../assets/general-knowledge/ethereum-blockchain/what-is-decentralized-finance/samczsun-4.png)
 
-*Okay, now back to your originally scheduled talk…*
+Okay, now back to your originally scheduled talk…
 
 There’s a relatively new contract DeFi thing called Curve. They put their system on the mainnet without being fully audited. Guess what happened?
 
@@ -121,7 +121,7 @@ I know that we want to create amazing things. I know that this environment is ex
 
 And while it’s easy to blame the creators for making insecure choices, some blame also falls on the community, on Curve’s users, and the loud voices in this space for not asking questions and pressuring teams to be transparent.
 
-## Risk on top of risk on top of risk on top of risk on top of risk on top of risk…
+## Risk on top of risk on top of risk on top of risk…
 
 ![USD to ETH risks](../../assets/general-knowledge/ethereum-blockchain/what-is-decentralized-finance/usd-eth-risk.png)
 
@@ -139,7 +139,7 @@ USDC, a centralized stablecoin, has to abide by regulations, so its token contra
 
 ![ETH to USDC via Compound risks](../../assets/general-knowledge/ethereum-blockchain/what-is-decentralized-finance/eth-usdc-compound-risks.png)
 
-*Just pretend that says USDC -> cUSDC, via Compound.*
+Just pretend that says USDC -> cUSDC, via Compound.
 
 Now I want to put my USDC in Compound to earn interest. In return I get cUSDC.
 
@@ -161,7 +161,7 @@ If we zoom out and take this all in… that’s risky. That is risky business. A
 
 The combination of risks that you take on in order to transform your USD into a position on TokenSets carries a wide variety of risks. This is why DeFi scares me. It’s the overlap of all the smart contract risks, all the technical risks, all the crypto risks, all the market risk, and all the financial risk.
 
-**We should be scared.**
+We should be scared.
 
 ![Maker DAI graphic](../../assets/general-knowledge/ethereum-blockchain/what-is-decentralized-finance/maker-dai.png)
 
@@ -175,7 +175,7 @@ Being unaware or in denial about potential risks is an indication they lack awar
 
 It is one of the single biggest red flags that exists. It’s a bigger red flag than a contract without an audit because you can have your contracts audited, but it’s far harder to change the culture of the team. Trusting your money to someone who thinks they have built a perfect system is dangerous because they likely have gross disregard for users’ funds.
 
-**Just run. Run, run, run.**
+Just run. Run, run, run.
 
 ![Tay hates DeFi meme](../../assets/general-knowledge/ethereum-blockchain/what-is-decentralized-finance/tay-hates-defi-meme.png)
 
@@ -256,11 +256,8 @@ The very first thing that we need to do is talk about this.
 Secondly, we need to secure, educate, and share. When I say secure, I mean secure everything:
 
 * More secure smart contracts.
-
 * Better research and tooling.
-
 * Comprehensive audits and formal verification.
-
 * Upgradability and key management. (Not just key management for the users, but for the admin functionality of the smart contracts.)
 
 But if it all goes terribly wrong, please be transparent and share everything with the community. Share what happened, share how it felt, share how you fucked up, share what assumptions you made — everything. Let other people learn from your mistakes. You’ve already lost. The only way to turn it into a gain is by preventing future loss.
