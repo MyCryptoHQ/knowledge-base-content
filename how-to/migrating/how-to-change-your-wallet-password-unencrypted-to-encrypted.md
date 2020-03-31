@@ -3,14 +3,21 @@ title: How do I Encrypt my Private Key or Wallet Password?
 description: Private Keys & Passwords
 priority: 70
 date_published: '2017-10-08'
-date_modified: '2019-07-05'
+date_modified: '2020-03-07'
 ---
 
 > Can I turn my unencrypted private key into an encrypted private key?
 
-* Yes, you can encrypt your private key using MyCrypto by accessing your address on [https://mycrypto.com/account/info](https://mycrypto.com/account/info) and then clicking the "Generate a Keystore File" button.
+* Yes, you can encrypt your private key using MyCrypto by accessing your address using the [MyCrypto desktop app](https://download.mycrypto.com/). After accessing your private key, select "Wallet Info" in the dropdown.
+
+![Wallet Info dropdown](../../assets/how-to/migrating/how-to-change-your-wallet-password-unencrypted-to-encrypted/wallet-info.png)
+
+* Then, click the "Generate a Keystore File" button.
+
+![Generate Keystore button](../../assets/how-to/migrating/how-to-change-your-wallet-password-unencrypted-to-encrypted/generate-keystore-file.png)
+
 * After clicking the button, there will be a password field where you can enter a new password to encrypt your private key.
-* Click the "Generate Keystore" button.
+* Click the "Generate Keystore File" button.
 * After a few seconds, a "Download" button will appear. Click this and the download of your keystore file will begin.
 
 ## Remember
