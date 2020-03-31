@@ -3,7 +3,7 @@ title: Learn More About MyCrypto and How to Get Started
 description: TODO
 priority: 100
 date_published: '2015-10-05'
-date_modified: '2020-03-04'
+date_modified: '2020-03-31'
 ---
 
 * Please take some time to understand this for your own security.
@@ -82,7 +82,7 @@ date_modified: '2020-03-04'
 * You don't have to rely on your bank, government, or anyone else when you want to move your funds.
 * You don't have to rely on the security of an exchange or bank to keep your funds safe.
 * If you don't find these things valuable, ask yourself why you think the blockchain and cryptocurrencies are valuable. 😉
-* If you don't like the sound of this, consider using [Coinbase](https://coinbase-consumer.sjv.io/k9Wjv) or [Blockchain.info](https://blockchain.info/wallet/#/signup). They have more familiar accounts with usernames & passwords.
+* If you don't like the sound of this, consider using [Coinbase](https://coinbase-consumer.sjv.io/RVmkN) or [Blockchain.info](https://blockchain.info/wallet/#/signup). They have more familiar accounts with usernames & passwords.
 * If you are scared but want to use MyCrypto, [get a hardware wallet](/staying-safe/hardware-wallet-recommendations)! These keep your keys secure.
 
 <Clearfix />
