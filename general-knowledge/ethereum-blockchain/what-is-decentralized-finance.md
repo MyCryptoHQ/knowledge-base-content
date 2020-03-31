@@ -81,7 +81,7 @@ Let’s take a step back. This is absurd. “Oh, well, at least our smart contra
 
 This is why I say we need to be more diligent and more paranoid. Don’t hide behind legalese. Don’t shroud reality with fancy word choices. Trying to get away with something technically or legally does not negate the outcome of what actually happened and who it happened to. Instead, focus on making safe, secure products that don’t do unexpected things and don’t lose people’s money.
 
-*[Note: It was later revealed that the attack was aided by manipulation / exploitation of the system but the real [exploit was enabled by a bug in the code](https://medium.com/@peckshield/bzx-hack-full-disclosure-with-detailed-profit-analysis-e6b1fa9b18fc).]*
+[Note: It was later revealed that the attack was aided by manipulation / exploitation of the system but the real [exploit was enabled by a bug in the code](https://medium.com/@peckshield/bzx-hack-full-disclosure-with-detailed-profit-analysis-e6b1fa9b18fc).]
 
 **Anyways!** [Phil Daian](https://twitter.com/phildaian) chimed in with some very prescient thoughts, per usual, the morning of the attack. If you don’t know Phil, he has done immense research on this type of thing. [His Devcon 4 talk was pretty much this situation in a nutshell](https://www.youtube.com/watch?v=i-oWE8hg6-0). Anyway, he points out the following:
 
