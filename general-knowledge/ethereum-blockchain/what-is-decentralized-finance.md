@@ -26,13 +26,10 @@ If we don’t learn from history or remember what came before us, we are going t
 
 Broadly speaking, we need a **culture that mitigates and reduces risk**:
 
-- **Self-awareness:** We should be aware of ourselves and the impact our actions have on people and the larger world around us.
-
-- **Vigilance:** We should be vigilant about detecting the risks involved before they result in negative outcomes, whether those are risks to ourselves or those around us. We should also actively seek information to reduce the “unknown unknowns.”
-
-- **Appreciation:** We should appreciate the complexity of these systems. We should appreciate the power we have and appreciate that we can affect actual, real people around us.
-
-- **Paranoia:** We should have a higher level of fear and paranoia and skepticism in this space. If we don’t, it’s only going to be adorable for so long.
+* **Self-awareness:** We should be aware of ourselves and the impact our actions have on people and the larger world around us.
+* **Vigilance:** We should be vigilant about detecting the risks involved before they result in negative outcomes, whether those are risks to ourselves or those around us. We should also actively seek information to reduce the “unknown unknowns.”
+* **Appreciation:** We should appreciate the complexity of these systems. We should appreciate the power we have and appreciate that we can affect actual, real people around us.
+* **Paranoia:** We should have a higher level of fear and paranoia and skepticism in this space. If we don’t, it’s only going to be adorable for so long.
 
 ![What is risk?](../../assets/general-knowledge/ethereum-blockchain/what-is-decentralized-finance/what-is-risk.png)
 
@@ -247,30 +244,24 @@ You should be paranoid about that. It should scare you. That fear will help driv
 The very first thing that we need to do is talk about this.
 
 1. We need to ask hard questions.
-
 2. We need to engage in honest discourse.
-
 3. We need to offer good faith feedback.
-
 4. We need to ask questions in public. Don’t rush to Telegram or DM.
-
 5. We need to be skeptical.
-
 6. We need to encourage that skepticism in this space. When I first got into Bitcoin, nobody was trustworthy. Everyone was evil. You should be skeptical. Trust, but verify. Accountability. Transparency. These values have been somewhat lost.
-
 7. Lastly, I would really love to see more public forums. Everything moves to Telegram channels, and it’s terrible. You can’t find relevant conversations via Google. You can’t stumble upon insights. Even if you are part of the chat, you can’t keep up with it. And there’s no history to learn from. One of the best things about The DAO is we can go back and read what we were thinking at the time. You can learn from the attitudes before, during, and after The DAO hack. That’s valuable.
 
 ![Secure. Educate. Share.](../../assets/general-knowledge/ethereum-blockchain/what-is-decentralized-finance/secure-educate-share.png)
 
 Secondly, we need to secure, educate, and share. When I say secure, I mean secure everything:
 
-- More secure smart contracts.
+* More secure smart contracts.
 
-- Better research and tooling.
+* Better research and tooling.
 
-- Comprehensive audits and formal verification.
+* Comprehensive audits and formal verification.
 
-- Upgradability and key management. (Not just key management for the users, but for the admin functionality of the smart contracts.)
+* Upgradability and key management. (Not just key management for the users, but for the admin functionality of the smart contracts.)
 
 But if it all goes terribly wrong, please be transparent and share everything with the community. Share what happened, share how it felt, share how you fucked up, share what assumptions you made — everything. Let other people learn from your mistakes. You’ve already lost. The only way to turn it into a gain is by preventing future loss.
 
