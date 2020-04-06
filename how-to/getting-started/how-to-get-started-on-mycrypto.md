@@ -1,6 +1,6 @@
 ---
 title: Learn More About MyCrypto and How to Get Started
-description: null
+description: ''
 priority: 100
 date_published: '2015-10-05'
 date_modified: '2020-04-06'
