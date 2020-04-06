@@ -1,9 +1,9 @@
 ---
 title: Learn More About MyCrypto and How to Get Started
-description: TODO
+description: null
 priority: 100
 date_published: '2015-10-05'
-date_modified: '2020-03-31'
+date_modified: '2020-04-06'
 ---
 
 * Please take some time to understand this for your own security.
