@@ -26,7 +26,7 @@ Here are three basic security tips you need to know when buying and holding cryp
 
 ## Now, the fun part! How To Buy ETH with USD
 
-You can go to [buy.mycrypto.com](https://escape.mycrypto.com/buy.html), or alternatively, use an exchange for purchasing cryptocurrency.
+You can go to [escape.mycrypto.com/buy.html](https://escape.mycrypto.com/buy.html), or alternatively, use an exchange for purchasing cryptocurrency.
 
 ## Buying through an exchange
 
