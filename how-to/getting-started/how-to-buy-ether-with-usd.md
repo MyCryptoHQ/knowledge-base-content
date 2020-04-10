@@ -3,7 +3,7 @@ title: How to Buy Ether (ETH) with USD
 description: FAQ
 priority: 60
 date_published: '2017-06-20'
-date_modified: '2020-02-25'
+date_modified: '2020-04-10'
 ---
 
 Hello and welcome to Ethereum! Ethereum and digital currencies are pretty new and in this new financial world, things can be a little bit different.
@@ -26,7 +26,7 @@ Here are three basic security tips you need to know when buying and holding cryp
 
 ## Now, the fun part! How To Buy ETH with USD
 
-You can go to [buy.mycrypto.com](https://buy.mycrypto.com/) and use our Simplex integration, or alternatively, use an exchange for purchasing cryptocurrency.
+You can go to [buy.mycrypto.com](https://escape.mycrypto.com/buy.html), or alternatively, use an exchange for purchasing cryptocurrency.
 
 ## Buying through an exchange
 
