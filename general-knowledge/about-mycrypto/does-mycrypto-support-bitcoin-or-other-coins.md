@@ -19,3 +19,4 @@ MyCrypto supports a lot of ERC-20 tokens by default, however, any missing ERC-20
 * [How can I add a non-default token to MyCrypto?](/how-to/tokens/showing-and-loading-tokens)
 * [I am throwing a #FOMOFest (aka a token sale, token creation period, ICO) and want to add my token to MyCrypto for all my investors. What do I do?](/developers/add-token-to-default-list)
 * [List of default ERC-20 tokens in MyCrypto](https://github.com/MyCryptoHQ/MyCrypto/blob/develop/common/config/tokens/eth.json)
+* [How to buy Bitcoin](/how-to/getting-started/how-to-buy-btc-with-usd)

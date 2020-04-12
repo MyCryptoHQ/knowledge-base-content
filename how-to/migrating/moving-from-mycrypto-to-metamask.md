@@ -3,7 +3,7 @@ title: '[MyCrypto ➡ MetaMask] Moving from MyCrypto to MetaMask'
 description: Migrating to/from MyCrypto
 priority: 80
 date_published: '2017-10-08'
-date_modified: '2019-04-01'
+date_modified: '2020-03-07'
 ---
 
 ## Using MetaMask + MyCrypto has 3 key benefits:
@@ -51,7 +51,7 @@ Next, it is time to either import your existing wallet into MetaMask or transfer
 1. Log into MetaMask.
 2. Click the little "man-switchy" icon in the top right corner.
 
-![](https://i.imgur.com/oWo09hI.png)
+![Switch icon](../../assets/how-to/migrating/moving-from-mycrypto-to-metamask/switch-icon.png)
 
 3. Select `Import Account`.
 4. Select your private key type: either `Private key` or `JSON file`.
