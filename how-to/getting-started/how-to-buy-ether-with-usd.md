@@ -6,7 +6,7 @@ date_published: '2017-06-20'
 date_modified: '2020-04-21'
 ---
 
-Hello and welcome to Ethereum! Ethereum and digital currencies are pretty new and in this new financial world, things can be a little bit different. This article gives an overview of what is eth, where and how you can buy ETH with USD, some important info on how to store it, and how to be secure. We tried to keep it as short as possible so please take the time to read through the article. Don't hesitate to contact us directly if you have any questions or concerns, we are here to help! 
+Hello and welcome to Ethereum! Ethereum and digital currencies are pretty new and in this new financial world, things can be a little bit different. This article gives an overview of what is ETH, where and how you can buy ETH with USD, some important info on how to store it, and how to be secure. We tried to keep it as short as possible so please take the time to read through the article. Don't hesitate to contact us directly if you have any questions or concerns, we are here to help! 
 
 ## What IS Ether (ETH)?
 
