@@ -3,20 +3,42 @@ title: How to Buy Ether (ETH) with USD
 description: FAQ
 priority: 60
 date_published: '2017-06-20'
-date_modified: '2020-04-10'
+date_modified: '2020-04-21'
 ---
 
-Hello and welcome to Ethereum! Ethereum and digital currencies are pretty new and in this new financial world, things can be a little bit different.
+Hello and welcome to Ethereum! Ethereum and digital currencies are pretty new and in this new financial world, things can be a little bit different. This article gives an overview of what is eth, where and how you can buy ETH with USD, some important info on how to store it, and how to be secure. We tried to keep it as short as possible so please take the time to read through the article. Don't hesitate to contact us directly if you have any questions or concerns, we are here to help! 
 
-First, YOU are responsible for the stuff: your investments, your choices, and most importantly, your security. There are no babysitters or undo buttons, and no bank to call up and have a transaction reversed. The power of the blockchain lies in this autonomy, but it can also be dangerous to expect all of the convenient failsafes we have  come to enjoy.
+## What IS Ether (ETH)?
 
-Second, most of the people involved in this world are pretty tech-savvy, and sometimes forget how different things are to the inexperienced. Take your time, read the instructions and warnings, ask for clarification and reach out for help if you still have questions.
+Ether, or ETH, is Ethereum's native currency. It is "digital money" that can be sent over the internet instantly and cheaply, and also be used in many Ethereum-based applications. (from [Ethereum.org](https://ethereum.org/eth/))
 
-Here are three basic security tips you need to know when buying and holding cryptocurrencies.
+## Where can you Buy ETH?
 
-* Scams, [phishing sites](https://www.google.com/safebrowsing/static/faq.html#q1), and malicious links exist. Trust messages and random links about as much as those in your spam box. Verify, verify, verify!
-* Avoid cloud storage. Always save and backup your private key in a separate location, like a piece of paper or a USB drive. 
-* Be skeptical. Does the person have an ulterior motive? Does an offer sound too good to be true?
+### MyCrypto
+
+You can go to [Buy Eth with USD via MyCrypto](https://escape.mycrypto.com/buy.html)
+
+### Exchange
+
+You can buy ETH from cryptocurrency exchanges like [Coinbase](https://coinbase-consumer.sjv.io/RVmkN). When you purchase through an exchange, you have an account with that company, and they hold your ETH and your keys for you. Exchanges offer a more traditional username / password scenario where you can do things like reset/change your password and turn on 2FA. They have their own account on the blockchain with all their funds and customer funds. Exchanges store all of your information on their servers, and they keep track of how much ETH they "owe" you. 
+
+## How to Create a Coinbase Account
+
+Navigate to [Coinbase](https://coinbase-consumer.sjv.io/RVmkN).
+
+For a NEW Coinbase account, click on the Get Started button, enter your email address and follow the directions to register and verify your account and device.
+
+For any questions or issues on how to buy ETH with USD via Coinbase, please contact Coinbase directly. You can find Coinbase’s support page [here](https://support.coinbase.com/).
+
+## Storing your ETH
+
+Purchasing ETH on exchanges is very common and probably the most popular way to buy ETH. Once you have purchased your ETH, you have a choice of how to store it.
+
+* [MyCrypto](https://beta.mycrypto.com/) - Client-Side Wallet - You are in control of your funds and private information like passwords and private keys
+* Exchange - Hosted Wallet - Funds and private information is stored on company servers. 
+* [Hardware Wallet](https://support.mycrypto.com/staying-safe/hardware-wallet-recommendations) - Physical Device that stores your private information. 
+
+NOTE: If you choose to store your ETH on exchanges, it also means that if the exchange loses ETH, it's your ETH that is lost. 
 
 ## Still with me? Good! Let's dive deeper!
 
@@ -24,17 +46,7 @@ Here are three basic security tips you need to know when buying and holding cryp
 * [Learn how to protect your funds!](/staying-safe/protecting-yourself-and-your-funds)
 * [10 Tips for Noobs](/general-knowledge/ethereum-blockchain/getting-back-to-the-basics-ten-tips-for-newbies) & [Words are Hard](/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space) are both great intros.
 
-## Now, the fun part! How To Buy ETH with USD
-
-You can go to [escape.mycrypto.com/buy.html](https://escape.mycrypto.com/buy.html), or alternatively, use an exchange for purchasing cryptocurrency.
-
-## Buying through an exchange
-
-*What is an exchange?* 
-
-If you use an exchange like Coinbase, Gemini, Kraken, Poloniex, Bittrex, then you have an account with that company, and they hold your ETH and your keys for you. They have their own account on the blockchain with all their and their customers' funds in it. Then you have a username / password with them, which are stored on their servers, and they keep track of how much ETH they "owe" you.
-
-This allows you to have a  more traditional username / password situation and do things like reset your password if you forget it, change your password if your password is compromised, and turn on 2FA. However, it also means that if the exchange loses ETH, it's your ETH that is lost. If you still want to purchase ETH through an exchange, follow the steps below.
+## Detailed steps on buying ETH on Coinbase
 
 1. Create an account on either [Coinbase](https://coinbase-consumer.sjv.io/RVmkN), Gemini, or Kraken.
 Verify that account. You will need to upload a variety of documents to prove you are who you say you are. Once you upload all this regulatory stuff, verification takes about a day or two (time is dependent on how busy the service is and can be affected by price increases and influxes of new users. Be patient.).
@@ -70,10 +82,11 @@ Then, create an Ethereum account and back it up. From where you have stored your
 * [JAXX](https://jaxx.io/) - multi-platform, multi-currency
 * [Exodus.io](https://www.exodus.io/) - multi-currency desktop app
 
-## How to Create a Coinbase Account
+## Related Articles
 
-Navigate to [Coinbase](https://coinbase-consumer.sjv.io/RVmkN).
+[How to Stay Safe](https://support.mycrypto.com/staying-safe)
+[MyCrypto Quick Tips](https://support.mycrypto.com/general-knowledge/about-mycrypto/mycryptos-quicktips)
+[Glossary of Common Terms](https://support.mycrypto.com/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space)
 
-For a NEW Coinbase account, click on the Get Started button, enter your email address and follow the directions to register and verify your account and device.
 
-For any questions or issues on how to buy ETH with USD via Coinbase, please contact Coinbase directly. You can find Coinbase’s support page [here](https://support.coinbase.com/).
+
