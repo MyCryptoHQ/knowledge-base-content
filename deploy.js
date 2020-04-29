@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 
 const GITHUB_API_URL = 'https://api.github.com/repos/MyCryptoHQ/knowledge-base';
-const TRAVIS_API_URL = 'https://api.travis-ci.org/repo/MyCryptoHQ%2Fknowledge-base/requests';
+const TRAVIS_API_URL = 'https://api.travis-ci.com/repo/MyCryptoHQ%2Fknowledge-base/requests';
 
 /**
  * Get the latest tag from the Knowledge Base repository.
@@ -49,7 +49,7 @@ const deploy = async (tag) => {
     })
   });
 
-  if (response.status !== 200) {
+  if (!response.ok) {
     const text = await response.text();
     throw new Error(`Invalid response status code: ${response.status}.\n${text}`);
   }

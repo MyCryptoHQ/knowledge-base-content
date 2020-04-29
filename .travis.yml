@@ -1,19 +1,24 @@
 language: node_js
-node_js: 8.9.4
+node_js: 12.16.2
+
 cache:
   yarn: true
   directories:
   - node_modules
+
 install:
 - yarn --silent
+
 script:
 - yarn run mdlint
+
 deploy:
   provider: script
   script: node deploy.js
   skip_cleanup: true
   on:
     branch: master
+
 env:
   global:
-    secure: lxIwOiApNO9s3lhx4wSleJrP7JgGEwsljpVSqoV9Ao9yNe2Gxl7lXFo9APN4IIH+SmWhXoH9UT9upjj0l00Iza914FFAL4wHVxINeN1E4+/qqwINUhEE8hmb1bfebSio2jvYUPYsoBA5aV0qNYS84zOtBJzB8cF6Fm8isprkawJZIEU46uw4bDAKvA3hloNT5lyfuICWGLMMuEZ3HAJMRxB0g4hkPJvlRojP1+5U0tnyjp/SSa8+eiq3TmfQDLcS8VU1WSHruIXHZ2UT9OzVzyGxm75E/fi1dhJErXFVseiSl2HdXI0OmpjforjMhMloW84i88ATB6Vd+oPYUe+nrQtI60daLi42Dj1eu2oZr3B1Zjo3AvcGXo73pcX/VHx4XZHqNk9xCwnb4XpRtseRddKkxCFTTuxdxabjFRezQc4n/8ziqr8iKTImpY8Lpx+GpdqdUU6k0CkdY+e1QWndz49jrMlec20HuH6l/p85m0ai6nNCAEE/X8vK3/G5ndwaC8mpvBuR2dQgYDoseK7lG1s0M/3htyWuzSvoM8f6cGcN9IYq7+KdLQjs4V3w/D5AbrrFQMzyRSdjGD5J1MFNkb4u9sWorK+wvAGf/CPmqA0XWHt0+1Cm3c6jDSStIyC5w70RtOH/L9Ld1aiy7TZLUkhoUPUSM/qQrm/xIvfTnF4=
+    secure: hnu92dUBcLEhJCRR6lEz+yiGCkfpxI+vZI7BKK1arir04f7FiKe74Hx+hYyOA9zxMN5LPbOZX9MIIzNugCydPSKgUkLpS0r3KPzz8DZG0vu6V9y888yoL3O0gcQnBv0Q+La1RYF3Ikq5ULA4bP/DmchNPIxD++YqNCfD9HDVc/5s3Caugcav/HQR7OYhLWCcPHCOetB7mUJjW27ipKnUCj7caxdYdvlNmBht2abe3s1D6XjL4cx6hzPZ9iDt3mmf1lC5NfkR7sNjVsEofp6qUdFWKWbSgzC5YuWCmj0yCLwPYd1zMZ4KXgPun+0r3God7bIOScyV15vnPoKIQejFs6HMZFgxQDssc0em0wQ7dbKemFoQ9OJ5FcNaI0qVJRrv6vVbqwMeYBc24/nw+J5NWl9Dsxj3Y4d6/4SDAiWGvC08+HkQKwlFqvVcAAEYgpB8XJXBnYSx93WOuEHQ+aMB8mSbdPiR9slHMkE73+mBpF/fEe6Xgbhn2bZxiL45ru98Aifpe3rQbD5BCeqofrYvdN0M7mdp+KkuJnDczmkZ37fqON4ytybkd5fMwH28RyXXc8o9wYwRiSS3FWtFHrMnnOlRVmB/6Ub45x0H4V9114VFJZ6wNAo/fmHYjZnruCGHkd7wyNoXjr8ZNIFgTQMaDZ9pIrY9rFwb7/xB2XA4bMI=
