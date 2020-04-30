@@ -3,7 +3,7 @@ title: Why does my Private Key open TWO Addresses?
 description: Private Keys & Passwords
 priority: 60
 date_published: '2017-07-05'
-date_modified: '2020-02-19'
+date_modified: '2020-04-20'
 ---
 
 ## Mismatched Private Key / Address
@@ -12,7 +12,7 @@ Please be sure that you are **carefully and accurately** typing in your private
 
 For reference, private keys looks like this: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
 
-Be sure that you are using the same option and same key / file as when you first unlocked your wallet. Essentially, you need to do the same thing each time you open your wallet.
+Be sure that you are using the same option and same key / file from when you first unlocked your wallet. Essentially, you need to do the same thing each time you open your wallet.
 
 If you saved another version (e.g., the UTC / Keystore file), it may also be worth testing that as well.
 
@@ -24,7 +24,7 @@ Scroll to the bottom of <https://legacy.mycrypto.com/helpers.html>, enter your p
 
 ---
 
-## Related
+## Related Articles
 
 * [Finding multiple missing characters in private key](https://gist.github.com/domalak/f72414b6be6bbe497416f11bfe0d224a)
 * [Find multiple missing characters of the very end of a private key](/troubleshooting/accessing-wallet/missing-characters-of-private-key)
