@@ -61,7 +61,7 @@ The two risk types listed above are the most common and most impactful types of 
 
 There's always risk when interacting with DeFi and smart contracts, and Zapper is an experimental project that is in beta. Using a service like Zapper to interact with protocols for you does add a small amount of additional risk, but most of the risk stems from the actual protocols that are being interacted with.
 
-### Which protocols does Zapper interact with and where can I learn about them?
+### Which protocols does Zapper interact with?
 
 At this time, Zapper enables access to the following protocols:
 
@@ -87,7 +87,7 @@ MyCrypto’s Zapper integration will initially allow you to access three Zaps:
 
 We’ll be working to add more Zaps over time, but you can access all of the Zaps via [Zapper.fi](https://www.zapper.fi/).
 
-### How is the MyCrypto Zapper integration different from the functionality of Zapper.fi?
+### How's the MyCrypto integration different from Zapper.fi?
 
 The MyCrypto Zapper integration uses the same process as the Zapper.fi process. MyCrypto’s Zapper integration adds an extra layer of convenience by allowing you to access Zaps without having to leave MyCrypto.
 
