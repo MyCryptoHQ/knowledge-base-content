@@ -39,11 +39,8 @@ The two risk types listed above are the most common and most impactful types of 
 
 * Uniswap Pools & Liquidity
   * A pool is a pool of tokens. On Uniswap, each token has its own pool.
-
   * Liquidity is the amount of tokens available in any given pool. If a pool has very little tokens, it has low liquidity. If there are many tokens, it has high liquidity.
-
   * A user can contribute their own tokens to the various pools on Uniswap, increasing liquidity.
-
   * Separately, when a user goes to exchange one token for another on Uniswap, they tap into the available tokens in the respective pools. If you’ve contributed liquidity to the pool(s) that the user is tapping into, you’ll get a small share of the exchange fee. The more liquidity that you’ve supplied to a pool, the larger your share is.
 
 * Exposure
@@ -70,10 +67,13 @@ At this time, Zapper enables access to the following protocols:
 
 * [Compound](http://compound.finance)
   * Compound is a protocol that allows you to borrow and lend assets. Lending assets yields returns in the form of an interest rate.
+
 * [Kyber](http://kyber.network)
   * Kyber is a protocol that allows the exchange of cryptocurrencies.
+
 * [Uniswap](http://uniswap.io)
   * Uniswap is a protocol that allows the exchange of cryptocurrencies. Uniswap allows users to contribute liquidity to pools, and liquidity providers yield returns in the form of transfer fees.
+
 * [Synthetix](https://synthetix.exchange/)
   * Synthetix is a synthetic asset platform that allows users to gain exposure to forex, cryptocurrencies, and commodities trading.
 
