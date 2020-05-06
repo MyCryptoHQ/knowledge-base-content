@@ -25,26 +25,6 @@ redirects:
     to: how-to/backup-restore/trezor-making-a-backup
   - from: best-of/restoring-access-to-your-accounts-if-lose-device-with-2fa.html
     to: how-to/backup-restore/how-to-restore-access-to-your-accounts-if-you-lose-or-destroy-your-device-with-google-authenticator-2fa
-  - from: ens/changing-ens-owner-or-transferring-ens-name.html
-    to: how-to/ens/changing-the-ens-owner-or-transferring-an-ens-name
-  - from: ens/ens-releasing-ens-names.html
-    to: how-to/ens/releasing-ens-names
-  - from: ens/manually-revealing-ens-bids-hard.html
-    to: how-to/ens/manually-revealing-ens-bids-hard
-  - from: ens/ens-what-to-do-if-you-forgot-your-bid.html
-    to: how-to/ens/what-to-do-if-you-forgot-how-much-you-bid
-  - from: ens/visual-guide-to-buying-a-vanity-eth-address-with-ens-and-mycrypto.html
-    to: how-to/ens/visual-guide-to-buying-vanity-ethereum-addresses-with-ens-and-mycrypto
-  - from: ens/starting-an-ens-auction-without-bidding.html
-    to: how-to/ens/starting-an-auction-without-bidding
-  - from: ens/ens-brute-forcing-secret-word-phrases.html
-    to: how-to/ens/brute-forcing-secret-word-phrases
-  - from: ens/setting-the-resolver-for-an-ens-name.html
-    to: how-to/ens/setting-the-resolver-for-an-ens-name
-  - from: ens/ens-what-to-do-if-you-forgot-to-reveal-ens-bid.html
-    to: how-to/ens/what-to-do-if-you-forgot-to-reveal-your-ens-bid
-  - from: ens/import-bid-created-in-mycrypto-to-ens.html
-    to: how-to/ens/importing-a-bid-created-in-mycrypto-into-ens-and-vice-versa
   - from: send/how-to-send-transaction.html
     to: how-to/sending/how-to-send-a-transaction
   - from: send/sending-and-adding-tokens.html
@@ -151,8 +131,6 @@ redirects:
     to: troubleshooting/tokens/adding-new-token-and-sending-custom-tokens
   - from: tokens/adding-custom-token-errors-fix.html
     to: troubleshooting/tokens/adding-custom-token-errors-fix
-  - from: ens/ens-debugging-a-bad-instruction-reveal.html
-    to: troubleshooting/ens/ens-debugging-a-bad-instruction-reveal
   - from: hardware-wallets/u2f-not-supported-error.html
     to: troubleshooting/hardware-wallets/ledger/u2f-not-supported-error
   - from: hardware-wallets/ledger-hardware-wallet-error-invalid-stats-6a80.html
@@ -280,8 +258,6 @@ redirects:
   - from: addresses/creating-new-accounts-for-eth-and-tokens.html
     to: general-knowledge/ethereum-blockchain/should-i-keep-my-eth-or-tokens-in-single-or-multiple-addresses
   - from: ens/why-the-ens-bid-process-is-so-complicated.html
-    to: general-knowledge/ens/why-the-ens-bid-process-is-so-complicated
-  - from: getting-started/getting-started-new.html
     to: how-to/getting-started/how-to-get-started-on-mycrypto
   - from: networks/cant-connect-to-custom-node-on-mycrypto.html
     to: troubleshooting/unable-to-connect-to-custom-node
