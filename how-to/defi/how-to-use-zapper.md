@@ -33,7 +33,9 @@ Upon visiting your MyCrypto dashboard, there’s an area for Zapper. You’ll se
 ![Add funds](../../assets/how-to/defi/how-to-use-zapper/add-funds.png)
 
 3. After filling out the information, click Next.
+
 4. If everything looks good, confirm your transaction.
+
 5. After the transaction has completed, go back to your dashboard and you’ll see your balance!
 (This may take a few extra seconds to appear)
 

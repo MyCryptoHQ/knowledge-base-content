@@ -36,17 +36,25 @@ The two risk types listed above are the most common and most impactful types of 
 
 * Decentralized Finance (DeFi)
   * Short for decentralized finance, DeFi refers to financial services for crypto, such as borrowing, lending, and trading, that are usually facilitated using smart contracts on the blockchain. They are often open-source and noncustodial.
+
 * Uniswap Pools & Liquidity
-  * A pool is a pool of tokens. On Uniswap, each token has its own pool. 
-  * Liquidity is the amount of tokens available in any given pool. If a pool has very little tokens, it has low liquidity. If there are many tokens, it has high liquidity. 
-  * A user can contribute their own tokens to the various pools on Uniswap, increasing liquidity. 
+  * A pool is a pool of tokens. On Uniswap, each token has its own pool.
+
+  * Liquidity is the amount of tokens available in any given pool. If a pool has very little tokens, it has low liquidity. If there are many tokens, it has high liquidity.
+
+  * A user can contribute their own tokens to the various pools on Uniswap, increasing liquidity.
+
   * Separately, when a user goes to exchange one token for another on Uniswap, they tap into the available tokens in the respective pools. If you’ve contributed liquidity to the pool(s) that the user is tapping into, you’ll get a small share of the exchange fee. The more liquidity that you’ve supplied to a pool, the larger your share is.
+
 * Exposure
   * Exposure is the inherent risk in an investment. If the only asset you hold is Ether, you are 100% exposed to the effects of ETH’s price fluctuations. If you diversify some of your investments into other assets, you reduce your ETH exposure - you are less affected by ETH’s price fluctuations.
+
 * Stablecoin
   * Stablecoins are a class of token that are pegged to the price of a reserve asset, offering more stability in price. Many stablecoins, like DAI and Tether, are pegged to the price of 1 US Dollar. Holding a stablecoin means your potential losses are minimized, but you’ll also lose out on potential gains.
+
 * Synthetic ETH (sETH)
   * Synthetic assets are artificial. You can use the Synthetix platform’s tokens (SNX) to “create” any synthetic asset - synthetic ETH (sETH), synthetic BTC (sBTC), and others. The point of this is if you’d like to create exposure to an asset (because synthetic assets are pegged to the price of the real asset) without actually having that asset. So, for example, if you didn’t have ETH but wanted the price action (aka gains and losses) of ETH, you could mint synthetic ETH. Generally you don’t need to do things with synthetic assets, but there are cases for it like with the sETH Unipool zap, which allows you to take your share of the fees from other users trading in the ETH/sETH Uniswap pool.
+
 * Fund
   * Fund is a term used to describe any money that you’ve set aside for a certain purpose, similar to what you’re doing when you put some of your assets into a zap with the goal of gaining on it! This term is not specific to cryptocurrency - it is a term used in all areas of finance.
 
