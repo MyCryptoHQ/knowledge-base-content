@@ -6,6 +6,12 @@ date_published: '2020-05-13'
 date_modified: '2020-05-13'
 ---
 
+<Alert>
+
+This feature is currently only found on the MyCrypto beta, which you can find on [beta.mycrypto.com](https://beta.mycrypto.com/).
+
+</Alert>
+
 Screen Lock is a security feature that is intended to keep prying eyes away from your information. 
 
 When you have your MyCrypto dashboard open and become inactive, Screen Lock will hide all of the information in your dashboard. This includes the addresses of the accounts you have added and the balances of those accounts.
