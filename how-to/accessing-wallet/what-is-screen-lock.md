@@ -8,7 +8,7 @@ date_modified: '2020-05-13'
 
 <Alert>
 
-This feature is currently only found on the MyCrypto beta, which you can find on [beta.mycrypto.com](https://beta.mycrypto.com/).
+This feature is currently only found on MyCrypto beta, which you can find at [beta.mycrypto.com](https://beta.mycrypto.com/).
 
 </Alert>
 
