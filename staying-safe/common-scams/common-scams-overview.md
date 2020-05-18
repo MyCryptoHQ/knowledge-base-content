@@ -3,10 +3,8 @@ title: Overview of Common Scams
 description: Common Scams
 priority: 100
 date_published: '2018-03-12'
-date_modified: '2019-04-01'
+date_modified: '2020-05-18'
 ---
-
-## Introduction
 
 This document set is intended to be a compendium of types of scams that can be found in Ethereum and in the wider cryptocurrency ecosystem.
 

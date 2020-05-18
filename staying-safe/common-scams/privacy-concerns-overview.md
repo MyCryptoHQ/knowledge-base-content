@@ -3,18 +3,16 @@ title: Privacy Concerns
 description: Common Scams
 priority: 60
 date_published: '2018-03-12'
-date_modified: '2019-04-01'
+date_modified: '2020-05-18'
 ---
 
-## Privacy Concerns
-
-### Posting Your Public Keys on Social Media
+## Posting Your Public Keys on Social Media
 
 *Why is this a problem?*
 
 You should never do this, especially if you have a large amount of crypto-wealth, because it paints a target on your back. If people know that you have cryptocurrency, you may become the victim of a targeted hacking campaign.
 
-### Interacting With Your Private Keys on Public Networks
+## Interacting With Your Private Keys on Public Networks
 
 *Why is this a problem?*
 

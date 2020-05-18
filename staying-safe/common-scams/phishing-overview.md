@@ -3,10 +3,8 @@ title: Phishing Scams and Hacks
 description: Common Scams
 priority: 80
 date_published: '2018-03-12'
-date_modified: '2019-04-01'
+date_modified: '2020-05-18'
 ---
-
-## Phishing
 
 Phishing is scamming via impersonating individuals, organizations, operations, websites, etc.
 
@@ -16,25 +14,25 @@ This type of attack exploits people's inattentiveness when it comes to their sec
 
 There are tools that help to mitigate this, so ultimately, phishing is effective for attackers because users undervalue security until something happens to them that compromises their funds.
 
-### Phishing via Website
+## Phishing via Website
 
-#### How is this done?
+### How is this done?
 
 An attacker copies the code from one of their favorite interfaces/exchanges/organizations. Then, they create a website with a similar URL to the one they're trying to impersonate, using the copied code.
 
 After that, all they need to do is advertise their website for others to see and get tricked into using.
 
-#### The correct URL
+### The correct URL
 
 ![Correct URL](../../assets/staying-safe/common-scams/phising-overview/correct-url.png)
 
 vs.
 
-#### The phishing URL
+### The phishing URL
 
 ![Phishing URL](../../assets/staying-safe/common-scams/phising-overview/phishing-url.png)
 
-#### How can I mitigate this?
+### How can I mitigate this?
 
 In the example above, note the differences between the URLs. The phishing URL does not have the correct MyCrypto LLC. certificate specified.
 
@@ -46,23 +44,23 @@ Additionally, you can download the [EtherAddressLookup Chrome extension](https:/
 
 ---
 
-### Phishing via Twitter
+## Phishing via Twitter
 
-#### How is this done?
+### How is this done?
 
 An attacker uses a Twitter account and changes the display name to impersonate crypto-related people/organizations like [Vitalik Buterin](https://twitter.com/VitalikButerin), [MyCrypto.com](https://twitter.com/MyCrypto) and [ShapeShift.io](https://twitter.com/ShapeShift_io). Then, they proceed to create an offer for the impersonated account's followers, trying to claim that they're giving out handouts, like so:
 
 ![Twitter Phishing](../../assets/staying-safe/common-scams/phising-overview/twitter-phish.png)
 
-#### How can I mitigate this?
+### How can I mitigate this?
 
 Follow the [Common Scams Tips](/staying-safe/common-scams/common-scams-overview) and do not attempt to get free money by sending money to others. It will not work.
 
 ---
 
-### Phishing via Mobile App
+## Phishing via Mobile App
 
-#### How is this done?
+### How is this done?
 
 An attacker creates an app using logos and names of popular online tools like [MyCrypto](https://mycrypto.com) and [MyEtherWallet](https://myetherwallet.com). Then, they publish this app to an app store like the Google Play Store. If anyone enters their private keys into the app, the information becomes accessible to the attacker. The attacker can then siphon funds off whenever they want to.
 
@@ -70,13 +68,13 @@ Mobile phishing applications will appear in the mobile app store, masquerading a
 
 ![Fake Play Store App](../../assets/staying-safe/common-scams/phising-overview/play-store-phish.jpg)
 
-#### How can I mitigate this?
+### How can I mitigate this?
 
 Confirm that any mobile application you want to download for your phone is a legitimate application by verifying with the broader community on public forums.
 
 ---
 
-#### How can I help others to not fall for these types of scams?
+### How can I help others to not fall for these types of scams?
 
 Report scams like this to [EtherScamdb.info](https://etherscamdb.info). Furthermore, when you find these scams, post about them on social media sites like Reddit and Twitter so that users can learn about their existence. You can also share this article using the sharing links below the title.
 

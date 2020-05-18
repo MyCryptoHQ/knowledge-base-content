@@ -3,7 +3,7 @@ title: Verifying the authenticity of the desktop application
 description: Security & Phishing
 priority: 75
 date_published: '2018-05-01'
-date_modified: '2019-04-01'
+date_modified: '2020-05-18'
 ---
 
 After downloading the desktop application, it's highly recommended to verify the checksum of the application. This ensures that you are using the real MyCrypto desktop application and not one that has been tampered with by someone else.
@@ -14,7 +14,8 @@ To begin, download the desktop application and the signed checksums (`checksums.
 
 Verifying the checksums is platform-specific, so follow the instructions that apply to you. Instructions are available for Windows, macOS and Linux.
 
-## Windows
+<Accordion>
+<AccordionItem title="Windows">
 
 ### 1. Download and install gpg4win
 
@@ -42,6 +43,12 @@ To check the signature of the `checksums.txt.gpg` file, you have to run the foll
 > gpg --output checksums.txt --decrypt checksums.txt.gpg
 ```
 
+<Alert>
+
+If you see a warning about the GPG key being expired, you may have to import the key again, by following step 3. 
+
+</Alert>
+
 If all goes well, you should see "Good signature from 'Taylor <tayvano [at] gmail.com>'". It will also create a `checksums.txt` file with the checksums of the application.
 
 ### 5. Hashing the application
@@ -54,7 +61,8 @@ The last step is to hash the application and check the hash to see if it matches
 
 Make sure to replace the filename (windows_VERSION_MyCrypto.exe) with the actual filename of the file you downloaded. You should see "SHA256 hash of windows_VERSION_MyCrypto.exe:" with the hash below. Open the `checksums.txt` file and check if the hash matches with the one in the file.
 
-## macOS
+</AccordionItem>
+<AccordionItem title="macOS">
 
 ### 1. Download and install curl and gpg
 
@@ -94,6 +102,12 @@ To check the signature of the `checksums.txt.gpg` file, you have to run the foll
 $ gpg --output checksums.txt --decrypt checksums.txt.gpg
 ```
 
+<Alert>
+
+If you see a warning about the GPG key being expired, you may have to import the key again, by following step 3. 
+
+</Alert>
+
 If all goes well, you should see "Good signature from 'Taylor <tayvano [at] gmail.com>'". It will also create a `checksums.txt` file with the checksums of the application.
 
 ### 5. Hashing the application
@@ -106,7 +120,8 @@ $ shasum -a 256 mac_VERSION_MyCrypto.dmg
 
 Make sure to replace the filename (mac_VERSION_MyCrypto.dmg) with the actual filename of the file you downloaded. You should see the hash. Open the `checksums.txt` file and check if the hash matches with the one in the file.
 
-## Linux
+</AccordionItem>
+<AccordionItem title="Linux">
 
 ### 1. Download and install curl and gpg
 
@@ -158,6 +173,12 @@ To check the signature of the `checksums.txt.gpg` file, you have to run the foll
 $ gpg --output checksums.txt --decrypt checksums.txt.gpg
 ```
 
+<Alert>
+
+If you see a warning about the GPG key being expired, you may have to import the key again, by following step 3. 
+
+</Alert>
+
 If all goes well, you should see "Good signature from 'Taylor <tayvano [at] gmail.com>'". It will also create a `checksums.txt` file with the checksums of the application.
 
 ### 5. Hashing the application
@@ -169,3 +190,6 @@ $ sha256sum linux_PLATFORM_VERSION_MyCrypto.AppImage
 ```
 
 Make sure to replace the filename (linux_PLATFORM_VERSION_MyCrypto.AppImage) with the actual filename of the file you downloaded. You should see the hash. Open the `checksums.txt` file and check if the hash matches with the one in the file.
+
+</AccordionItem>
+</Accordion>
