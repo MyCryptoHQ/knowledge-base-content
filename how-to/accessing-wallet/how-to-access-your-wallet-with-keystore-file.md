@@ -49,6 +49,6 @@ MyCrypto does not allow you to use the web application to access your keystore f
 ## Related articles
 
 * [Backing up your wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
-* [Sending & Receiving](/contact-us/)
+* [Sending & Receiving](/how-to/sending)
 * [Protecting Yourself and Your Funds](/staying-safe/protecting-yourself-and-your-funds)
 * [Difference between an exchange and MyCrypto](/general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto)
