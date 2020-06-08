@@ -1,22 +1,22 @@
 ---
-title: How to Buy Ether (ETH) with USD
+title: How to Buy Ether (ETH)
 description: FAQ
 priority: 60
 date_published: '2017-06-20'
-date_modified: '2020-04-30'
+date_modified: '2020-06-08'
 ---
 
-Hello and welcome to Ethereum! Ethereum and digital currencies are pretty new and in this new financial world, things can be a little bit different. This article gives an overview of what is ETH, where and how you can buy ETH with USD, some important info on how to store it, and how to be secure. We tried to keep it as short as possible so please take the time to read through the article. Don't hesitate to contact us directly if you have any questions or concerns, we are here to help! 
+Hello and welcome to Ethereum! Ethereum and digital currencies are pretty new and in this new financial world, things can be a little bit different. This article gives an overview of what ETH is, where and how you can buy ETH with USD, some important info on how to store it, and how to be secure. We tried to keep it as short as possible so please take the time to read through the article. Don't hesitate to contact us directly if you have any questions or concerns, we are here to help! 
 
 ## What IS Ether (ETH)?
 
-Ether, or ETH, is Ethereum's native currency. It is "digital money" that can be sent over the internet instantly and cheaply, and also be used in many Ethereum-based applications. (from [Ethereum.org](https://ethereum.org/eth/))
+Ether, or ETH, is Ethereum's native currency. It is "digital money" that can be sent over the internet instantly and cheaply, and also be used in many Ethereum-based applications. (from [ethereum.org](https://ethereum.org/eth/))
 
 ## Where can you Buy ETH?
 
 ### MyCrypto
 
-You can go to [Buy Eth with USD via MyCrypto](https://buy.mycrypto.com/)
+You can go to [buy.mycrypto.com](https://buy.mycrypto.com/) to buy ETH, BTC, or other cryptocurrencies with US Dollars or Euros (as well as some other currencies). 
 
 ### Exchange
 
