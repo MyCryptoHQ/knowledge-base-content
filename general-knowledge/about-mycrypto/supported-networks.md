@@ -276,7 +276,6 @@ Website: [auxilium.global](https://auxilium.global/)<br />
 Source: [github.com/auxiliumglobal](github.com/auxiliumglobal)<br />
 Block explorer: [explore.auxilium.global](https://explore.auxilium.global/)
 
-
 ## EtherCore
 
 “*EtherCore is a multi-chain decentralized application and smart contracts platform that hosts various applications that can be used in real world. EtherCore offers highly distributed, fault tolerance and mission-critical network foundation for your blockchain business.*” - [ethercore.io](https://www.ethercore.io/)
