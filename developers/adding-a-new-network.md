@@ -3,8 +3,10 @@ title: Adding a New Network to MyCrypto
 description: Contributor Info
 priority: 61
 date_published: '2018-05-29'
-date_modified: '2018-06-19'
+date_modified: '2020-06-10'
 ---
+
+Please see [this](/general-knowledge/about-mycrypto/supported-networks) article for a list of networks that are currently supported by MyCrypto.
 
 Adding support for your Ethereum-like network is easy, assuming it isn't significantly different from the Ethereum network. To make sure your network is well supported, we require the following:
 
