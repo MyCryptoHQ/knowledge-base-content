@@ -19,6 +19,7 @@ Most of the things a typical user is interested on will be on the `mycrypto.com`
 All MyCrypto content should originate from one of the following domains;
 
 * `mycrypto.com` - the production-stable blockchain interface
+* `www.mycrypto.com` - the production-stable blockchain interface
 * `about.mycrypto.com` - team profile and job opportunities
 * `beta.mycrypto.com` - a public staging area
 * `buy.mycrypto.com` - a portal to buy Ethereum and Bitcoin with your credit card
@@ -28,7 +29,6 @@ All MyCrypto content should originate from one of the following domains;
 * `support.mycrypto.com` - our knowledge base
 * `summer.mycrypto.com` - our summer winter calendar
 * `winter.mycrypto.com` - our crypto winter calendar
-* `www.mycrypto.com` - the production-stable blockchain interface
 * `0x.mycrypto.com` - holding the 0x protocol code used by the MyCrypto interface
 
 ## mycryptoapi.com
