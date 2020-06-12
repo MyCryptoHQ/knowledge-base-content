@@ -26,6 +26,7 @@ All MyCrypto content should originate from one of the following domains;
 * `legacy.mycrypto.com` - the old interface look
 * `overflow.mycrypto.com` - a place to download developer tools
 * `support.mycrypto.com` - our knowledge base
+* `summer.mycrypto.com` - our summer winter calendar
 * `winter.mycrypto.com` - our crypto winter calendar
 * `www.mycrypto.com` - the production-stable blockchain interface
 * `0x.mycrypto.com` - holding the 0x protocol code used by the MyCrypto interface
