@@ -3,7 +3,7 @@ title: Which networks does MyCrypto support?
 description: FAQ
 priority: 95
 date_published: '2020-06-10'
-date_modified: '2020-06-10'
+date_modified: '2020-06-16'
 tags: [networks]
 ---
 
@@ -246,7 +246,7 @@ Block explorer: [scan.thundercore.com](https://scan.thundercore.com/)
 
 Unit: META<br />
 Website: [metadium.com](https://www.metadium.com)<br />
-Source: [github.com/metadium](github.com/metadium)<br />
+Source: [github.com/metadium](https://github.com/metadium)<br />
 Block explorer: [explorer.metadium.com](https://explorer.metadium.com/)
 
 ## DEXON Network
@@ -255,7 +255,7 @@ Block explorer: [explorer.metadium.com](https://explorer.metadium.com/)
 
 Unit: DXN<br />
 Website: [dexon.org](https://dexon.org/)<br />
-Source: [github.com/dexon-foundation](github.com/dexon-foundation)<br />
+Source: [github.com/dexon-foundation](https://github.com/dexon-foundation)<br />
 Block explorer: [dexonscan.app](https://dexonscan.app/)
 
 ## Permission
@@ -273,7 +273,7 @@ Block explorer: [explorer.permission.io](https://explorer.permission.io/)
 
 Unit: AUX<br />
 Website: [auxilium.global](https://auxilium.global/)<br />
-Source: [github.com/auxiliumglobal](github.com/auxiliumglobal)<br />
+Source: [github.com/auxiliumglobal](https://github.com/auxiliumglobal)<br />
 Block explorer: [explore.auxilium.global](https://explore.auxilium.global/)
 
 ## EtherCore
@@ -292,4 +292,4 @@ Block explorer: [explorer.ethercore.io](https://explorer.ethercore.io/)
 Unit: EWT<br />
 Website: [energyweb.org](https://www.energyweb.org/)<br />
 Source: [github.com/energywebfoundation](https://github.com/energywebfoundation)<br />
-Block explorer: [explorer.energyweb.org](explorer.energyweb.org)
+Block explorer: [explorer.energyweb.org](https://explorer.energyweb.org)
