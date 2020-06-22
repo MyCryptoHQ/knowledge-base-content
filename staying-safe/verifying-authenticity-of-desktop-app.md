@@ -3,7 +3,7 @@ title: Verifying the authenticity of the desktop application
 description: Security & Phishing
 priority: 75
 date_published: '2018-05-01'
-date_modified: '2020-05-18'
+date_modified: '2020-06-22'
 ---
 
 After downloading the desktop application, it's highly recommended to verify the checksum of the application. This ensures that you are using the real MyCrypto desktop application and not one that has been tampered with by someone else.
