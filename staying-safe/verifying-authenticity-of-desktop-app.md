@@ -3,7 +3,7 @@ title: Verifying the authenticity of the desktop application
 description: Security & Phishing
 priority: 75
 date_published: '2018-05-01'
-date_modified: '2020-05-18'
+date_modified: '2020-06-22'
 ---
 
 After downloading the desktop application, it's highly recommended to verify the checksum of the application. This ensures that you are using the real MyCrypto desktop application and not one that has been tampered with by someone else.
@@ -89,7 +89,7 @@ Make sure to replace '/path/to/folder' with the actual path of the files.
 To import the signing GPG key, run the following command in the terminal:
 
 ```bash
-$ curl https://keybase.io/tayvano/pgp_keys.asc | gpg --import
+$ CURL_SSL_BACKEND=secure-transport curl https://keybase.io/tayvano/pgp_keys.asc | gpg --import
 ```
 
 If all goes well, you should see "public key from Taylor <tayvano [at] gmail.com>" imported.
