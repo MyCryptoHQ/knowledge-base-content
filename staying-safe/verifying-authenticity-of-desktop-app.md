@@ -89,7 +89,7 @@ Make sure to replace '/path/to/folder' with the actual path of the files.
 To import the signing GPG key, run the following command in the terminal:
 
 ```bash
-$ CURL_SSL_BACKEND=secure-transport curl https://keybase.io/tayvano/pgp_keys.asc | gpg --import
+$ curl https://keybase.io/tayvano/pgp_keys.asc | gpg --import
 ```
 
 If all goes well, you should see "public key from Taylor <tayvano [at] gmail.com>" imported.
