@@ -1,6 +1,7 @@
 ---
 title: 'Multiple Addresses Showing on Hardware Wallet'
 description: Hardware Wallets
+tags: [Addresses, Hardare Wallets]
 priority: 25
 date_published: '2015-07-15'
 date_modified: '2018-11-29'
