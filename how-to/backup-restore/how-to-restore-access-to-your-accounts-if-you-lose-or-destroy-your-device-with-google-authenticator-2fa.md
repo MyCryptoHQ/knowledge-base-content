@@ -3,6 +3,7 @@ title: >-
   How to restore access to your accounts if you lose or destroy your device with
   Google Authenticator (2FA)
 description: Best Of
+tags: [Safety & Security, Backups]
 priority: 90
 date_published: '2017-07-05'
 date_modified: '2019-04-01'
