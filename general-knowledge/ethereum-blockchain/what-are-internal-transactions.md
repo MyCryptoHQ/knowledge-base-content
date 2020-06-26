@@ -1,6 +1,7 @@
 ---
 title: What Are Internal Transactions?
 description: Transactions
+tags: [Transactions]
 priority: 70
 date_published: '2018-02-06'
 date_modified: '2019-03-30'

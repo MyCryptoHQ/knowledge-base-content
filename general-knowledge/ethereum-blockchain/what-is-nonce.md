@@ -1,6 +1,7 @@
 ---
 title: What is nonce?
 description: Transactions
+tags: [Transactions]
 priority: 90
 date_published: '2017-07-05'
 date_modified: '2019-03-30'

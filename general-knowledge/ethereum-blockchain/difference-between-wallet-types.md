@@ -1,6 +1,7 @@
 ---
 title: 'Differences Between Wallet Types (e.g., Private Key vs Keystore)'
 description: Private Keys & Passwords
+tags: [Private Keys]
 priority: 110
 date_published: '2017-07-05'
 date_modified: '2019-11-15'

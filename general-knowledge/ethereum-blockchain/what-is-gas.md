@@ -1,6 +1,7 @@
 ---
 title: What is gas?
 description: Gas & Transaction Fees
+tags: [Gas, Transactions]
 priority: 100
 date_published: '2017-07-05'
 date_modified: '2019-11-18'

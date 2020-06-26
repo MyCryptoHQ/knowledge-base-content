@@ -1,6 +1,7 @@
 ---
 title: Should I keep my ETH and tokens in a single or multiple addresses?
 description: Addresses & Balances
+tags: [Ethereum, Addresses, Tokens]
 priority: 10
 date_published: '2017-07-05'
 date_modified: '2019-03-30'

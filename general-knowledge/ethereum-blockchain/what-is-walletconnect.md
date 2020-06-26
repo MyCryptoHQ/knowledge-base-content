@@ -1,6 +1,7 @@
 ---
 title: What is WalletConnect?
 description: Getting Started
+tags: [Beta, WalletConnect]
 priority: 120
 date_published: '2020-03-16'
 date_modified: '2020-03-17'

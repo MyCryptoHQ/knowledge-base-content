@@ -1,6 +1,7 @@
 ---
 title: Ethereum Address Has Uppercase and Lowercase Letters
 description: Addresses & Balances
+tags: [Ethereum, Addresses]
 priority: 10
 date_published: '2017-07-05'
 date_modified: '2019-03-30'
