@@ -1,6 +1,7 @@
 ---
 title: How To Use Zapper
 description: How to use Zapper with MyCrypto
+tags: [Beta, Decentralized Finance]
 priority: 50
 date_published: '2020-05-06'
 date_modified: '2020-05-06'
