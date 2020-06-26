@@ -1,6 +1,7 @@
 ---
 title: Adding a New Network to MyCrypto
 description: Contributor Info
+tags: [Networks, MyCrypto]
 priority: 61
 date_published: '2018-05-29'
 date_modified: '2020-06-10'

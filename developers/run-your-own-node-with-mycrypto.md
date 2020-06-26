@@ -1,6 +1,7 @@
 ---
 title: Running MyCrypto With Your Own Personal Node
 description: Networks & Nodes
+tags: [Networks, Nodes, MyCrypto]
 priority: 8
 date_published: '2017-07-05'
 date_modified: '2019-11-18'

@@ -1,6 +1,7 @@
 ---
 title: How to suggest a feature
 description: Contributor Info
+tags: [MyCrypto]
 priority: 66
 date_published: '2017-11-16'
 date_modified: '2018-06-11'

@@ -1,6 +1,7 @@
 ---
 title: Adding Your Token as a Default Token
 description: Contributor Info
+tags: [Tokens]
 priority: 60
 date_published: '2017-10-08'
 date_modified: '2018-12-19'

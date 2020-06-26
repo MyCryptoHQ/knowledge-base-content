@@ -2,6 +2,7 @@
 title: How To Report A Bug
 description: Contributor Info
 priority: 66
+tags: [MyCrypto]
 date_published: '2017-11-16'
 date_modified: '2018-12-19'
 ---

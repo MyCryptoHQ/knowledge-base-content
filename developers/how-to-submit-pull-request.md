@@ -1,6 +1,7 @@
 ---
 title: How to Submit a Pull Request
 description: Contributor Info
+tags: [MyCrypto]
 priority: 65
 date_published: '2017-11-16'
 date_modified: '2019-11-04'

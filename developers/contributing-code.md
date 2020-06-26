@@ -1,6 +1,7 @@
 ---
 title: How Can I Help Contribute Code?
 description: Contributor Info
+tags: [MyCrypto]
 priority: 63
 date_published: '2017-10-08'
 date_modified: '2018-11-29'
