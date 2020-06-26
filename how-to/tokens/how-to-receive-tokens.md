@@ -1,6 +1,7 @@
 ---
 title: How To Receive Tokens
 description: Tokens
+tags: [Tokens, Transactions]
 priority: 90
 date_published: '2017-12-23'
 date_modified: '2019-07-19'

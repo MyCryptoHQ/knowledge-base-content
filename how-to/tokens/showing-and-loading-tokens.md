@@ -1,6 +1,7 @@
 ---
 title: Showing and Loading Tokens
 description: Tokens
+tags: [Tokens]
 priority: 100
 date_published: '2017-12-23'
 date_modified: '2019-11-18'
