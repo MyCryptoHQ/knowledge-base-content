@@ -1,6 +1,7 @@
 ---
 title: How to use MetaMask with MyCrypto
 description: Accessing your Wallet
+tags: [MetaMask]
 priority: 70
 date_published: '2018-04-18'
 date_modified: '2019-04-01'

@@ -1,6 +1,7 @@
 ---
 title: How to Use the Parity Signer with MyCrypto
 description: Accessing your Wallet
+tags: [Parity Signer]
 priority: 60
 date_published: '2018-04-18'
 date_modified: '2019-11-18'

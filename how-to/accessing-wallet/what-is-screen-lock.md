@@ -1,6 +1,7 @@
 ---
 title: What is Screen Lock?
 description: Accessing your Wallet
+tags: [Beta]
 priority: 100
 date_published: '2020-05-13'
 date_modified: '2020-05-13'

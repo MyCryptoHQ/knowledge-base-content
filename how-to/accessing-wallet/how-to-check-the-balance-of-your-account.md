@@ -1,6 +1,7 @@
 ---
 title: How to check the balance of your account
 description: Accessing your Wallet
+tags: [Addresses]
 priority: 50
 date_published: '2018-04-18'
 date_modified: '2019-07-19'

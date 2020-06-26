@@ -1,6 +1,7 @@
 ---
 title: How to Access Your Wallet with a Mnemonic Phrase
 description: Accessing your Wallet
+tags: [Private Keys]
 priority: 100
 date_published: '2017-06-20'
 date_modified: '2019-07-19'

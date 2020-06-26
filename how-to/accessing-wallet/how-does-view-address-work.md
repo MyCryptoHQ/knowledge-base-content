@@ -1,6 +1,7 @@
 ---
 title: 'How does View Address work?'
 description: Accessing your Wallet
+tags: [Addresses, Private Keys]
 priority: 110
 date_published: '2020-04-07'
 date_modified: '2020-04-07'
