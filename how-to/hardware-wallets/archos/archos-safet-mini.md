@@ -1,6 +1,7 @@
 ---
 title: Archos Safe-T Mini User Guide
-description: Archos Safe-T Mini
+description: Archos Safe-T Mini,
+tags: [Archos]
 priority: 80
 date_published: '2018-07-25'
 date_modified: '2020-04-06'
