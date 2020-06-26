@@ -1,6 +1,7 @@
 ---
 title: How To Send To a Trezor
 description: Hardware Wallets
+tags: [Trezor, Transactions]
 priority: 4
 date_published: '2015-07-15'
 date_modified: '2019-07-19'

@@ -1,6 +1,7 @@
 ---
 title: 'TREZOR: Making a backup'
 description: Hardware Wallets
+tags: [Trezor, Backups]
 priority: 80
 date_published: '2015-07-15'
 date_modified: '2019-07-19'
