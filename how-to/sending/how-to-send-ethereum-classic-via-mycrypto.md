@@ -1,6 +1,7 @@
 ---
 title: How to send Ethereum Classic (ETC) via MyCrypto
 description: Networks & Nodes
+tags: [Transactions]
 priority: 70
 date_published: '2017-10-08'
 date_modified: '2019-04-01'

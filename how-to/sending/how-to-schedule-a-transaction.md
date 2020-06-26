@@ -1,6 +1,7 @@
 ---
 title: How to Schedule a Transaction
 description: Transactions
+tags: [Transactions]
 priority: 50
 date_published: '2018-09-13'
 date_modified: '2019-11-18'

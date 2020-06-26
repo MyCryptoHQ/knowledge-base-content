@@ -1,6 +1,7 @@
 ---
 title: How to make an offline transaction
 description: Offline
+tags: [Offline, Transactions]
 priority: 90
 date_published: '2017-07-05'
 date_modified: '2019-04-01'

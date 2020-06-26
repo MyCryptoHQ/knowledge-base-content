@@ -1,6 +1,7 @@
 ---
 title: How To Send Tokens
 description: Sending & Receiving
+tags: [Transactions, Tokens]
 priority: 80
 date_published: '2017-07-05'
 date_modified: '2019-07-19'

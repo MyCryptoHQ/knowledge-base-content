@@ -1,6 +1,7 @@
 ---
 title: Checking or Replacing a Transaction After It Has Been Sent
 description: Transactions
+tags: [Transactions]
 priority: 70
 date_published: '2017-10-08'
 date_modified: '2019-07-19'

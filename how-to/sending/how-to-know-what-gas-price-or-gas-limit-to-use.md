@@ -1,6 +1,7 @@
 ---
 title: How To Know What Gas Limit to Use
 description: Gas
+tags: [Gas, Transactions]
 priority: 60
 date_published: '2018-02-06'
 date_modified: '2019-07-19'

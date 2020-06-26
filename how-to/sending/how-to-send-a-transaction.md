@@ -1,6 +1,7 @@
 ---
 title: How To Send A Transaction
 description: Sending & Receiving
+tags: [Transactions]
 priority: 100
 date_published: '2017-07-05'
 date_modified: '2019-07-19'
