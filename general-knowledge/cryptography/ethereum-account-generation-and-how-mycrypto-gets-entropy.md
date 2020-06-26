@@ -1,6 +1,7 @@
 ---
 title: Ethereum Account Generation & How MyCrypto gets Entropy
 description: Best Of
+tags: [Safety & Security, Ethereum, MyCrypto]
 priority: 2
 date_published: '2017-07-05'
 date_modified: '2019-11-18'

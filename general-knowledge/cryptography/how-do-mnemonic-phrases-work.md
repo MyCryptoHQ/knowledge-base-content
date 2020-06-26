@@ -1,6 +1,7 @@
 ---
 title: How do (encrypted) mnemonic phrases work?
 description: Private Keys & Passwords
+tags: [Safety & Security, Private Keys]
 priority: 40
 date_published: '2018-06-20'
 date_modified: '2018-12-19'
