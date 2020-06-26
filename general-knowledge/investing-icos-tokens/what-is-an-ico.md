@@ -1,6 +1,7 @@
 ---
 title: What is an ICO?
 description: FAQ
+tags: [Tokens]
 priority: 100
 date_published: '2017-12-04'
 date_modified: '2019-04-01'

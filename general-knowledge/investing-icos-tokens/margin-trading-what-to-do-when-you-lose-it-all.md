@@ -1,6 +1,7 @@
 ---
 title: 'Margin Trading: What to do When You Lose it All'
 description: Best Of
+tags: [Exchanges]
 priority: 40
 date_published: '2017-07-05'
 date_modified: '2019-04-01'

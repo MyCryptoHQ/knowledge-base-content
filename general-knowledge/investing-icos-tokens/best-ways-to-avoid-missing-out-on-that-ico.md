@@ -1,6 +1,7 @@
 ---
 title: Best Ways to Avoid Missing out on That ICO
 description: Best Of
+tags: [Tokens]
 priority: 90
 date_published: '2017-07-05'
 date_modified: '2019-07-08'

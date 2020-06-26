@@ -1,6 +1,7 @@
 ---
 title: Why am I getting random (airdropped) tokens in my wallet?
 description: Tokens
+tags: [Tokens]
 priority: 20
 date_published: '2017-11-26'
 date_modified: '2019-04-01'

@@ -1,6 +1,7 @@
 ---
 title: Do I need multiple addresses for every token sale?
 description: Tokens
+tags: [Addresses, Tokens]
 priority: 70
 date_published: '2018-02-24'
 date_modified: '2019-04-01'
