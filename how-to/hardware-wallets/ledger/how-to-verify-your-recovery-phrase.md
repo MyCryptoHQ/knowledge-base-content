@@ -1,6 +1,7 @@
 ---
 title: How To Verify Your Recovery Phrase
 description: Hardware Wallets
+tags: [Ledger, Safety & Security]
 priority: 90
 date_published: '2019-03-29'
 date_modified: '2019-07-19'

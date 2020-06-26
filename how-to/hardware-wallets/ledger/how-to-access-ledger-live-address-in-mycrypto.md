@@ -1,6 +1,7 @@
 ---
 title: How To Access Your Ledger Live Address in MyCrypto
 description: Hardware Wallets
+tags: [Addresses, Ledger]
 priority: 100
 date_published: '2019-03-29'
 date_modified: '2019-07-19'
