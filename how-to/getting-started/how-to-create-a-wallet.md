@@ -1,12 +1,11 @@
 ---
 title: How to create a wallet
 description: Getting Started
+tags: [Accounts, Private Keys]
 priority: 90
 date_published: '2015-10-05'
 date_modified: '2020-03-04'
 ---
-
-## Preface
 
 We highly recommend getting a hardware wallet or using MetaMask as a method to access your wallet and store your funds.
 

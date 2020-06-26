@@ -1,6 +1,7 @@
 ---
 title: Where Can I Buy / Sell / Trade / Exchange my ETH or Tokens?
 description: FAQ
+tags: [Exchanges, Ethereum, Tokens]
 priority: 50
 date_published: '2017-07-05'
 date_modified: '2019-04-01'

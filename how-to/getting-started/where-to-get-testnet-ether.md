@@ -1,6 +1,7 @@
 ---
 title: Where to Get Testnet Ether?
 description: FAQ
+tags: [Ethereum]
 priority: 40
 date_published: '2018-07-02'
 date_modified: '2020-03-05'

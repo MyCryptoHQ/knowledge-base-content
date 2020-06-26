@@ -1,6 +1,7 @@
 ---
 title: How to Buy Bitcoin (BTC) with USD
 description: FAQ
+tags: [Tokens]
 priority: 110
 date_published: '2020-03-30'
 date_modified: '2020-03-30'

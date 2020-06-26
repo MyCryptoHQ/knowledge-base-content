@@ -1,6 +1,7 @@
 ---
 title: How to Buy Ether (ETH)
 description: FAQ
+tags: [Ethereum, Tokens]
 priority: 60
 date_published: '2017-06-20'
 date_modified: '2020-06-08'

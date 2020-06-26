@@ -1,6 +1,7 @@
 ---
 title: How to sign & verify messages on Ethereum
 description: Addresses & Balances
+tags: [Accounts, Ethereum]
 priority: 70
 date_published: '2018-04-18'
 date_modified: '2020-03-04'
