@@ -1,6 +1,7 @@
 ---
 title: '[Mist ➡ MyCrypto] Access Your Mist Wallet With MyCrypto'
 description: Migrating to/from MyCrypto
+tags: [Private Keys]
 priority: 50
 date_published: '2019-05-15'
 date_modified: '2019-05-15'

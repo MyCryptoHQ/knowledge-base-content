@@ -1,6 +1,7 @@
 ---
 title: '[MyCrypto ➡ MetaMask] Moving from MyCrypto to MetaMask'
 description: Migrating to/from MyCrypto
+tags: [Private Keys, MetaMask]
 priority: 80
 date_published: '2017-10-08'
 date_modified: '2020-03-07'

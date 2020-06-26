@@ -1,6 +1,7 @@
 ---
 title: '[MyCrypto ➡ Ledger] Moving from MyCrypto to Ledger'
 description: Migrating to/from MyCrypto
+tags: [Private Keys, Ledger]
 priority: 100
 date_published: '2017-10-08'
 date_modified: '2020-03-07'

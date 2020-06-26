@@ -1,6 +1,7 @@
 ---
 title: '[MyCrypto ➡ TREZOR] Moving from MyCrypto to TREZOR'
 description: Migrating to/from MyCrypto
+tags: [Private Keys, Trezor]
 priority: 90
 date_published: '2017-11-08'
 date_modified: '2020-03-07'

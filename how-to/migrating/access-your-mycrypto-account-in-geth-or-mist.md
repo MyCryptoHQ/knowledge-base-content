@@ -1,6 +1,7 @@
 ---
 title: '[MyCrypto ➡ Geth] Access Your MyCrypto Account in Geth'
 description: Migrating to/from MyCrypto
+tags: [Private Keys]
 priority: 50
 date_published: '2015-07-15'
 date_modified: '2019-07-19'

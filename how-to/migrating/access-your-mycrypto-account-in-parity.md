@@ -1,6 +1,7 @@
 ---
 title: '[MyCrypto ➡ Parity] Access Your MyCrypto Account in Parity'
 description: Migrating to/from MyCrypto
+tags: [Private Keys]
 priority: 50
 date_published: '2017-07-05'
 date_modified: '2019-07-19'

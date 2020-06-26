@@ -1,6 +1,7 @@
 ---
 title: '[Coinbase ➡ MyCrypto] Moving from Coinbase to MyCrypto'
 description: Migrating to/from MyCrypto
+tags: [Private Keys, Exchanges]
 priority: 75
 date_published: '2015-07-15'
 date_modified: '2020-03-07'

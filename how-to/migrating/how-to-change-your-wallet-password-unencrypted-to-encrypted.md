@@ -1,6 +1,7 @@
 ---
 title: How do I Encrypt my Private Key or Wallet Password?
 description: Private Keys & Passwords
+tags: [Private Keys]
 priority: 70
 date_published: '2017-10-08'
 date_modified: '2020-03-07'
