@@ -1,6 +1,7 @@
 ---
 title: Access ETH sent to ETC address or ETC sent to ETH address
 description: Networks & Nodes
+tags: [Ethereum, Tokens]
 priority: 2
 date_published: '2017-12-23'
 date_modified: '2019-07-19'
