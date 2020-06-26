@@ -1,6 +1,7 @@
 ---
 title: How can MyCrypto send offline?
 description: Offline
+tags: [Offline, MyCrypto]
 priority: 60
 date_published: '2017-07-05'
 date_modified: '2019-04-01'

@@ -1,6 +1,7 @@
 ---
 title: 'Does MyCrypto support Bitcoin or other coins (LTC, STEEM, ZEC)?'
 description: FAQ
+tags: [Tokens, MyCrypto]
 priority: 40
 date_published: '2017-06-20'
 date_modified: '2019-04-01'

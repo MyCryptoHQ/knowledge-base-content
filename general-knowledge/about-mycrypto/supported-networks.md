@@ -1,10 +1,10 @@
 ---
 title: Which networks does MyCrypto support?
 description: FAQ
+tags: [Networks, MyCrypto]
 priority: 95
 date_published: '2020-06-10'
 date_modified: '2020-06-16'
-tags: [networks]
 ---
 
 MyCrypto supports a wide variety of different networks, better known as blockchains. The different types of networks that MyCrypto supports are all based on the original Ethereum codebase, with some differences which set them apart from the original Ethereum network.
