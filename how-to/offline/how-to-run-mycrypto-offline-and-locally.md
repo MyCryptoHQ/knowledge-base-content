@@ -1,6 +1,7 @@
 ---
 title: How To Run MyCrypto Offline and Locally
 description: Offline
+tags: [Offline]
 priority: 100
 date_published: '2017-07-05'
 date_modified: '2019-11-18'

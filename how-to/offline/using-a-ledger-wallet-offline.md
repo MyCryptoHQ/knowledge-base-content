@@ -1,6 +1,7 @@
 ---
 title: Using a Ledger Wallet Offline
 description: Offline
+tags: [Offline, Ledger]
 priority: 70
 date_published: '2018-02-15'
 date_modified: '2019-04-01'
