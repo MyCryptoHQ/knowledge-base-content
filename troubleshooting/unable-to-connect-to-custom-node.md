@@ -1,9 +1,12 @@
 ---
 title: Unable to Connect to Custom Node
 description: Networks & Nodes
+tags:
+  - Nodes
+  - Networks
 priority: 10
 date_published: '2017-10-08'
-date_modified: '2020-02-18'
+date_modified: '2020-06-30'
 ---
 
 For instructions on connecting to your own local Ethereum node with MyCrypto, please see [this](/developers/run-your-own-node-with-mycrypto) article.
