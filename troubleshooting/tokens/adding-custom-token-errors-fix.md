@@ -1,9 +1,11 @@
 ---
 title: How to fix accidentally inputting incorrect custom token details
 description: Tokens
+tags:
+  - Tokens
 priority: 90
 date_published: '2017-11-12'
-date_modified: '2020-03-04'
+date_modified: '2020-06-30'
 ---
 
 ## Not a valid ERC-20 token error
