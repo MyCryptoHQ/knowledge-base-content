@@ -1,9 +1,12 @@
 ---
 title: Hardware Wallet Recommendations
 description: Hardware Wallets
+tags:
+  - Safety & Security
+  - Hardware Wallets
 priority: 95
 date_published: '2015-07-15'
-date_modified: '2019-04-01'
+date_modified: '2020-06-30'
 ---
 
 One of the safest and easiest ways to store your ETH, tokens, ETC, BTC, and many other coins is via a **Ledger Nano S** or **TREZOR**. Both are hardware wallets. Both work with MyCrypto.com and the MyCrypto [desktop application](https://download.mycrypto.com/).

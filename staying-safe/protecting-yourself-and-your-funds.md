@@ -1,9 +1,12 @@
 ---
 title: Protecting Yourself and Your Funds
 description: Getting Started
+tags:
+  - Safety & Security
+  - Phishing
 priority: 100
 date_published: '2015-07-15'
-date_modified: '2020-03-23'
+date_modified: '2020-06-30'
 ---
 
 ![Cryptocurrency Security Guide](../assets/staying-safe/protecting-yourself-and-your-funds/cryptocurrenty-security-guide.jpg)

@@ -1,9 +1,12 @@
 ---
 title: Why you should backup your hardware wallet
 description: Hardware Wallets
+tags:
+  - Safety & Security
+  - Backups
 priority: 90
 date_published: '2018-04-18'
-date_modified: '2019-04-01'
+date_modified: '2020-06-30'
 ---
 
 ## Preface

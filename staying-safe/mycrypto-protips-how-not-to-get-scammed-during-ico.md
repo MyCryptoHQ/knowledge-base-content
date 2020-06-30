@@ -1,9 +1,12 @@
 ---
 title: How to avoid getting scammed and phished
 description: Security & Phishing
+tags:
+  - Safety & Security
+  - Phishing
 priority: 85
 date_published: '2017-07-05'
-date_modified: '2019-11-18'
+date_modified: '2020-06-30'
 ---
 
 Below are some tips to reduce the risk of losing your hard-earned coins

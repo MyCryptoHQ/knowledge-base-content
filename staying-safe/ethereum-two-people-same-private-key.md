@@ -1,9 +1,12 @@
 ---
 title: Ensuring MyCrypto Doesn't Give Different People the Same Private Key
 description: Security & Phishing
+tags:
+  - Safety & Security
+  - Private Keys
 priority: 50
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2020-06-30'
 ---
 
 "How does Ethereum ensure that two people aren't given the same key?"

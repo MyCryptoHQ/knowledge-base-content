@@ -1,9 +1,12 @@
 ---
 title: 'Advanced: Creating a Secure Wallet by Tomshwom'
 description: Security & Phishing
+tags:
+  - Safety & Security
+  - Phishing
 priority: 70
 date_published: '2017-07-06'
-date_modified: '2019-11-18'
+date_modified: '2020-06-30'
 ---
 
 ## Preface
