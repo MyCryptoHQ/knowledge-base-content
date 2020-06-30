@@ -1,9 +1,12 @@
 ---
 title: Why does my Private Key open TWO Addresses?
 description: Private Keys & Passwords
+tags:
+  - Private Keys
+  - Addresses
 priority: 60
 date_published: '2017-07-05'
-date_modified: '2020-04-20'
+date_modified: '2020-06-30'
 ---
 
 ## Mismatched Private Key / Address

@@ -1,9 +1,11 @@
 ---
 title: Private Key Not Working
 description: Private Keys & Passwords
+tags:
+  - Private Keys
 priority: 70
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2020-06-30'
 ---
 
 Be sure there is no space at the beginning or end of your private key. We validate based on the number of characters. If you saved another version (for example, the UTC / Keystore file) it may also be worth trying that file as well.
