@@ -1,9 +1,11 @@
 ---
 title: 'Error: ''Not Checksummed'' When Entering Address'
 description: Sending & Receiving
+tags:
+  - Addresses
 priority: 80
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2020-06-30'
 ---
 
 ## What is a checksummed address?

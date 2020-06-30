@@ -1,9 +1,13 @@
 ---
 title: ETH or Tokens sent to or from exchange haven't shown up
 description: Addresses & Balances
+tags:
+  - Transactions
+  - Tokens
+  - Ethereum
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2020-03-02'
+date_modified: '2020-06-30'
 ---
 
 First, check the transaction on [Etherscan](https://etherscan.io/) or [Etherchain](https://www.etherchain.org/), and ensure that there is no red ( ! ) symbol by the transaction.
