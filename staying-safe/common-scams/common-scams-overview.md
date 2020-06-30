@@ -1,14 +1,17 @@
 ---
 title: Overview of Common Scams
 description: Common Scams
+tags:
+  - Safety & Security
+  - Phishing
 priority: 100
 date_published: '2018-03-12'
-date_modified: '2020-05-18'
+date_modified: '2020-06-30'
 ---
 
 This document set is intended to be a compendium of types of scams that can be found in Ethereum and in the wider cryptocurrency ecosystem.
 
-### Why is This Important?
+## Why is This Important?
 
 Security is probably the most important challenge currently facing Ethereum and other blockchains. In 2017, hundreds of millions of dollars worth of ETH, BTC, and LTC was stolen or locked by hackers. This challenge faces every user, exchange, and organization operating in the blockchain ecosystem.
 
@@ -22,7 +25,7 @@ Beyond that, we've also seen computers be compromised with malware, keyloggers, 
 
 We hope that the [Common Scams](/staying-safe/common-scams) articles can help people that are new to information security avoid common scams that are prevalent in today's Ethereum ecosystem.
 
-### High-Level Tips for Security
+## High-Level Tips for Security
 
 * Do not give anyone your private key.
 * Get a hardware wallet and only use it on trusted sites.

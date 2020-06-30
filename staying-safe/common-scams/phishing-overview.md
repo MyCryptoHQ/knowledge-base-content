@@ -1,9 +1,12 @@
 ---
 title: Phishing Scams and Hacks
 description: Common Scams
+tags:
+  - Safety & Security
+  - Phishing
 priority: 80
 date_published: '2018-03-12'
-date_modified: '2020-05-18'
+date_modified: '2020-06-30'
 ---
 
 Phishing is scamming via impersonating individuals, organizations, operations, websites, etc.

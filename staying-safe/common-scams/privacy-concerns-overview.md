@@ -1,9 +1,12 @@
 ---
 title: Privacy Concerns
 description: Common Scams
+tags:
+  - Safety & Security
+  - Phishing
 priority: 60
 date_published: '2018-03-12'
-date_modified: '2020-05-18'
+date_modified: '2020-06-30'
 ---
 
 ## Posting Your Public Keys on Social Media
