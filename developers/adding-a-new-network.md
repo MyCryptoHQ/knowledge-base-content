@@ -1,9 +1,12 @@
 ---
 title: Adding a New Network to MyCrypto
 description: Contributor Info
+tags:
+  - Networks
+  - MyCrypto
 priority: 61
 date_published: '2018-05-29'
-date_modified: '2020-06-10'
+date_modified: '2020-07-01'
 ---
 
 Please see [this](/general-knowledge/about-mycrypto/supported-networks) article for a list of networks that are currently supported by MyCrypto.

@@ -1,9 +1,12 @@
 ---
 title: Securely store & guard your private key by drewshaver
 description: Security & Phishing
+tags:
+  - Safety & Security
+  - Phishing
 priority: 80
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2020-07-01'
 ---
 
 *[Source: /u/drewshaver](https://www.reddit.com/r/CryptoCurrency/comments/6vo0tw/a_guide_for_newbies_on_how_to_properly_and/)*

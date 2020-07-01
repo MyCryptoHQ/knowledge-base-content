@@ -1,9 +1,12 @@
 ---
 title: Risks Involved With Zapper
 description: Risks involved with Zapper
+tags:
+  - Beta
+  - Decentralized Finance
 priority: 40
 date_published: '2020-05-06'
-date_modified: '2020-05-06'
+date_modified: '2020-07-01'
 ---
 
 If you’d like information on how to open and close zaps, please visit our [How To Use Zapper](/how-to/defi/how-to-use-zapper) article.

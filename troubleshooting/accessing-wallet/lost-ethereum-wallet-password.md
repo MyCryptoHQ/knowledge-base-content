@@ -1,9 +1,11 @@
 ---
 title: Lost Password
 description: Private Keys & Passwords
+tags:
+  - Private Keys
 priority: 80
 date_published: '2017-10-08'
-date_modified: '2019-07-05'
+date_modified: '2020-07-01'
 ---
 
 MyCrypto is not a "web wallet." You do not create an account or give us your crypto or tokens to hold on to. MyCrypto is simply an interface that allows you to easily interact with cryptocurrency.

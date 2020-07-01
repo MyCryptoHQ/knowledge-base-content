@@ -1,9 +1,11 @@
 ---
 title: '[MyCrypto ➡ Geth] Access Your MyCrypto Account in Geth'
 description: Migrating to/from MyCrypto
+tags:
+  - Private Keys
 priority: 50
 date_published: '2015-07-15'
-date_modified: '2019-07-19'
+date_modified: '2020-07-01'
 ---
 
 Geth files are typically found in the file locations below.

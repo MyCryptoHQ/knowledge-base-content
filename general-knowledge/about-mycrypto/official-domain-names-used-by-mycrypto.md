@@ -1,9 +1,11 @@
 ---
 title: Official Domain Names Used By MyCrypto
 description: Domains owned by MyCrypto
+tags:
+  - MyCrypto
 priority: 40
 date_published: '2019-02-27'
-date_modified: '2019-05-08'
+date_modified: '2020-07-01'
 ---
 
 MyCrypto uses several domains to run the service. Each domain serves a specific purpose, such as; running the interface, running the support center, running a public staging area, running RPC nodes.

@@ -1,9 +1,11 @@
 ---
 title: Using a Ledger with an Android device
 description: Hardware Wallets
+tags:
+  - Ledger
 priority: 80
 date_published: '2015-12-29'
-date_modified: '2019-04-01'
+date_modified: '2020-07-01'
 ---
 
 ## Requirements

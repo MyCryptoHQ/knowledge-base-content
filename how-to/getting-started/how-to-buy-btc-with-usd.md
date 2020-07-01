@@ -1,9 +1,11 @@
 ---
 title: How to Buy Bitcoin (BTC) with USD
 description: FAQ
+tags:
+  - Tokens
 priority: 110
 date_published: '2020-03-30'
-date_modified: '2020-03-30'
+date_modified: '2020-07-01'
 ---
 
 Bitcoin is one of the most popular cryptocurrencies, and is considered to be the first decentralized cryptocurrency to have been created back in 2009. It pioneered the concept of a blockchain, of which many other applications and cryptocurrencies have been created.

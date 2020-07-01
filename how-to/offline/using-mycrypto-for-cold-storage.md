@@ -1,9 +1,12 @@
 ---
 title: Using MyCrypto For Cold Storage
 description: Offline
+tags:
+  - Offline
+  - Private Keys
 priority: 80
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2020-07-01'
 ---
 
 ## Preface

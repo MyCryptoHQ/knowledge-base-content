@@ -1,9 +1,11 @@
 ---
 title: Adding Your Token as a Default Token
 description: Contributor Info
+tags:
+  - Tokens
 priority: 60
 date_published: '2017-10-08'
-date_modified: '2018-12-19'
+date_modified: '2020-07-01'
 ---
 
 [If you are experimenting with tokens, you can add a token to your local version of MyCrypto.](/how-to/tokens/showing-and-loading-tokens)

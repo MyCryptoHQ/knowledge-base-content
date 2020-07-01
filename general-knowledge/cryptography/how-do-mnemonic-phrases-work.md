@@ -1,9 +1,12 @@
 ---
 title: How do (encrypted) mnemonic phrases work?
 description: Private Keys & Passwords
+tags:
+  - Safety & Security
+  - Private Keys
 priority: 40
 date_published: '2018-06-20'
-date_modified: '2018-12-19'
+date_modified: '2020-07-01'
 ---
 
 A **mnemonic phrase** or **mnemonic seed** is a set of typically either 12 or 24 words, which can be used to derive an infinite number of wallets. Often times these phrases are used by cryptocurrency hardware wallets, to be written down on a piece of paper by the user to safely back up the users' funds.

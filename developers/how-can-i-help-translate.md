@@ -1,9 +1,11 @@
 ---
 title: How can I help with translations?
 description: Contributor Info
+tags:
+  - MyCrypto
 priority: 64
 date_published: '2018-05-24'
-date_modified: '2018-11-28'
+date_modified: '2020-07-01'
 ---
 
 ## Providing Translations

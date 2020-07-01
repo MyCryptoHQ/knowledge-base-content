@@ -1,9 +1,11 @@
 ---
 title: Is the Blockchain Private?
 description: Diving Deeper
+tags:
+  - Ethereum
 priority: 30
 date_published: '2018-04-30'
-date_modified: '2019-03-30'
+date_modified: '2020-07-01'
 ---
 
 > Picture a spreadsheet that is duplicated thousands of times across a network of computers. Then imagine that this network is designed to regularly update this spreadsheet and you have a basic understanding of the blockchain.

@@ -1,9 +1,11 @@
 ---
 title: Is the 'View & Send' Page Offline?
 description: Offline
+tags:
+  - Offline
 priority: 90
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2020-07-01'
 ---
 
 No, it needs the internet in order to get the current gas price, nonce of your account, and broadcast the transaction (aka "send"). However, it only sends the signed transaction. Your private key stays safely with you.

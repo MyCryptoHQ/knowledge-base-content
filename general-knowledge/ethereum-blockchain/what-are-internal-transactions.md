@@ -1,9 +1,11 @@
 ---
 title: What Are Internal Transactions?
 description: Transactions
+tags:
+  - Transactions
 priority: 70
 date_published: '2018-02-06'
-date_modified: '2019-03-30'
+date_modified: '2020-07-01'
 ---
 
 Internal transactions, despite the name (which isn't part of the yellow paper but is a convention people have settled on), are not actual transactions. They are also not included directly in the blockchain; they are value transfers that were initiated by executing a smart contract (smart contract Ether or token transfer).

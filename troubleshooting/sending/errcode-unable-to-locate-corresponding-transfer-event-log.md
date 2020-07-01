@@ -1,9 +1,11 @@
 ---
 title: 'Error: Unable to Locate Corresponding Transfer Event Log'
 description: Tokens
+tags:
+  - Transactions
 priority: 30
 date_published: '2018-01-25'
-date_modified: '2020-03-04'
+date_modified: '2020-07-01'
 ---
 
 This error appears on [Etherscan](https://etherscan.io) when a sender tries to transfer out more tokens than they have.

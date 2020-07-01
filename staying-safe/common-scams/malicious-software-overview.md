@@ -1,9 +1,12 @@
 ---
 title: Malicious Software
 description: Common Scams
+tags:
+  - Safety & Security
+  - Phishing
 priority: 70
 date_published: '2018-03-12'
-date_modified: '2020-05-18'
+date_modified: '2020-07-01'
 ---
 
 Malicious software is anything that changes the functionality of your computer for the purpose of making someone else profit in some way. Malicious software can come in many forms, from [Keyloggers](https://en.wikipedia.org/wiki/Keystroke_logging) to [Clipboard Hijackers](http://whatis.techtarget.com/definition/clipboard-hijack-attack) to [RATs](https://en.wikipedia.org/wiki/Remote_access_trojan) and [Trojans](https://en.wikipedia.org/wiki/Trojan_horse_(computing)).
