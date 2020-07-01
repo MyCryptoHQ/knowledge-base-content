@@ -1,6 +1,6 @@
 ---
 title: Archos Safe-T Mini User Guide
-description: 'Archos Safe-T Mini,'
+description: Archos Safe-T Mini
 tags:
   - Archos
 priority: 80
