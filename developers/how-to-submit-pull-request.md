@@ -1,10 +1,11 @@
 ---
 title: How to Submit a Pull Request
 description: Contributor Info
-tags: [MyCrypto]
+tags:
+  - MyCrypto
 priority: 65
 date_published: '2017-11-16'
-date_modified: '2019-11-04'
+date_modified: '2020-07-01'
 ---
 
 1. Navigate to the file you would like to modify. If you want to make edits to an article on the knowledge base, you can click "Improve this article" which is at the bottom of each article.

@@ -1,10 +1,11 @@
 ---
 title: How To Send A Transaction
 description: Sending & Receiving
-tags: [Transactions]
+tags:
+  - Transactions
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2019-07-19'
+date_modified: '2020-07-01'
 ---
 
 If you plan to move a large amount of Ether or tokens, you should first send a test transaction of a small amount to the destination wallet to ensure everything goes as planned.

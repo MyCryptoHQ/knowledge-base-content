@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 100
 date_published: '2018-03-12'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 This document set is intended to be a compendium of types of scams that can be found in Ethereum and in the wider cryptocurrency ecosystem.

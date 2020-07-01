@@ -1,10 +1,13 @@
 ---
 title: 'More Help, Support, and Communities'
-description: Links to various help and support pages of different projects in the crypto space
-tags: [Ethereum]
+description: >-
+  Links to various help and support pages of different projects in the crypto
+  space
+tags:
+  - Ethereum
 priority: 50
 date_published: '2018-06-21'
-date_modified: '2019-07-08'
+date_modified: '2020-07-01'
 ---
 
 ## General Questions and Ethereum

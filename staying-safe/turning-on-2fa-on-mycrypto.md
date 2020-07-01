@@ -6,7 +6,7 @@ tags:
   - MyCrypto
 priority: 60
 date_published: '2017-07-05'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 No. And if you landed on a site telling you that you could, they are lying to you and trying to steal your private keys.

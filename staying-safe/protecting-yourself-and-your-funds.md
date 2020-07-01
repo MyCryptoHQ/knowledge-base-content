@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 100
 date_published: '2015-07-15'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 ![Cryptocurrency Security Guide](../assets/staying-safe/protecting-yourself-and-your-funds/cryptocurrenty-security-guide.jpg)

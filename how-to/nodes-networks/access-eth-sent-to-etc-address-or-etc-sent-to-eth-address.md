@@ -1,10 +1,12 @@
 ---
 title: Access ETH sent to ETC address or ETC sent to ETH address
 description: Networks & Nodes
-tags: [Ethereum, Tokens]
+tags:
+  - Ethereum
+  - Tokens
 priority: 2
 date_published: '2017-12-23'
-date_modified: '2019-07-19'
+date_modified: '2020-07-01'
 ---
 
 In order to see your ETC and interact with the ETC chain, you must first be on an ETC node.

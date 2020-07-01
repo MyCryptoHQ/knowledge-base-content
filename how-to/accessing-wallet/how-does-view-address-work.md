@@ -1,10 +1,12 @@
 ---
-title: 'How does View Address work?'
+title: How does View Address work?
 description: Accessing your Wallet
-tags: [Addresses, Private Keys]
+tags:
+  - Addresses
+  - Private Keys
 priority: 110
 date_published: '2020-04-07'
-date_modified: '2020-04-07'
+date_modified: '2020-07-01'
 ---
 
 MyCrypto is a client-side application, which means that we never store your funds. Every address you access and transaction you generate is being done locally; nothing is actually sent to us. Your Ethereum address is public on the Ethereum blockchain, and everyone can see your balance and transactions you've made on the blockchain by using a tool such as Etherscan.

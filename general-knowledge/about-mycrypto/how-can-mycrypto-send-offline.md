@@ -1,10 +1,12 @@
 ---
 title: How can MyCrypto send offline?
 description: Offline
-tags: [Offline, MyCrypto]
+tags:
+  - Offline
+  - MyCrypto
 priority: 60
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2020-07-01'
 ---
 
 One of the important things that you need to understand is that every address already "exists". When you "create a wallet" you are not actually doing anything on the blockchain or communicating with the blockchain in any way.

@@ -1,10 +1,12 @@
 ---
 title: Learn More About MyCrypto and How to Get Started
 description: ''
-tags: [MyCrypto, Safety & Security]
+tags:
+  - MyCrypto
+  - Safety & Security
 priority: 100
 date_published: '2015-10-05'
-date_modified: '2020-04-06'
+date_modified: '2020-07-01'
 ---
 
 * Please take some time to understand this for your own security.

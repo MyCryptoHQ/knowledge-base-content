@@ -6,7 +6,7 @@ tags:
   - Gas
 priority: 50
 date_published: '2017-07-05'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 > "Why didn't I get my transaction fee (TX Fee) back, even though my transaction failed?"*

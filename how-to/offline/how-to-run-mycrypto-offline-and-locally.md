@@ -1,10 +1,11 @@
 ---
 title: How To Run MyCrypto Offline and Locally
 description: Offline
-tags: [Offline]
+tags:
+  - Offline
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2019-11-18'
+date_modified: '2020-07-01'
 ---
 
 For increased security, you can run MyCrypto locally on your computer with our desktop application. The computer should have no internet connection. You can generate a wallet completely offline and send transactions from the "View & Send" page.

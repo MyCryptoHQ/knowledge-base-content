@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 70
 date_published: '2017-07-06'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 ## Preface

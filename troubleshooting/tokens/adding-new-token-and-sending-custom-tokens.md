@@ -5,7 +5,7 @@ tags:
   - Tokens
 priority: 100
 date_published: '2017-01-25'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 If you can't see a token when you access your wallet on MyCrypto, you simply just need to add it to your interface in order to see it and then send it in a transaction.

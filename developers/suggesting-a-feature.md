@@ -1,10 +1,11 @@
 ---
 title: How to suggest a feature
 description: Contributor Info
-tags: [MyCrypto]
+tags:
+  - MyCrypto
 priority: 66
 date_published: '2017-11-16'
-date_modified: '2018-06-11'
+date_modified: '2020-07-01'
 ---
 
 If there's a feature that you think would make MyCrypto a better product, we

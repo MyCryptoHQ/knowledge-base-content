@@ -6,7 +6,7 @@ tags:
   - Gas
 priority: 90
 date_published: '2017-07-05'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 If you are getting the error, `"WARNING: Your ether or token balance isn't high enough to complete this transaction. Please send more funds or switch to a different wallet."`, it means you do not have enough **ETH** in your account to cover the cost of gas.

@@ -6,7 +6,7 @@ tags:
   - Gas
 priority: 60
 date_published: '2017-07-05'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 Each transaction (TX) on the Ethereum blockchain (including token and contract transactions) requires gas, which is paid in Ether. You can think of this as a transaction fee. The more computational effort a transaction takes, the more gas you need.

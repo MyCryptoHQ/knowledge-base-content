@@ -1,10 +1,11 @@
 ---
 title: '[Mist ➡ MyCrypto] Access Your Mist Wallet With MyCrypto'
 description: Migrating to/from MyCrypto
-tags: [Private Keys]
+tags:
+  - Private Keys
 priority: 50
 date_published: '2019-05-15'
-date_modified: '2019-05-15'
+date_modified: '2020-07-01'
 ---
 
 Recently, it was announced that the Mist Browser and Ethereum Wallet [will not be developed/supported further](https://medium.com/@avsa/sunsetting-mist-da21c8e943d2).

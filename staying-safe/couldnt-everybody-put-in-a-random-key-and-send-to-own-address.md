@@ -8,7 +8,7 @@ tags:
   - Phishing
 priority: 45
 date_published: '2017-06-20'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 ## Short Version

@@ -5,7 +5,7 @@ tags:
   - Trezor
 priority: 30
 date_published: '2019-03-29'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 Sometimes your Trezor hardware wallet won't connect to MyCrypto. Here are some troubleshooting tips to try:

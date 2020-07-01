@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 65
 date_published: '2018-04-30'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 ## Domain verification

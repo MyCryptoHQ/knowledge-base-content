@@ -1,10 +1,12 @@
 ---
 title: On Keypairs & Encryption
 description: Best Of
-tags: [Ethereum, Safety & Security]
+tags:
+  - Ethereum
+  - Safety & Security
 priority: 4
 date_published: '2017-07-05'
-date_modified: '2019-07-08'
+date_modified: '2020-07-01'
 ---
 
 The Ledger (and other hardware wallets) are essentially USB sticks but with really really really really really really hardcore software / firmware / hardware that makes it so your key cannot be accessed or moved, even if your computer is compromised. With a regular USB drive, 1337 h4x0r can pull crazy maneuvers to get the info from it via hardware alone, watching the read / writes, or simply searching for your private key, mnemonic, or keystore file on the USB drive. Ledger / TREZOR are dedicated devices built to prevent all these types of attacks.

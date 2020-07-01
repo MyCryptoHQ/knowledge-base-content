@@ -5,7 +5,7 @@ tags:
   - Private Keys
 priority: 90
 date_published: '2017-10-08'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 MyCrypto is not a "web wallet." You do not create an account or give us your crypto or tokens to hold on to. We are simply an interface that allows you to easily interact with cryptocurrencies.

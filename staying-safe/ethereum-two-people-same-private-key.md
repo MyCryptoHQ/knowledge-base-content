@@ -6,7 +6,7 @@ tags:
   - Private Keys
 priority: 50
 date_published: '2017-07-05'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 "How does Ethereum ensure that two people aren't given the same key?"

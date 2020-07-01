@@ -5,7 +5,7 @@ tags:
   - Ethereum
 priority: 70
 date_published: '2017-06-20'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 This is most likely due to the fact that either you are behind a firewall, you have refreshed the page a bunch of times and hit your hourly API limit, or our nodes are under extreme strain and are refusing to return your balance information.

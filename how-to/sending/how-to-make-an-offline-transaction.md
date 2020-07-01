@@ -1,10 +1,12 @@
 ---
 title: How to make an offline transaction
 description: Offline
-tags: [Offline, Transactions]
+tags:
+  - Offline
+  - Transactions
 priority: 90
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2020-07-01'
 ---
 
 If you are [using MyCrypto offline and locally](/how-to/offline/how-to-run-mycrypto-offline-and-locally), it is not possible to send transactions from the offline computer. An internet connection is required to send or broadcast a transaction. To do this, you should use a **second** computer that does have an internet connection. This comes with the advantage that your private key never leaves the offline computer and malware won't be able to steal your private key.

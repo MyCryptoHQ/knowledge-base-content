@@ -1,10 +1,12 @@
 ---
 title: Do you have a minimum requirement to transfer out of MyCrypto?
 description: Gas & Transaction Fees
-tags: [Transactions, Gas]
+tags:
+  - Transactions
+  - Gas
 priority: 50
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2020-07-01'
 ---
 
 "I can't withdraw them from your site because it is less than the minimum required to transfer?"

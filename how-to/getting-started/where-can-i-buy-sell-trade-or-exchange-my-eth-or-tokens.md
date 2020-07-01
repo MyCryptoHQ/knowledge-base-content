@@ -1,10 +1,13 @@
 ---
 title: Where Can I Buy / Sell / Trade / Exchange my ETH or Tokens?
 description: FAQ
-tags: [Exchanges, Ethereum, Tokens]
+tags:
+  - Exchanges
+  - Ethereum
+  - Tokens
 priority: 50
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2020-07-01'
 ---
 
 Here is a list of reputable services you can use to buy and sell ETH / Tokens / fiat (USD, EUR, etc.). There are many, many more out there but these are the ones we are familar with.

@@ -1,10 +1,11 @@
 ---
 title: What is nonce?
 description: Transactions
-tags: [Transactions]
+tags:
+  - Transactions
 priority: 90
 date_published: '2017-07-05'
-date_modified: '2019-03-30'
+date_modified: '2020-07-01'
 ---
 
 In Ethereum, every transaction has a nonce. The nonce is the number of transactions sent from a given address.

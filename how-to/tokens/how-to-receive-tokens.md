@@ -1,10 +1,12 @@
 ---
 title: How To Receive Tokens
 description: Tokens
-tags: [Tokens, Transactions]
+tags:
+  - Tokens
+  - Transactions
 priority: 90
 date_published: '2017-12-23'
-date_modified: '2019-07-19'
+date_modified: '2020-07-01'
 ---
 
 ## How to receive ERC-20 tokens

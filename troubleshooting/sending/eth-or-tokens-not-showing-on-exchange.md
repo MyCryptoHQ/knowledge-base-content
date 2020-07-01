@@ -7,7 +7,7 @@ tags:
   - Ethereum
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 First, check the transaction on [Etherscan](https://etherscan.io/) or [Etherchain](https://www.etherchain.org/), and ensure that there is no red ( ! ) symbol by the transaction.

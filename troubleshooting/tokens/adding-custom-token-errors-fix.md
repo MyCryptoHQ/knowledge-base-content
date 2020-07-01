@@ -5,7 +5,7 @@ tags:
   - Tokens
 priority: 90
 date_published: '2017-11-12'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 ## Not a valid ERC-20 token error

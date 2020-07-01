@@ -1,10 +1,12 @@
 ---
 title: How To Use Zapper
 description: How to use Zapper with MyCrypto
-tags: [Beta, Decentralized Finance]
+tags:
+  - Beta
+  - Decentralized Finance
 priority: 50
 date_published: '2020-05-06'
-date_modified: '2020-05-06'
+date_modified: '2020-07-01'
 ---
 
 For more information, including the risks involved with Zapper, important terms, and an FAQ, read [the Risks Involved With Zapper](/how-to/defi/risks-involved-with-zapper).

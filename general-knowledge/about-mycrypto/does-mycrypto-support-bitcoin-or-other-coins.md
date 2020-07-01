@@ -1,10 +1,12 @@
 ---
 title: 'Does MyCrypto support Bitcoin or other coins (LTC, STEEM, ZEC)?'
 description: FAQ
-tags: [Tokens, MyCrypto]
+tags:
+  - Tokens
+  - MyCrypto
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2019-04-01'
+date_modified: '2020-07-01'
 ---
 
 MyCrypto supports `ETH`, `ETC`, all testnet networks (Ropsten, Kovan, Rinkeby), any other Ethereum-based network (`UBQ`, `EXP`, `POA` etc.) and any Ethereum Standard Tokens - aka "ERC-20" tokens.

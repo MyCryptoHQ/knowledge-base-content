@@ -1,10 +1,12 @@
 ---
 title: '[Coinbase ➡ MyCrypto] Moving from Coinbase to MyCrypto'
 description: Migrating to/from MyCrypto
-tags: [Private Keys, Exchanges]
+tags:
+  - Private Keys
+  - Exchanges
 priority: 75
 date_published: '2015-07-15'
-date_modified: '2020-03-07'
+date_modified: '2020-07-01'
 ---
 
 > How do I move from Coinbase to MyCrypto? [Exchange/Hosted Wallet -> MyCrypto]

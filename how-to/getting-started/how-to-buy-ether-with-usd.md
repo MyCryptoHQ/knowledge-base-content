@@ -1,10 +1,12 @@
 ---
 title: How to Buy Ether (ETH)
 description: FAQ
-tags: [Ethereum, Tokens]
+tags:
+  - Ethereum
+  - Tokens
 priority: 60
 date_published: '2017-06-20'
-date_modified: '2020-06-08'
+date_modified: '2020-07-01'
 ---
 
 Hello and welcome to Ethereum! Ethereum and digital currencies are pretty new and in this new financial world, things can be a little bit different. This article gives an overview of what ETH is, where and how you can buy ETH with USD, some important info on how to store it, and how to be secure. We tried to keep it as short as possible so please take the time to read through the article. Don't hesitate to contact us directly if you have any questions or concerns, we are here to help! 

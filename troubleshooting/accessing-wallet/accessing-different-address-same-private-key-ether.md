@@ -6,7 +6,7 @@ tags:
   - Addresses
 priority: 60
 date_published: '2017-07-05'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 ## Mismatched Private Key / Address

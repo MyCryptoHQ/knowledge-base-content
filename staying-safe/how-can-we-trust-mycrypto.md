@@ -8,7 +8,7 @@ tags:
   - MyCrypto
 priority: 80
 date_published: '2017-11-23'
-date_modified: '2020-06-30'
+date_modified: '2020-07-01'
 ---
 
 **The quickest answer is: Luckily, you don't have to trust us!**

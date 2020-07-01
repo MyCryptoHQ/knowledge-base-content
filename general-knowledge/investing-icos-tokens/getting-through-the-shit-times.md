@@ -1,10 +1,11 @@
 ---
 title: Getting through the shit times
 description: Best Of
-tags: [Safety & Security]
+tags:
+  - Safety & Security
 priority: 60
 date_published: '2017-11-27'
-date_modified: '2019-04-01'
+date_modified: '2020-07-01'
 ---
 
 ## Sometimes, crypto really, really, really sucks
