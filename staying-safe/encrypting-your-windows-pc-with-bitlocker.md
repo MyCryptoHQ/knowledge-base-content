@@ -1,9 +1,11 @@
 ---
 title: Encrypting Your Windows PC with BitLocker
 description: Security & Phishing
+tags:
+  - Safety & Security
 priority: 75
 date_published: '2019-11-03'
-date_modified: '2019-11-03'
+date_modified: '2020-07-01'
 ---
 
 You must have Windows 10 Pro or Windows 10 Enterprise to access BitLocker.

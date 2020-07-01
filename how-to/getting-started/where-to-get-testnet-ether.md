@@ -1,9 +1,11 @@
 ---
 title: Where to Get Testnet Ether?
 description: FAQ
+tags:
+  - Ethereum
 priority: 40
 date_published: '2018-07-02'
-date_modified: '2020-03-05'
+date_modified: '2020-07-01'
 ---
 
 There are currently 4 different testnets for the Ethereum public chain:

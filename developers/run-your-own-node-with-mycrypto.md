@@ -1,9 +1,13 @@
 ---
 title: Running MyCrypto With Your Own Personal Node
 description: Networks & Nodes
+tags:
+  - Networks
+  - Nodes
+  - MyCrypto
 priority: 8
 date_published: '2017-07-05'
-date_modified: '2019-11-18'
+date_modified: '2020-07-01'
 ---
 
 You can use MyCrypto to connect to your own node, which decouples the frontend and features that you love about MyCrypto from our backend infrastructure. This means more nodes send more transactions and is closer to the decentralized nature of Ethereum. It also means that you fully control the entire process and don't rely on us.

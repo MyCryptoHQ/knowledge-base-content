@@ -203,8 +203,6 @@ redirects:
     to: staying-safe/how-to-stay-safe
   - from: best-of/trading-advice-what-to-do-when-you-lose-it-all-trading-margin.html
     to: general-knowledge/investing-icos-tokens/margin-trading-what-to-do-when-you-lose-it-all
-  - from: best-of/unsolicited-advice-for-those-holding-token-sales.html
-    to: general-knowledge/investing-icos-tokens/unsolicited-advice-for-those-holding-token-sales
   - from: best-of/how-not-to-miss-out-on-ico.html
     to: general-knowledge/investing-icos-tokens/best-ways-to-avoid-missing-out-on-that-ico
   - from: best-of/investing-responsibly-by-brian-armstrong-coinbase.html
@@ -219,8 +217,6 @@ redirects:
     to: general-knowledge/investing-icos-tokens/getting-through-the-shit-times
   - from: tokens/do-i-need-several-wallets-for-every-token-sale.html
     to: general-knowledge/investing-icos-tokens/do-i-need-multiple-addresses-for-every-token-sale
-  - from: getting-started/mycrypto-help-and-quicktips.html
-    to: general-knowledge/about-mycrypto/mycryptos-quicktips
   - from: getting-started/whats-the-difference-between-an-exchange-and-mycrypto.html
     to: general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto
   - from: gas/i-cant-withdraw-them-from-your-site-less-than-minimum.html
@@ -229,8 +225,6 @@ redirects:
     to: general-knowledge/about-mycrypto/does-mycrypto-support-bitcoin-or-other-coins
   - from: best-of/keypairs-cryptography-encryption.html
     to: general-knowledge/cryptography/on-keypairs-and-encryption
-  - from: best-of/ethereum-encryption-bkp-presale-files.html
-    to: general-knowledge/cryptography/on-components-of-the-ethereum-pre-sale-file-and-encryption
   - from: best-of/how-mycrypto-gets-entropy-when-generating-wallets.html
     to: general-knowledge/cryptography/ethereum-account-generation-and-how-mycrypto-gets-entropy
   - from: private-keys-passwords/how-do-mnemonic-phrases-work.html
@@ -247,12 +241,8 @@ redirects:
     to: general-knowledge/ethereum-blockchain/what-is-gas
   - from: private-keys-passwords/difference-beween-private-key-and-keystore-file.html
     to: general-knowledge/ethereum-blockchain/difference-between-wallet-types
-  - from: getting-started/getting-back-to-basics-tips-for-newbies.html
-    to: general-knowledge/ethereum-blockchain/getting-back-to-the-basics-ten-tips-for-newbies
   - from: diving-deeper/is-the-blockchain-private.html
     to: general-knowledge/ethereum-blockchain/is-the-blockchain-private
-  - from: diving-deeper/links-you-should-read-next.html
-    to: general-knowledge/ethereum-blockchain/links-you-should-read-next
   - from: addresses/my-ethereum-address-has-uppercase-and-lowercase-letters.html
     to: general-knowledge/ethereum-blockchain/ethereum-address-has-uppercase-and-lowercase-letters
   - from: addresses/creating-new-accounts-for-eth-and-tokens.html

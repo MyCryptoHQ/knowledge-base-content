@@ -1,9 +1,11 @@
 ---
-title: 'Why do I get a message saying "Window Blocked" when confirming my transaction?'
+title: Why do I get a message saying "Window Blocked" when confirming my transaction?
 description: Hardware Wallets
+tags:
+  - Trezor
 priority: 100
 date_published: '2015-07-15'
-date_modified: '2019-07-26'
+date_modified: '2020-07-01'
 ---
 
 > I keep getting a message saying "Window Blocked" before confirming my transaction.

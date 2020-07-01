@@ -1,9 +1,12 @@
 ---
-title: 'Multiple Addresses Showing on Hardware Wallet'
+title: Multiple Addresses Showing on Hardware Wallet
 description: Hardware Wallets
+tags:
+  - Addresses
+  - Hardare Wallets
 priority: 25
 date_published: '2015-07-15'
-date_modified: '2018-11-29'
+date_modified: '2020-07-01'
 ---
 
 > Multiple addresses show up when I access my hardware wallet ... which one should I use?

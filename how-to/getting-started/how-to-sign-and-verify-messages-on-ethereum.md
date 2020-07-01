@@ -1,9 +1,12 @@
 ---
 title: How to sign & verify messages on Ethereum
 description: Addresses & Balances
+tags:
+  - Accounts
+  - Ethereum
 priority: 70
 date_published: '2018-04-18'
-date_modified: '2020-03-04'
+date_modified: '2020-07-01'
 ---
 
 With Ethereum, signatures are a way of providing evidence that a specific user has access to a specific address.

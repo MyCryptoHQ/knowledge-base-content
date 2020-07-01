@@ -1,9 +1,11 @@
 ---
 title: How Can I Help Contribute Code?
 description: Contributor Info
+tags:
+  - MyCrypto
 priority: 63
 date_published: '2017-10-08'
-date_modified: '2018-11-29'
+date_modified: '2020-07-01'
 ---
 
 If you're a developer looking to pitch in, you're more than welcome to help out. Here are some suggestions for diving in:

@@ -1,9 +1,12 @@
 ---
 title: What is WalletConnect?
 description: Getting Started
+tags:
+  - Beta
+  - WalletConnect
 priority: 120
 date_published: '2020-03-16'
-date_modified: '2020-03-17'
+date_modified: '2020-07-01'
 ---
 
 WalletConnect is an open protocol made to facilitate a secure connection between mobile cryptocurrency wallets and desktop applications, such as dapps. Transactions are made through an encrypted connection by scanning a QR code, and are confirmed on the mobile device. As the private key never leaves the user’s device, their funds are never at risk and the possibility of a hijack is very low. 

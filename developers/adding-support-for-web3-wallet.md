@@ -1,9 +1,11 @@
 ---
 title: Adding Support for a Web3 Wallet
 description: Contributor Info
+tags:
+  - MyCrypto
 priority: 62
 date_published: '2018-05-29'
-date_modified: '2019-11-18'
+date_modified: '2020-07-01'
 ---
 
 ## Identifying Your Provider

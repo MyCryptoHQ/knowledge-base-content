@@ -1,9 +1,11 @@
 ---
 title: Archos Safe-T Mini User Guide
 description: Archos Safe-T Mini
+tags:
+  - Archos
 priority: 80
 date_published: '2018-07-25'
-date_modified: '2020-04-06'
+date_modified: '2020-07-01'
 ---
 
 Below is a guide on how to use the Archos Safe-T Mini Hardware Wallet with MyCrypto. We strongly recommend getting a hardware wallet to store your Ether and / or ERC-20 tokens. Please note that this guide assumes that your device is already configured. If not, please visit the [Archos Safe-T Mini FAQ Section](https://www.archos.com/gb/products/crypto/faq.html) for more information and to view a video on how to "Configure your Safe-T Mini."

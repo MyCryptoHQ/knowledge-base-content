@@ -1,9 +1,11 @@
 ---
 title: Best Ways to Avoid Missing out on That ICO
 description: Best Of
+tags:
+  - Tokens
 priority: 90
 date_published: '2017-07-05'
-date_modified: '2019-07-08'
+date_modified: '2020-07-01'
 ---
 
 This is part of a series where Taylor pull's sweet comments she's made or found over the years in the hope that they can be useful, searchable, remembered, referenced, and/or aid in the creation of future Knowledge Base posts. Many are unpolished and contain specific references to previous discussions or users.

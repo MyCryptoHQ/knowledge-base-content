@@ -1,9 +1,12 @@
 ---
 title: 'Transaction Failed: TX Fee not Refunded'
 description: Transactions
+tags:
+  - Transactions
+  - Gas
 priority: 50
 date_published: '2017-07-05'
-date_modified: '2019-04-01'
+date_modified: '2020-07-01'
 ---
 
 > "Why didn't I get my transaction fee (TX Fee) back, even though my transaction failed?"*
