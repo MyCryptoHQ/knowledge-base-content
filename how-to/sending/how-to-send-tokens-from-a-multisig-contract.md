@@ -31,4 +31,4 @@ If you have tokens in a Mist multisig contract, sending them from the contract i
 
 <TokenInputData />
 
-Now, you can follow the steps as described in [this article](http://localhost:8000/how-to/sending/how-to-interact-with-a-multisig-contract/), starting from 2.6.
+Now, you can follow the steps as described in [this article](/how-to/sending/how-to-interact-with-a-multisig-contract), starting from 2.6.
