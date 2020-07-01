@@ -47,7 +47,7 @@ NOTE: If you choose to store your ETH on exchanges, it also means that if the ex
 
 * [Understand the difference between a hosted wallet / exchange and client-side wallet before moving your ETH to your own wallet.](/general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto)
 * [Learn how to protect your funds!](/staying-safe/protecting-yourself-and-your-funds)
-* [10 Tips for Noobs](/general-knowledge/ethereum-blockchain/getting-back-to-the-basics-ten-tips-for-newbies) & [Words are Hard](/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space) are both great intros.
+* [Words are Hard](/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space) is a great intro.
 
 ## Detailed steps on buying ETH on Coinbase
 
@@ -77,7 +77,7 @@ If you already have BTC (Bitcoin), you can use ShapeShift.io or Changelly to con
 
 Then, create an Ethereum account and back it up. From where you have stored your BTC, send it to the BTC address provided by ShapeShift/Changelly. The ETH will appear in your ETH wallet in approximately 20 minutes.
 
-**PLEASE MAKE SURE YOU BACK IT UP**
+**Please make sure you back it up!**
 
 * [MyCrypto.com](https://mycrypto.com/)
 * [Beta MyCrypto](https://beta.mycrypto.com/)
@@ -87,6 +87,5 @@ Then, create an Ethereum account and back it up. From where you have stored your
 
 ## Related Articles
 
-[How to Stay Safe](https://support.mycrypto.com/staying-safe)
-[MyCrypto Quick Tips](https://support.mycrypto.com/general-knowledge/about-mycrypto/mycryptos-quicktips)
-[Glossary of Common Terms](https://support.mycrypto.com/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space)
+* [How to Stay Safe](/staying-safe)
+* [Glossary of Common Terms](/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space)
