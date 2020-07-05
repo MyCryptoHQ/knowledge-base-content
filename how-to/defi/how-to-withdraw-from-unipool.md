@@ -13,7 +13,6 @@ The Zapper integration in MyCrypto makes it easy to get started with various DeF
 
 ![Supported Zaps](../../assets/how-to/defi/how-to-withdraw-from-unipool/unipool-zaps.png)
 
-
 First of all, go to the Uniswap website at [app.uniswap.org](https://app.uniswap.org/#/swap). Then click the "Connect to a wallet" button in the top right-hand corner.
 
 !['Connect to a wallet' button](../../assets/how-to/defi/how-to-withdraw-from-unipool/connect-to-a-wallet-button.png)
