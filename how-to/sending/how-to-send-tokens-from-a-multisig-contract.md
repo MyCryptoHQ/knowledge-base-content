@@ -4,7 +4,7 @@ tags:
   - Tokens
 priority: 90
 date_published: '2020-06-26'
-date_modified: '2020-06-26'
+date_modified: '2020-08-01'
 ---
 
 <Alert>
@@ -31,4 +31,4 @@ If you have tokens in a Mist multisig contract, sending them from the contract i
 
 <TokenInputData />
 
-Now, you can follow the steps as described in [this article](/how-to/sending/how-to-interact-with-a-multisig-contract), starting from 2.6.
+Now, you can follow the steps as described in [this article](/how-to/sending/how-to-interact-with-a-multisig-contract), starting from the 7th step under "Sending a Transaction".
