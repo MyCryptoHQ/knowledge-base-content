@@ -37,7 +37,6 @@ For example, you might have set it up to have three owners, and a required amoun
 
 ![Daily limit amount](../../assets/how-to/sending/how-to-interact-with-a-multisig-contract/read-dailylimit.png)
 
-
 ## Sending a transaction
 
 1. Select `execute` from the dropdown.
