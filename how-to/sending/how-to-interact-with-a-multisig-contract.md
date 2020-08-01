@@ -6,7 +6,7 @@ tags:
   - Transactions
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2020-07-30'
+date_modified: '2020-08-01'
 ---
 
 Since the [deprecation of Mist](https://medium.com/@avsa/sunsetting-mist-da21c8e943d2) in 2019, many people with funds in their Mist multisig contracts were seemingly left stranded, as Mist was the only maintained application that supported sending from these multisig contracts.
@@ -24,9 +24,7 @@ For example, you might have set it up to have three owners, and a required amoun
 ## Accessing the multisig
 
 1. Go to the [contract tab on MyCrypto](https://mycrypto.com/contracts/interact).
-
 2. From the dropdown, select "Mist Multisig Contract", then enter the address of your multisig contract.
-
 3. Click the blue "Access" button. A dropdown menu should appear, with various functions of the contract.
 
 ![Contract overview](../../assets/how-to/sending/how-to-interact-with-a-multisig-contract/access-multisig.png)
@@ -43,23 +41,16 @@ For example, you might have set it up to have three owners, and a required amoun
 ## Sending a transaction
 
 1. Select `execute` from the dropdown.
-
 2. Enter the address you want to send to in the `_to` field.
-
 3. Enter the amount you want to send in the `_value` field. This field asks for a value in **wei** format, not ether. You can convert your ether value to wei by using [this](https://legacy.mycrypto.com/helpers.html) helper. *It is recommended that you test with a small amount first!*
-
 4. Enter `0x` in the `data` field.
-
 5. Leave the `Value` field empty. We are using the `_value` field to enter the amount that we wish to withdraw.
-
 6. Be sure to review all your inputs correctly. In this example, 0.005 ether is being withdrawn.
 
 ![Transaction details](../../assets/how-to/sending/how-to-interact-with-a-multisig-contract/transaction-details.png)
 
 7. Unlock the owners address and click the `WRITE` button.
-
 8. Click the `Generate Transaction` button & confirm & send.
-
 9. Copy the transaction hash that MyCrypto gives you, and open the link to the Etherscan page that appears in the green bar at the bottom of your screen.
 
 If your multisig contract only requires one confirmation, you will see that the amount you specified in the previous steps will be withdrawn right when the transaction has been mined, as this already counts as the first confirmation.
@@ -73,9 +64,7 @@ The same applies if you are sending a transaction that is below the daily limit 
 In case you're trying to send a transaction which is above the daily spending limit, or if the daily spending limit is set to 0, you will need additional confirmations from other owners to have the transaction go through, depending on how many is required by your multisig contract.
 
 1. Refresh the page and select the Mist multisig once again, and enter your multisig contract address. This time, choose the `confirm` function of your multisig contract.
-
 2. In the previous steps, you opened an Etherscan page of the transaction you've sent to the multisig contract. It should look similar to [this](https://etherscan.io/tx/0x0c643a1ae66637217f24791df05071c7849941a1231cf9fa2a0daf145da833e3) transaction. Click the `Logs` tab at the top.
-
 3. Find the `ConfirmationNeeded` log of this transaction. Copy the hash next to `operation`, highlighted in red. This hash will be different for your transaction.
 
 ![ConfirmationNeeded operation hash](../../assets/how-to/sending/how-to-interact-with-a-multisig-contract/confirmationneeded-operation-hash.png)
@@ -85,9 +74,10 @@ In case you're trying to send a transaction which is above the daily spending li
 ![Confirm function with hash](../../assets/how-to/sending/how-to-interact-with-a-multisig-contract/confirm-hash-field.png)
 
 6. MyCrypto will now ask you unlock your address. Keep in mind that this has to be done from the address of a **different owner**, not the one you sent the previous transaction with. After unlocking, you can leave the `Value` field empty.
-
 7. Generate & send the transaction.
 
 If your multisig requires more confirmations, you will have to repeat the confirmation process for each owner until it reaches the necessary approvals. Luckily, the `_h` value is the same for each of them. Once you have reached the minimum required amount of confirmations, you will be able to see that the transfer has been made ([example](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d)).
 
 ![Withdrawal executed](../../assets/how-to/sending/how-to-interact-with-a-multisig-contract/withdrawal-success-after-confirm.png)
+
+This concludes the steps which need to be taken in order to withdraw ether from the multisig contract. If you wish to also withdraw tokens from the multisig contract, you can find our guide on doing so [here](/how-to/sending/how-to-send-tokens-from-a-multisig-contract).
