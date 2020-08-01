@@ -17,7 +17,7 @@ As Mist is no longer maintained, it is no longer recommended to be used. If you 
 
 When you initially set up your multisig through Mist, it asked you to enter a list of owner addresses, a daily spending limit, and a required amount of confirmations a transaction would need before it would get sent from the multisig.
 
-The daily limit that you specified when creating the multisig indicates how much ETH (in wei) can be spent from the multisig a day without any additional confirmations from other owners. This may also be set to 0, meaning that every transaction will always require confirmation from other owners.
+The daily limit that you specified when creating the multisig indicates how much ETH (in Wei) can be spent from the multisig a day without any additional confirmations from other owners. This may also be set to 0, meaning that every transaction will always require confirmation from other owners.
 
 For example, you might have set it up to have three owners, and a required amount of two confirmations. This means that two owners would have to agree to a transaction if it's above the daily spending limit. The first one can be yourself, but then you would need one other confirmation. If you own all the addresses that have ownership, and still have access to these addresses, it wouldn't be an issue. However, if other people are the other owners of the multisig contract, you will need to coordinate a confirmation with one of them in this case, otherwise you will not be able to withdraw any funds.
 
@@ -33,7 +33,7 @@ For example, you might have set it up to have three owners, and a required amoun
 
 ![Amount of required confirmations](../../assets/how-to/sending/how-to-interact-with-a-multisig-contract/read-required.png)
 
-5. If you aren't sure what the daily limit of the multisig contract is, you can select the `m_dailyLimit` function, and click "READ". You will get the result back in wei, which you can convert to ether using [this](https://legacy.mycrypto.com/helpers.html) tool.
+5. If you aren't sure what the daily limit of the multisig contract is, you can select the `m_dailyLimit` function, and click "READ". You will get the result back in Wei, which you can convert to Ether using the tool in [this](/general-knowledge/ethereum-blockchain/what-are-the-different-units-used-in-ethereum) article.
 
 ![Daily limit amount](../../assets/how-to/sending/how-to-interact-with-a-multisig-contract/read-dailylimit.png)
 
@@ -41,10 +41,10 @@ For example, you might have set it up to have three owners, and a required amoun
 
 1. Select `execute` from the dropdown.
 2. Enter the address you want to send to in the `_to` field.
-3. Enter the amount you want to send in the `_value` field. This field asks for a value in **wei** format, not ether. You can convert your ether value to wei by using [this](https://legacy.mycrypto.com/helpers.html) helper. *It is recommended that you test with a small amount first!*
+3. Enter the amount you want to send in the `_value` field. This field asks for a value in **Wei** format, not Ether. You can convert your Ether value to Wei by using the tool in [this](/general-knowledge/ethereum-blockchain/what-are-the-different-units-used-in-ethereum) article. *It is recommended that you test with a small amount first!*
 4. Enter `0x` in the `data` field.
 5. Leave the `Value` field empty. We are using the `_value` field to enter the amount that we wish to withdraw.
-6. Be sure to review all your inputs correctly. In this example, 0.005 ether is being withdrawn.
+6. Be sure to review all your inputs correctly. In this example, 0.005 Ether is being withdrawn.
 
 ![Transaction details](../../assets/how-to/sending/how-to-interact-with-a-multisig-contract/transaction-details.png)
 
@@ -56,7 +56,9 @@ If your multisig contract only requires one confirmation, you will see that the 
 
 ![Withdrawal executed](../../assets/how-to/sending/how-to-interact-with-a-multisig-contract/withdrawal-success-no-confirm.png)
 
-The same applies if you are sending a transaction that is below the daily limit that you initially set when you created this multisig. You can check the daily limit (in wei) by using the `m_dailyLimit` function of the contract.
+The same applies if you are sending a transaction that is below the daily limit that you initially set when you created this multisig. You can check the daily limit (in Wei) by using the `m_dailyLimit` function of the contract.
+
+If you wish to also withdraw tokens from the multisig contract, you can find our guide on doing so [here](/how-to/sending/how-to-send-tokens-from-a-multisig-contract).
 
 ## Confirming a transaction
 
@@ -78,5 +80,3 @@ In case you're trying to send a transaction which is above the daily spending li
 If your multisig requires more confirmations, you will have to repeat the confirmation process for each owner until it reaches the necessary approvals. Luckily, the `_h` value is the same for each of them. Once you have reached the minimum required amount of confirmations, you will be able to see that the transfer has been made ([example](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d)).
 
 ![Withdrawal executed](../../assets/how-to/sending/how-to-interact-with-a-multisig-contract/withdrawal-success-after-confirm.png)
-
-This concludes the steps which need to be taken in order to withdraw ether from the multisig contract. If you wish to also withdraw tokens from the multisig contract, you can find our guide on doing so [here](/how-to/sending/how-to-send-tokens-from-a-multisig-contract).
