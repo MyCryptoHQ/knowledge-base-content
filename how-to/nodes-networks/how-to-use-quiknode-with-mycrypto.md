@@ -27,11 +27,11 @@ After selecting your node, the HTTP Provider URL that you can use in your MyCryp
 
 Let's add this node to your MyCrypto interface! Depending on if you're using the MyCrypto website or [desktop app](https://download.mycrypto.com/), this process might be slightly different. 
 
-- **MyCrypto website**: click the network switcher in the top-right of the interface, where it says "Ethereum (Auto)" by default. Then click the "Add Custom Node" button at the bottom of the menu.
+* **MyCrypto website**: click the network switcher in the top-right of the interface, where it says "Ethereum (Auto)" by default. Then click the "Add Custom Node" button at the bottom of the menu.
 
 ![Network switcher website](../../assets/how-to/nodes-networks/how-to-use-quiknode-with-mycrypto/network-switcher-website.png)
 
-- **MyCrypto desktop app**: find the network switcher on the left-hand side of the interface, where it says "Change Network". Then click the "Add Custom Node" button at the bottom of the menu.
+* **MyCrypto desktop app**: find the network switcher on the left-hand side of the interface, where it says "Change Network". Then click the "Add Custom Node" button at the bottom of the menu.
 
 ![Network switcher desktop app](../../assets/how-to/nodes-networks/how-to-use-quiknode-with-mycrypto/network-switcher-desktop.png)
 
