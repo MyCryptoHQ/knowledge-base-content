@@ -1,12 +1,12 @@
 ---
-title: How to interact with a Multisig Contract
+title: How to interact with a Mist Multisig Contract
 description: FAQ
 tags:
   - Addresses
   - Transactions
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2020-08-01'
+date_modified: '2020-08-02'
 ---
 
 Since the [deprecation of Mist](https://medium.com/@avsa/sunsetting-mist-da21c8e943d2) in 2019, many people with funds in their Mist multisig contracts were seemingly left stranded, as Mist was the only maintained application that supported sending from these multisig contracts.

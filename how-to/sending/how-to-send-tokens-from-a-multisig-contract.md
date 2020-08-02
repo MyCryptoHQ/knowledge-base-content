@@ -1,10 +1,10 @@
 ---
-title: How to Send Tokens from a Multisig Contract
+title: How to Send Tokens from a Mist Multisig Contract
 tags:
   - Tokens
 priority: 90
 date_published: '2020-06-26'
-date_modified: '2020-08-01'
+date_modified: '2020-08-02'
 ---
 
 <Alert>
