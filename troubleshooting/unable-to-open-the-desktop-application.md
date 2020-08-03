@@ -15,7 +15,8 @@ This roadblock is generally a good thing, as it does help keep users safe from i
 
 This article will help you move past this roadblock so you can begin using the MyCrypto Desktop Application.
 
-## macOS
+<Accordion>
+<AccordionItem title="macOS">
 
 When attempting to install the MyCrypto Desktop App on macOS, some users will see this popup, stating:
 
@@ -39,7 +40,8 @@ If that doesn't work:
 
 ![macOS warning message open anyway](../assets/troubleshooting/unable-to-open-the-desktop-application/macos-error-open-anyway.png)
 
-## Windows
+</AccordionItem>
+<AccordionItem title="Windows">
 
 When attempting to install the MyCrypto Desktop App on Windows, some users will see this popup, stating:
 
@@ -58,6 +60,9 @@ You’ll then be met with the following screen, giving more information about th
 Note that MyCrypto is an ‘unknown publisher,’ and when installing the MyCrypto Desktop App, you should always follow the instructions to [verify the authenticity of the application](/staying-safe/verifying-authenticity-of-desktop-app).
 
 Click “Run anyway” and the application will begin to install appropriately.
+
+</AccordionItem>
+</Accordion>
 
 ## A note on application verification and security
 
