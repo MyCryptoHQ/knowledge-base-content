@@ -7,11 +7,7 @@ date_published: '2020-08-03'
 date_modified: '2020-08-03'
 ---
 
-First, download the MyCrypto Desktop App for your respective operating system from [download.mycrypto.com](https://download.mycrypto.com/). 
-
-When installing apps from third-party developers (like MyCrypto), your operating system may put up a roadblock that attempts to dissuade you from installing it.
-
-This roadblock is generally a good thing, as it does help keep users safe from installing harmful applications, though there are instances where the application is not harmful and is simply published by a developer (like MyCrypto) that isn’t officially recognized by that operating system.
+When installing apps from third-party developers (like MyCrypto), your operating system may put up a roadblock that attempts to dissuade you from installing it. This roadblock is generally a good thing, as it does help keep users safe from installing harmful applications, though there are instances where the application is not harmful and is simply published by a developer (like MyCrypto) that isn’t officially recognized by that operating system.
 
 This article will help you move past this roadblock so you can begin using the MyCrypto Desktop Application.
 
