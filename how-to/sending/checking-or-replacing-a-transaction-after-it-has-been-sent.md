@@ -67,5 +67,5 @@ If all went well, your original transaction should be cancelled or replaced once
 
 ## Related articles
 
-* [You can learn more about gas & gas limit vs gas price here.](/general-knowledge/ethereum-blockchain/what-is-gas)
-* [You can learn more about nonce here](/general-knowledge/ethereum-blockchain/what-is-nonce)
+* [What Is Gas?](/general-knowledge/ethereum-blockchain/what-is-gas)
+* [What Is Nonce?](/general-knowledge/ethereum-blockchain/what-is-nonce)
