@@ -1,5 +1,5 @@
 ---
-title: Unable to Open the MyCrypto Desktop Application
+title: Unable to Install the MyCrypto Desktop Application
 tags:
   - MyCrypto
 priority: 20
