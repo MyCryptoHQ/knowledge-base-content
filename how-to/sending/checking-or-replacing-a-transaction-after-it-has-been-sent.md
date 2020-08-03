@@ -11,7 +11,7 @@ date_modified: '2020-08-03'
 In certain cases you may want to *cancel* or *replace* a transaction, for example, when you used a gas price that was too low. Especially in times when gas prices are relatively high, you may want to increase the gas price of your transaction, to make sure it will be confirmed quickly.
 
 * **Cancel**: Sending a transaction with a value of 0 ETH to your own Ethereum address, with the purpose of preventing your previous transaction from being confirmed.
-* **Replace**: Sending the same transaction to another Ethereum address, with the purpose of doing something (e.g. sending Ether, revealing an ENS bid, ...).
+* **Replace**: Sending the same transaction to another Ethereum address, with the purpose of doing something (e.g. sending Ether or tokens, ...).
 
 This works by sending a transaction with the same nonce as your previous transaction. Transactions must be confirmed in the order of the nonce, starting from 0, so if you re-submit a transaction with the same nonce and a higher gas price, your previous transaction will be overwritten. There is still a chance that your previous transaction is confirmed first, in which case  the replacement transaction will be invalidated.
 
