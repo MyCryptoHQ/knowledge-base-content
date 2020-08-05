@@ -88,7 +88,9 @@ redirects:
   - from: hardware-wallets/multiple-addresses-on-hardware-wallet.html
     to: how-to/hardware-wallets/multiple-addresses-showing-on-hardware-wallet
   - from: gas/how-do-I-know-what-gas-limit-to-use.html
-    to: how-to/sending/how-to-know-what-gas-price-or-gas-limit-to-use
+    to: how-to/sending/how-to-know-what-gas-limit-to-use
+  - from: how-to/sending/how-to-know-what-gas-price-or-gas-limit-to-use
+    to: how-to/sending/how-to-know-what-gas-limit-to-use
   - from: private-keys-passwords/how-to-change-ethereum-account-password-unencrypted-encrypted.html
     to: how-to/migrating/how-to-change-your-wallet-password-unencrypted-to-encrypted
   - from: send/not-checksummed-shows-when-i-enter-an-address.html
