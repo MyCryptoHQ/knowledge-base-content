@@ -4,7 +4,7 @@ tags:
   - MyCrypto
 priority: 20
 date_published: '2020-08-03'
-date_modified: '2020-08-03'
+date_modified: '2020-08-05'
 ---
 
 When installing apps from third-party developers (like MyCrypto), your operating system may put up a roadblock that attempts to dissuade you from installing it. This roadblock is generally a good thing, as it does help keep users safe from installing harmful applications, though there are instances where the application is not harmful and is simply published by a developer (like MyCrypto) that isn’t officially recognized by that operating system.
@@ -18,7 +18,7 @@ When attempting to install the MyCrypto Desktop App on macOS, some users will se
 
 > mac.1.7.11_MyCrypto.dmg” *(or whichever version number you’re installing)* can’t be opened because it was not downloaded from the App Store. Your security preferences allow installation of only apps from the App Store.
 
-![macOS warning message](../assets/troubleshooting/unable-to-open-the-desktop-application/macos-error.png)
+![macOS warning message](../assets/troubleshooting/unable-to-install-the-desktop-application/macos-error.png)
 
 There are a few ways to bypass this.
 
@@ -34,7 +34,7 @@ If that doesn't work:
 * Try installing the file normally and then, after the above message pops up, go to System Preferences > Security and Privacy > General. Then you should see an option on the bottom that says “Open Anyway.” 
 * Click this and a prompt to install MyCrypto will appear. 
 
-![macOS warning message open anyway](../assets/troubleshooting/unable-to-open-the-desktop-application/macos-error-open-anyway.png)
+![macOS warning message open anyway](../assets/troubleshooting/unable-to-install-the-desktop-application/macos-error-open-anyway.png)
 
 </AccordionItem>
 <AccordionItem title="Windows">
@@ -45,13 +45,13 @@ When attempting to install the MyCrypto Desktop App on Windows, some users will 
 > 
 > Microsoft Defender SmartScreen prevented an unrecognized app from starting. Running this app might put your PC at risk.
 
-![Windows warning message open anyway](../assets/troubleshooting/unable-to-open-the-desktop-application/windows-error.png)
+![Windows warning message open anyway](../assets/troubleshooting/unable-to-install-the-desktop-application/windows-error.png)
 
 To bypass this, click “More info.”
 
 You’ll then be met with the following screen, giving more information about the application and the publisher.
 
-![Windows warning message run anyway](../assets/troubleshooting/unable-to-open-the-desktop-application/windows-error-run-anyway.png)
+![Windows warning message run anyway](../assets/troubleshooting/unable-to-install-the-desktop-application/windows-error-run-anyway.png)
 
 Note that MyCrypto is an ‘unknown publisher,’ and when installing the MyCrypto Desktop App, you should always follow the instructions to [verify the authenticity of the application](/staying-safe/verifying-authenticity-of-desktop-app).
 
