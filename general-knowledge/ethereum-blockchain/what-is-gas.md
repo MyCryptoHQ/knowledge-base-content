@@ -31,7 +31,7 @@ The total cost of a transaction (the "transaction fee") is the gas limit, multip
 
 To fill up your "tank", it takes...
 * `10 gallons` at `$2.50` = `$25`
-* `21000 units of gas` at `20 Gwei` = `0.00042 ETH`.
+* `21,000 units of gas` at `20 Gwei` = `0.00042 ETH`.
 
 Therefore, the total transaction fee will be 0.00042 Ether. Note that Gwei is just a unit of Ether, and is equal to 0.000000001 ETH. You can use the converter in [this article](/general-knowledge/ethereum-blockchain/what-are-the-different-units-used-in-ethereum) to quickly convert from Gwei to Wei to Ether, which can be helpful when you want to know your transaction fee in ETH, rather than Gwei.
 
