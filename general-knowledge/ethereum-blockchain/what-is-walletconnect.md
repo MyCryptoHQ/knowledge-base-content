@@ -6,12 +6,12 @@ tags:
   - WalletConnect
 priority: 120
 date_published: '2020-03-16'
-date_modified: '2020-07-01'
+date_modified: '2020-08-06'
 ---
 
-WalletConnect is an open protocol made to facilitate a secure connection between mobile cryptocurrency wallets and desktop applications, such as dapps. Transactions are made through an encrypted connection by scanning a QR code, and are confirmed on the mobile device. As the private key never leaves the user’s device, their funds are never at risk and the possibility of a hijack is very low. 
+WalletConnect is an open protocol made to facilitate a secure connection between mobile cryptocurrency wallets and desktop applications, such as dapps. Transactions are made through an encrypted connection by scanning a QR code, and are confirmed on the mobile device. As the private key never leaves the user’s device, their funds are never at risk and the possibility of a hijack is very low.
 
-WalletConnect was initially shared with the public by Richard Burton in [2018](https://medium.com/balance-io/walletbridge-a-simple-way-for-web-based-dapps-to-talk-to-mobile-wallets-5c4015f1838c), and is in active development. A plethora of mobile wallets currently support the WalletConnect protocol, such as [Ambo](https://www.ambo.io/), [Trust](https://trustwallet.com/), [Argent](https://www.argent.xyz/), and the [mobile Metamask app](https://metamask.io/). 
+WalletConnect was initially shared with the public by Richard Burton in [2018](https://medium.com/balance-io/walletbridge-a-simple-way-for-web-based-dapps-to-talk-to-mobile-wallets-5c4015f1838c), and is in active development. A plethora of mobile wallets currently support the WalletConnect protocol, such as [Ambo](https://www.ambo.io/), [Trust](https://trustwallet.com/), [Argent](https://www.argent.xyz/), and the [mobile Metamask app](https://metamask.io/).
 
 ## Why should I use WalletConnect?
 
@@ -37,5 +37,6 @@ WalletConnect mobile apps do not expose your private key to MyCrypto, similar to
 
 ## Further reading
 
+* [How to Use WalletConnect with MyCrypto](/how-to/accessing-wallet/how-to-use-walletconnect-with-mycrypto)
 * [WalletConnect: A simple way for web-based dapps to talk to mobile wallets](https://medium.com/balance-io/walletbridge-a-simple-way-for-web-based-dapps-to-talk-to-mobile-wallets-5c4015f1838c)
 * [Exploring WalletConnect | Facilitating communication between desktop dapps & mobile wallets!](https://medium.com/@dedicatedguy/exploring-walletconnect-facilitating-thcommunication-between-desktop-dapps-mobile-wallets-f0a4424c0c2c)
