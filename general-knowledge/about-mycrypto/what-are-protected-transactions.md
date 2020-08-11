@@ -1,9 +1,19 @@
 ---
 title: What are Protected Transactions?
 priority: 40
+tags:
+  - MyCrypto
+  - Transactions
+  - Beta
 date_published: '2020-08-11'
 date_modified: '2020-08-11'
 ---
+
+<Alert>
+
+This feature is currently only found on MyCrypto beta, which you can find at [beta.mycrypto.com](https://beta.mycrypto.com/).
+
+</Alert>
 
 Protected transactions help you to send your funds in a safe way. When you protect a transaction, MyCrypto will automatically check the transaction, and everything around it, to ensure that your transaction is sent to the right person.
 
