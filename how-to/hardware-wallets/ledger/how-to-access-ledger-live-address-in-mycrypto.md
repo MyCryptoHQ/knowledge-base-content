@@ -6,7 +6,7 @@ tags:
   - Ledger
 priority: 100
 date_published: '2019-03-29'
-date_modified: '2020-07-01'
+date_modified: '2020-08-13'
 ---
 
 Ledger Live changed the way addresses are derived from the master seed. Unfortunately, MyCrypto is not fully compatible with this change. You can still access your Ledger Live addresses in MyCrypto, by manually setting the derivation path for the address.
@@ -25,3 +25,7 @@ When you click on the green button, your first Ledger Live address should show u
 ![First Ledger Live address](../../../assets/how-to/hardware-wallets/ledger/how-to-access-ledger-live-address-in-mycrypto/first-ledger-live-address.png)
 
 To view your second address, replace the second to last **0** in the derivation path with 1. For the next address, replace it with 2, etc. The address will always be the first one in the list, as shown in the screenshot above.
+
+## Related Articles
+
+* [What is a Derivation Path?](/general-knowledge/ethereum-blockchain/what-is-a-derivation-path)
