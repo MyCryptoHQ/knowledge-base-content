@@ -6,14 +6,12 @@ tags:
   - MyCrypto
 priority: 75
 date_published: '2018-05-01'
-date_modified: '2020-07-01'
+date_modified: '2020-08-17'
 ---
 
 After downloading the desktop application, it's highly recommended to verify the checksum of the application. This ensures that you are using the real MyCrypto desktop application and not one that has been tampered with by someone else.
 
 To begin, download the desktop application and the signed checksums (`checksums.txt.gpg`) from [download.mycrypto.com](https://download.mycrypto.com/) and place both files in a folder somewhere.
-
-**Important**: Always check for the green **"MyCrypto, Inc." SSL certificate** your browser before downloading and do not continue if the SSL certificate is missing or you see a SSL warning.
 
 Verifying the checksums is platform-specific, so follow the instructions that apply to you. Instructions are available for Windows, macOS and Linux.
 
