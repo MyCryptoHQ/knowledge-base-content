@@ -5,12 +5,12 @@ tags:
   - Private Keys
 priority: 70
 date_published: '2017-07-05'
-date_modified: '2020-08-26'
+date_modified: '2020-08-27'
 ---
 
 Be sure there is no space at the beginning or end of your private key. MyCrypto validates based on the number of characters. If you saved another version (for example, the [UTC / Keystore file](/how-to/accessing-wallet/how-to-access-your-wallet-with-keystore-file)) it may be worth trying that file as well.
 
-Please be sure that you are **carefully and accurately** typing in your private key. A single wrong character will open a different wallet than "yours", and will show a zero balance.
+Please be sure that you are **carefully and accurately** entering your private key. A single wrong character will open a different wallet than "yours," and will show a zero balance.
 
 An example of a valid private key looks like this: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
 
