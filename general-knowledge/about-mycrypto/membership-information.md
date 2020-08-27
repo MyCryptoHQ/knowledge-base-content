@@ -5,12 +5,12 @@ tags:
   - Beta
 priority: 85
 date_published: '2020-08-10'
-date_modified: '2020-08-17'
+date_modified: '2020-08-27'
 ---
 
 The MyCrypto Membership is a monthly subscription that gives you additional features and helps to support MyCrypto’s future developments.
 
-Buy a membership by visiting [beta.mycrypto.com/membership](https://beta.mycrypto.com/membership). This link is also available on your dashboard.
+Buy a membership by visiting [app.mycrypto.com/membership](https://app.mycrypto.com/membership). This link is also available on your dashboard.
 
 ![Become member](../../assets/general-knowledge/about-mycrypto/membership-information/become-member-screen.png)
 
