@@ -5,18 +5,18 @@ tags:
   - Private Keys
 priority: 70
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-08-27'
 ---
 
-Be sure there is no space at the beginning or end of your private key. We validate based on the number of characters. If you saved another version (for example, the UTC / Keystore file) it may also be worth trying that file as well.
+Be sure there is no space at the beginning or end of your private key. MyCrypto validates based on the number of characters. If you saved another version (for example, the [UTC / Keystore file](/how-to/accessing-wallet/how-to-access-your-wallet-with-keystore-file)) it may be worth trying that file as well.
 
-Please be sure that you are **carefully and accurately** typing your private key. A single wrong character will open a different wallet than "yours".
+Please be sure that you are **carefully and accurately** entering your private key. A single wrong character will open a different wallet than "yours," and will show a zero balance.
 
-Some wallets, like Exodus, may export a private key that begins with `0x`. If you remove these two characters from the beginning, you may be able to access your account.
+An example of a valid private key looks like this: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
 
-For reference private key looks like this: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
+Do not use the above example private key, and never share your own with others. If you share your private key with anyone, they will have full control over your address, and its funds.
 
 ## Related articles
 
-[Lost Private Key](/troubleshooting/accessing-wallet/lost-eth-private-key)
-[Private Key vs Keystore File](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)
+* [Lost Private Key](/troubleshooting/accessing-wallet/lost-eth-private-key)
+* [Differences Between Wallet Types (e.g., Private Key vs Keystore)](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)
