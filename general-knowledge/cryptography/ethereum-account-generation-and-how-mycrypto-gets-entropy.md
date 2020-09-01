@@ -7,7 +7,7 @@ tags:
   - MyCrypto
 priority: 2
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-09-01'
 ---
 
 This is part of a series where Taylor pull's sweet comments she's made or found over the years in the hopes that they can be useful, searchable, remembered, referenced, and/or aid in the creation of future knowledge base posts. Many are unpolished & contain typos, specific references to previous discussions or the user, and gratuitous cursing.
@@ -100,7 +100,7 @@ Furthermore, I personally don't believe that anything is this world is secure, b
 
 * [https://www.reddit.com/r/ethereum/comments/5psp13/ethereum_account_generation_on_airgapped_computer/](https://www.reddit.com/r/ethereum/comments/5psp13/ethereum_account_generation_on_airgapped_computer/)
 
-## Related articles & links
+## Related articles
 
 * <https://arstechnica.com/information-technology/2015/05/crypto-flaws-in-blockchain-android-app-sent-bitcoins-to-the-wrong-address/>
 * <https://blog.cryptographyengineering.com/2015/04/02/truecrypt-report/>

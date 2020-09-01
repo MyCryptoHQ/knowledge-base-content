@@ -5,7 +5,7 @@ tags:
   - Parity Signer
 priority: 60
 date_published: '2018-04-18'
-date_modified: '2020-07-01'
+date_modified: '2020-09-01'
 ---
 
 ## What is the Parity Signer?
@@ -87,12 +87,12 @@ Check to make sure your account details match up. From this screen, you can send
 2. From Parity Signer, tap "Scanner" and scan the QR Code presented by MyCrypto.
 3. Review the details carefully and enter your PIN to sign the transaction offline.
 4. Present your signed transaction QR code to MyCrypto to confirm and send!
-   
+
 [View FULL Tutorial on Parity's Wiki](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html).
 
 Make sure to first do a trial run with a small amount of Ether before sending larger amounts.
 
-## Related articles & links
+## Related articles
 
 * [Parity Support](http://paritytech.io/)
 * [Parity Privacy Policy](http://paritytech.io/legal/)
