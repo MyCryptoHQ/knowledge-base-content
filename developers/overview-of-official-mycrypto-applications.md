@@ -12,7 +12,7 @@ date_modified: '2020-07-01'
 
 This document is meant to allow hackers to skip the recon stage and get straight into trying to find vulnerabilities. It outlines the in-scope domains, the software behind them, and a brief description of their functions.
 
-Our responsible disclosure program is run on HackerOne - [https://hackerone.com/mycrypto](https://hackerone.com/mycrypto).
+Our responsible disclosure program policy can be found at - [https://security.mycrypto.com](https://security.mycrypto.com).
 
 ![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
