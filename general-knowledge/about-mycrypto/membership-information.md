@@ -5,7 +5,7 @@ tags:
   - Beta
 priority: 85
 date_published: '2020-08-10'
-date_modified: '2020-08-27'
+date_modified: '2020-09-15'
 ---
 
 The MyCrypto Membership is a monthly subscription that gives you additional features and helps to support MyCrypto’s future developments.
@@ -30,10 +30,10 @@ This is just the beginning, but right now being a MyCrypto Member gives you:
 We have a lot of plans for the MyCrypto Membership and a long-term roadmap that will see many new rewards and features coming soon.
 
 ### How much does the MyCrypto Membership cost?
-$4.00 per month, or you can purchase multiple month packages at a discounted rate. For the hardcore, there’s also a lifetime membership.
+$4.00 per month, or you can purchase multiple month packages at a discounted rate. For the hardcore, there’s also a lifetime membership. Please keep in mind that at this time, it's only possible to purchase monthly memberships with DAI.
 
 ### How does the MyCrypto Membership work?
-We use the [Unlock Protocol](https://unlock-protocol.com/) for this. You’ll be purchasing a token that unlocks features of MyCrypto when we detect that you hold that token. Each token has an expiration date according to the duration of membership you purchased.
+We use the [Unlock Protocol](https://unlock-protocol.com/) for this. You’ll be purchasing a token that unlocks features of MyCrypto when we detect that you hold that token. Each token has an expiration date according to the duration of membership you purchased. One membership unlocks the membership features for all the addresses in your interface, so you don't need additional memberships.
 
 ### Can I give my token to someone else?
 Sending your unique UnlockProtocol token to another address will result in that token being voided. This is done to prevent abuse of the system. 
