@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 35
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-09-15'
 ---
 
 **These phishers will not stop until they stop getting money or get caught.** We don't have the time or manpower to do it all. There are so many things to do and watch and document. We thank you for your help.
@@ -19,14 +19,14 @@ date_modified: '2020-07-01'
 >
 > Remind people: "If it sounds too good to be true, it probably is."
 >
-> ⚠ PSA! Do NOT click the link or listen to the scammer! That is a phishing site. Always check your URL and / or consider getting a Ledger or TREZOR hardware wallet.
+> ⚠ PSA! Do NOT click the link or listen to the scammer! That is a phishing site. Always check your URL and / or consider getting a Ledger or Trezor hardware wallet.
 
 ## 2. Educate *before* you see a message
 
 Help spread the word: Private keys are *private*. Use hardware wallets. Use cold storage. Go offline. Check URLs.
 
 * [Creating a wallet offline](/how-to/offline/how-to-run-mycrypto-offline-and-locally) is good.
-* Getting a [Ledger or TREZOR Hardware Wallet](/staying-safe/hardware-wallet-recommendations) is even better.
+* Getting a [Ledger or Trezor Hardware Wallet](/staying-safe/hardware-wallet-recommendations) is even better.
 * [You can sign transactions offline so your key never touches a phishing site!](/how-to/sending/how-to-make-an-offline-transaction)
 * Install EtherAddressLookup to block malicious / phishing sites: [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn).
 * Install MetaMask to block malicious / phishing sites and interact with MyCrypto: [https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn).

@@ -6,7 +6,7 @@ tags:
   - Private Keys
 priority: 50
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-09-15'
 ---
 
 "How does Ethereum ensure that two people aren't given the same key?"
@@ -35,7 +35,7 @@ The mind-blowing part is that this is actually secure. That number up there is s
 
 Don't believe me? Go ahead, there are billions of dollars worth of value in the blockchain. You're welcome to set up a computer program to generate tons of these numbers and check each one to see whether it has any money in it.
 
-Disclaimer: NEVER actually pick your private key out of your own brain. It turns out humans are really bad at picking random numbers, even when we think we're good at it. Use a secure random number generator like the one in MyCrypto, Ledger, or TREZOR.
+Disclaimer: NEVER actually pick your private key out of your own brain. It turns out humans are really bad at picking random numbers, even when we think we're good at it. Use a secure random number generator like the one in MyCrypto, Ledger, or Trezor.
 
 ---
 

@@ -6,14 +6,14 @@ tags:
   - Backups
 priority: 90
 date_published: '2018-04-18'
-date_modified: '2020-09-01'
+date_modified: '2020-09-15'
 ---
 
 ## Preface
 
-The following assumes you are using a Ledger Nano S or TREZOR hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](/staying-safe/hardware-wallet-recommendations).
+The following assumes you are using a Ledger Nano S or Trezor hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](/staying-safe/hardware-wallet-recommendations).
 
-To save / backup your Ledger or TREZOR device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it into MyCrypto.com.
+To save / backup your Ledger or Trezor device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it into MyCrypto.com.
 
 ## Backing Up Your Hardware Wallet
 
@@ -21,7 +21,7 @@ When you have a hardware wallet, you use that device to access your funds on a d
 
 ## But ...
 
-If any of the above happens, you will want to be able to access your funds without your hardware wallet. For that reason, you need to have a backup. The backup of your hardware wallet are those 24 words (standard on both the Ledger Nano S and TREZOR). If you have those words, you can access your funds at any time. Your backup is only worthwhile if it doesn't also get destroyed with your hardware wallet.
+If any of the above happens, you will want to be able to access your funds without your hardware wallet. For that reason, you need to have a backup. The backup of your hardware wallet are those 24 words (standard on both the Ledger Nano S and Trezor). If you have those words, you can access your funds at any time. Your backup is only worthwhile if it doesn't also get destroyed with your hardware wallet.
 
 For example, if you tape the 24 words to your hardware wallet and accidentally drop it off the side of a cliff, both the device AND the words will be lost. Your backup is worthless and you have no access to your funds.
 
@@ -42,7 +42,7 @@ Hope this helps!
 
 ## Related articles
 
-* [Seed, PIN, and Passphrase - TREZOR](https://blog.trezor.io/seed-pin-passphrase-e15d14a0b546)
+* [Seed, PIN, and Passphrase - Trezor](https://blog.trezor.io/seed-pin-passphrase-e15d14a0b546)
 * [Setting Up Your Ledger Nano S](/how-to/migrating/moving-from-mycrypto-to-ledger)
 * [Buy a Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
 * [Buy a Trezor](https://shop.trezor.io/?offer_id=10&aff_id=1735)

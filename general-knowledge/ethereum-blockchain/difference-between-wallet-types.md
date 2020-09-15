@@ -5,7 +5,7 @@ tags:
   - Private Keys
 priority: 110
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-09-15'
 ---
 
 > What are the different types of private key formats that I can use to access my wallet?
@@ -58,7 +58,7 @@ The derivation path is a numerical representation of which private key / address
 
 * Typically, these come in 12-word or 24-word strings.
 * They can derive multiple addresses, meaning your phrase actually is able to create multiple accounts, addresses, and private keys.
-* [MyCrypto](https://download.mycrypto.com), Ledger, TREZOR, MetaMask, and Jaxx create these for you.
+* [MyCrypto](https://download.mycrypto.com), Ledger, Trezor, MetaMask, and Jaxx create these for you.
 * Mnemonic phrases are insecure. If you unlock your account on a phishing site with a mnemonic phrase, the phishers will get full access to your wallet. Use one of the options above, or the [MyCrypto Desktop App](https://download.mycrypto.com/).
 
 ![Create new wallet](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/create-new-wallet.png)

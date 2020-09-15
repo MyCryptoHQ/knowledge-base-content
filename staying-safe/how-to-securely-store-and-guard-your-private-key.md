@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 80
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-09-15'
 ---
 
 *[Source: /u/drewshaver](https://www.reddit.com/r/CryptoCurrency/comments/6vo0tw/a_guide_for_newbies_on_how_to_properly_and/)*
@@ -30,7 +30,7 @@ These words are what you store in the cryptosteel. Every word is unique given th
 ## Before you Get Started
 
 * Before moving significant funds around, always start with a test transaction of a small amount to make sure you got everything right.
-* Also, it is very important that you are able to recover your Trezor from the mnemonic. What you should do, to start, is transfer a small amount of BTC, like .005. Then, complete the process of storing your mnemonic in your cryptosteel (transferring the words from paper to the steel). Then, wipe your Trezor, and follow instructions to recover Trezor from mnemonic, using your cryptosteel as a reference (don't use any other backup—use the backup you will be using in the future in case you actually lose / destroy / need to reset your TREZOR.
+* Also, it is very important that you are able to recover your Trezor from the mnemonic. What you should do, to start, is transfer a small amount of BTC, like .005. Then, complete the process of storing your mnemonic in your cryptosteel (transferring the words from paper to the steel). Then, wipe your Trezor, and follow instructions to recover Trezor from mnemonic, using your cryptosteel as a reference (don't use any other backup—use the backup you will be using in the future in case you actually lose / destroy / need to reset your Trezor.
 
 Now, if you load up your wallet and have access to the test amount of BTC, great! You can now lose or otherwise destroy your Trezor and rest assured that you can recover from the cryptosteel.
 

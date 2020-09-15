@@ -6,14 +6,14 @@ tags:
   - Private Keys
 priority: 80
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-09-15'
 ---
 
 ## Preface
 
-The following assumes you are **not** using a Ledger or TREZOR hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](/staying-safe/hardware-wallet-recommendations).
+The following assumes you are **not** using a Ledger or Trezor hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](/staying-safe/hardware-wallet-recommendations).
 
-To save / backup your Ledger or TREZOR device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it in to MyCrypto.com.
+To save / backup your Ledger or Trezor device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it in to MyCrypto.com.
 
 You can run MyCrypto.com on your computer and this computer can be a cold-storage or offline computer. This means it is a computer that is not connected to the internet and *will never be connected to the internet again.* You can generate a wallet completely offline & send Ether or Tokens from the "View & Send" page.
 

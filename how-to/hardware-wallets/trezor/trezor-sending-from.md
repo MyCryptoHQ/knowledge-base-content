@@ -6,10 +6,10 @@ tags:
   - Transactions
 priority: 5
 date_published: '2015-07-15'
-date_modified: '2020-07-01'
+date_modified: '2020-09-15'
 ---
 
-Here is how you can unlock your wallet, access your ETH and tokens, and send from your TREZOR hardware wallet:
+Here is how you can unlock your wallet, access your ETH and tokens, and send from your Trezor hardware wallet:
 
 1. Go to [https://mycrypto.com/account](https://mycrypto.com/account).
 
@@ -19,7 +19,7 @@ Here is how you can unlock your wallet, access your ETH and tokens, and send fro
 
 4. Select `Connect to TREZOR`.
 
-5. Unlock your TREZOR with PIN (and passphrase if you have it).
+5. Unlock your Trezor with PIN (and passphrase if you have it).
 
 6. Enter the address you would like to send to in the `To Address:` field.
 
@@ -32,7 +32,7 @@ Here is how you can unlock your wallet, access your ETH and tokens, and send fro
 
 9. Click `Generate Transaction`.
 
-10. Confirm on your TREZOR.
+10. Confirm on your Trezor.
 
 11. Click "Send Transaction" on MyCrypto.
 

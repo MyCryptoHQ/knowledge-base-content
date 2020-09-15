@@ -5,7 +5,7 @@ tags:
   - Ethereum
 priority: 60
 date_published: '2015-10-05'
-date_modified: '2020-07-01'
+date_modified: '2020-09-15'
 ---
 
 ## Words are Hard
@@ -76,7 +76,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * Another fancy version of your private key, which is actually used to derive multiple private keys.
 * A (typically) 12- or 24-word phrase that allows you to access an infinite number of accounts.
-* Used by Ledger, TREZOR, MetaMask, Jaxx, and others.
+* Used by Ledger, Trezor, MetaMask, Jaxx, and others.
 * Originates from [BIP 39 Spec](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
 * The accounts you can access with this phrase are determined by the "path."
 * Example 12-words: `brain surround have swap horror body response double fire dumb bring hazard`.

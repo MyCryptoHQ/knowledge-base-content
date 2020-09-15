@@ -6,7 +6,7 @@ tags:
   - Safety & Security
 priority: 100
 date_published: '2015-10-05'
-date_modified: '2020-07-01'
+date_modified: '2020-09-15'
 ---
 
 * Please take some time to understand this for your own security.
@@ -137,7 +137,7 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 * [How to set up MyCrypto + MetaMask](/how-to/migrating/moving-from-mycrypto-to-metamask).
 * [How to run MyCrypto Offline / Locally](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
 * [How to send via Ledger hardware wallet](/how-to/migrating/moving-from-mycrypto-to-ledger).
-* [How to send via TREZOR hardware wallet](/how-to/migrating/moving-from-mycrypto-to-trezor).
+* [How to send via Trezor hardware wallet](/how-to/migrating/moving-from-mycrypto-to-trezor).
 * [How to send via MetaMask](/how-to/migrating/moving-from-mycrypto-to-metamask).
 * [How to create a new wallet](/how-to/getting-started/how-to-create-a-wallet).
 * [How to back up your wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet).
