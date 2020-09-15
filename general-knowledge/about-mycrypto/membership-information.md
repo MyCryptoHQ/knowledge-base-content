@@ -30,7 +30,7 @@ This is just the beginning, but right now being a MyCrypto Member gives you:
 We have a lot of plans for the MyCrypto Membership and a long-term roadmap that will see many new rewards and features coming soon.
 
 ### How much does the MyCrypto Membership cost?
-$4.00 per month, or you can purchase multiple month packages at a discounted rate. For the hardcore, there’s also a lifetime membership. Please keep in mind that at this time, it's only possible to purchase monthly memberships with DAI.
+$4.00 per month, or you can purchase multiple month packages at a discounted rate. For the hardcore, there’s also a lifetime membership. Please keep in mind that at this time, it's only possible to purchase monthly memberships with DAI. We may add more options in the future.
 
 ### How does the MyCrypto Membership work?
 We use the [Unlock Protocol](https://unlock-protocol.com/) for this. You’ll be purchasing a token that unlocks features of MyCrypto when we detect that you hold that token. Each token has an expiration date according to the duration of membership you purchased. One membership unlocks the membership features for all the addresses in your interface, so you don't need additional memberships.
