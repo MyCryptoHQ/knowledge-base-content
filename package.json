@@ -17,8 +17,14 @@
     "remark-preset-lint-recommended": "^3.0.2",
     "slash": "^2.0.0"
   },
+  "devDependencies": {
+    "node-fetch": "^2.6.1",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  },
   "scripts": {
-    "mdlint": "remark -q -f ."
+    "mdlint": "remark -q -f .",
+    "deploy": "ts-node deploy"
   },
   "lint-staged": {
     "*.md": [
@@ -31,8 +37,5 @@
     "hooks": {
       "pre-commit": "lint-staged"
     }
-  },
-  "devDependencies": {
-    "node-fetch": "^2.6.0"
   }
 }
