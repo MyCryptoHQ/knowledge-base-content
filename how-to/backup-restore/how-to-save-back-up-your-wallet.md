@@ -5,14 +5,14 @@ tags:
   - Backups
 priority: 100
 date_published: '2015-10-05'
-date_modified: '2020-07-01'
+date_modified: '2020-09-15'
 ---
 
 ## Preface
 
 The following assumes you are **not** using a hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](/staying-safe/hardware-wallet-recommendations).
 
-To save / backup your [Ledger](/how-to/migrating/moving-from-mycrypto-to-ledger) or [TREZOR](/how-to/migrating/moving-from-mycrypto-to-trezor) device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it into MyCrypto.com.
+To save / backup your [Ledger](/how-to/migrating/moving-from-mycrypto-to-ledger) or [Trezor](/how-to/migrating/moving-from-mycrypto-to-trezor) device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it into MyCrypto.com.
 
 ## How to back up your account
 
