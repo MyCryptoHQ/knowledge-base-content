@@ -6,7 +6,7 @@ tags:
   - Private Keys
 priority: 40
 date_published: '2018-06-20'
-date_modified: '2020-07-01'
+date_modified: '2020-09-01'
 ---
 
 A **mnemonic phrase** or **mnemonic seed** is a set of typically either 12 or 24 words, which can be used to derive an infinite number of wallets. Often times these phrases are used by cryptocurrency hardware wallets, to be written down on a piece of paper by the user to safely back up the users' funds.
@@ -49,7 +49,7 @@ Since every password generates a valid seed and will unlock a different account,
 
 ```deer swift people fluid team beyond east hello peasant purpose apple pony figure puppy spoon window story run strike scout pave address know stadium encryption```
 
-### Related Reading
+### Related articles
 
 * [How to Access Your Wallet with Mnemonic Phrase](/how-to/accessing-wallet/how-to-access-your-wallet-with-mnemonic-phrase)
 * [How to Create a Wallet](/how-to/getting-started/how-to-create-a-wallet)

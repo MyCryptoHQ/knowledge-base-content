@@ -5,7 +5,7 @@ tags:
   - Private Keys
 priority: 80
 date_published: '2017-10-08'
-date_modified: '2020-07-01'
+date_modified: '2020-09-01'
 ---
 
 MyCrypto is not a "web wallet." You do not create an account or give us your crypto or tokens to hold on to. MyCrypto is simply an interface that allows you to easily interact with cryptocurrency.
@@ -22,7 +22,7 @@ Unfortunately, this means we cannot:
 * Send your cryptocurrency or tokens from one address to another
 
 **However**, there are some services that can help you recover your private key.
- 
+
 * [Wallet Recovery Services](https://walletrecoveryservices.com/) - These folks can potentially recover your account if you have an idea of what your password may be, and they have great reviews. Check out their site for more details on what they can and cannot recover.
 * [Keychainx](https://keychainx.io/) - This is another recovery service that can help you out if you have a slight idea of what your password may be.
 
@@ -37,7 +37,7 @@ While there is no way to guarantee that you will suddenly remember your password
 
 You can also try using [pyethrecover](https://github.com/burjorjee/pyethrecover), which will check your wallet against a given file of passwords. The tool requires Python and the bitcoin package from python-pip. If you know at least part of your password, you can use this program to automate the testing of permutations of your known password characters (just add them all to a text file).
 
-## Related Articles/Sources
+## Related Articles
 
 * [/r/ethereum: Tips for Recovering Your Presale Password, Especially for Those Not Good w/ Computers](https://www.reddit.com/r/ethereum/comments/46887p/tips_for_recovering_your_presale_password/)
 * [forum.ethereum.org: I forgot my Pre-Sale Wallet Password / My PW Isn't Working](https://forum.ethereum.org/discussion/3045/request-post-password-instructions-that-were-given-for-the-presale-last-year)

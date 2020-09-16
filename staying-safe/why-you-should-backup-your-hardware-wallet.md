@@ -6,7 +6,7 @@ tags:
   - Backups
 priority: 90
 date_published: '2018-04-18'
-date_modified: '2020-07-01'
+date_modified: '2020-09-01'
 ---
 
 ## Preface
@@ -40,7 +40,7 @@ Analyze your personal risk and your situation. Would your life be over if the fu
 
 Hope this helps!
 
-## Related articles & links
+## Related articles
 
 * [Seed, PIN, and Passphrase - TREZOR](https://blog.trezor.io/seed-pin-passphrase-e15d14a0b546)
 * [Setting Up Your Ledger Nano S](/how-to/migrating/moving-from-mycrypto-to-ledger)
