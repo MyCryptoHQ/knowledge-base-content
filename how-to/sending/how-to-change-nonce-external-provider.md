@@ -6,7 +6,7 @@ tags:
   - MetaMask
 priority: 40
 date_published: '2020-09-29'
-date_modified: '2020-09-29'
+date_modified: '2020-09-30'
 ---
 
 If you're using a Web3-compatible app like MetaMask to connect to MyCrypto, it's not possible to change the nonce in MyCrypto directly. Most Web3 apps change the nonce provided by MyCrypto, even when it's manually set. Below you'll find instructions for setting the nonce in the Web3 app directly.
@@ -14,7 +14,7 @@ If you're using a Web3-compatible app like MetaMask to connect to MyCrypto, it's
 <Accordion>
 <AccordionItem title="MetaMask">
 
-To change the nonce in MetaMask, you have to enable this option first. In MetaMask, go to Settings, Advaned, and scroll down until you see "Customize transaction nonce." Make sure this option is enabled.
+To change the nonce in MetaMask, you have to enable this option first. In MetaMask, go to Settings, Advanced, and scroll down until you see "Customize transaction nonce." Make sure this option is enabled.
 
 ![The "Customize transaction nonce" setting in MetaMask](../../assets/how-to/sending/how-to-change-nonce-external-provider/customize-transaction-nonce-setting.png)
 
