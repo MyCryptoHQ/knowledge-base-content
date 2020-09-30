@@ -5,7 +5,7 @@ tags:
   - Ethereum
 priority: 60
 date_published: '2015-10-05'
-date_modified: '2020-09-15'
+date_modified: '2020-09-29'
 ---
 
 ## Words are Hard
@@ -236,6 +236,6 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 ### Ethereum vs. Ether
 
-* Ethereum is the name of the network (blockchain) that Ether runs on. Ether (or ETH) refers to the cryptocurrency that runs on the Ethereum network. These two terms are commonly (incorrectly) used interchangeably.
+* Ethereum is the name of the network (blockchain) that ether runs on. Ether (abbreviated as ETH) refers to the cryptocurrency that runs on the Ethereum network. These two terms are commonly (incorrectly) used interchangeably.
 
 All feedback, rewrites, clarification, typo fixing, and requests for additions are more than welcome!
