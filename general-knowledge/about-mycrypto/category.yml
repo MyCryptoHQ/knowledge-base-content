@@ -1,3 +1,12 @@
 title: About MyCrypto
 description: ""
-priority: 40
+
+articles:
+  - membership-information
+  - supported-networks
+  - does-mycrypto-support-bitcoin-or-other-coins
+  - what-are-protected-transactions
+  - whats-the-difference-between-an-exchange-and-mycrypto
+  - official-domain-names-used-by-mycrypto
+  - how-can-mycrypto-send-offline
+  - do-you-have-a-minimum-requirement-to-transfer-out-of-mycrypto

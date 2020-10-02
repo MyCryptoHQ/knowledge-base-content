@@ -1,3 +1,6 @@
 title: Nodes & Networks
 description: Anything related to using nodes and other supported networks can be found here.
-priority: 20
+
+articles:
+  - access-eth-sent-to-etc-address-or-etc-sent-to-eth-address
+  - how-to-use-quiknode-with-mycrypto

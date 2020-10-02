@@ -1,3 +1,14 @@
 title: Sending
 description: Here you will find the most common issues when sending transactions.
-priority: 30
+
+articles:
+  - transaction-failed-out-of-gas
+  - transactions-not-showing-or-pending
+  - error-insufficient-funds-message
+  - what-to-do-if-you-sent-to-wrong-address
+  - ethereum-balance-not-loading-or-showing
+  - eth-or-tokens-not-showing-on-exchange
+  - error-bad-jump-destination-or-out-of-gas-error
+  - errcode-unable-to-locate-corresponding-transfer-event-log
+  - transaction-fee-not-refunded
+  - not-checksummed-shows-when-i-enter-an-address

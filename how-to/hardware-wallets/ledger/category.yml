@@ -1,3 +1,7 @@
 title: Ledger Wallet
 description: ""
-priority: 20
+
+articles:
+  - how-to-access-ledger-live-address-in-mycrypto
+  - how-to-verify-your-recovery-phrase
+  - how-to-use-a-ledger-wallet-with-android

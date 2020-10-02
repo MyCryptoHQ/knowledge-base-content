@@ -11,13 +11,19 @@ redirects:
     to: how-to/accessing-wallet/how-to-access-your-wallet-with-mnemonic-phrase
   - from: accessing-your-wallet/how-to-use-metamask-with-mycrypto.html
     to: how-to/migrating/moving-from-mycrypto-to-metamask
+  - from: how-to/accessing-wallet/how-to-use-metamask-with-mycrypto
+    to: how-to/migrating/moving-from-mycrypto-to-metamask
   - from: accessing-your-wallet/how-to-use-the-parity-signer-with-mycrypto.html
     to: how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto
   - from: accessing-your-wallet/how-to-use-your-ledger-hardware-wallet-with-mycrypto.html
     to: how-to/migrating/moving-from-mycrypto-to-ledger
   - from: accessing-your-wallet/how-to-use-your-ledger-with-mycrypto.html
     to: how-to/migrating/moving-from-mycrypto-to-ledger
+  - from: how-to/accessing-wallet/how-to-use-your-ledger-with-mycrypto
+    to: how-to/migrating/moving-from-mycrypto-to-ledger
   - from: accessing-your-wallet/how-to-use-your-trezor-with-mycrypto.html
+    to: how-to/migrating/moving-from-mycrypto-to-trezor
+  - from: how-to/accessing-wallet/how-to-use-your-trezor-with-mycrypto
     to: how-to/migrating/moving-from-mycrypto-to-trezor
   - from: getting-started/backing-up-your-new-wallet.html
     to: how-to/backup-restore/how-to-save-back-up-your-wallet

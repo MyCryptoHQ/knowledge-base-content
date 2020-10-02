@@ -1,3 +1,6 @@
 title: Ledger Wallet
-description:
-priority: 20
+description: ""
+
+articles:
+  - u2f-not-supported-error
+  - ledger-hardware-wallet-error-invalid-status-6a80

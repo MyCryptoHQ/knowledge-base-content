@@ -1,3 +1,6 @@
 title: Tokens
 description: ""
-priority: 20
+
+articles:
+  - unable-to-install-the-desktop-application
+  - adding-new-token-and-sending-custom-tokens

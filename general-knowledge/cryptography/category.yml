@@ -1,3 +1,7 @@
 title: Cryptography & Encryption
 description: ""
-priority: 10
+
+articles:
+  - ethereum-account-generation-and-how-mycrypto-gets-entropy
+  - how-do-mnemonic-phrases-work
+  - on-keypairs-and-encryption

@@ -1,3 +1,9 @@
 title: Common Scams
 description: Knowledge is key in protecting your funds. Educate yourself on today's most common scams.
-priority: 0
+
+articles:
+  - common-scams-overview
+  - phishing-overview
+  - hardware-wallet-scams-overview
+  - malicious-software-overview
+  - privacy-concerns-overview

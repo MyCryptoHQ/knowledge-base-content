@@ -1,3 +1,17 @@
 title: How-To Guides
 description: Step by step instructions on how to use MyCrypto & all its features.
-priority: 20
+
+categories:
+  - getting-started
+  - accessing-wallet
+  - sending
+  - hardware-wallets
+  - backup-restore
+  - tokens
+  - migrating
+  - defi
+  - nodes-networks
+  - offline
+
+articles:
+  - how-to-buy-mycrypto-membership

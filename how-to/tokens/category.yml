@@ -1,3 +1,6 @@
 title: Tokens
 description: ""
-priority: 40
+
+articles:
+  - showing-and-loading-tokens
+  - how-to-receive-tokens

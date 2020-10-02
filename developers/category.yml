@@ -1,3 +1,14 @@
 title: For Developers / Contributors
 description: Ethereum thrives on the efforts of builders. Read up on how you can contribute to MyCrypto's open-source platform.
-priority: 0
+
+articles:
+  - reporting-a-bug
+  - suggesting-a-feature
+  - run-your-own-node-with-mycrypto
+  - add-token-to-default-list
+  - adding-a-new-network
+  - adding-support-for-web3-wallet
+  - contributing-code
+  - how-to-submit-pull-request
+  - how-can-i-help-translate
+  - overview-of-official-mycrypto-applications
