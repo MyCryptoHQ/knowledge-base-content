@@ -1,3 +1,6 @@
 title: Hardware Wallets
 description: Learn what to do when you are encountering issues when accessing your hardware wallet.
-priority: 10
+
+categories:
+  - ledger
+  - trezor

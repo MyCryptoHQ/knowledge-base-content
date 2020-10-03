@@ -1,3 +1,11 @@
 title: Getting Started
 description: Educate yourself on the basics of interacting with cryptocurrency.
-priority: 80
+
+articles:
+  - how-to-get-started-on-mycrypto
+  - how-to-create-a-wallet
+  - how-to-buy-ether-with-usd
+  - how-to-buy-btc-with-usd
+  - how-to-sign-and-verify-messages-on-ethereum
+  - where-can-i-buy-sell-trade-or-exchange-my-eth-or-tokens
+  - where-to-get-testnet-ether

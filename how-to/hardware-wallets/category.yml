@@ -1,3 +1,10 @@
 title: Hardware Wallets
 description: Hardware wallets are one of the easiest and most secure methods for cold storage. Here you will find the hardware wallets we support, and how to use them.
-priority: 30
+
+categories:
+  - ledger
+  - trezor
+  - archos
+
+articles:
+  - multiple-addresses-showing-on-hardware-wallet

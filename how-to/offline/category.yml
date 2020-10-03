@@ -1,3 +1,8 @@
 title: Offline
 description: Running MyCrypto offline is one of the most secure ways to access your funds.
-priority: 10
+
+articles:
+  - how-to-run-mycrypto-offline-and-locally
+  - using-mycrypto-for-cold-storage
+  - using-a-ledger-wallet-offline
+  - is-the-view-and-send-page-offline

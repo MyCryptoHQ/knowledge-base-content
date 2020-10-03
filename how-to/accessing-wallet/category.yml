@@ -1,3 +1,11 @@
 title: Accessing Your Wallet
 description: There are many different ways to access your wallet. Here you will find instructions on how to access your wallet.
-priority: 60
+
+articles:
+  - how-to-check-the-balance-of-your-account
+  - how-to-access-your-wallet-with-keystore-file
+  - how-to-access-your-wallet-with-mnemonic-phrase
+  - how-to-use-walletconnect-with-mycrypto
+  - how-to-use-the-parity-signer-with-mycrypto
+  - what-is-screen-lock
+  - how-does-view-address-work

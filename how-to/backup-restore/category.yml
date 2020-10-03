@@ -1,3 +1,6 @@
 title: Backing up & Restoring
 description: As always, protecting yourself is the key to securing your cryptocurrency. Please make sure you properly save and back up your wallet!
-priority: 70
+
+articles:
+  - how-to-save-back-up-your-wallet
+  - how-to-restore-access-to-your-accounts-if-you-lose-or-destroy-your-device-with-google-authenticator-2fa

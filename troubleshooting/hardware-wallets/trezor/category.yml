@@ -1,3 +1,6 @@
 title: Trezor Wallet
 description: ""
-priority: 10
+
+articles:
+  - unable-to-connect-trezor-hardware-wallet-on-mycrypto
+  - trezor-error-window-blocked

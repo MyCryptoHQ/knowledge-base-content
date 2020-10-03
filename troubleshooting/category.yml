@@ -1,3 +1,13 @@
 title: Troubleshooting Issues
 description: Having a problem interacting with your ETH or tokens? Is your Ledger or Trezor not working as expected? Find solutions to a variety of issues here.
 priority: 40
+
+categories:
+  - accessing-wallet
+  - hardware-wallets
+  - sending
+  - tokens
+
+articles:
+  - unable-to-install-the-desktop-application
+  - unable-to-connect-to-custom-node
