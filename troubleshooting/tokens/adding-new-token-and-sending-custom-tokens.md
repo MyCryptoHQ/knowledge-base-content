@@ -5,10 +5,10 @@ tags:
   - Tokens
 priority: 100
 date_published: '2017-01-25'
-date_modified: '2020-10-01'
+date_modified: '2020-10-05'
 ---
 
-If you can't see a token when you access your address with MyCrypto, you simply need to add it as a custom token to your interface. MyCrypto ships with a list of tokens that it will automatically scan your address for, which is updated with every release. However, it may happen that a new token is not on this list just yet, in case you will have to manually add it to your interface.
+If you can't see a token when you access your address with MyCrypto, you simply need to add it as a custom token to your interface. MyCrypto ships with a list of tokens that it will automatically scan your address for, which is updated with every release. However, it may happen that a new token is not on this list just yet, in which case you will have to manually add it to your interface.
 
 Any ERC-20 token can be added to your local MyCrypto interface by following these instructions.
 
@@ -26,63 +26,33 @@ If your token is not on the list, click the "Add Custom Token" button which will
 
 ## Adding a custom token
 
-To add a custom token, you will have to find the contract address of the token that you would like to add. You can use Etherscan or Ethplorer to find this address.
-
-<Accordion>
-<AccordionItem title="Finding the contract address with Etherscan">
+To add a custom token, you will have to find the contract address of the token that you would like to add. You can use Etherscan to find this address.
 
 After accessing your address with MyCrypto, click the Etherscan link as highlighted below.
 
 ![Etherscan link](../../assets/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens/etherscan-link.png)
 
-Click the token balance drop-down, and a list of tokens on your address will show up, and click the token that you would like to add to your MyCrypto interface.
+Click the token balance drop-down, and a list of tokens that your address holds will show up. Click the token that you would like to add to your MyCrypto interface.
 
 ![Etherscan tokenlist](../../assets/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens/etherscan-tokenlist.png)
 
-Then copy the contract address of this token, highlighted in red.
+Then, copy the contract address of this token, highlighted in red.
 
 ![Etherscan contract address](../../assets/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens/etherscan-contract-address.png)
 
-</AccordionItem>
-<AccordionItem title="Finding the contract address with Ethplorer">
-
-<!-- 1. On the ["Send"](https://mycrypto.com/account) page on MyCrypto, click `View Address` and paste *your* address.
-
-2. In a new tab, go to [Ethplorer.io](https://ethplorer.io/). 
-
-3. Navigate to your address.
-
-4. Scroll down until you see `Token Balances`.
-
-5. Click on the token that you want to add from the tokens shown in your wallet.
-
-6. You will be taken to a page that will you show all the information needed to add your token. Please look at the following image for further guidance.
-![Token information](../../assets/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens/token-information.png)
-
-7. Back on MyCrypto, click the `Add Custom Token` button on the right sidebar.
-
-8. Paste the `Contract Address`, `Symbol`, and `Decimals` that you got from Ethplorer.io.
-
-9. Click `"Save"`.
-
-🎉You can now send your new token and see it's balance in the sidebar! -->
-
-</AccordionItem>
-</Accordion>
-
 Enter the contract address in the `Address` field. You will notice that the `Decimals` and `Token Symbol` fields will be filled in for you automatically.
-
-If there is an issue with adding a custom token, try adding it again but suffixing the name with `-1`. For example `MYC` becomes `MYC-1`.
 
 ![Custom token fields filled](../../assets/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens/custom-token-fields-filled.png)
 
-Then click the `Save` button.
+If there is an issue with adding a custom token, try adding it again but suffixing the name with `-1`. For example, `MYC` becomes `MYC-1`.
+
+Click the `Save` button, and your custom token will now be shown in your interface. You can now interact with it like any other token.
 
 ![Custom token added](../../assets/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens/custom-token-added.png)
 
 ## Removing a custom token
 
-To remove a custom token, click the little ( - ) icon next to the token. This will remove it from the interface. It will not delete or remove the token from the address itself. They are still safely stored in your address, we promise.
+To remove a custom token, click the little ( x ) icon next to the token. This will remove it from the interface. It will not delete or remove the token from the address itself. They are still safely stored in your address, we promise.
 
 ## Related articles
 
