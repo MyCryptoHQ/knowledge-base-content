@@ -54,7 +54,7 @@ Click the `Save` button, and your custom token will now be shown in your interfa
 
 To remove a custom token, click the ( - ) icon next to the token. This will remove it from the interface.
 
-On [beta.mycrypto.com](https://download.mycrypto.com/), you can hide token balances without removing them completely by expanding the Balance Breakdown and clicking the ( - ) icon to hide them. You can un-hide tokens in the Settings page.
+On [beta.mycrypto.com](https://beta.mycrypto.com/), you can hide token balances without removing them completely by expanding the Balance Breakdown and clicking the ( - ) icon to hide them. You can un-hide tokens in the Settings page.
 
 Removing custom tokens and hiding tokens will merely remove the visibility of these tokens. It will not delete or remove the token from the address itself
 
