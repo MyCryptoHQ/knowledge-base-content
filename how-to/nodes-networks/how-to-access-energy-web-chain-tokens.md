@@ -5,7 +5,7 @@ tags:
   - Networks
 priority: 20
 date_published: '2020-09-30'
-date_modified: '2020-09-30'
+date_modified: '2020-10-07'
 ---
 
 Energy Web Chain ("EWC") is a blockchain designed to be used for the energy sector. Its utility token is Energy Web Token ("EWT") and this article will explain how you can access these tokens using MyCrypto.
@@ -61,7 +61,7 @@ From here, you are free to interact with your EWT however you wish.
 
 Energy Web has developed the EWT Bridged (EWTB) token, which is an ERC-20 token on the Ethereum blockchain. You can mint EWTB tokens through its interface which you can find at [bridge.energyweb.org](https://bridge.energyweb.org). This method allows you to transfer EWT from the Energy Web Chain to the Ethereum blockchain.
 
-If your Ethereum address contains EWTB tokens, you might not see them in your interface right away. In this case, you have to manually add this token as a [custom token](/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens).
+If your Ethereum address contains EWTB tokens, you might not see them in your interface right away. In this case, you have to manually add this token as a [custom token](/how-to/tokens/how-to-add-a-custom-token).
 
 The contract address of EWTB is `0x178c820f862b14f316509ec36b13123da19a6054`, you can also find this address on [Etherscan](https://etherscan.io/token/0x178c820f862b14f316509ec36b13123da19a6054).
 

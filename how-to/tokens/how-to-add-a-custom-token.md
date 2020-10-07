@@ -1,11 +1,11 @@
 ---
-title: Unable to See Tokens (How to add a custom token)
+title: How to add a custom token
 description: Tokens
 tags:
   - Tokens
 priority: 100
 date_published: '2017-01-25'
-date_modified: '2020-10-06'
+date_modified: '2020-10-07'
 ---
 
 If you can't see a token when you access your address with MyCrypto, you simply need to add it as a custom token to your interface. MyCrypto ships with a list of tokens that it will automatically scan your address for, which is updated with every release. However, it may happen that a new token is not on this list just yet, in which case you will have to manually add it to your interface.
@@ -60,5 +60,6 @@ Removing custom tokens and hiding tokens will merely remove the visibility of th
 
 ## Related articles
 
+* [Unable to see token balance](/troubleshooting/tokens/unable-to-see-token-balance)
 * [Can I store any coin in MyCrypto?](/general-knowledge/about-mycrypto/does-mycrypto-support-bitcoin-or-other-coins)
 * [Adding a token as a default token in MyCrypto](/developers/add-token-to-default-list)
