@@ -5,7 +5,7 @@ tags:
   - Tokens
 priority: 100
 date_published: '2017-12-23'
-date_modified: '2020-07-01'
+date_modified: '2020-10-07'
 ---
 
 ## How to load token balances
@@ -22,7 +22,7 @@ date_modified: '2020-07-01'
 
 ![Save button](../../assets/how-to/tokens/showing-and-loading-tokens/save-button.png)
 
-4. If a token you would like to see or send is not showing up, you will need to add it as a custom token. Click [here](/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens) for instructions on how to add a token.
+4. If a token you would like to see or send is not showing up, you will need to add it as a custom token. Click [here](/how-to/tokens/how-to-add-a-custom-token) for instructions on how to add a token.
 
 ![No tokens found](../../assets/how-to/tokens/showing-and-loading-tokens/no-tokens-found.png)
 
@@ -32,5 +32,5 @@ date_modified: '2020-07-01'
 
 ## Related Articles
 
-* [Adding a Custom Token](/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens)
+* [Adding a Custom Token](/how-to/tokens/how-to-add-a-custom-token)
 * [Receiving Tokens](/how-to/tokens/how-to-receive-tokens)

@@ -136,7 +136,9 @@ redirects:
   - from: hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-mycrypto.html
     to: troubleshooting/accessing-wallet/ledger-hardware-wallet-unable-to-connect-on-mycrypto
   - from: tokens/adding-new-token-and-sending-custom-tokens.html
-    to: troubleshooting/tokens/adding-new-token-and-sending-custom-tokens
+    to: how-to/tokens/how-to-add-a-custom-token
+  - from: troubleshooting/tokens/adding-new-token-and-sending-custom-tokens
+    to: how-to/tokens/how-to-add-a-custom-token
   - from: tokens/adding-custom-token-errors-fix.html
     to: troubleshooting/tokens/adding-custom-token-errors-fix
   - from: hardware-wallets/u2f-not-supported-error.html
