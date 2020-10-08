@@ -15,7 +15,5 @@
     "skipLibCheck": true,
     "resolveJsonModule": true
   },
-  "include": [
-    "./deploy.ts"
-  ]
+  "include": ["./deploy.ts"]
 }

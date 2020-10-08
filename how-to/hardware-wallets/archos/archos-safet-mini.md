@@ -5,7 +5,7 @@ tags:
   - Archos
 priority: 80
 date_published: '2018-07-25'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 Below is a guide on how to use the Archos Safe-T Mini Hardware Wallet with MyCrypto. We strongly recommend getting a hardware wallet to store your Ether and / or ERC-20 tokens. Please note that this guide assumes that your device is already configured. If not, please visit the [Archos Safe-T Mini FAQ Section](https://www.archos.com/gb/products/crypto/faq.html) for more information and to view a video on how to "Configure your Safe-T Mini."
@@ -27,15 +27,15 @@ It will open a new webpage: [https://mycrypto.com/.](https://mycrypto.com/)
 1. Click on the Safe-T Mini icon
 
 ![Wallet Overview](../../../assets/how-to/hardware-wallets/archos/archos-safet-mini/archos-safet-mini-2.jpg)
- 
+
 2. Click on “Connect to Safe-T Mini” and enter your PIN (the numbers will be displayed on your Safe-T mini screen).
 
 ![Connect to Safe-T Mini](../../../assets/how-to/hardware-wallets/archos/archos-safet-mini/archos-safet-mini-3.jpg)
 
 3. Click on “Export” and enter your PIN (the numbers will be displayed on your Safe-T mini screen).
-  
+
 ![Export public key](../../../assets/how-to/hardware-wallets/archos/archos-safet-mini/archos-safet-mini-4.jpg)
-  
+
 4. Select the address on which you want to send / receive Ether and click on “Unlock.”
 
 ![Select an Address](../../../assets/how-to/hardware-wallets/archos/archos-safet-mini/archos-safet-mini-5.jpg)
@@ -48,7 +48,7 @@ MyCrypto is now connected to your Safe-T Mini!
 
 Go to “Request payment.”
 
-![Request Payment](../../../assets/how-to/hardware-wallets/archos/archos-safet-mini/archos-safet-mini-6.jpg) 
+![Request Payment](../../../assets/how-to/hardware-wallets/archos/archos-safet-mini/archos-safet-mini-6.jpg)
 
 Your receiving address is now displayed in the “To Address” box, and also on the right side of the screen. This is the address you use to receive Ether.
 

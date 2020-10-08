@@ -6,12 +6,12 @@ tags:
   - Addresses
 priority: 60
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 ## Mismatched Private Key / Address
 
-Please be sure that you are **carefully and accurately** typing in your private key. A single wrong character will open a different wallet than "yours."
+Please be sure that you are **carefully and accurately** typing in your private key. A single wrong character will open a different wallet than "yours."
 
 For reference, private keys looks like this: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
 
@@ -29,5 +29,5 @@ Scroll to the bottom of <https://legacy.mycrypto.com/helpers.html>, enter your p
 
 ## Related Articles
 
-* [Finding multiple missing characters in private key](https://gist.github.com/domalak/f72414b6be6bbe497416f11bfe0d224a)
-* [Find multiple missing characters of the very end of a private key](/troubleshooting/accessing-wallet/missing-characters-of-private-key)
+- [Finding multiple missing characters in private key](https://gist.github.com/domalak/f72414b6be6bbe497416f11bfe0d224a)
+- [Find multiple missing characters of the very end of a private key](/troubleshooting/accessing-wallet/missing-characters-of-private-key)

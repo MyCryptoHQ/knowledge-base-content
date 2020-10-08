@@ -6,7 +6,7 @@ tags:
   - Tokens
 priority: 2
 date_published: '2017-12-23'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 In order to see your ETC and interact with the ETC chain, you must first be on an ETC node.
@@ -26,7 +26,7 @@ In order to switch back to ETH, simply change the node back to an ETH node in th
 
 There are four possible combinations of network + path when it comes to hardware wallets. If the above doesn't show your balance, try all four:
 
-* ETH Network, ETH path
-* ETH Network, ETC path
-* ETC Network, ETH path
-* ETC Network, ETC path
+- ETH Network, ETH path
+- ETH Network, ETC path
+- ETC Network, ETH path
+- ETC Network, ETC path

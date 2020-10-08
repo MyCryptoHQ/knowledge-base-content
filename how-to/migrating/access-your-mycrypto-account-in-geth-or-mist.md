@@ -5,14 +5,14 @@ tags:
   - Private Keys
 priority: 50
 date_published: '2015-07-15'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 Geth files are typically found in the file locations below.
 
-* Mac:`~/Library/Ethereum/keystore`
-* Linux:`~/.ethereum/keystore`
-* Windows:`%APPDATA%/Ethereum/keystore`
+- Mac:`~/Library/Ethereum/keystore`
+- Linux:`~/.ethereum/keystore`
+- Windows:`%APPDATA%/Ethereum/keystore`
 
 Optionally, you can specify the path through a command line option:
 

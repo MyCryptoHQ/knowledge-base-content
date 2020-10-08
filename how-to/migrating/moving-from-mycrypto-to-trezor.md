@@ -6,7 +6,7 @@ tags:
   - Trezor
 priority: 90
 date_published: '2017-11-08'
-date_modified: '2020-09-15'
+date_modified: '2020-10-08'
 ---
 
 The Trezor is one of the best and easiest-to-use cryptocurrency hardware wallets out there, and is available for purchase [here](https://shop.trezor.io/?offer_id=10&aff_id=1735). While the Trezor supports a wide range of cryptocurrencies, this guide was specifically written for using Ether and ERC-20 tokens with MyCrypto.
@@ -18,8 +18,8 @@ When connecting to your Trezor, **you do not generate a new wallet on MyCrypto**
 1. **Plug your device into your computer** using the USB cable provided.
 
 2. **Go to the URL displayed on your device.**
-   * You can use the buttons on your Trezor to confirm/deny actions.
-   
+   - You can use the buttons on your Trezor to confirm/deny actions.
+
 ![Initial device screen](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/device-initial-screen.jpg)
 
 ![Welcome to Trezor](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/welcome-to-trezor.png)
@@ -29,48 +29,48 @@ When connecting to your Trezor, **you do not generate a new wallet on MyCrypto**
 ![Create new](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/create-new.png)
 
 4. **Your Trezor is ready!**
-   * Click "Continue to the wallet." You will see a message that your Trezor is not yet backed up, and that your progress is 10%. Click on "Create a backup in 3 minutes."
+   - Click "Continue to the wallet." You will see a message that your Trezor is not yet backed up, and that your progress is 10%. Click on "Create a backup in 3 minutes."
 
 ![Continue to the wallet](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/continue-to-wallet.png)
 
 ![Your Trezor is not backed up](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/not-backed-up.png)
 
 5. **Creating your backup.**
-   * The Trezor will give you 24 random words that you will have to write down on the provided card that came in the box. These are the recovery words, also known as a seed phrase.
-   * You will have to use these words to restore your Trezor in case it fails or you accidentally reset it.
-   * **Do not save these recovery words on your computer or take a photo of these words with your phone.** Doing so means you are just as unsafe as using a normal private key.
-   * Always write them down physically using pen and paper, and keep this paper safe.
+   - The Trezor will give you 24 random words that you will have to write down on the provided card that came in the box. These are the recovery words, also known as a seed phrase.
+   - You will have to use these words to restore your Trezor in case it fails or you accidentally reset it.
+   - **Do not save these recovery words on your computer or take a photo of these words with your phone.** Doing so means you are just as unsafe as using a normal private key.
+   - Always write them down physically using pen and paper, and keep this paper safe.
 
 ![Create backup](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/create-backup.png)
 
 ![Write down the seed](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/write-down-seed.jpg)
 
 6. **Confirm your recovery words.**
-   * Once you've written down all of the words, you will be asked to confirm your recovery phrase in order to make sure that you've written them down correctly.
+   - Once you've written down all of the words, you will be asked to confirm your recovery phrase in order to make sure that you've written them down correctly.
 
 ![Confirm recovery phrase](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/confirm-recovery-phrase.png)
 
 7. **You're done backing up your Trezor!**
-   * In case you lose or break your Trezor, you will now be able to recover the wallets stored on it using the 24-word seed phrase.
+   - In case you lose or break your Trezor, you will now be able to recover the wallets stored on it using the 24-word seed phrase.
 
 ![Backup complete](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/backup-complete.png)
 
 8. **Naming your device.**
-   * Next, you will be asked to set a name for your Trezor. This is useful in case you own multiple Trezors or want to make sure the Trezor you have is yours.
-    
+   - Next, you will be asked to set a name for your Trezor. This is useful in case you own multiple Trezors or want to make sure the Trezor you have is yours.
+
 ![Choose name](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/choose-name.png)
 
 9. **The next step is setting a PIN.** Enter a new PIN that you will enter any time you want to access your wallets.
-   * Make sure this pin is hard to guess so that others won't be able to get access to your Trezor.
-   * If you are not sure how PINs work with the Trezor, look [here](https://wiki.trezor.io/User_manual:Entering_your_PIN) for more information.
-   * E.g., I want to set "8963" as a pin. This would mean that I have to click the lower-left button, then the middle-right button, then the lower-middle button, and finally the upper-left button.
-    
+   - Make sure this pin is hard to guess so that others won't be able to get access to your Trezor.
+   - If you are not sure how PINs work with the Trezor, look [here](https://wiki.trezor.io/User_manual:Entering_your_PIN) for more information.
+   - E.g., I want to set "8963" as a pin. This would mean that I have to click the lower-left button, then the middle-right button, then the lower-middle button, and finally the upper-left button.
+
 ![Enter new PIN interface](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/enter-new-pin-interface.png)
 
 ![Enter new PIN on Trezor](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/enter-new-pin-device.jpg)
 
 10. **Re-enter the PIN you just created.**
-    * Be aware that the order of the numbers on the display of your Trezor has changed, so you will have to click different buttons on your computer in order to enter the correct PIN.
+    - Be aware that the order of the numbers on the display of your Trezor has changed, so you will have to click different buttons on your computer in order to enter the correct PIN.
 
 ![Re-enter PIN](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/re-enter-pin.jpg)
 
@@ -131,7 +131,7 @@ In order to send from your Trezor hardware wallet, connect to your Trezor per th
 
 ![Gas slider](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/gas-slider.png)
 
-8. Click the `Send Transaction` button when you are ready to go. *(Don't worry, you will be able to review the transaction before it is sent)*
+8. Click the `Send Transaction` button when you are ready to go. _(Don't worry, you will be able to review the transaction before it is sent)_
 
 ![Confirm transaction](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/confirm-transaction.png)
 
@@ -151,5 +151,5 @@ Trezor made a clear and easy-to-follow guide on how to restore the device [here]
 
 ## Troubleshooting
 
-* Trezor has an extensive knowledge base that you can find [here](https://trezor.io/support/), and MyCrypto's is [here](/). There is a big chance that any issue you might encounter is already listed on one of them.
-* If you need further assistance, reach out to [Trezor](https://trezor.io/support/technical/issue/) or [MyCrypto](/contact-us/) support.
+- Trezor has an extensive knowledge base that you can find [here](https://trezor.io/support/), and MyCrypto's is [here](/). There is a big chance that any issue you might encounter is already listed on one of them.
+- If you need further assistance, reach out to [Trezor](https://trezor.io/support/technical/issue/) or [MyCrypto](/contact-us/) support.

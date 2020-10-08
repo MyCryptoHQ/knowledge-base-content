@@ -6,7 +6,7 @@ tags:
   - Ledger
 priority: 100
 date_published: '2017-10-08'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 The Ledger Nano S is one of the best and easiest-to-use cryptocurrency hardware wallets out there, and is available for purchase [here](https://www.ledgerwallet.com/r/1985?path=/products/). While the Ledger Nano S supports a wide range of cryptocurrencies, this guide was specifically written for using Ether and ERC-20 tokens with MyCrypto.
@@ -85,4 +85,4 @@ Ledger has an extensive knowledge base that you can find [here](https://support.
 
 ## Related links
 
-* [Ledger Privacy Policy](https://www.ledgerwallet.com/privacy-policy)
+- [Ledger Privacy Policy](https://www.ledgerwallet.com/privacy-policy)

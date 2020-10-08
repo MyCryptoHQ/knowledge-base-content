@@ -6,14 +6,14 @@ tags:
   - Phishing
 priority: 75
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 ## Victim of a phishing attack? We are sorry this happened
 
 Unfortunately, we encounter these phishing scams / attacks on a daily basis. The most common cause for these incidents is entering your private key on a malicious website. Sometimes it is a fake MyCrypto site (e.g., mycryqto[.]com) and other times it is a fake ICO, airdrop, or EthZero-like website. You may encounter these imposters on social media (e.g., Reddit, Twitter, or Slack), via email, ads on legitimate sites, or even in your search results when looking for a real project. Other major brands like Apple, Google, and PayPal are also vulnerable and they are used as lures for phishing attacks as well. If you enter your private key, Keystore file, mnemonic phrase, or password on a malicious website, the scammer will have complete access to your funds. You will **never** need to provide a private key to these sites.
 
-Because of the nature of the blockchain and cryptography, there is no way to reverse transactions or reset your passwords. Once a transaction is on the blockchain, it's final. For this reason, you need to move the rest of your funds as soon as possible to a new address and discontinue use of the address that was phished. 
+Because of the nature of the blockchain and cryptography, there is no way to reverse transactions or reset your passwords. Once a transaction is on the blockchain, it's final. For this reason, you need to move the rest of your funds as soon as possible to a new address and discontinue use of the address that was phished.
 
 ## What we do to ensure user safety
 
@@ -29,22 +29,23 @@ There are things you can do to help as well. You can help us document these phis
 
 ## Move your funds ASAP and protect yourself moving forward
 
-* Create new accounts, safely, and move all funds from existing accounts to these new ones as soon as you are in a place to do so. (Rushing does not help. Doing it safely is the most important thing.)
-  * [Get a Ledger or Trezor Hardware Wallet](/staying-safe/hardware-wallet-recommendations). (Safest!)
-  * [Create a Cold Storage Wallet](/how-to/offline/using-mycrypto-for-cold-storage). (Still really safe!)
-  * [Use MyCrypto + MetaMask](/how-to/migrating/moving-from-mycrypto-to-metamask).
+- Create new accounts, safely, and move all funds from existing accounts to these new ones as soon as you are in a place to do so. (Rushing does not help. Doing it safely is the most important thing.)
 
-* Never enter your private keys, passwords, or sensitive data on a website that you were sent via message.
+  - [Get a Ledger or Trezor Hardware Wallet](/staying-safe/hardware-wallet-recommendations). (Safest!)
+  - [Create a Cold Storage Wallet](/how-to/offline/using-mycrypto-for-cold-storage). (Still really safe!)
+  - [Use MyCrypto + MetaMask](/how-to/migrating/moving-from-mycrypto-to-metamask).
 
-* ONLY unlock your wallet when you want to send a transaction. Check your balance via [Etherscan](https://etherscan.io/) or [Ethplorer](https://ethplorer.io/).
+- Never enter your private keys, passwords, or sensitive data on a website that you were sent via message.
 
-* Do not trust messages or addresses or URLs sent via private message. Always verify information w/ a secondary source.
+- ONLY unlock your wallet when you want to send a transaction. Check your balance via [Etherscan](https://etherscan.io/) or [Ethplorer](https://ethplorer.io/).
 
-* Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn).
+- Do not trust messages or addresses or URLs sent via private message. Always verify information w/ a secondary source.
 
-* or Install [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn).
+- Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn).
 
-* or Install [Cryptonite by Metacert](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige).
+- or Install [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn).
+
+- or Install [Cryptonite by Metacert](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige).
 
 ## Tokens that haven't been distributed / Can't be moved yet
 

@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 70
 date_published: '2017-07-06'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 ## Preface
@@ -25,7 +25,7 @@ If you're wondering about the security of existing wallet solutions, see [part 2
 
 ## Overview
 
-I refer to this as a "wallet solution" rather than just a hardware wallet because it encompasses more than just some USB drives you stick in your computer. The way you decide to distribute the passwords and keyfiles, store the USB drives, and document your solution will all have pros and cons, and these are decisions left up for the user to determine. We will go over the security and convenience tradeoffs near the end of the guide, so I recommend you **read the entire guide *before* you start.**
+I refer to this as a "wallet solution" rather than just a hardware wallet because it encompasses more than just some USB drives you stick in your computer. The way you decide to distribute the passwords and keyfiles, store the USB drives, and document your solution will all have pros and cons, and these are decisions left up for the user to determine. We will go over the security and convenience tradeoffs near the end of the guide, so I recommend you **read the entire guide _before_ you start.**
 
 This part of the guide relies on free & open source software,<sub>[1](https://labs.riseup.net/code/projects/tails/),[2](https://keepass.info/download.html),[3](https://github.com/MyCryptoHQ/mycrypto.com/releases/latest)</sub> cheap hardware, and a bit of time in order to produce a system where sensitive data can be stored securely, accessed safely, and backed up easily. It follows the idea of security controls<sub>[1](https://en.wikipedia.org/wiki/Security_controls)</sub> to implement physical, technical, and administrative safeguards, but is left up to the user to ultimately choose which ones and how to implement them.
 
@@ -33,9 +33,9 @@ This part of the guide relies on free & open source software,<sub>[1](https://la
 
 We are essentially creating our own hardware wallet that has multi-factor authentication built in and no single point of failure (like a backup seed). The goal is to end up with 2 USB drives (more for redundant backups) that are used for:
 
-* Booting into a secure offline OS
-* Accessing doubly-encrypted sensitive data like private keys
-* Securely generating and signing transactions
+- Booting into a secure offline OS
+- Accessing doubly-encrypted sensitive data like private keys
+- Securely generating and signing transactions
 
 The multi-factor authentication depends on how you choose to implement this system. You can have as many or few separate physical USB "keys" and passwords required to unlock your wallet as you want, and the way you backup and distribute them is also up to your discretion. Read through the rest of the guide for some recommendations and discussion about the pros and cons.
 
@@ -45,19 +45,19 @@ Read the **entire** guide first, then go through step-by-step.
 
 ### Gather Materials
 
-* A computer with internet access capable of booting to a live OS on a USB drive (almost any PC or laptop)
-* Minimum of two flash drives larger than 4GB, more for redundant backups - USB 3.0 is a bonus
-* A way to view this guide and other ones I'll be linking to on a different computer during the offline portions
+- A computer with internet access capable of booting to a live OS on a USB drive (almost any PC or laptop)
+- Minimum of two flash drives larger than 4GB, more for redundant backups - USB 3.0 is a bonus
+- A way to view this guide and other ones I'll be linking to on a different computer during the offline portions
 
 ![QR to guide](../assets/staying-safe/advanced-secure-wallets-by-tomshwom/guide-qr.png)
 
-<sub>*Scan this QR code to follow the Steemit guide on your phone if you only have 1 computer to work from.*</sub>
+<sub>_Scan this QR code to follow the Steemit guide on your phone if you only have 1 computer to work from._</sub>
 
 ### Downloads
 
 The first step is to download the MyCrypto client so we can sign transactions from the offline wallet. You can get the latest release of MC [here](https://github.com/MyCryptoHQ/mycrypto.com/releases/latest). You want the **mycrypto-vX.X.X.zip** file, not source code. You may have to go one or two releases back to find that, but [here is a link to the version I used when writing this](https://github.com/MyCryptoHQ/mycrypto.com/releases/tag/v3.12.0). **Only download from the official source.** Please verify all links before you click them. If you're looking to use this for cryptocurrencies other than Ethereum, download the appropriate wallets that support offline use now too.
 
-Next, we need the latest release of [Tails](https://tails.boum.org/). Tails is a bootable OS that runs off a flash drive. It has lots of useful programs pre-installed, like KeePass, Tor, and even the [Electrum Bitcoin wallet](https://electrum.org/#home). Additionally, Tails is an **amnesic OS**, meaning it forgets everything you do after a restart. It does not save anything *unless you configure it correctly*. We will need to download a couple more pieces of software, but for now we move on to the Tails installation.
+Next, we need the latest release of [Tails](https://tails.boum.org/). Tails is a bootable OS that runs off a flash drive. It has lots of useful programs pre-installed, like KeePass, Tor, and even the [Electrum Bitcoin wallet](https://electrum.org/#home). Additionally, Tails is an **amnesic OS**, meaning it forgets everything you do after a restart. It does not save anything _unless you configure it correctly_. We will need to download a couple more pieces of software, but for now we move on to the Tails installation.
 
 ### Install Tails
 
@@ -77,7 +77,7 @@ When you get to the Tails welcome screen, **add the additional setting to "Disab
 
 **Choose an appropriate password** for the persistent storage volume depending on how you plan to store the password. You can't copy/paste this password from a secondary drive since it needs to be entered before Tails is completely loaded, so a randomized password is going to be annoying to look up and type each time.
 
-**If you're going to store it in memory only**, I recommend using an easy-to-remember password and sharing it with a trusted party like a family member who can also remember it. You may even want to use one of *their* memory-only passwords if they have a regular one. This is a safety measure for the case where you become unable to recall the password yourself. The better solution is to clone your Tails USB key containing the database, but create the persistent volume under a different password that your trusted party knows. They can't access the database without also having the master password and keyfile, so this should be relatively safe.
+**If you're going to store it in memory only**, I recommend using an easy-to-remember password and sharing it with a trusted party like a family member who can also remember it. You may even want to use one of _their_ memory-only passwords if they have a regular one. This is a safety measure for the case where you become unable to recall the password yourself. The better solution is to clone your Tails USB key containing the database, but create the persistent volume under a different password that your trusted party knows. They can't access the database without also having the master password and keyfile, so this should be relatively safe.
 
 Alternatively, **if you're going to store this password in a password manager** separate from the wallet USB keys, I suggest a strong passphrase that isn't based on lyrics, books, quotes, or other publicly available works. This makes it resistant to dictionary attacks while still being long enough to avoid brute-force. Make sure the password database is stored redundantly so that it isn't lost. If the master password to this database isn't known by another trusted party, you risk losing access to your funds.
 
@@ -97,9 +97,9 @@ Unzip the archive and open index.html to verify everything works. You may have t
 
 <sub>I have a very comprehensive Steemit post covering KeePass [here](https://steemit.com/security/@tomshwom/computer-hygiene-part-4-comprehensive-guide-to-keepass-password-manager) that is a good reference if this is your first time using the program or have never dug into the security settings before.</sub>
 
-Now we need to create a password to generate our private key and UTC file using the MC/MEW client. 
+Now we need to create a password to generate our private key and UTC file using the MC/MEW client.
 
-Run KeePass from applications (top left corner) > accessories > KeePassX. 
+Run KeePass from applications (top left corner) > accessories > KeePassX.
 
 Enter a master password that is different from the one you used for the encrypted persistent volume. This password could be memorized (taking into account the discussion above), randomly generated and stored on a drive separate from the Tails drive, or ignored completely. Obviously, choosing to ignore the password or use the same one as the persistent volume is less secure. **If you are already using a memory-only password for the encrypted volume**, I recommend using a recorded password that is stored in a separate password manager.
 
@@ -113,7 +113,7 @@ Create an entry for your MC/MEW password and use the password generator to give 
 
 ![Password generation](../assets/staying-safe/advanced-secure-wallets-by-tomshwom/password-generation.png)
 
-Go back to the MC/MEW client and put this password in to generate a new wallet. Download your Keystore File. 
+Go back to the MC/MEW client and put this password in to generate a new wallet. Download your Keystore File.
 
 In KeePass, open your password entry and attach the keystore file in the advanced options. Now you have your password + keystore in one place (which is equivalent to your full private key). Save your actual private key in KeePass also. Delete the keystore file, we only want it to exist in KeePass. Don't store the private key or keystore anywhere other than your encrypted KeePass database.
 
@@ -135,20 +135,20 @@ If everything is done correctly, you should be able to access your address using
 
 ### On Your Tails Drive
 
-* Tails installed with persistent volume password stored in memory*
-* KeePass database (in persistent Tor directory) with password in a secure location*
-* MC/MEW client (in persistent Tor directory)
+- Tails installed with persistent volume password stored in memory\*
+- KeePass database (in persistent Tor directory) with password in a secure location\*
+- MC/MEW client (in persistent Tor directory)
 
 ### On Your Secondary Drive
 
-* Keyfile for the KeePass database
-* Additional passwords*
+- Keyfile for the KeePass database
+- Additional passwords\*
 
 ### On an Optional Tertiary Drive or in a Password Manager
 
-* KeePass database backup
-* KeePass keyfile\* OR KeePass password\* (never store these on one device, especially one with the database)
-* Persistent volume password*
+- KeePass database backup
+- KeePass keyfile\* OR KeePass password\* (never store these on one device, especially one with the database)
+- Persistent volume password\*
 
 <sub>\* only indicates recommendations, can be changed however you like for more/less security</sub>
 
@@ -160,10 +160,10 @@ Once you're sure that everything is set up correctly the way you want, test the 
 
 At this point, I recommend documenting how your system is set up so that you and/or a trusted party can access your funds if you ever forget or become unable to. These entries should have their location, quantity, and purpose recorded:
 
-* **Tails OS with KeePass database and MC/MEW client** - stored redundantly on multiple USB drives. Recommended for database to contain MC/MEW UTC file + password and private key
-* **Tails persistent volume password** - recommended to be memorized and simple, can set up secondary Tails with different password to make it easy for trusted party to also access
-* **KeePass master password** - recommended to be unique and secure from brute force and dictionary attacks. Can store encrypted on a separate system unrelated to the wallet drives
-* **KeePass keystore file** - recommended to be stored redundantly on multiple USB drives, encryption is a plus
+- **Tails OS with KeePass database and MC/MEW client** - stored redundantly on multiple USB drives. Recommended for database to contain MC/MEW UTC file + password and private key
+- **Tails persistent volume password** - recommended to be memorized and simple, can set up secondary Tails with different password to make it easy for trusted party to also access
+- **KeePass master password** - recommended to be unique and secure from brute force and dictionary attacks. Can store encrypted on a separate system unrelated to the wallet drives
+- **KeePass keystore file** - recommended to be stored redundantly on multiple USB drives, encryption is a plus
 
 ### Create Backups
 
@@ -183,8 +183,8 @@ At this point, you need to take a step back and look at what you're really doing
 
 ## Summary
 
-This is a lengthy guide and is intentionally vague in some areas to encourage users to put thought into it and figure it out on their own. The end result should be a sort of multi-signature, offline accessible, inexpensive, highly encrypted wallet. 
+This is a lengthy guide and is intentionally vague in some areas to encourage users to put thought into it and figure it out on their own. The end result should be a sort of multi-signature, offline accessible, inexpensive, highly encrypted wallet.
 
-It is up to the user to maintain their own protocols for accessing the cold storage wallet, namely, to only bring the separate required drives together when accessing the wallet and promptly separating them once they're done. 
+It is up to the user to maintain their own protocols for accessing the cold storage wallet, namely, to only bring the separate required drives together when accessing the wallet and promptly separating them once they're done.
 
 Creating redundant backups is highly encouraged, but don't make more than you can actually store securely. Be careful about the passwords you choose and how they are stored.

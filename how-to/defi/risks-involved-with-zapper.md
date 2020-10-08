@@ -6,7 +6,7 @@ tags:
   - Decentralized Finance
 priority: 40
 date_published: '2020-05-06'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 If you’d like information on how to open and close zaps, please visit our [How To Use Zapper](/how-to/defi/how-to-use-zapper) article.
@@ -37,26 +37,31 @@ The two risk types listed above are the most common and most impactful types of 
 
 ## A Few Terms You Should Know
 
-* Decentralized Finance (DeFi)
-  * Short for decentralized finance, DeFi refers to financial services for crypto, such as borrowing, lending, and trading, that are usually facilitated using smart contracts on the blockchain. They are often open-source and noncustodial.
+- Decentralized Finance (DeFi)
 
-* Uniswap Pools & Liquidity
-  * A pool is a pool of tokens. On Uniswap, each token has its own pool.
-  * Liquidity is the amount of tokens available in any given pool. If a pool has very little tokens, it has low liquidity. If there are many tokens, it has high liquidity.
-  * A user can contribute their own tokens to the various pools on Uniswap, increasing liquidity.
-  * Separately, when a user goes to exchange one token for another on Uniswap, they tap into the available tokens in the respective pools. If you’ve contributed liquidity to the pool(s) that the user is tapping into, you’ll get a small share of the exchange fee. The more liquidity that you’ve supplied to a pool, the larger your share is.
+  - Short for decentralized finance, DeFi refers to financial services for crypto, such as borrowing, lending, and trading, that are usually facilitated using smart contracts on the blockchain. They are often open-source and noncustodial.
 
-* Exposure
-  * Exposure is the inherent risk in an investment. If the only asset you hold is Ether, you are 100% exposed to the effects of ETH’s price fluctuations. If you diversify some of your investments into other assets, you reduce your ETH exposure - you are less affected by ETH’s price fluctuations.
+- Uniswap Pools & Liquidity
 
-* Stablecoin
-  * Stablecoins are a class of token that are pegged to the price of a reserve asset, offering more stability in price. Many stablecoins, like DAI and Tether, are pegged to the price of 1 US Dollar. Holding a stablecoin means your potential losses are minimized, but you’ll also lose out on potential gains.
+  - A pool is a pool of tokens. On Uniswap, each token has its own pool.
+  - Liquidity is the amount of tokens available in any given pool. If a pool has very little tokens, it has low liquidity. If there are many tokens, it has high liquidity.
+  - A user can contribute their own tokens to the various pools on Uniswap, increasing liquidity.
+  - Separately, when a user goes to exchange one token for another on Uniswap, they tap into the available tokens in the respective pools. If you’ve contributed liquidity to the pool(s) that the user is tapping into, you’ll get a small share of the exchange fee. The more liquidity that you’ve supplied to a pool, the larger your share is.
 
-* Synthetic ETH (sETH)
-  * Synthetic assets are artificial. You can use the Synthetix platform’s tokens (SNX) to “create” any synthetic asset - synthetic ETH (sETH), synthetic BTC (sBTC), and others. The point of this is if you’d like to create exposure to an asset (because synthetic assets are pegged to the price of the real asset) without actually having that asset. So, for example, if you didn’t have ETH but wanted the price action (aka gains and losses) of ETH, you could mint synthetic ETH. Generally you don’t need to do things with synthetic assets, but there are cases for it like with the sETH Unipool zap, which allows you to take your share of the fees from other users trading in the ETH/sETH Uniswap pool.
+- Exposure
 
-* Fund
-  * Fund is a term used to describe any money that you’ve set aside for a certain purpose, similar to what you’re doing when you put some of your assets into a zap with the goal of gaining on it! This term is not specific to cryptocurrency - it is a term used in all areas of finance.
+  - Exposure is the inherent risk in an investment. If the only asset you hold is Ether, you are 100% exposed to the effects of ETH’s price fluctuations. If you diversify some of your investments into other assets, you reduce your ETH exposure - you are less affected by ETH’s price fluctuations.
+
+- Stablecoin
+
+  - Stablecoins are a class of token that are pegged to the price of a reserve asset, offering more stability in price. Many stablecoins, like DAI and Tether, are pegged to the price of 1 US Dollar. Holding a stablecoin means your potential losses are minimized, but you’ll also lose out on potential gains.
+
+- Synthetic ETH (sETH)
+
+  - Synthetic assets are artificial. You can use the Synthetix platform’s tokens (SNX) to “create” any synthetic asset - synthetic ETH (sETH), synthetic BTC (sBTC), and others. The point of this is if you’d like to create exposure to an asset (because synthetic assets are pegged to the price of the real asset) without actually having that asset. So, for example, if you didn’t have ETH but wanted the price action (aka gains and losses) of ETH, you could mint synthetic ETH. Generally you don’t need to do things with synthetic assets, but there are cases for it like with the sETH Unipool zap, which allows you to take your share of the fees from other users trading in the ETH/sETH Uniswap pool.
+
+- Fund
+  - Fund is a term used to describe any money that you’ve set aside for a certain purpose, similar to what you’re doing when you put some of your assets into a zap with the goal of gaining on it! This term is not specific to cryptocurrency - it is a term used in all areas of finance.
 
 ## Frequently Asked Questions
 
@@ -68,25 +73,28 @@ There's always risk when interacting with DeFi and smart contracts, and Zapper i
 
 At this time, Zapper enables access to the following protocols:
 
-* [Compound](http://compound.finance)
-  * Compound is a protocol that allows you to borrow and lend assets. Lending assets yields returns in the form of an interest rate.
+- [Compound](http://compound.finance)
 
-* [Kyber](http://kyber.network)
-  * Kyber is a protocol that allows the exchange of cryptocurrencies.
+  - Compound is a protocol that allows you to borrow and lend assets. Lending assets yields returns in the form of an interest rate.
 
-* [Uniswap](http://uniswap.io)
-  * Uniswap is a protocol that allows the exchange of cryptocurrencies. Uniswap allows users to contribute liquidity to pools, and liquidity providers yield returns in the form of transfer fees.
+- [Kyber](http://kyber.network)
 
-* [Synthetix](https://synthetix.exchange/)
-  * Synthetix is a synthetic asset platform that allows users to gain exposure to forex, cryptocurrencies, and commodities trading.
+  - Kyber is a protocol that allows the exchange of cryptocurrencies.
+
+- [Uniswap](http://uniswap.io)
+
+  - Uniswap is a protocol that allows the exchange of cryptocurrencies. Uniswap allows users to contribute liquidity to pools, and liquidity providers yield returns in the form of transfer fees.
+
+- [Synthetix](https://synthetix.exchange/)
+  - Synthetix is a synthetic asset platform that allows users to gain exposure to forex, cryptocurrencies, and commodities trading.
 
 ### Which Zaps are available?
 
 MyCrypto’s Zapper integration will initially allow you to access three Zaps:
 
-* DAI Unipool: Swaps 50% of ETH for DAI (using Uniswap) and contributes both ETH & DAI to Uniswap DAI Pool.
-* sETH Unipool: Swaps 50% of ETH for sETH (using Uniswap) and contributes both ETH & sETH to the Uniswap sETH Pool.
-* Compound Dai Pool: Swaps 100% of ETH for DAI (using Kyber Network) and contributes it to Compound.
+- DAI Unipool: Swaps 50% of ETH for DAI (using Uniswap) and contributes both ETH & DAI to Uniswap DAI Pool.
+- sETH Unipool: Swaps 50% of ETH for sETH (using Uniswap) and contributes both ETH & sETH to the Uniswap sETH Pool.
+- Compound Dai Pool: Swaps 100% of ETH for DAI (using Kyber Network) and contributes it to Compound.
 
 We’ll be working to add more Zaps over time, but you can access all of the Zaps via [Zapper.fi](https://www.zapper.fi/).
 

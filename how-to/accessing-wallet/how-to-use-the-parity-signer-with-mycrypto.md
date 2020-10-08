@@ -5,7 +5,7 @@ tags:
   - Parity Signer
 priority: 60
 date_published: '2018-04-18'
-date_modified: '2020-09-01'
+date_modified: '2020-10-08'
 ---
 
 ## What is the Parity Signer?
@@ -94,8 +94,8 @@ Make sure to first do a trial run with a small amount of Ether before sending la
 
 ## Related articles
 
-* [Parity Support](http://paritytech.io/)
-* [Parity Privacy Policy](http://paritytech.io/legal/)
-* [Parity Signer + MyCrypto Tutorial](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html)
-* [How to Keep your Recovery Seed/Phrase Secure](https://blockonomi.com/keep-recovery-seed-safe/)
-* [Traditional Hardware Wallet Recommendations](/staying-safe/hardware-wallet-recommendations)
+- [Parity Support](http://paritytech.io/)
+- [Parity Privacy Policy](http://paritytech.io/legal/)
+- [Parity Signer + MyCrypto Tutorial](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html)
+- [How to Keep your Recovery Seed/Phrase Secure](https://blockonomi.com/keep-recovery-seed-safe/)
+- [Traditional Hardware Wallet Recommendations](/staying-safe/hardware-wallet-recommendations)

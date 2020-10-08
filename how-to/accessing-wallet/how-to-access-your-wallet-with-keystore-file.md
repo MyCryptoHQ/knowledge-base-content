@@ -5,7 +5,7 @@ tags:
   - Private Keys
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 ## Important Information
@@ -17,11 +17,12 @@ We do not recommend that you access your wallet via Keystore file.
 Keystore files are vulnerable for two reasons:
 
 1. Theft
-   * To use a keystore file means you need to upload this file online and type in a password to unlock the file. If you enter this into a fake phishing website, your funds **WILL BE STOLEN**
+
+   - To use a keystore file means you need to upload this file online and type in a password to unlock the file. If you enter this into a fake phishing website, your funds **WILL BE STOLEN**
 
 2. They are not recoverable if lost or stolen
-   * MyCrypto does not store any information. We only have access to information that is publicly available on the blockchain. Hardware wallets at least give you a chance to restore your wallet if you lose the device using the 12-word seed phrase if you have backed it up correctly.
-   * If you lose the keystore file or forget the password, there is almost no guarantee that you will ever gain access back to the wallet
+   - MyCrypto does not store any information. We only have access to information that is publicly available on the blockchain. Hardware wallets at least give you a chance to restore your wallet if you lose the device using the 12-word seed phrase if you have backed it up correctly.
+   - If you lose the keystore file or forget the password, there is almost no guarantee that you will ever gain access back to the wallet
 
 ### What is a Keystore File?
 
@@ -46,11 +47,11 @@ MyCrypto does not allow you to use the web application to access your keystore f
 6. Click "Unlock" and your wallet will show up.
 
 7. Find your account address, next to a colorful, circular icon. This icon visually represents your address.
-   * If you printed out your wallet, check to be sure the circles match. They should be the same colors and shapes. Otherwise, something went wrong and you should start over.
+   - If you printed out your wallet, check to be sure the circles match. They should be the same colors and shapes. Otherwise, something went wrong and you should start over.
 
 ## Related articles
 
-* [Backing up your wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
-* [Sending & Receiving](/how-to/sending)
-* [Protecting Yourself and Your Funds](/staying-safe/protecting-yourself-and-your-funds)
-* [Difference between an exchange and MyCrypto](/general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto)
+- [Backing up your wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
+- [Sending & Receiving](/how-to/sending)
+- [Protecting Yourself and Your Funds](/staying-safe/protecting-yourself-and-your-funds)
+- [Difference between an exchange and MyCrypto](/general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto)

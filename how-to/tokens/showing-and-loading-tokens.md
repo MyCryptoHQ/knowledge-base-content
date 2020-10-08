@@ -5,12 +5,12 @@ tags:
   - Tokens
 priority: 100
 date_published: '2017-12-23'
-date_modified: '2020-10-07'
+date_modified: '2020-10-08'
 ---
 
 ## How to load token balances
 
-1. Click the "Scan for Tokens" Button. 
+1. Click the "Scan for Tokens" Button.
 
 ![Scan for tokens](../../assets/how-to/tokens/showing-and-loading-tokens/scan-for-tokens.png)
 
@@ -32,5 +32,5 @@ date_modified: '2020-10-07'
 
 ## Related Articles
 
-* [Adding a Custom Token](/how-to/tokens/how-to-add-a-custom-token)
-* [Receiving Tokens](/how-to/tokens/how-to-receive-tokens)
+- [Adding a Custom Token](/how-to/tokens/how-to-add-a-custom-token)
+- [Receiving Tokens](/how-to/tokens/how-to-receive-tokens)

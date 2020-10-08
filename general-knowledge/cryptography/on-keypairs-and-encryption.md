@@ -6,7 +6,7 @@ tags:
   - Safety & Security
 priority: 4
 date_published: '2017-07-05'
-date_modified: '2020-09-15'
+date_modified: '2020-10-08'
 ---
 
 The Ledger (and other hardware wallets) are essentially USB sticks but with really really really really really really hardcore software / firmware / hardware that makes it so your key cannot be accessed or moved, even if your computer is compromised. With a regular USB drive, 1337 h4x0r can pull crazy maneuvers to get the info from it via hardware alone, watching the read / writes, or simply searching for your private key, mnemonic, or keystore file on the USB drive. Ledger / Trezor are dedicated devices built to prevent all these types of attacks.
@@ -15,20 +15,20 @@ The Ledger (and other hardware wallets) are essentially USB sticks but with real
 
 The private key (or keystore file or mnemonic or hardware wallet) is basic cryptography in the end⁠—the same cryptography that is used in all sorts of systems that have been around far longer than cryptocurrencies.
 
-At it's most basic, a `private key` can turn into a `public key` but a `public key` cannot turn into a `private key`. However, this public key (via fancy math and really really intense computations) can *verify that a specific private key was used to sign the transaction*.
+At it's most basic, a `private key` can turn into a `public key` but a `public key` cannot turn into a `private key`. However, this public key (via fancy math and really really intense computations) can _verify that a specific private key was used to sign the transaction_.
 
-Imagine this: You have a buddy in the other room who says a word. The word either has 1 syllable, 5 syllables, or 20 syllables. You cannot hear *what* he says, but you can easily verify that the word he said was short, medium, or ultra-long. So you *know* what word he said (given there were only 3 choices) even though you don't *know the actual word*. Cryptography is a bit like that, except it involves fancy graphs, extreme math, and an almost infinite number of private keys (aka "the word your buddy said").
+Imagine this: You have a buddy in the other room who says a word. The word either has 1 syllable, 5 syllables, or 20 syllables. You cannot hear _what_ he says, but you can easily verify that the word he said was short, medium, or ultra-long. So you _know_ what word he said (given there were only 3 choices) even though you don't _know the actual word_. Cryptography is a bit like that, except it involves fancy graphs, extreme math, and an almost infinite number of private keys (aka "the word your buddy said").
 
 ### Verifying the private key corresponds to public key
 
-So back to your question-ish: *If the private key is unlocking the wallet from elsewhere...*
+So back to your question-ish: _If the private key is unlocking the wallet from elsewhere..._
 
 It's not actually unlocking from elsewhere. There is no server; the blockchain does not know about your private key or password or address (public key) even. It's not the same as what you are used to with email and facebook and all the new-fangled jazz.
 
 The blockchain simply checks if the transaction you want to send (e.g., `1 ETH` to `0x2a9F48....` from `0x92fbC3.....`) is valid:
 
-* Does the `from address` have 1 ETH to send?
-* Did the private key pair of that address (the public key) sign the transaction?
+- Does the `from address` have 1 ETH to send?
+- Did the private key pair of that address (the public key) sign the transaction?
 
 I could sign a transaction saying `0x92fbC3.....` wants to send `1 ETH` to `0x2a9F48....` with any key I wanted to. I could just make it up off the top of my head. But it would fail check #2, and therefore never be accepted into the blockchain, and therefore the funds (which are your funds) would never move.
 
@@ -42,16 +42,16 @@ Private keys can be fancy: They can be keystore files (which are encrypted with 
 
 When we say encrypted we mean that you must do something first, before you can use the private key to sign the transaction. Encryption works like this:
 
-* You take `7` (your private key) and you multiply it by `10` (your password) which outputs `70`.
-* The `70` is now your encrypted key
-* You can't use `70` to sign a transaction because it's gibberish
-* You can take `70` and divide it by `10` in order to get `7`. But you can't figure out what `7` is unless you have that secondary piece of information (your password / `10`). `7 x 10 = 70` and `70 / 10 = 7` but if you only have 70, you have an infinite number of possibilities for the private key and password: It could be `14 x 5` or `9 x 7.777777778` and on and on.
+- You take `7` (your private key) and you multiply it by `10` (your password) which outputs `70`.
+- The `70` is now your encrypted key
+- You can't use `70` to sign a transaction because it's gibberish
+- You can take `70` and divide it by `10` in order to get `7`. But you can't figure out what `7` is unless you have that secondary piece of information (your password / `10`). `7 x 10 = 70` and `70 / 10 = 7` but if you only have 70, you have an infinite number of possibilities for the private key and password: It could be `14 x 5` or `9 x 7.777777778` and on and on.
 
 Again, there is no server verifying your password or private key. It's all done by your computer and all it knows is that it's either correct or incorrect by trying it:
 
-* if you take `70` and divide it by `8`, you get `8.75`, which is not the private key for the public key you want to send from.
-* if you take `70` and divide it by `0`, the world ends bc you can't divide by 0, silly.
-* if you take `70` and divide it by `80000`, you get `0.000875` which is way too small to be a private key.
+- if you take `70` and divide it by `8`, you get `8.75`, which is not the private key for the public key you want to send from.
+- if you take `70` and divide it by `0`, the world ends bc you can't divide by 0, silly.
+- if you take `70` and divide it by `80000`, you get `0.000875` which is way too small to be a private key.
 
 ...and so forth and so forth. When you give it the correct password, it gets a valid private key and can sign the transaction, which can then be put on the blockchain, and you successfully sent your ETH.
 

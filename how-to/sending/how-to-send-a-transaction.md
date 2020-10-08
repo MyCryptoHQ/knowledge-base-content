@@ -5,7 +5,7 @@ tags:
   - Transactions
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2020-10-07'
+date_modified: '2020-10-08'
 ---
 
 If you plan to move a large amount of Ether or tokens, you should first send a test transaction of a small amount to the destination wallet to ensure everything goes as planned.
@@ -20,6 +20,7 @@ Optional, but **highly recommended** (if you haven't already): Install [MetaMask
 4. Enter the address you would like to send to in the "To Address:" field.
 
 5. If you're sending ETH, move on the step 6. If you are sending a token, select which one you want to send. If the token of your choice is not listed:
+
    1. In the sidebar, click [Add Custom Token](/how-to/tokens/how-to-add-a-custom-token).
    2. Enter the address, name, and decimals of the token. These are provided by the developers of the token and are also found on [Ethplorer](https://ethplorer.io/).
    3. Click "Save."
@@ -39,5 +40,5 @@ Just as a reminder, any transaction that you make will require gas which is paid
 
 ## Related Articles
 
-* [What is Gas](/general-knowledge/ethereum-blockchain/what-is-gas)
-* [Transactions Not Showing Up or Pending Forever](/troubleshooting/sending/transactions-not-showing-or-pending)
+- [What is Gas](/general-knowledge/ethereum-blockchain/what-is-gas)
+- [Transactions Not Showing Up or Pending Forever](/troubleshooting/sending/transactions-not-showing-or-pending)

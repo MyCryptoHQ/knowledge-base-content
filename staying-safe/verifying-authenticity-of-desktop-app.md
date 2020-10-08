@@ -6,7 +6,7 @@ tags:
   - MyCrypto
 priority: 75
 date_published: '2018-05-01'
-date_modified: '2020-08-17'
+date_modified: '2020-10-08'
 ---
 
 After downloading the desktop application, it's highly recommended to verify the checksum of the application. This ensures that you are using the real MyCrypto desktop application and not one that has been tampered with by someone else.
@@ -46,7 +46,7 @@ To check the signature of the `checksums.txt.gpg` file, you have to run the foll
 
 <Alert>
 
-If you see a warning about the GPG key being expired, you may have to import the key again, by following step 3. 
+If you see a warning about the GPG key being expired, you may have to import the key again, by following step 3.
 
 </Alert>
 
@@ -105,7 +105,7 @@ $ gpg --output checksums.txt --decrypt checksums.txt.gpg
 
 <Alert>
 
-If you see a warning about the GPG key being expired, you may have to import the key again, by following step 3. 
+If you see a warning about the GPG key being expired, you may have to import the key again, by following step 3.
 
 </Alert>
 
@@ -176,7 +176,7 @@ $ gpg --output checksums.txt --decrypt checksums.txt.gpg
 
 <Alert>
 
-If you see a warning about the GPG key being expired, you may have to import the key again, by following step 3. 
+If you see a warning about the GPG key being expired, you may have to import the key again, by following step 3.
 
 </Alert>
 

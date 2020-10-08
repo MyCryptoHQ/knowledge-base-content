@@ -6,7 +6,7 @@ tags:
   - Private Keys
 priority: 50
 date_published: '2017-07-05'
-date_modified: '2020-09-15'
+date_modified: '2020-10-08'
 ---
 
 "How does Ethereum ensure that two people aren't given the same key?"
@@ -63,9 +63,9 @@ Even if the blockchain is in active, vigorous use for the next ten thousand year
 
 ## Related articles
 
-* [Couldn't everybody put in random private keys, look for a balance, and send to their own address?](/staying-safe/couldnt-everybody-put-in-a-random-key-and-send-to-own-address)
+- [Couldn't everybody put in random private keys, look for a balance, and send to their own address?](/staying-safe/couldnt-everybody-put-in-a-random-key-and-send-to-own-address)
 
 ## Sources
 
-* [Adapted from this Reddit thread](https://www.reddit.com/r/ethereum/comments/6fr2lx/updated_its_time_to_get_real_stop_relying_on/diki8iz/)
-* [A video about keys](http://decypher.tv/series/ethereum-development/video/2)
+- [Adapted from this Reddit thread](https://www.reddit.com/r/ethereum/comments/6fr2lx/updated_its_time_to_get_real_stop_relying_on/diki8iz/)
+- [A video about keys](http://decypher.tv/series/ethereum-development/video/2)

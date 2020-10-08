@@ -6,7 +6,7 @@ tags:
   - Transactions
 priority: 90
 date_published: '2017-12-23'
-date_modified: '2020-10-07'
+date_modified: '2020-10-08'
 ---
 
 With MyCrypto, it's possible to receive any Ethereum-based token by simply sending it to **your** Ethereum address. By default, MyCrypto will try to look for the most popular tokens in your address, but it might not always find every single token you own. In this case it's possible to [manually add it to your interface](/how-to/tokens/how-to-add-a-custom-token).
@@ -17,6 +17,6 @@ Make sure that you do **NOT** send your tokens directly to the token contract ad
 
 ## Related articles
 
-* [Showing and Loading Tokens](/how-to/tokens/showing-and-loading-tokens)
-* [How to Add a Custom Token](/how-to/tokens/how-to-add-a-custom-token)
-* [Should I Keep My ETH and Tokens in a Single or Multiple Addresses?](/general-knowledge/ethereum-blockchain/should-i-keep-my-eth-or-tokens-in-single-or-multiple-addresses)
+- [Showing and Loading Tokens](/how-to/tokens/showing-and-loading-tokens)
+- [How to Add a Custom Token](/how-to/tokens/how-to-add-a-custom-token)
+- [Should I Keep My ETH and Tokens in a Single or Multiple Addresses?](/general-knowledge/ethereum-blockchain/should-i-keep-my-eth-or-tokens-in-single-or-multiple-addresses)

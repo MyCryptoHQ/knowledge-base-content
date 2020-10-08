@@ -6,7 +6,7 @@ tags:
   - Private Keys
 priority: 80
 date_published: '2017-07-05'
-date_modified: '2020-09-15'
+date_modified: '2020-10-08'
 ---
 
 ## Preface
@@ -15,40 +15,46 @@ The following assumes you are **not** using a Ledger or Trezor hardware wallet. 
 
 To save / backup your Ledger or Trezor device, simply write down the 24-word phrase on the card they provide and keep it very, very safe. Never put this key on an online device or type it in to MyCrypto.com.
 
-You can run MyCrypto.com on your computer and this computer can be a cold-storage or offline computer. This means it is a computer that is not connected to the internet and *will never be connected to the internet again.* You can generate a wallet completely offline & send Ether or Tokens from the "View & Send" page.
+You can run MyCrypto.com on your computer and this computer can be a cold-storage or offline computer. This means it is a computer that is not connected to the internet and _will never be connected to the internet again._ You can generate a wallet completely offline & send Ether or Tokens from the "View & Send" page.
 
 ## How to
 
-* First off, follow our guide on [running MyCrypto offline and locally](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
+- First off, follow our guide on [running MyCrypto offline and locally](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
 
-* Open the "Create New Wallet" tab in the MyCrypto desktop application. Click "Generate a Keystore File".
+- Open the "Create New Wallet" tab in the MyCrypto desktop application. Click "Generate a Keystore File".
 
-* Enter a strong but easy to remember password. Do not forget it.
-  * *This encrypts (protects) your private key. It does not generate your private key. This password alone will **not** be enough to access your Ether.*
+- Enter a strong but easy to remember password. Do not forget it.
 
-* Click the `"Generate New Wallet"` button.
+  - _This encrypts (protects) your private key. It does not generate your private key. This password alone will **not** be enough to access your Ether._
 
-* Download your `Keystore / UTC file` & save this file to a USB drive.
-  * *This is the encrypted version of your private key. You need the password to access it. It is safer than your unencrypted private key but you must have your password to access it in the future.*
+- Click the `"Generate New Wallet"` button.
 
-* Read the warning. If you understand it, click the `"Continue"` button.
+- Download your `Keystore / UTC file` & save this file to a USB drive.
 
-* Print your paper wallet backup and/or *carefully* hand-write the `private key` on a piece of paper.
-  * *If you are writing it, it is recommended you write it 2 or 3 times. This decreases the chance your messy handwriting will prevent you from accessing your wallet later.*
+  - _This is the encrypted version of your private key. You need the password to access it. It is safer than your unencrypted private key but you must have your password to access it in the future._
 
-* Copy & paste your address into a text document somewhere. Get it to your primary, online computer.
-  * *Use the QR code or a different USB drive. It is best if you do not hand-write it*
-  * *Search your address on [Etherscan](https://etherscan.io/). Bookmark this page. This is how you will view your balance at any time*
+- Read the warning. If you understand it, click the `"Continue"` button.
 
-* Send a small amount of Ether (0.0001 ETH) from an exchange or another wallet to your new offline wallet.
+- Print your paper wallet backup and/or _carefully_ hand-write the `private key` on a piece of paper.
 
-* On your offline device, unlock your wallet from the Keystore / UTC file on your USB drive or via the private key that you printed out.  Ensure it unlocks the wallet you are sent to and matches the bookmark you have.
-  * *Do not simply leave your new wallet open. Pretend you are coming back a year later to access your riches. Can you do it?*
+  - _If you are writing it, it is recommended you write it 2 or 3 times. This decreases the chance your messy handwriting will prevent you from accessing your wallet later._
 
-* Send a small amount of Ether (0.00001 ETH) from this new wallet to another address.
-  * *Perhaps our donation address? We are a free, open-source service. There are no fees, no ads, no tracking, no cookies, no selling your data.*
+- Copy & paste your address into a text document somewhere. Get it to your primary, online computer.
 
-* Ensure you have recorded all necessary bits of information and the addresses match at all times. If they don't, you mis-wrote something somewhere. That means it's time to start from the beginning in order to make sure you never lose access to your funds.
+  - _Use the QR code or a different USB drive. It is best if you do not hand-write it_
+  - _Search your address on [Etherscan](https://etherscan.io/). Bookmark this page. This is how you will view your balance at any time_
+
+- Send a small amount of Ether (0.0001 ETH) from an exchange or another wallet to your new offline wallet.
+
+- On your offline device, unlock your wallet from the Keystore / UTC file on your USB drive or via the private key that you printed out. Ensure it unlocks the wallet you are sent to and matches the bookmark you have.
+
+  - _Do not simply leave your new wallet open. Pretend you are coming back a year later to access your riches. Can you do it?_
+
+- Send a small amount of Ether (0.00001 ETH) from this new wallet to another address.
+
+  - _Perhaps our donation address? We are a free, open-source service. There are no fees, no ads, no tracking, no cookies, no selling your data._
+
+- Ensure you have recorded all necessary bits of information and the addresses match at all times. If they don't, you mis-wrote something somewhere. That means it's time to start from the beginning in order to make sure you never lose access to your funds.
 
 Doing all of this is tedious, but it ensures you (1) have complete access to your funds (2) the address you sent to is correct and matches the private key you have saved and (3) you can rest easily for years to come, knowing you will be able to access your ETH later.
 
@@ -68,5 +74,5 @@ We are a client-side interface that allows you to interact with the Ethereum blo
 
 ### Related articles
 
-* [What is the difference between private key & Keystore / UTC file?](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)
-* [Protecting yourself and your funds](/staying-safe/protecting-yourself-and-your-funds)
+- [What is the difference between private key & Keystore / UTC file?](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)
+- [Protecting yourself and your funds](/staying-safe/protecting-yourself-and-your-funds)

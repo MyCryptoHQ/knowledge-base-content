@@ -8,7 +8,7 @@ tags:
   - Phishing
 priority: 45
 date_published: '2017-06-20'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 ## Short Version
@@ -39,14 +39,14 @@ Of course, this all assumes that keys are generated in a truly random way and wi
 
 ## Related articles
 
-* [BIP-39s (mnemonic phrases & Ledger hardware wallets)](https://www.reddit.com/r/ledgerwallet/comments/6cjvam/probability_of_seed_phrase_collisionbrute_forcing/)
-* [How does it ensure that it doesn't give different people the same key?](/staying-safe/ethereum-two-people-same-private-key)
-* [Not all private keys are valid on the curve](https://crypto.stackexchange.com/questions/30269/are-all-possible-ec-private-keys-valid)
-* [https://en.wikipedia.org/wiki/Public-key_cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
-* [https://eprint.iacr.org/2013/734.pdf](https://eprint.iacr.org/2013/734.pdf)
+- [BIP-39s (mnemonic phrases & Ledger hardware wallets)](https://www.reddit.com/r/ledgerwallet/comments/6cjvam/probability_of_seed_phrase_collisionbrute_forcing/)
+- [How does it ensure that it doesn't give different people the same key?](/staying-safe/ethereum-two-people-same-private-key)
+- [Not all private keys are valid on the curve](https://crypto.stackexchange.com/questions/30269/are-all-possible-ec-private-keys-valid)
+- [https://en.wikipedia.org/wiki/Public-key_cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
+- [https://eprint.iacr.org/2013/734.pdf](https://eprint.iacr.org/2013/734.pdf)
 
 ### Sources
 
-* [https://www.reddit.com/r/ledgerwallet/comments/6cjvam/probability_of_seed_phrase_collisionbrute_forcing/](https://www.reddit.com/r/ledgerwallet/comments/6cjvam/probability_of_seed_phrase_collisionbrute_forcing/)
-* [http://security.stackexchange.com/questions/25375/why-not-use-larger-cipher-keys/25392#25392](http://security.stackexchange.com/questions/25375/why-not-use-larger-cipher-keys/25392#25392)
-* [http://bitcoin.stackexchange.com/questions/32331/two-people-with-same-public-address-how-will-people-network-know-how-to-deliver](http://bitcoin.stackexchange.com/questions/32331/two-people-with-same-public-address-how-will-people-network-know-how-to-deliver)
+- [https://www.reddit.com/r/ledgerwallet/comments/6cjvam/probability_of_seed_phrase_collisionbrute_forcing/](https://www.reddit.com/r/ledgerwallet/comments/6cjvam/probability_of_seed_phrase_collisionbrute_forcing/)
+- [http://security.stackexchange.com/questions/25375/why-not-use-larger-cipher-keys/25392#25392](http://security.stackexchange.com/questions/25375/why-not-use-larger-cipher-keys/25392#25392)
+- [http://bitcoin.stackexchange.com/questions/32331/two-people-with-same-public-address-how-will-people-network-know-how-to-deliver](http://bitcoin.stackexchange.com/questions/32331/two-people-with-same-public-address-how-will-people-network-know-how-to-deliver)

@@ -7,7 +7,7 @@ tags:
   - MyCrypto
 priority: 2
 date_published: '2017-07-05'
-date_modified: '2020-09-01'
+date_modified: '2020-10-08'
 ---
 
 This is part of a series where Taylor pull's sweet comments she's made or found over the years in the hopes that they can be useful, searchable, remembered, referenced, and/or aid in the creation of future knowledge base posts. Many are unpolished & contain typos, specific references to previous discussions or the user, and gratuitous cursing.
@@ -45,18 +45,18 @@ As far as entropy on your system itself: it's no longer the case that a new comp
 
 ### Standard methods from where entropy comes from for CSPRNGs:
 
-* Windows: `RtlGenRandom`
-* Linux: `getrandom (if available)` or `/dev/urandom (older Linux kernels)`
-* OpenBSD: `getentropy()` or `arc4random_buf()` with ChaCha20 (not RC4)
-* Other Unix-like (including OS X): `/dev/urandom`
+- Windows: `RtlGenRandom`
+- Linux: `getrandom (if available)` or `/dev/urandom (older Linux kernels)`
+- OpenBSD: `getentropy()` or `arc4random_buf()` with ChaCha20 (not RC4)
+- Other Unix-like (including OS X): `/dev/urandom`
 
 Chrome for example can be found here: <https://www.chromium.org/blink/webcrypto>
 
-[In Chrome you're looking at  `wtf::cryptographicallyRandomValues()` directly calls `Platform::current()->cryptographicallyRandomValues()` which then calls `crypto::RandBytes()` and/or `base::RandBytes()`:](https://chromium.googlesource.com/chromium/src/third_party/WebKit/Source/wtf/+/master/CryptographicallyRandomNumber.cpp). An explanation on the "and/or" above is found in the source
+[In Chrome you're looking at `wtf::cryptographicallyRandomValues()` directly calls `Platform::current()->cryptographicallyRandomValues()` which then calls `crypto::RandBytes()` and/or `base::RandBytes()`:](https://chromium.googlesource.com/chromium/src/third_party/WebKit/Source/wtf/+/master/CryptographicallyRandomNumber.cpp). An explanation on the "and/or" above is found in the source
 
-* `// This should really be crypto::RandBytes(), but WTF can't depend on crypto.`
-* `// The implementation of crypto::RandBytes() is just calling`
-* `// base::RandBytes(), so both are actually same.`
+- `// This should really be crypto::RandBytes(), but WTF can't depend on crypto.`
+- `// The implementation of crypto::RandBytes() is just calling`
+- `// base::RandBytes(), so both are actually same.`
 
 and then ...
 
@@ -64,7 +64,7 @@ and then ...
 >
 > (When RDRAND is available, it's a little more complex. It's RDRAND xor a urandom-seeded thread-local ChaCha20 stream, refreshed every N calls or M bytes for some N and M. But that's mostly for performance.)"
 
-So on windows we're looking at [RtlGenRandom](https://msdn.microsoft.com/en-us/library/windows/desktop/aa387694(v=vs.85).aspx) (which will be CyrptGenRandom at some point.) CryptGenRandom is based on RtlGenRandom but we don't really know what the differences are.  But we do know more about how RtlGenRandom works:
+So on windows we're looking at [RtlGenRandom](<https://msdn.microsoft.com/en-us/library/windows/desktop/aa387694(v=vs.85).aspx>) (which will be CyrptGenRandom at some point.) CryptGenRandom is based on RtlGenRandom but we don't really know what the differences are. But we do know more about how RtlGenRandom works:
 
 > RtlGenRandom generates as specified in [FIPS 186-2 appendix 3.1](http://csrc.nist.gov/publications/fips/archive/fips186-2/fips186-2.pdf) with SHA-1 as the G function. And with entropy from:
 >
@@ -98,15 +98,15 @@ Furthermore, I personally don't believe that anything is this world is secure, b
 
 ## Source
 
-* [https://www.reddit.com/r/ethereum/comments/5psp13/ethereum_account_generation_on_airgapped_computer/](https://www.reddit.com/r/ethereum/comments/5psp13/ethereum_account_generation_on_airgapped_computer/)
+- [https://www.reddit.com/r/ethereum/comments/5psp13/ethereum_account_generation_on_airgapped_computer/](https://www.reddit.com/r/ethereum/comments/5psp13/ethereum_account_generation_on_airgapped_computer/)
 
 ## Related articles
 
-* <https://arstechnica.com/information-technology/2015/05/crypto-flaws-in-blockchain-android-app-sent-bitcoins-to-the-wrong-address/>
-* <https://blog.cryptographyengineering.com/2015/04/02/truecrypt-report/>
-* <https://bugs.chromium.org/p/chromium/issues/detail?id=552749>
-* <https://www.cryptolux.org/images/7/7f/RNG_Survey.pdf>
-* <https://news.ycombinator.com/item?id=6195493>
-* <https://www.reddit.com/r/Bitcoin/comments/37oxow/the_security_issue_of_blockchaininfos_android/crolfk4/>
-* <https://twitter.com/tdryja/status/955161784792465408>
-* <https://www.reddit.com/r/Iota/comments/7rmc55/psa_do_not_use_online_seed_generators/>
+- <https://arstechnica.com/information-technology/2015/05/crypto-flaws-in-blockchain-android-app-sent-bitcoins-to-the-wrong-address/>
+- <https://blog.cryptographyengineering.com/2015/04/02/truecrypt-report/>
+- <https://bugs.chromium.org/p/chromium/issues/detail?id=552749>
+- <https://www.cryptolux.org/images/7/7f/RNG_Survey.pdf>
+- <https://news.ycombinator.com/item?id=6195493>
+- <https://www.reddit.com/r/Bitcoin/comments/37oxow/the_security_issue_of_blockchaininfos_android/crolfk4/>
+- <https://twitter.com/tdryja/status/955161784792465408>
+- <https://www.reddit.com/r/Iota/comments/7rmc55/psa_do_not_use_online_seed_generators/>

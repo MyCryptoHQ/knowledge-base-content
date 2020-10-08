@@ -5,7 +5,7 @@ tags:
   - Addresses
 priority: 50
 date_published: '2018-04-18'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 You only need your **public wallet address** (the one starting with `0x`) in order to see your balance. It is not recommended that you access your wallet by entering your private key, mnemonic phrase or keystore file anywhere if you just want to check the balance or see incoming or outgoing transactions. The fewer times that you need to open your wallet, the better.
@@ -14,8 +14,8 @@ You only need your **public wallet address** (the one starting with `0x`) in ord
 
 Navigate to one of the following websites:
 
-* [Etherscan](https://etherscan.io/)
-* [Etherchain](https://www.etherchain.org/)
+- [Etherscan](https://etherscan.io/)
+- [Etherchain](https://www.etherchain.org/)
 
 Paste your address into the search bar and it will pull up your address and transaction history.
 

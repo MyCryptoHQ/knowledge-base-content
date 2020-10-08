@@ -8,10 +8,10 @@ tags:
   - Backups
 priority: 90
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
-*This is part of a series where Taylor pulls sweet comments she's made in the hope that they can be useful, searchable, remembered, referenced, and / or aid in the creation of future Knowledge Base posts.*
+_This is part of a series where Taylor pulls sweet comments she's made in the hope that they can be useful, searchable, remembered, referenced, and / or aid in the creation of future Knowledge Base posts._
 
 ---
 
@@ -31,8 +31,8 @@ You can also **print out the QR code itself** that you originally use to add to 
 
 ### How to be secure while being able to recover your 2FA
 
-* Do NOT ever store your username, password, and 2FA phrase / QR code / recovery codes in the same location. This includes your password manager. Write it down or print it. Keep it separate. If they are together, it's not 2FA.
-* Whenever you hand write something, best if you do so twice in case you mix something up or accidentally write so messily you can't read it anymore. Always write it down, set up Google Authenticator from the key you *wrote down* (not the one on the screen), and then verify via the code that displays on your phone.
+- Do NOT ever store your username, password, and 2FA phrase / QR code / recovery codes in the same location. This includes your password manager. Write it down or print it. Keep it separate. If they are together, it's not 2FA.
+- Whenever you hand write something, best if you do so twice in case you mix something up or accidentally write so messily you can't read it anymore. Always write it down, set up Google Authenticator from the key you _wrote down_ (not the one on the screen), and then verify via the code that displays on your phone.
 
 ### Most 2FA is surprisingly insecure due to usability
 
@@ -55,4 +55,4 @@ I strongly encourage everyone to have a beer, turn off your phone, and see what 
 
 ## Source
 
-* [https://www.reddit.com/r/ethtrader/comments/6vwk7p/what_happens_if_you_lose_your_phone_with_google/](https://www.reddit.com/r/ethtrader/comments/6vwk7p/what_happens_if_you_lose_your_phone_with_google/)
+- [https://www.reddit.com/r/ethtrader/comments/6vwk7p/what_happens_if_you_lose_your_phone_with_google/](https://www.reddit.com/r/ethtrader/comments/6vwk7p/what_happens_if_you_lose_your_phone_with_google/)

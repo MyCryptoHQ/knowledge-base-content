@@ -5,7 +5,7 @@ tags:
   - Private Keys
 priority: 70
 date_published: '2017-07-05'
-date_modified: '2020-08-27'
+date_modified: '2020-10-08'
 ---
 
 Be sure there is no space at the beginning or end of your private key. MyCrypto validates based on the number of characters. If you saved another version (for example, the [UTC / Keystore file](/how-to/accessing-wallet/how-to-access-your-wallet-with-keystore-file)) it may be worth trying that file as well.
@@ -18,5 +18,5 @@ Do not use the above example private key, and never share your own with others. 
 
 ## Related articles
 
-* [Lost Private Key](/troubleshooting/accessing-wallet/lost-eth-private-key)
-* [Differences Between Wallet Types (e.g., Private Key vs Keystore)](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)
+- [Lost Private Key](/troubleshooting/accessing-wallet/lost-eth-private-key)
+- [Differences Between Wallet Types (e.g., Private Key vs Keystore)](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)

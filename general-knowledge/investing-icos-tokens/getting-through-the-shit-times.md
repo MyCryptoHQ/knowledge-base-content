@@ -5,7 +5,7 @@ tags:
   - Safety & Security
 priority: 60
 date_published: '2017-11-27'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 ## Sometimes, crypto really, really, really sucks
@@ -18,11 +18,11 @@ If I had given up on crypto when I sent my first bitcoin to an address that lite
 
 Instead, I screamed at the world and eventually got my hands on another 0.1 BTC. I lost that eventually as well, but that hurt far less, and I learned a lot during the process. I didn't make the same mistake again, I made a different one and I learned another lesson: I'm absolute shit at trading. 😉
 
-### The only thing that matters is the choice you make *now*
+### The only thing that matters is the choice you make _now_
 
 Crypto is **not** about the past. Crypto is about the future. If we all lived in the past or were happy with the present, we wouldn't be here. We want to make the future brighter. Every day new people enter this space. Every day there are new things being built and new insights being shared. Every day we collectively learn and improve and respond to the problems that exist in crypto-land, and outside crypto-land.
 
-That "we" includes *you*. You are part of this. The fact that you've lost crypto makes you an even bigger part of this. You may not know it, but you have officially joined the ranks of the most important people in crypto. Everyone who does remarkable stuff in this space has lost at some point.  I know you don't see it this way now (because the world currently sucks massive balls) but you will see it at some point. I'm going to do my best to help you see. Ready to give it a go with me?
+That "we" includes _you_. You are part of this. The fact that you've lost crypto makes you an even bigger part of this. You may not know it, but you have officially joined the ranks of the most important people in crypto. Everyone who does remarkable stuff in this space has lost at some point. I know you don't see it this way now (because the world currently sucks massive balls) but you will see it at some point. I'm going to do my best to help you see. Ready to give it a go with me?
 
 ### Take 10 deep breathes and go for a walk outside
 
@@ -30,7 +30,7 @@ The universe is so much larger and has so much more to offer than money and cryp
 
 ### Don't double-down on your losses
 
-Whether it's a trade, a hack, or something else, buying more right now is a bad idea. Take your time before purchasing more, and start much, much smaller. I promise you, you are **not missing out by not buying right now**. We are still *so early*. If you buy now, it will lead to more loss. Breath. Take your time.
+Whether it's a trade, a hack, or something else, buying more right now is a bad idea. Take your time before purchasing more, and start much, much smaller. I promise you, you are **not missing out by not buying right now**. We are still _so early_. If you buy now, it will lead to more loss. Breath. Take your time.
 
 ### Understand what happened
 
@@ -54,19 +54,19 @@ If you can send a single message, answer a single question, write a single post 
 
 ### You are unique, and the crypto space needs you
 
-You have unique skills, experiences, schooling, jobs, hobbies, friends, conversations, languages, and culture that literally *no one else has*. You're brain operates in a truly one-of-a-kind way because you and only you grew up in the way you did and learned the things you did. You may think you don't know anything about crypto, but its your experiences *outside of crypto* that you bring with you that we need.
+You have unique skills, experiences, schooling, jobs, hobbies, friends, conversations, languages, and culture that literally _no one else has_. You're brain operates in a truly one-of-a-kind way because you and only you grew up in the way you did and learned the things you did. You may think you don't know anything about crypto, but its your experiences _outside of crypto_ that you bring with you that we need.
 
 What can you do to make this space more accessible? Do you speak a language other than English? Are your friends from school getting interested in crypto? What have you experienced that made life or work or school easier, more fun, more accessible, or simply better? Can those things be applied to this space? How?
 
 How do you learn? Listening to podcasts? Watching videos? Reading books? Reading short articles? Conversing in person? Soaking in infographics? Are there enough materials in that space that teach you in the way you learn best? Are they hard to find? Do they not exist? Can you make them easier to find? Can you share them? Can you create them? Can you work with others to create them?
 
-### The only thing that matters is the choice you make *now*.
+### The only thing that matters is the choice you make _now_.
 
 You could give up. You could kill yourself. You could yell and blame and scream until you pass out from exhaustion. But none of those will make the shit position you are in now any better. They won't make the world a better place. They won't make you happier. They won't make your friends happier.
 
-Take your pain and anger and channel it to something that *makes things better*. It happens far more easily and far faster than you think, and you never know what the future world holds. I never imagined that a few years after losing my Bitcoin that I would create MyCrypto. I didn't plan this. If I lost every experience I've had, everyone I've met, and everything I've done, that would be the true loss.
+Take your pain and anger and channel it to something that _makes things better_. It happens far more easily and far faster than you think, and you never know what the future world holds. I never imagined that a few years after losing my Bitcoin that I would create MyCrypto. I didn't plan this. If I lost every experience I've had, everyone I've met, and everything I've done, that would be the true loss.
 
-You don't have to take any big steps or write a huge article. All you have to to is *decide* that you want things to be better. That's all. Then take small steps every day to try to get there.
+You don't have to take any big steps or write a huge article. All you have to to is _decide_ that you want things to be better. That's all. Then take small steps every day to try to get there.
 
 ### Don't die
 
@@ -74,15 +74,15 @@ This is important. I am only one person and I'm not the smartest person. What I 
 
 These people will not judge you, or argue with you, or try to talk you out of how badly you feel. Tell someone what's going on and see if they can help you:
 
-* [Send an anonymous e-mail to The Samaritans](https://metanoia.org/suicide/samaritans.htm)
-* (US) Call the National Suicide Prevention Lifeline at 1-800-273-8255 (TTY:1-800-799-4TTY)
-* [More phone numbers & websites for your country.](http://codedredalert.tumblr.com/post/109005732295/helpline-masterlist)
-* [And even more resources](https://www.samaritans.org/how-we-can-help-you/other-sources-help)
-* [And even more resources](http://www.yourlifecounts.org/need-help/crisis-lines)
-* [Another powerful read](https://metanoia.org/suicide/samaritans.htm)
+- [Send an anonymous e-mail to The Samaritans](https://metanoia.org/suicide/samaritans.htm)
+- (US) Call the National Suicide Prevention Lifeline at 1-800-273-8255 (TTY:1-800-799-4TTY)
+- [More phone numbers & websites for your country.](http://codedredalert.tumblr.com/post/109005732295/helpline-masterlist)
+- [And even more resources](https://www.samaritans.org/how-we-can-help-you/other-sources-help)
+- [And even more resources](http://www.yourlifecounts.org/need-help/crisis-lines)
+- [Another powerful read](https://metanoia.org/suicide/samaritans.htm)
 
 ---
 
 If you have any passionate thoughts on this, good or bad, please let me know. I especially appreciate constructive critiques that I can use to improve this piece and additional resources like phone numbers and websites for the international crowd. Resources for Asia are especially lacking and important at this time. Thank you for taking the time.💖
 
--*Taylor*
+-_Taylor_

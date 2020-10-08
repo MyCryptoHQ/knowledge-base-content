@@ -5,7 +5,7 @@ tags:
   - Offline
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2020-08-01'
+date_modified: '2020-10-08'
 ---
 
 For increased security, you can run MyCrypto locally on your computer with our desktop application. The computer should have no internet connection. You can generate a wallet completely offline and send transactions from the "View & Send" page.
@@ -26,5 +26,5 @@ Be sure to periodically check for new updates to the MyCrypto desktop app, as it
 
 ## Related Articles
 
-* [How To Make An Offline Transaction](/how-to/sending/how-to-make-an-offline-transaction)
-* [Checking the Balance of Your Account](/how-to/accessing-wallet/how-to-check-the-balance-of-your-account)
+- [How To Make An Offline Transaction](/how-to/sending/how-to-make-an-offline-transaction)
+- [Checking the Balance of Your Account](/how-to/accessing-wallet/how-to-check-the-balance-of-your-account)
