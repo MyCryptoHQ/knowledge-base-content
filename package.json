@@ -7,8 +7,6 @@
   "license": "MIT",
   "dependencies": {
     "gray-matter": "^4.0.1",
-    "husky": "^1.0.1",
-    "lint-staged": "^7.3.0",
     "moment": "^2.22.2",
     "remark-cli": "^5.0.0",
     "remark-frontmatter": "^1.3.0",
@@ -20,19 +18,28 @@
   "devDependencies": {
     "@types/node": "^14.10.2",
     "@types/node-fetch": "^2.5.7",
+    "husky": "^4.3.0",
+    "lint-staged": "^10.4.0",
     "node-fetch": "^2.6.1",
+    "prettier": "^2.1.2",
     "ts-node": "^9.0.0",
     "typescript": "^4.0.2"
   },
   "scripts": {
-    "mdlint": "remark -q -f .",
-    "deploy": "ts-node deploy"
+    "deploy": "ts-node deploy",
+    "format": "prettier --write \"**/*.{ts,tsx,js,json,yml,md}\" --ignore-path .gitignore",
+    "lint": "yarn lint:markdown && yarn lint:format",
+    "lint:markdown": "remark -q -f .",
+    "lint:format": "prettier --check \"**/*.{ts,tsx,js,json,yml,md}\" --ignore-path .gitignore"
   },
   "lint-staged": {
+    "*.{js,jsx,ts,tsx,json,yml}": [
+      "prettier --write"
+    ],
     "*.md": [
       "node update-modified-date.js",
       "remark -qf --no-stdout",
-      "git add"
+      "prettier --write"
     ]
   },
   "husky": {
