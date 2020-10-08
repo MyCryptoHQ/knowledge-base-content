@@ -6,7 +6,7 @@ tags:
   - Transactions
 priority: 5
 date_published: '2015-07-15'
-date_modified: '2020-09-15'
+date_modified: '2020-10-08'
 ---
 
 Here is how you can unlock your wallet, access your ETH and tokens, and send from your Trezor hardware wallet:
@@ -24,11 +24,13 @@ Here is how you can unlock your wallet, access your ETH and tokens, and send fro
 6. Enter the address you would like to send to in the `To Address:` field.
 
 7. Enter the amount you would like to send.
-   * You can also click the `Send Entire Balance` link if you would like the transfer the entire balance.
+
+   - You can also click the `Send Entire Balance` link if you would like the transfer the entire balance.
 
 8. If you are sending tokens:
-   * Click the orange `Load Tokens` button.
-   * Select the token you would like to send from the dropdown.
+
+   - Click the orange `Load Tokens` button.
+   - Select the token you would like to send from the dropdown.
 
 9. Click `Generate Transaction`.
 

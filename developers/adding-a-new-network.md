@@ -6,22 +6,22 @@ tags:
   - MyCrypto
 priority: 61
 date_published: '2018-05-29'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 Please see [this](/general-knowledge/about-mycrypto/supported-networks) article for a list of networks that are currently supported by MyCrypto.
 
 Adding support for your Ethereum-like network is easy, assuming it isn't significantly different from the Ethereum network. To make sure your network is well supported, we require the following:
 
-* Must have at least one reliable, working node.
+- Must have at least one reliable, working node.
 
-* Must be EIP155 compliant with a unique Chain ID this is not used by any other MyCrypto-supported network.
+- Must be EIP155 compliant with a unique Chain ID this is not used by any other MyCrypto-supported network.
 
-* Must have a block explorer that can view addresses, transactions, and blocks.
+- Must have a block explorer that can view addresses, transactions, and blocks.
 
-* Should not have a token name that conflicts with a more popular token.
-  * This will break equivalent fiat values and may confuse users. You can check this at <https://www.cryptocompare.com/>.
-  
+- Should not have a token name that conflicts with a more popular token.
+  - This will break equivalent fiat values and may confuse users. You can check this at <https://www.cryptocompare.com/>.
+
 If you meet all of those requirements, you simply need to [make a pull request](https://github.com/MyCryptoHQ/MyCrypto) with the following changes:
 
 1. Add a deterministic path (aka dpath) to `common/configs/dpath.ts` for your network, even if it just uses Ethereum's default path.

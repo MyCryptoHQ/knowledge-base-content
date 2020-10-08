@@ -5,7 +5,7 @@ tags:
   - Ethereum
 priority: 70
 date_published: '2017-06-20'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 This is most likely due to the fact that either you are behind a firewall, you have refreshed the page a bunch of times and hit your hourly API limit, or our nodes are under extreme strain and are refusing to return your balance information.
@@ -16,14 +16,14 @@ The easiest way to check your balance is actually not by unlocking your wallet. 
 
 Paste your address into the search bar and it will pull up your address and transaction history on:
 
-* [Etherscan](https://etherscan.io/).
-* [Etherchain](https://www.etherchain.org/).
+- [Etherscan](https://etherscan.io/).
+- [Etherchain](https://www.etherchain.org/).
 
 ## Tokens
 
-* Via [Ethplorer](https://ethplorer.io/): This entire site is dedicated to token transactions and their balances.
-* Via [Etherscan](https://etherscan.io/): Your token balances are in the dropdown in the header section thingy. Your transfers can be viewed on the ["Token Transfers"](https://etherscan.io/address/0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520#tokentxns) tab.
-* Via [Etherchain](https://www.etherchain.org/): Your tokens are displayed on the left sidebar.
+- Via [Ethplorer](https://ethplorer.io/): This entire site is dedicated to token transactions and their balances.
+- Via [Etherscan](https://etherscan.io/): Your token balances are in the dropdown in the header section thingy. Your transfers can be viewed on the ["Token Transfers"](https://etherscan.io/address/0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520#tokentxns) tab.
+- Via [Etherchain](https://www.etherchain.org/): Your tokens are displayed on the left sidebar.
 
 ## Ethereum Classic
 

@@ -5,21 +5,21 @@ tags:
   - Transactions
 priority: 70
 date_published: '2017-10-08'
-date_modified: '2020-08-03'
+date_modified: '2020-10-08'
 ---
 
-In certain cases you may want to *cancel* or *replace* a transaction, for example, when you used a gas price that was too low. Especially in times when gas prices are relatively high, you may want to increase the gas price of your transaction, to make sure it will be confirmed quickly.
+In certain cases you may want to _cancel_ or _replace_ a transaction, for example, when you used a gas price that was too low. Especially in times when gas prices are relatively high, you may want to increase the gas price of your transaction, to make sure it will be confirmed quickly.
 
-* **Cancel**: Sending a transaction with a value of 0 ETH to your own Ethereum address, with the purpose of preventing your previous transaction from being confirmed.
-* **Replace**: Sending the same transaction to another Ethereum address, with the purpose of doing something (e.g. sending Ether or tokens, ...).
+- **Cancel**: Sending a transaction with a value of 0 ETH to your own Ethereum address, with the purpose of preventing your previous transaction from being confirmed.
+- **Replace**: Sending the same transaction to another Ethereum address, with the purpose of doing something (e.g. sending Ether or tokens, ...).
 
-This works by sending a transaction with the same nonce as your previous transaction. Transactions must be confirmed in the order of the nonce, starting from 0, so if you re-submit a transaction with the same nonce and a higher gas price, your previous transaction will be overwritten. There is still a chance that your previous transaction is confirmed first, in which case  the replacement transaction will be invalidated.
+This works by sending a transaction with the same nonce as your previous transaction. Transactions must be confirmed in the order of the nonce, starting from 0, so if you re-submit a transaction with the same nonce and a higher gas price, your previous transaction will be overwritten. There is still a chance that your previous transaction is confirmed first, in which case the replacement transaction will be invalidated.
 
 Below you will find a step by step instruction on how to replace or cancel your transaction.
 
 1. First, check the status of your transaction on [the transaction status page](https://mycrypto.com/tx-status). Simply enter your transaction hash, and click the button to check the transaction. If your transaction is pending, you can cancel your transaction.
 
-   * If you see "Transaction Not Found," and your transaction is over 24 hours old, it's possible that the transaction is no longer in the "mempool" of our Ethereum nodes. You can check the status of your transaction on [Etherscan](https://etherscan.io/).
+   - If you see "Transaction Not Found," and your transaction is over 24 hours old, it's possible that the transaction is no longer in the "mempool" of our Ethereum nodes. You can check the status of your transaction on [Etherscan](https://etherscan.io/).
 
 2. On the transaction status page, you should see the nonce and gas price of your transaction. Take note of these numbers, as you will need them later.
 
@@ -67,5 +67,5 @@ If all went well, your original transaction should be cancelled or replaced once
 
 ## Related articles
 
-* [What Is Gas?](/general-knowledge/ethereum-blockchain/what-is-gas)
-* [What Is Nonce?](/general-knowledge/ethereum-blockchain/what-is-nonce)
+- [What Is Gas?](/general-knowledge/ethereum-blockchain/what-is-gas)
+- [What Is Nonce?](/general-knowledge/ethereum-blockchain/what-is-nonce)

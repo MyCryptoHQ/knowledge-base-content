@@ -5,7 +5,7 @@ tags:
   - Tokens
 priority: 110
 date_published: '2020-03-30'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 Bitcoin is one of the most popular cryptocurrencies, and is considered to be the first decentralized cryptocurrency to have been created back in 2009. It pioneered the concept of a blockchain, of which many other applications and cryptocurrencies have been created.
@@ -20,10 +20,10 @@ You can go to [buy.mycrypto.com](https://buy.mycrypto.com/) and use our Simplex 
 
 If you use an exchange like Coinbase, Gemini, Kraken, Poloniex, Bittrex, then you have an account with that company, and they hold your BTC and your keys for you. They have their own account on the blockchain with all their and their customers' funds in it. Then you have a username / password with them, which are stored on their servers, and they keep track of how much BTC they "owe" you.
 
-This allows you to have a  more traditional username / password situation and do things like reset your password if you forget it, change your password if your password is compromised, and turn on 2FA. However, it also means that if the exchange loses BTC, it's your BTC that is lost. If you still want to purchase BTC through an exchange, follow the steps below.
+This allows you to have a more traditional username / password situation and do things like reset your password if you forget it, change your password if your password is compromised, and turn on 2FA. However, it also means that if the exchange loses BTC, it's your BTC that is lost. If you still want to purchase BTC through an exchange, follow the steps below.
 
 1. Create an account on either [Coinbase](https://coinbase-consumer.sjv.io/0aAeR), Gemini, or Kraken.
-Verify that account. You will need to upload a variety of documents to prove you are who you say you are. Once you upload all this regulatory stuff, verification takes about a day or two (time is dependent on how busy the service is and can be affected by price increases and influxes of new users. Be patient.).
+   Verify that account. You will need to upload a variety of documents to prove you are who you say you are. Once you upload all this regulatory stuff, verification takes about a day or two (time is dependent on how busy the service is and can be affected by price increases and influxes of new users. Be patient.).
 
 2. Follow the instructions on the exchange to deposit USD into that exchange. This, depending on your bank and the wire transfer, will typically take 3-5 business days.
 

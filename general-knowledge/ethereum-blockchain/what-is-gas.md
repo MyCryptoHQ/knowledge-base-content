@@ -6,14 +6,14 @@ tags:
   - Transactions
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2020-08-05'
+date_modified: '2020-10-08'
 ---
 
 ![Transaction pool infographic](../../assets/shared/transaction-pool-infographic.png)
 
 Ethereum is the network, also known as the blockchain. Ether (ETH) is the fuel for that network. When you send tokens, interact with a contract, send ETH, or do anything else on the blockchain, you must pay for that computation. That payment is calculated in gas, and gas is paid in ETH.
 
-You are paying for the *computation*, regardless of whether your transaction succeeds or fails. Even if it fails, the miners must validate and execute your transaction *(compute)* and therefore you must pay for that computation just like you would pay for a successful transaction.
+You are paying for the _computation_, regardless of whether your transaction succeeds or fails. Even if it fails, the miners must validate and execute your transaction _(compute)_ and therefore you must pay for that computation just like you would pay for a successful transaction.
 
 You can see your transaction fee (`Gas limit` × `Gas price`) in ETH & USD when you search for your transaction on [Etherscan.io](https://etherscan.io). This is not a transaction fee that MyCrypto, or any other service provider, receives. This fee is paid to miners for mining transactions, putting them into blocks, and securing the blockchain.
 
@@ -21,23 +21,24 @@ You can see your transaction fee (`Gas limit` × `Gas price`) in ETH & USD when 
 
 When you hear "Gas", the person is either talking about:
 
-* Gas Limit
-* Gas Price
+- Gas Limit
+- Gas Price
 
 The total cost of a transaction (the "transaction fee") is the gas limit, multiplied by the gas price. Typically, if someone just says "Gas", they are talking about the "Gas Limit". You can think of the gas limit like the amount of liters/gallons/units of gas for a car. You can think of the gas price as the cost of that liter/gallon/unit of gas:
 
-* With a car, it's `$2.50 (price)` per `gallon (unit)`.
-* With Ethereum, it's `20 Gwei (price)` per `gas (unit)`.
+- With a car, it's `$2.50 (price)` per `gallon (unit)`.
+- With Ethereum, it's `20 Gwei (price)` per `gas (unit)`.
 
 To fill up your "tank", it takes...
-* `10 gallons` at `$2.50` = `$25`
-* `21,000 units of gas` at `20 Gwei` = `0.00042 ETH`.
+
+- `10 gallons` at `$2.50` = `$25`
+- `21,000 units of gas` at `20 Gwei` = `0.00042 ETH`.
 
 Therefore, the total transaction fee will be 0.00042 Ether. Note that Gwei is just a unit of Ether, and is equal to 0.000000001 ETH. You can use the converter in [this article](/general-knowledge/ethereum-blockchain/what-are-the-different-units-used-in-ethereum) to quickly convert from Gwei to Wei to Ether, which can be helpful when you want to know your transaction fee in ETH, rather than Gwei.
 
 ### Gas Limit
 
-The gas limit is called the *limit*, because it's the maximum amount of units of gas you are willing to spend on a transaction. This avoids situations where there is an error somewhere in a contract, and you spend way too much Ether. MyCrypto will automatically estimate how much gas your transaction will use.
+The gas limit is called the _limit_, because it's the maximum amount of units of gas you are willing to spend on a transaction. This avoids situations where there is an error somewhere in a contract, and you spend way too much Ether. MyCrypto will automatically estimate how much gas your transaction will use.
 
 However, the units of gas necessary for a transaction are already defined by how much code is executed on the blockchain. If you do not want to spend as much on gas, lowering the gas limit won't help. You must include enough gas to cover the computational resources you use, or your transaction will run out of gas. A standard transaction, from address A to address B with no contracts involved, will use a fixed amount of 21,000 gas.
 

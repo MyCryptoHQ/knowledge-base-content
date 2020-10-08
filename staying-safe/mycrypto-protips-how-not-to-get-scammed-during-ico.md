@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 85
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 Below are some tips to reduce the risk of losing your hard-earned coins
@@ -31,7 +31,7 @@ So you received a message, saw a tweet, or whatever about hot new ICO. Don't cli
 
 ![Check URL](../assets/staying-safe/mycrypto-protips-how-not-to-get-scammed-during-ico/check-url.jpg)
 
-Okay ... but how do I know this is the *right* URL?
+Okay ... but how do I know this is the _right_ URL?
 
 ## 3. Google the name of the token + "twitter"
 
@@ -41,7 +41,7 @@ Okay ... but how do I know this is the *right* URL?
 
 ![](https://i.imgur.com/EYwqZpL.jpg)
 
-On Twitter, check the URL and the USERNAME of the account. Be on the lookout for weird things like _ or capital "I"s that look like "l"s or "O"s that look like "0"s. This indicates a scammer.
+On Twitter, check the URL and the USERNAME of the account. Be on the lookout for weird things like \_ or capital "I"s that look like "l"s or "O"s that look like "0"s. This indicates a scammer.
 
 Followers, images, tweets, and the name of the Twitter account are cloned by fake accounts. Ignore those.
 
@@ -75,4 +75,4 @@ Sweetness.
 
 ### Related articles
 
-* ["I Got Sloppy, I Got Scammed"](https://hackernoon.com/i-got-sloppy-i-got-scammed-10e00ac0905)
+- ["I Got Sloppy, I Got Scammed"](https://hackernoon.com/i-got-sloppy-i-got-scammed-10e00ac0905)

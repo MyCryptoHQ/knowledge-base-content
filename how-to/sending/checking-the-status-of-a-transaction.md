@@ -5,7 +5,7 @@ tags:
   - Beta
 priority: 90
 date_published: '2020-08-24'
-date_modified: '2020-08-27'
+date_modified: '2020-10-08'
 ---
 
 <Alert>
@@ -36,7 +36,7 @@ If the transaction status shows "Success," it means that the transaction went th
 
 ![Transaction failed](../../assets/how-to/sending/checking-the-status-of-a-transaction/tx-status-failed.png)
 
- However, if you see "Failed," it means that something went wrong and that the transaction was not executed. To find more information about what went wrong you can click the button next to the Transaction ID, which will take you to Etherscan, where you can find more information about why the transaction failed.
+However, if you see "Failed," it means that something went wrong and that the transaction was not executed. To find more information about what went wrong you can click the button next to the Transaction ID, which will take you to Etherscan, where you can find more information about why the transaction failed.
 
 ## No transaction found
 
@@ -44,6 +44,6 @@ If the transaction status shows "Success," it means that the transaction went th
 
 If you see this error after entering a transaction hash, it means that it was not found in MyCrypto's nodes. This could have a few different reasons:
 
-* The transaction was pending for a long time, most likely because of a too-low [Gas Price](/how-to/sending/how-to-know-what-gas-price-to-use), resulting in it no longer being in the [mem pool](/general-knowledge/ethereum-blockchain/what-is-gas).
-* The transaction hash you entered is part of a different network, try selecting a another one.
-* The transaction hash you entered was invalid.
+- The transaction was pending for a long time, most likely because of a too-low [Gas Price](/how-to/sending/how-to-know-what-gas-price-to-use), resulting in it no longer being in the [mem pool](/general-knowledge/ethereum-blockchain/what-is-gas).
+- The transaction hash you entered is part of a different network, try selecting a another one.
+- The transaction hash you entered was invalid.

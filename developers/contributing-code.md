@@ -5,7 +5,7 @@ tags:
   - MyCrypto
 priority: 63
 date_published: '2017-10-08'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 If you're a developer looking to pitch in, you're more than welcome to help out. Here are some suggestions for diving in:
@@ -28,7 +28,7 @@ If your changes touch the more structural parts of the codebase, you'll be asked
 
 ## Make a Detailed Pull Request
 
-Make sure you follow the format of a new pull request where applicable. 
+Make sure you follow the format of a new pull request where applicable.
 
 You'll want to:
 

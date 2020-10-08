@@ -6,13 +6,13 @@ tags:
   - MetaMask
 priority: 80
 date_published: '2017-10-08'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 ## Using MetaMask + MyCrypto has 3 key benefits:
 
 1. If you use MetaMask, it is far less likely you will be phished or affected by a phishing site, as your key remains in MetaMask and the scam website will not be able to steal it.
-2. It is by far the fastest, easiest way to unlock your wallet via MyCrypto.com and is completely free. You *just* click a button. No more searching for keys or Keystore files!
+2. It is by far the fastest, easiest way to unlock your wallet via MyCrypto.com and is completely free. You _just_ click a button. No more searching for keys or Keystore files!
 3. MetaMask will block you with a big, red warning if you go to a malicious site [found on our blacklists](https://github.com/409H/EtherAddressLookup/blob/master/blacklists/domains.json). Look at all these crypto phishing websites! ![Phishing Websites](../../assets/how-to/migrating/moving-from-mycrypto-to-metamask/moving-from-mycrypto-to-metamask-3.jpg)
 
 Damn! That's a lot of phishing sites!
@@ -23,13 +23,13 @@ When you set up MetaMask, you will be given a new wallet address and a new priva
 
 ### Importing your Existing Wallet
 
-* **Pros**: You don't need to transfer your funds to the wallet that MetaMask gives you. (Save on Eth Fees, Hurray!)
-* **Cons**: The current wallet you use could be compromised, and importing your wallet to MetaMask won't stop your funds from being stolen. It will not be secured by the backup seed that MetaMask gives you.
+- **Pros**: You don't need to transfer your funds to the wallet that MetaMask gives you. (Save on Eth Fees, Hurray!)
+- **Cons**: The current wallet you use could be compromised, and importing your wallet to MetaMask won't stop your funds from being stolen. It will not be secured by the backup seed that MetaMask gives you.
 
 ### Using the new wallet MetaMask gives you
 
-* **Pros**: There is no possible chance that the wallet could be compromised because the keys never leave MetaMask!
-* **Cons**: You need to manually transfer all your Ether and tokens to the new wallet.
+- **Pros**: There is no possible chance that the wallet could be compromised because the keys never leave MetaMask!
+- **Cons**: You need to manually transfer all your Ether and tokens to the new wallet.
 
 ## How to install and set-up
 
@@ -65,8 +65,8 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 
 ## Loose keys
 
-* If you click on the little man-switchy icon in the top-right corner after importing a private key, then you will see your new imported address with the word "loose" under it.
-* "Loose" keys on MetaMask are imported private keys. These keys are NOT secured by the MetaMask backup seed phrases.
+- If you click on the little man-switchy icon in the top-right corner after importing a private key, then you will see your new imported address with the word "loose" under it.
+- "Loose" keys on MetaMask are imported private keys. These keys are NOT secured by the MetaMask backup seed phrases.
 
 ## Transferring your funds
 
@@ -89,9 +89,9 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 
 ## Warning!
 
-* If you are sending a huge amount of tokens or ETH, please send a small test amount first. Or consider [getting a hardware wallet](/staying-safe/hardware-wallet-recommendations) or [running MyCrypto offline](/how-to/offline/how-to-run-mycrypto-offline-and-locally). This ensures you are as secure as possible.
+- If you are sending a huge amount of tokens or ETH, please send a small test amount first. Or consider [getting a hardware wallet](/staying-safe/hardware-wallet-recommendations) or [running MyCrypto offline](/how-to/offline/how-to-run-mycrypto-offline-and-locally). This ensures you are as secure as possible.
 
 ## Related articles
 
-* [MetaMask Privacy Policy](https://metamask.io/privacy.html)
-* [How to Transfer Funds](/how-to/sending/how-to-send-a-transaction)
+- [MetaMask Privacy Policy](https://metamask.io/privacy.html)
+- [How to Transfer Funds](/how-to/sending/how-to-send-a-transaction)

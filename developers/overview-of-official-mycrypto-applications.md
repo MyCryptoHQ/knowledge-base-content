@@ -5,7 +5,7 @@ tags:
   - MyCrypto
 priority: 90
 date_published: '2019-05-08'
-date_modified: '2020-09-09'
+date_modified: '2020-10-08'
 ---
 
 ## Overview
@@ -88,11 +88,11 @@ It is built with Typescript and Javascript (Gatsby framework).
 
 #### What it does
 
-This is a product page for some of our peripheral systems/applications that we use within our main product ([mycrypto.com](https://mycrypto.com)). 
+This is a product page for some of our peripheral systems/applications that we use within our main product ([mycrypto.com](https://mycrypto.com)).
 
 #### What to look for
 
-The application is essentially a directory for some of the other products we manage. Your route is reflected XSS (type II) or DOM-based XSS (type-0). 
+The application is essentially a directory for some of the other products we manage. Your route is reflected XSS (type II) or DOM-based XSS (type-0).
 
 The application is open-source on GitHub: <https://github.com/MyCryptoHQ/Overflow>.
 
@@ -186,7 +186,7 @@ It has reporting functionality by which users can input data and submit to a PHP
 
 #### What to look for
 
-As the application is a source of trust for users, we are interested in ways you can harness the application to deliver bad data (i.e.: XSS or unvalidated redirects). 
+As the application is a source of trust for users, we are interested in ways you can harness the application to deliver bad data (i.e.: XSS or unvalidated redirects).
 
 The application is open-source on GitHub: <https://github.com/MrLuit/EtherScamDB>.
 
@@ -240,7 +240,7 @@ As it is the source of truth for anything Ambo related, we are interested in way
 
 #### What it runs on
 
-It is served via Godaddy. 
+It is served via Godaddy.
 
 It is built with PHP 5.6 (Wordpress platform).
 
@@ -262,7 +262,7 @@ No user secrets are stored/sent here but because sends data to the app, we are i
 
 It is served on a Heroku Dyno.
 
-It is built with Express and NodeJs. 
+It is built with Express and NodeJs.
 
 ![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
@@ -278,9 +278,9 @@ Wallet creation process (key derivation process and such), interaction with prot
 
 #### What it runs on
 
-It is served via the iOS App Store. 
+It is served via the iOS App Store.
 
-It is built using Swift 4.2, made for devices >= iOS11.0. 
+It is built using Swift 4.2, made for devices >= iOS11.0.
 
 ![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
@@ -288,7 +288,7 @@ It is built using Swift 4.2, made for devices >= iOS11.0.
 
 #### What it does
 
-A self-hosted analytics platform. 
+A self-hosted analytics platform.
 
 #### What to look for
 
@@ -314,7 +314,7 @@ Being able to modify the values returned to get people to spend either too much 
 
 #### What it runs on
 
-The service is routed through Cloudfront with Amazon S3. 
+The service is routed through Cloudfront with Amazon S3.
 
 The application is running in an ECS container.
 

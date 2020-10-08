@@ -5,7 +5,7 @@ tags:
   - Exchanges
 priority: 50
 date_published: '2017-12-09'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 ## Please invest responsibly
@@ -44,10 +44,10 @@ We are committed to safety, security and transparency. We are working tirelessly
 
 ## Related articles
 
-* [https://buynhodl.com/ether-investor-focus-olaf-carlson-wee-polychain-capital/](https://buynhodl.com/ether-investor-focus-olaf-carlson-wee-polychain-capital/)
+- [https://buynhodl.com/ether-investor-focus-olaf-carlson-wee-polychain-capital/](https://buynhodl.com/ether-investor-focus-olaf-carlson-wee-polychain-capital/)
 
 ---
 
 ## Source
 
-* [https://blog.coinbase.com/please-invest-responsibly-an-important-message-from-the-coinbase-team-bf7f13a4b0b1](https://blog.coinbase.com/please-invest-responsibly-an-important-message-from-the-coinbase-team-bf7f13a4b0b1)
+- [https://blog.coinbase.com/please-invest-responsibly-an-important-message-from-the-coinbase-team-bf7f13a4b0b1](https://blog.coinbase.com/please-invest-responsibly-an-important-message-from-the-coinbase-team-bf7f13a4b0b1)

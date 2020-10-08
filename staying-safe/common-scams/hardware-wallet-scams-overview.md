@@ -6,15 +6,15 @@ tags:
   - Phishing
 priority: 90
 date_published: '2018-03-12'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 ## General Tips for Securing Hardware Wallets
 
-* Update the firmware of your device.
-* Don't leave your device plugged in.
-* Make sure your device is physically secure.
-* Don't purchase pre-owned devices.
+- Update the firmware of your device.
+- Don't leave your device plugged in.
+- Make sure your device is physically secure.
+- Don't purchase pre-owned devices.
 
 ### Pre-owned / Used hardware wallet attacks
 
@@ -30,9 +30,9 @@ The image below shows a hardware wallet posted for resale:
 
 Only purchase your hardware wallet from trusted sellers:
 
-* [Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
-* [Trezor](https://shop.trezor.io/?offer_id=10&aff_id=1735)
-* [Keepkey](http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086)
+- [Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
+- [Trezor](https://shop.trezor.io/?offer_id=10&aff_id=1735)
+- [Keepkey](http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086)
 
 #### How can I help others to not fall for this scam?
 

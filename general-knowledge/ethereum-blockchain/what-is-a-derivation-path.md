@@ -5,10 +5,10 @@ tags:
   - Mnemonic Phrases
 priority: 70
 date_published: '2020-08-13'
-date_modified: '2020-08-13'
+date_modified: '2020-10-08'
 ---
 
-If you use a mnemonic phrase or hardware wallet, you may come across the term "derivation path." In short, it specifies *which* private key (and thus which address) is used. A derivation path looks something like this:
+If you use a mnemonic phrase or hardware wallet, you may come across the term "derivation path." In short, it specifies _which_ private key (and thus which address) is used. A derivation path looks something like this:
 
 ```text
 m/44'/60'/0'/0/0
@@ -24,5 +24,5 @@ If you're interested in a full, technical explanation of how BIP-32 and BIP-44 w
 
 ## Related Articles
 
-* [How To Access Your Ledger Live Address in MyCrypto](/how-to/hardware-wallets/ledger/how-to-access-ledger-live-address-in-mycrypto)
-* [The Journey from Mnemonic Phrase to Address](https://medium.com/mycrypto/the-journey-from-mnemonic-phrase-to-address-6c5e86e11e14)
+- [How To Access Your Ledger Live Address in MyCrypto](/how-to/hardware-wallets/ledger/how-to-access-ledger-live-address-in-mycrypto)
+- [The Journey from Mnemonic Phrase to Address](https://medium.com/mycrypto/the-journey-from-mnemonic-phrase-to-address-6c5e86e11e14)

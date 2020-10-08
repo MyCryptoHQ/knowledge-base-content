@@ -6,7 +6,7 @@ tags:
   - Decentralized Finance
 priority: 50
 date_published: '2020-05-06'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 For more information, including the risks involved with Zapper, important terms, and an FAQ, read [the Risks Involved With Zapper](/how-to/defi/risks-involved-with-zapper).
@@ -40,7 +40,7 @@ Upon visiting your MyCrypto dashboard, there’s an area for Zapper. You’ll se
 4. If everything looks good, confirm your transaction.
 
 5. After the transaction has completed, go back to your dashboard and you’ll see your balance!
-(This may take a few extra seconds to appear)
+   (This may take a few extra seconds to appear)
 
 ![Zap finished](../../assets/how-to/defi/how-to-use-zapper/dashboard-finish.png)
 

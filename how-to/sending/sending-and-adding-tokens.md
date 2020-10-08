@@ -6,7 +6,7 @@ tags:
   - Tokens
 priority: 80
 date_published: '2017-07-05'
-date_modified: '2020-10-07'
+date_modified: '2020-10-08'
 ---
 
 1. Navigate to the [View & Send](https://mycrypto.com/account) page.
@@ -23,4 +23,4 @@ date_modified: '2020-10-07'
 
 ## Related articles
 
-* [How to add a custom token](/how-to/tokens/how-to-add-a-custom-token)
+- [How to add a custom token](/how-to/tokens/how-to-add-a-custom-token)

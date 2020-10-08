@@ -4,7 +4,7 @@ tags:
   - MyCrypto
 priority: 20
 date_published: '2020-08-03'
-date_modified: '2020-08-05'
+date_modified: '2020-10-08'
 ---
 
 When installing apps from third-party developers (like MyCrypto), your operating system may put up a roadblock that attempts to dissuade you from installing it. This roadblock is generally a good thing, as it does help keep users safe from installing harmful applications, though there are instances where the application is not harmful and is simply published by a developer (like MyCrypto) that isn’t officially recognized by that operating system.
@@ -16,23 +16,24 @@ This article will help you move past this roadblock so you can begin using the M
 
 When attempting to install the MyCrypto Desktop App on macOS, some users will see this popup, stating:
 
-> mac.1.7.11_MyCrypto.dmg” *(or whichever version number you’re installing)* can’t be opened because it was not downloaded from the App Store. Your security preferences allow installation of only apps from the App Store.
+<!-- prettier-ignore -->
+> mac.1.7.11\_MyCrypto.dmg _(or whichever version number you’re installing)_ can’t be opened because it was not downloaded from the App Store. Your security preferences allow installation of only apps from the App Store.
 
 ![macOS warning message](../assets/troubleshooting/unable-to-install-the-desktop-application/macos-error.png)
 
 There are a few ways to bypass this.
 
-* Try right-clicking the file icon and clicking "Open"
-* A similar popup will appear but, this time, will have the option to continue with installation.
+- Try right-clicking the file icon and clicking "Open"
+- A similar popup will appear but, this time, will have the option to continue with installation.
 
 If that doesn't work:
 
-* Try moving the file to your desktop, hold down "Control/Command" on your keyboard, and then left-click the file.
+- Try moving the file to your desktop, hold down "Control/Command" on your keyboard, and then left-click the file.
 
 If that doesn't work:
 
-* Try installing the file normally and then, after the above message pops up, go to System Preferences > Security and Privacy > General. Then you should see an option on the bottom that says “Open Anyway.” 
-* Click this and a prompt to install MyCrypto will appear. 
+- Try installing the file normally and then, after the above message pops up, go to System Preferences > Security and Privacy > General. Then you should see an option on the bottom that says “Open Anyway.”
+- Click this and a prompt to install MyCrypto will appear.
 
 ![macOS warning message open anyway](../assets/troubleshooting/unable-to-install-the-desktop-application/macos-error-open-anyway.png)
 
@@ -42,7 +43,7 @@ If that doesn't work:
 When attempting to install the MyCrypto Desktop App on Windows, some users will see this popup, stating:
 
 > Windows protected your PC
-> 
+>
 > Microsoft Defender SmartScreen prevented an unrecognized app from starting. Running this app might put your PC at risk.
 
 ![Windows warning message open anyway](../assets/troubleshooting/unable-to-install-the-desktop-application/windows-error.png)
@@ -66,6 +67,6 @@ The security roadblocks that operating systems have in place are there for a goo
 
 There are people out there who will make fake versions of real applications, and those fake versions are intended to steal your private keys and steal your cryptocurrency.
 
-You should always [verify the authenticity](/staying-safe/verifying-authenticity-of-desktop-app) of any application that you download, including the MyCrypto Desktop App. 
+You should always [verify the authenticity](/staying-safe/verifying-authenticity-of-desktop-app) of any application that you download, including the MyCrypto Desktop App.
 
 And as always, do everything that you can to [keep yourself and your funds secure](/staying-safe/protecting-yourself-and-your-funds).

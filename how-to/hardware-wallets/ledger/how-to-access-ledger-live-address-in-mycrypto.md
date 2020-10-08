@@ -6,7 +6,7 @@ tags:
   - Ledger
 priority: 100
 date_published: '2019-03-29'
-date_modified: '2020-08-13'
+date_modified: '2020-10-08'
 ---
 
 Ledger Live changed the way addresses are derived from the master seed. Unfortunately, MyCrypto is not fully compatible with this change. You can still access your Ledger Live addresses in MyCrypto, by manually setting the derivation path for the address.
@@ -17,8 +17,8 @@ To do this, start off by accessing your Ledger device on MyCrypto. On the addres
 
 Change the derivation path to:
 
-* m/44'/60'/**0**'/0 for Ethereum, or
-* m/44'/61'/**0**'/0 for Ethereum Classic
+- m/44'/60'/**0**'/0 for Ethereum, or
+- m/44'/61'/**0**'/0 for Ethereum Classic
 
 When you click on the green button, your first Ledger Live address should show up as the first address in the list.
 
@@ -28,4 +28,4 @@ To view your second address, replace the second to last **0** in the derivation 
 
 ## Related Articles
 
-* [What is a Derivation Path?](/general-knowledge/ethereum-blockchain/what-is-a-derivation-path)
+- [What is a Derivation Path?](/general-knowledge/ethereum-blockchain/what-is-a-derivation-path)

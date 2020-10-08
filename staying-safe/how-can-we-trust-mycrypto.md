@@ -8,13 +8,13 @@ tags:
   - MyCrypto
 priority: 80
 date_published: '2017-11-23'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 **The quickest answer is: Luckily, you don't have to trust us!**
 
-* [You can run us offline](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
-* [You can use a hardware wallet](/staying-safe/hardware-wallet-recommendations).
+- [You can run us offline](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
+- [You can use a hardware wallet](/staying-safe/hardware-wallet-recommendations).
 
 These both ensure that your keys never touch an internet-connected device, which means we couldn't steal them even if we wanted to or if our site itself was compromised in some way.
 

@@ -6,10 +6,10 @@ tags:
   - Phishing
 priority: 70
 date_published: '2018-03-12'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
-Malicious software is anything that changes the functionality of your computer for the purpose of making someone else profit in some way. Malicious software can come in many forms, from [Keyloggers](https://en.wikipedia.org/wiki/Keystroke_logging) to [Clipboard Hijackers](http://whatis.techtarget.com/definition/clipboard-hijack-attack) to [RATs](https://en.wikipedia.org/wiki/Remote_access_trojan) and [Trojans](https://en.wikipedia.org/wiki/Trojan_horse_(computing)).
+Malicious software is anything that changes the functionality of your computer for the purpose of making someone else profit in some way. Malicious software can come in many forms, from [Keyloggers](https://en.wikipedia.org/wiki/Keystroke_logging) to [Clipboard Hijackers](http://whatis.techtarget.com/definition/clipboard-hijack-attack) to [RATs](https://en.wikipedia.org/wiki/Remote_access_trojan) and [Trojans](<https://en.wikipedia.org/wiki/Trojan_horse_(computing)>).
 
 This malware can be used to steal your funds by taking your private keys (the access key to your public address) and transferring your funds away.
 
@@ -17,11 +17,11 @@ This malware can be used to steal your funds by taking your private keys (the ac
 
 To mitigate this, users should always practice safe computing habits. Here are some useful tips:
 
-* Do not download files from e-mail or websites that you don't know or trust.
-* Get in the habit of running periodic antivirus/antimalware scans on your computer.
-* Do not use public networks for anything related to cryptocurrency. Public networks expose your browsing habits to anyone on the network listening for them.
-* Download an antivirus and firewall software for your computer.
-* Do not allow others to have unmonitored access to your computer.
+- Do not download files from e-mail or websites that you don't know or trust.
+- Get in the habit of running periodic antivirus/antimalware scans on your computer.
+- Do not use public networks for anything related to cryptocurrency. Public networks expose your browsing habits to anyone on the network listening for them.
+- Download an antivirus and firewall software for your computer.
+- Do not allow others to have unmonitored access to your computer.
 
 ---
 
@@ -35,8 +35,8 @@ Clipboard Hijackers can be used to for public key replacement which is an attack
 
 Reference:
 
-* [ComboJack](https://researchcenter.paloaltonetworks.com/2018/03/unit42-sure-ill-take-new-combojack-malware-alters-clipboards-steal-cryptocurrency/)
-* [Cryptoshuffler](https://www.kaspersky.com/blog/cryptoshuffler-bitcoin-stealer/19976/)
+- [ComboJack](https://researchcenter.paloaltonetworks.com/2018/03/unit42-sure-ill-take-new-combojack-malware-alters-clipboards-steal-cryptocurrency/)
+- [Cryptoshuffler](https://www.kaspersky.com/blog/cryptoshuffler-bitcoin-stealer/19976/)
 
 ---
 

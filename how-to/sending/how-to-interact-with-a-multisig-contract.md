@@ -6,7 +6,7 @@ tags:
   - Transactions
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2020-08-02'
+date_modified: '2020-10-08'
 ---
 
 Since the [deprecation of Mist](https://medium.com/@avsa/sunsetting-mist-da21c8e943d2) in 2019, many people with funds in their Mist multisig contracts were seemingly left stranded, as Mist was the only maintained application that supported sending from these multisig contracts.
@@ -41,7 +41,7 @@ For example, you might have set it up to have three owners, and a required amoun
 
 1. Select `execute` from the dropdown.
 2. Enter the address you want to send to in the `_to` field.
-3. Enter the amount you want to send in the `_value` field. This field asks for a value in **Wei** format, not Ether. You can convert your Ether value to Wei by using the tool in [this](/general-knowledge/ethereum-blockchain/what-are-the-different-units-used-in-ethereum) article. *It is recommended that you test with a small amount first!*
+3. Enter the amount you want to send in the `_value` field. This field asks for a value in **Wei** format, not Ether. You can convert your Ether value to Wei by using the tool in [this](/general-knowledge/ethereum-blockchain/what-are-the-different-units-used-in-ethereum) article. _It is recommended that you test with a small amount first!_
 4. Enter `0x` in the `data` field.
 5. Leave the `Value` field empty. We are using the `_value` field to enter the amount that we wish to withdraw.
 6. Be sure to review all your inputs correctly. In this example, 0.005 Ether is being withdrawn.

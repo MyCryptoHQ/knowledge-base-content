@@ -88,7 +88,7 @@ const deploy = async () => {
   });
 };
 
-deploy().catch(error => {
+deploy().catch((error) => {
   console.error('Failed to deploy:');
   console.error(error);
   process.exit(1);

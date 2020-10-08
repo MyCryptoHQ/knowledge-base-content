@@ -7,7 +7,7 @@ tags:
   - Tokens
 priority: 10
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 MyCrypto is a front-end interface that enables you to interact directly with the Ethereum blockchain.
@@ -24,6 +24,6 @@ At the end of the day, it's up to you though.
 
 ## Related articles
 
-* [What is Gas?](/general-knowledge/ethereum-blockchain/what-is-gas)
-* [How to See & Add Custom Tokens](/how-to/tokens/showing-and-loading-tokens)
-* [Which tokens does MyCrypto support?](/general-knowledge/about-mycrypto/does-mycrypto-support-bitcoin-or-other-coins)
+- [What is Gas?](/general-knowledge/ethereum-blockchain/what-is-gas)
+- [How to See & Add Custom Tokens](/how-to/tokens/showing-and-loading-tokens)
+- [Which tokens does MyCrypto support?](/general-knowledge/about-mycrypto/does-mycrypto-support-bitcoin-or-other-coins)

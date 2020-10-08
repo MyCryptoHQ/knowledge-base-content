@@ -5,7 +5,7 @@ tags:
   - Ethereum
 priority: 30
 date_published: '2018-04-30'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 > Picture a spreadsheet that is duplicated thousands of times across a network of computers. Then imagine that this network is designed to regularly update this spreadsheet and you have a basic understanding of the blockchain.
@@ -34,7 +34,7 @@ If you were to send a transaction to wallet address 0x4bbeEB066eD09B7AEd07bF39EE
 
 If you were to publish your address on Reddit or Twitter, your address would be linked to your Reddit username or Twitter handle. If you use your full name on Twitter or have also published your full name on Reddit before, it would be possible for your full name to be linked to your address.
 
-Furthermore, if your address becomes linked to your name and has funds in it, it could make you a target for attackers. Everything is relative: A “small” amount of funds to you may be the monthly salary of an attacker on the other side of the world. The markets are also extremely volatile. Mentioning “I have 10 ETH” in 2015 meant you had $10. In 2018, it meant you had $10,000. In 2020 it could mean you have $1,000,000. 🚀
+Furthermore, if your address becomes linked to your name and has funds in it, it could make you a target for attackers. Everything is relative: A “small” amount of funds to you may be the monthly salary of an attacker on the other side of the world. The markets are also extremely volatile. Mentioning “I have 10 ETH” in 2015 meant you had $10. In 2018, it meant you had $10,000. In 2020 it could mean you have \$1,000,000. 🚀
 
 If a bad actor decides they want your funds, they could use information available on the web to attempt to attack you and your accounts, such as by [spear-phishing](https://archives.fbi.gov/archives/news/stories/2009/april/spearphishing_040109) or social engineering techniques. If you store your private keys on [Evernote](https://gizmodo.com/2-million-allegedly-stolen-from-cryptocurrency-vlogger-1825290362), Dropbox, [Google Drive](https://medium.com/blockchannel/someone-just-stole-9-000-of-crypto-from-me-dc04e89c289d), or any other cloud storage or note-taking application, those funds could be stolen if that single account is compromised.
 
@@ -61,9 +61,10 @@ For example, if you purchase an [ENS name](https://ens.domains/) like [your-firs
 Another way this could happen is if you use some social media Dapps (decentralized applications). [Peepeth](https://peepeth.com/), for example, asks you to link the address you use to sign up with to a profile that includes a photo, username, and any other information you might post on the Dapp. If your Ethereum account holds anything substantial, you’ve now publicly broadcasted information a hacker could use to target you and your funds.
 
 To show you how much information may be gleaned from this, let’s take a look at our CEO Taylor’s peepeth profile, [https://peepeth.com/tay](https://peepeth.com/tay).
-* Her name is “Taylor Monahan.”
-* She uses the Ethereum address 0xd161f7fa342dcefeafdeb0827b83a400f57ad0a4.
-* [She likes sunsets](https://peepeth.com/tay/peeps/QmXDxs7XpizujWz5ka2MATNVJ1JD27sH1TqARhpsUsxJ1a).
+
+- Her name is “Taylor Monahan.”
+- She uses the Ethereum address 0xd161f7fa342dcefeafdeb0827b83a400f57ad0a4.
+- [She likes sunsets](https://peepeth.com/tay/peeps/QmXDxs7XpizujWz5ka2MATNVJ1JD27sH1TqARhpsUsxJ1a).
 
 None of this information is necessarily bad. She is a public face, for better or worse, and this information is known. She also chose to use the Ethereum address 0xd161f7fa342dcefeafdeb0827b83a400f57ad0a4 exclusively for Peepeth.
 
@@ -75,16 +76,16 @@ Web3 extensions like MetaMask allow you to interact with the distributed web and
 
 ## How to stay (more) anonymous
 
-* The good news is that addresses are really, really easy to make. You can have an unlimited number of addresses and use them all for different purposes. Perhaps one is your business’ donation account. Perhaps one is for your cold savings. Perhaps one is what you give to close friends when they need to pay you back. This reduces the number of links between addresses and allows you to keep your interests, financial situation, and identity separate.
-* As mentioned above, limit when and where you publish your address to the web if you want to remain as secure as possible. Google indexes everything and once your address is out there, it’s going to be there for a long time.
-* Be mindful of what information you are revealing when interacting with Dapps, especially those that do create some sort of “identity.” Use different addresses for different Dapps when appropriate.
-* Be especially careful when publishing information to the blockchain that you may want to delete in the future. That bad meme, typo, or full name may be on the blockchain forever.
+- The good news is that addresses are really, really easy to make. You can have an unlimited number of addresses and use them all for different purposes. Perhaps one is your business’ donation account. Perhaps one is for your cold savings. Perhaps one is what you give to close friends when they need to pay you back. This reduces the number of links between addresses and allows you to keep your interests, financial situation, and identity separate.
+- As mentioned above, limit when and where you publish your address to the web if you want to remain as secure as possible. Google indexes everything and once your address is out there, it’s going to be there for a long time.
+- Be mindful of what information you are revealing when interacting with Dapps, especially those that do create some sort of “identity.” Use different addresses for different Dapps when appropriate.
+- Be especially careful when publishing information to the blockchain that you may want to delete in the future. That bad meme, typo, or full name may be on the blockchain forever.
 
 ## Related articles
 
-* [https://blockgeeks.com/guides/what-is-blockchain-technology/](https://blockgeeks.com/guides/what-is-blockchain-technology/)
-* [http://www.dummies.com/software/other-software/the-transparency-of-bitcoin/](http://www.dummies.com/software/other-software/the-transparency-of-bitcoin/)
-* [https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-transparency-explained](https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-transparency-explained)
-* [https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-privacy-explained](https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-privacy-explained)
-* [https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/](https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/)
-* [https://en.bitcoin.it/wiki/Address_reuse](https://en.bitcoin.it/wiki/Address_reuse )
+- [https://blockgeeks.com/guides/what-is-blockchain-technology/](https://blockgeeks.com/guides/what-is-blockchain-technology/)
+- [http://www.dummies.com/software/other-software/the-transparency-of-bitcoin/](http://www.dummies.com/software/other-software/the-transparency-of-bitcoin/)
+- [https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-transparency-explained](https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-transparency-explained)
+- [https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-privacy-explained](https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-privacy-explained)
+- [https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/](https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/)
+- [https://en.bitcoin.it/wiki/Address_reuse](https://en.bitcoin.it/wiki/Address_reuse)

@@ -1,11 +1,11 @@
 ---
-title: 'Error: ''Not Checksummed'' When Entering Address'
+title: "Error: 'Not Checksummed' When Entering Address"
 description: Sending & Receiving
 tags:
   - Addresses
 priority: 80
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 ## What is a checksummed address?
@@ -24,7 +24,7 @@ The one that is all lowercase is "not checksummed," meaning that you could misty
 
 Alternatively, if you use the checksummed version of an address and mistype it, it will tell you that it's an invalid address when you go to submit the transaction.
 
-For this reason, we warn you when your address is not checksummed. You are still free to send funds to it, but you should double-check the address before doing so, *especially* if you hand-typed it.
+For this reason, we warn you when your address is not checksummed. You are still free to send funds to it, but you should double-check the address before doing so, _especially_ if you hand-typed it.
 
 If you are sending funds to one of your own wallets, you can save the checksummed address via the [Send & Receive](https://mycrypto.com/account/) page and copy the address displayed there.
 

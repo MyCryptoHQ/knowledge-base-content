@@ -6,7 +6,7 @@ const moment = require('moment');
 /**
  * Automatically update the `date_modified` field of a page to the current date.
  */
-process.argv.slice(2).forEach(dirtyPath => {
+process.argv.slice(2).forEach((dirtyPath) => {
   const path = slash(dirtyPath);
 
   if (path.includes('README.md')) {

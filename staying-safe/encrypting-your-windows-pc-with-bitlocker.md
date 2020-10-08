@@ -5,7 +5,7 @@ tags:
   - Safety & Security
 priority: 75
 date_published: '2019-11-03'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 You must have Windows 10 Pro or Windows 10 Enterprise to access BitLocker.
@@ -13,6 +13,7 @@ You must have Windows 10 Pro or Windows 10 Enterprise to access BitLocker.
 ## Back it Up!
 
 Before encrypting your machine, make a backup to an external storage device. Make sure you leave your PC plugged in for the process, which does take some time that varies from machine to machine.
+
 1. Open Control Panel.
 2. Click on System and Security.
 3. Click on Backup and Restore.
@@ -26,6 +27,7 @@ Before encrypting your machine, make a backup to an external storage device. Mak
 ## Tales from the Encryption
 
 To encrypt using BitLocker, make sure you can leave your PC plugged in for several hours, possibly overnight. Go to Power & Sleep Settings in the start menu. Select “Never” for the Sleep option for “when plugged in.”
+
 1. Open Control Panel.
 2. Click on System and Security.
 3. Click on BitLocker Drive Encryption.
@@ -42,6 +44,7 @@ To encrypt using BitLocker, make sure you can leave your PC plugged in for sever
 ## The Waiting Game
 
 You can check the actual status by opening a command prompt as administrator.
+
 1. Right click on the desktop and select New and then Shortcut
 2. Copy/paste this into the field: `C:\\Windows\System32\cmd.exe`
 3. Click next. This will create a shortcut on your desktop to open the command prompt.
@@ -65,7 +68,7 @@ You can keep working while your PC is encrypting. It may take a long time but, e
 1. Click the Start button at the bottom left of your screen.
 2. Click Settings from the list to the left.
 3. Select Accounts.
-4. Select Sign-in options from the menu. 
+4. Select Sign-in options from the menu.
 5. Click on “Change” under Change your account password.
 6. Enter your current password or pin when prompted.
 7. Choose a passphrase that you will remember that is at least 20-characters-long that incorporates numbers, symbols, and a combination of upper- and lowercase characters. A good site for generating random passphrases is [passwordsgenerator.net](https://passwordsgenerator.net/).

@@ -5,7 +5,7 @@ tags:
   - Private Keys
 priority: 50
 date_published: '2019-05-15'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 Recently, it was announced that the Mist Browser and Ethereum Wallet [will not be developed/supported further](https://medium.com/@avsa/sunsetting-mist-da21c8e943d2).
@@ -20,9 +20,9 @@ Any keystore files that you used with Mist are, by default, stored on your compu
 
 The location of the files depends on your operating system:
 
-* Linux: `~/.ethereum/keystore`
-* MacOS: `/Library/Ethereum/keystore`
-* Windows: `%APPDATA%\Ethereum\keystore`
+- Linux: `~/.ethereum/keystore`
+- MacOS: `/Library/Ethereum/keystore`
+- Windows: `%APPDATA%\Ethereum\keystore`
 
 Keystore file names begin with `UTC--` followed by a timestamp and address.
 
@@ -48,7 +48,7 @@ Once you’ve found your keystore file, you can easily use this same wallet with
 
 Now you can send, receive, and otherwise manage your funds!
 
-*Note: Transitioning from Mist is the perfect time to consider upgrading to a hardware wallet. A keystore file is generally acceptable if you’re confident in your personal security, but a hardware wallet is recommended if you want to take an extra step and be even more secure. [Here are some of our recommendations](https://support.mycrypto.com/staying-safe/hardware-wallet-recommendations).*
+_Note: Transitioning from Mist is the perfect time to consider upgrading to a hardware wallet. A keystore file is generally acceptable if you’re confident in your personal security, but a hardware wallet is recommended if you want to take an extra step and be even more secure. [Here are some of our recommendations](https://support.mycrypto.com/staying-safe/hardware-wallet-recommendations)._
 
 ## Use my Mist wallet to interact with smart contracts
 

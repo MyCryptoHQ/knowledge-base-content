@@ -6,7 +6,7 @@ tags:
   - Gas
 priority: 85
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 > My transaction has a `Bad jump destination` or `Out of Gas` error. When do I get my ETH back?
@@ -17,4 +17,4 @@ There are a lot of complicated things about gas and transactions, especially dur
 
 ## Related articles
 
-* [What is Gas?](/general-knowledge/ethereum-blockchain/what-is-gas)
+- [What is Gas?](/general-knowledge/ethereum-blockchain/what-is-gas)

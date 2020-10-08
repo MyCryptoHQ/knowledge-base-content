@@ -6,31 +6,33 @@ tags:
   - Networks
 priority: 10
 date_published: '2017-10-08'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 For instructions on connecting to your own local Ethereum node with MyCrypto, please see [this](/developers/run-your-own-node-with-mycrypto) article.
 
-* Verify the URL you entered is correct.
+- Verify the URL you entered is correct.
 
-* Verify the port you entered is correct.
+- Verify the port you entered is correct.
 
-* Verify that if you are connecting to an http:// node, you are running MyCrypto locally (NOT over https://).
+- Verify that if you are connecting to an http:// node, you are running MyCrypto locally (NOT over https://).
 
-* Verify you are running with:
-  * Geth: `geth --rpc --rpccorsdomain "*"`
-  * Parity: `parity --jsonrpc-cors "*"`
+- Verify you are running with:
 
-* You can also run both clients in light client mode, which only downloads the recent state of the blockchain and saves bandwidth:
-  * Geth: `geth --rpc --rpccorsdomain "*" --syncmode "light"`
-  * Parity: `parity --jsonrpc-cors "*" --light`
+  - Geth: `geth --rpc --rpccorsdomain "*"`
+  - Parity: `parity --jsonrpc-cors "*"`
 
-* Verify your node is actually up and running.
+- You can also run both clients in light client mode, which only downloads the recent state of the blockchain and saves bandwidth:
 
-* Try removing the node and adding it again.
+  - Geth: `geth --rpc --rpccorsdomain "*" --syncmode "light"`
+  - Parity: `parity --jsonrpc-cors "*" --light`
 
-* Try changing the node in the MyCrypto interface to Etherscan or Infura, then change back.
+- Verify your node is actually up and running.
 
-* Try using Google Chrome or a different browser.
+- Try removing the node and adding it again.
 
-* Ensure that you do not have a firewall or something else that may be blocking the connection.
+- Try changing the node in the MyCrypto interface to Etherscan or Infura, then change back.
+
+- Try using Google Chrome or a different browser.
+
+- Ensure that you do not have a firewall or something else that may be blocking the connection.

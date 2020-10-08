@@ -5,7 +5,7 @@ tags:
   - Private Keys
 priority: 60
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2020-10-08'
 ---
 
 You can use both MyCrypto and Jaxx at the same time; both are client side wallets that simply allow you to access your ETH on the blockchain. There is no need to "import" or "sweep" your ETH from your Jaxx to a new wallet on MyCrypto.
@@ -18,4 +18,4 @@ When you want to see your ETH and send ETH or Tokens, you simply change the node
 
 ## Related articles
 
-* [Jaxx Privacy Policy](https://jaxx.io/legal.html#privacyPolicy)
+- [Jaxx Privacy Policy](https://jaxx.io/legal.html#privacyPolicy)
