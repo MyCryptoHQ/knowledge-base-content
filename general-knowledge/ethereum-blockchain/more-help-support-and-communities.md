@@ -7,7 +7,7 @@ tags:
   - Ethereum
 priority: 50
 date_published: '2018-06-21'
-date_modified: '2020-10-08'
+date_modified: '2020-10-12'
 ---
 
 ## General Questions and Ethereum
@@ -17,40 +17,37 @@ date_modified: '2020-10-08'
 - Getting Started: [Reddit Guide](https://www.reddit.com/r/ethereum/comments/61y5ix/welcome_to_rethereum_the_reddit_front_page_of_the/)
 - for Noobs: [/r/ethereumnoobies](https://www.reddit.com/r/ethereumnoobies)
 - for Development: [/r/ethdev](https://www.reddit.com/r/ethdev)
-- Giveth Slack: [Giveth Slack](https://giveth.slack.com/)
 
 ## Clients / Wallets / Interfaces
 
-- Geth: [Gitter](https://gitter.im/ethereum/go-ethereum)
-- Mist: [Gitter](https://gitter.im/ethereum/mist)
-- Parity: [GitHub](https://github.com/paritytech/parity) · [Gitter](https://gitter.im/paritytech/parity)
-- Metamask: [Slack](https://metamask-slack-autoinvite.herokuapp.com/) · [Support](https://support.metamask.io/new)
-- MyCrypto: [Website](https://mycrypto.com/) · [FAQ](https://support.mycrypto.com/) · [Support](mailto:support@mycrypto.com)
+- Geth: [Website](https://geth.ethereum.org/) · [Gitter](https://gitter.im/ethereum/go-ethereum)
+- OpenEthereum: [GitHub](https://github.com/openethereum/openethereum)
+- Metamask: [Website](https://metamask.io/) · [Support](https://metamask.zendesk.com/hc/en-us)
+- MyCrypto: [Website](https://mycrypto.com/) · [FAQ](https://support.mycrypto.com/) · [Support](/contact-us)
 - MyEtherWallet: [Website](https://myetherwallet.com/) · [FAQ](https://myetherwallet.github.io/knowledge-base/) · [Support](mailto:support@myetherwallet.com)
-- Jaxx: [Website](https://jaxx.io/) · [Support](https://decentral.zendesk.com/hc/en-us)
-- Ledger Nano S: [Website](https://www.ledgerwallet.com/) · [Support](https://ledger.zendesk.com/hc/en-us/requests/new)
-- Trezor: [Website](https://trezor.io/) · [Gitter](https://gitter.im/trezor/community) · [Support](mailto:support@trezor.io)
+- Jaxx: [Website](https://jaxx.io/) · [Support](https://support.decentral.ca/hc/en-us)
+- Ledger: [Website](https://www.ledger.com/) · [Support](https://support.ledger.com/hc/en-us/requests/new)
+- Trezor: [Website](https://trezor.io/) · [Gitter](https://gitter.im/trezor/community) · [Support](https://trezor.io/support/)
 
 ## Exchanges
 
 - Bibox: [Website](https://www.bibox.com/) · [Support](https://bibox.zendesk.com/hc/en-us/categories/115000398333-Support)
-- Binance: [Website](https://www.binance.com/) · [Support](https://support.binance.com/hc/en-us)
-- Bitfinex: [Website](https://www.bitfinex.com/) · [Support](https://www.bitfinex.com/support)
-- Bittrex: [Website](https://bittrex.com/Home/Markets) · [Support](https://bittrex.com/Home/Contact) · [Slack](http://slack.bittrex.com/)
-- Bity: [Website](https://bity.com/af/jshkb37v) · [Support](mailto:support@bity.com)
-- Cryptopia: [Website](https://www.cryptopia.co.nz/) · [Support](https://www.cryptopia.co.nz/Support)
-- Changelly: [Website](https://changelly.com/about) · [Support](mailto:support@changelly.com)
-- Coinbase: [Support](https://support.coinbase.com/)
-- Gemini: [Support](https://gemini24.zendesk.com/hc/en-us/requests/new) · [FAQ](https://gemini24.zendesk.com/hc/en-us)
-- HitBTC: [Website](https://hitbtc.com/) · [Support](https://support.hitbtc.com/hc/en-us)
-- Huobi: [Website](https://www.huobi.pro/) · [Support](mailto:support@huobi.pro)
-- Kraken: [Support](https://support.kraken.com/hc/en-us)
-- Kucoin: [Website](https://www.kucoin.com/#/) · [Support](http://kucoin.udesk.cn/im_client/?web_plugin_id=36121&language=en-us)
-- Liqui: [Website](https://liqui.io/) ·[Support](https://liqui.freshdesk.com/support/home)
-- Poloniex: [Support](https://poloniex.com/support/)
-- Shapeshift: [Slack](https://shapeshiftcommunity.herokuapp.com/) · [Reddit](https://www.reddit.com/r/shapeshiftio) · [Support](https://shapeshift.zendesk.com/hc/en-us/requests/new)
+- Binance: [Website](https://www.binance.com/) · [Support](https://binance.zendesk.com/hc/en-us)
+- Bitfinex: [Website](https://www.bitfinex.com/) · [Support](https://cs.bitfinex.com)
+- Bittrex: [Website](https://bittrex.com/Home/Markets) · [Support](https://bittrex.com/Home/Contact)
+- Bity: [Website](https://bity.com/af/jshkb37v) · [Support](https://bity.com/faq)
+- Changelly: [Website](https://changelly.com/) · [Support](https://support.changelly.com/support/home)
+- Coinbase: [Website](https://coinbase-consumer.sjv.io/RVmkN) · [Support](https://help.coinbase.com/)
+- Gemini: [Website](https://gemini.com/) · [Support](https://support.gemini.com/hc/en-us)
+- HitBTC: [Website](https://hitbtc.com/) · [Support](https://support.hitbtc.com/en/support/home)
+- Huobi: [Website](https://www.huobi.com/) · [Support](https://huobiglobal.zendesk.com/hc/en-us)
+- Kraken: [Website](https://www.kraken.com/) · [Support](https://support.kraken.com/hc/en-us)
+- Kucoin: [Website](https://www.kucoin.com/) · [Support](https://support.kucoin.plus/hc/en-us)
+- Poloniex: [Website](https://poloniex.com/) · [Support](https://support.poloniex.com/hc/en-us)
+- Shapeshift: [Website](https://classic.shapeshift.com) · [Support](https://shapeshift.zendesk.com/hc/en-us/requests/new)
 
 ## Blockchain explorers
 
 - Etherscan: [Website](https://etherscan.io/)
 - Etherchain: [Website](https://www.etherchain.org/)
+- Blockscout: [Website](https://blockscout.com/etc/mainnet)
