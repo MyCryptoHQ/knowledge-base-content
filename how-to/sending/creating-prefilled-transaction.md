@@ -26,15 +26,15 @@ These parameters only apply on MyCrypto beta, which you can find at [beta.mycryp
 
 </Alert>
 
-* `type` - The type of pre-filled transaction (use **resubmit** in most cases).
-* `gasPrice` - The *gas price* of the transaction (should be in hex wei format. ex: **0x059682f000**).
-* `gasLimit` - The *gas limit* field of the transaction (should be in hex format. ex: **0xcb56**).
-* `chainId` - The *chainid* of the network the transaction should be conducted on (ex: **1**).
-* `value` - The *value* of the transaction (should be in hex wei format. ex: **0x8AC7230489E80000**).
-* `nonce` - The *nonce* field of the transaction (should be in hex format. ex: **0xD8**).
-* `to` - The *to* address of the transaction.
-* `from` - The *from* address of the transaction (should correspond to one of the accounts you have added to your dashboard).
-* `data` - The *data* field of the transaction (should be in hex format. ex: **0xa9059cbb0000000000000000000000005dd6e754d37bababeb95f34639568812900fec79000000000000000000000000000000000000000000000104f6e0a229913de8a2**).
+- `type` - The _type_ of pre-filled transaction (use **resubmit** in most cases).
+- `gasPrice` - The _gas price_ of the transaction (should be in hex wei format. ex: **0x059682f000**).
+- `gasLimit` - The _gas limit_ field of the transaction (should be in hex format. ex: **0xcb56**).
+- `chainId` - The _chainid_ of the network the transaction should be conducted on (ex: **1**).
+- `value` - The _value_ of the transaction (should be in hex wei format. ex: **0x8AC7230489E80000**).
+- `nonce` - The _nonce_ field of the transaction (should be in hex format. ex: **0xD8**).
+- `to` - The _to_ address of the transaction.
+- `from` - The _from_ address of the transaction (should correspond to one of the accounts you have added to your dashboard).
+- `data` - The _data_ field of the transaction (should be in hex format. ex: **0xa9059cbb0000000000000000000000005dd6e754d37bababeb95f34639568812900fec79000000000000000000000000000000000000000000000104f6e0a229913de8a2**).
 
 ### Examples
 
