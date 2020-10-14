@@ -7,7 +7,7 @@ tags:
   - Ethereum
 priority: 50
 date_published: '2018-06-21'
-date_modified: '2020-10-12'
+date_modified: '2020-10-14'
 ---
 
 ## General Questions and Ethereum
@@ -26,8 +26,8 @@ date_modified: '2020-10-12'
 - MyCrypto: [Website](https://mycrypto.com/) · [FAQ](https://support.mycrypto.com/) · [Support](/contact-us)
 - MyEtherWallet: [Website](https://myetherwallet.com/) · [FAQ](https://myetherwallet.github.io/knowledge-base/) · [Support](mailto:support@myetherwallet.com)
 - Jaxx: [Website](https://jaxx.io/) · [Support](https://support.decentral.ca/hc/en-us)
-- Ledger: [Website](https://www.ledger.com/) · [Support](https://support.ledger.com/hc/en-us/requests/new)
-- Trezor: [Website](https://trezor.io/) · [Gitter](https://gitter.im/trezor/community) · [Support](https://trezor.io/support/)
+- Ledger: [Website](https://www.ledgerwallet.com/r/1985?path=/products/) · [Support](https://support.ledger.com/hc/en-us/requests/new)
+- Trezor: [Website](https://shop.trezor.io/?offer_id=10&aff_id=1735) · [Gitter](https://gitter.im/trezor/community) · [Support](https://trezor.io/support/)
 
 ## Exchanges
 
