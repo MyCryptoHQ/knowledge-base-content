@@ -27,8 +27,8 @@ jobs:
       - name: Install Dependencies
         run: yarn install --frozen-lockfile
 
-      - name: Lint Markdown
-        run: yarn mdlint
+      - name: Lint
+        run: yarn lint
 
       - name: Trigger Deployment
         run: yarn deploy
