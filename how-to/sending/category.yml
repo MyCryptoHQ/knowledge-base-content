@@ -4,6 +4,7 @@ description: ''
 articles:
   - checking-or-replacing-a-transaction-after-it-has-been-sent
   - checking-the-status-of-a-transaction
+  - how-to-speed-up-a-transaction
   - how-to-know-what-gas-price-to-use
   - how-to-know-what-gas-limit-to-use
   - how-to-send-a-transaction
