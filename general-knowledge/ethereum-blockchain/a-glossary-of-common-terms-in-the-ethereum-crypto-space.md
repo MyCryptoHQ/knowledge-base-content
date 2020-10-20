@@ -5,11 +5,7 @@ tags:
   - Ethereum
 priority: 60
 date_published: '2015-10-05'
-<<<<<<< HEAD
-date_modified: '2020-10-08'
-=======
-date_modified: '2020-10-01'
->>>>>>> 064a5c6... Alphabetized terms
+date_modified: '2020-10-20'
 ---
 
 ## Words are Hard
@@ -100,7 +96,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 
 * Ethereum is the name of the network (blockchain) that ether runs on. Ether (abbreviated as ETH) refers to the cryptocurrency that runs on the Ethereum network. These two terms are commonly (incorrectly) used interchangeably.
 
-### Hardware Wallet:
+### Hardware Wallet
 
 * Typically, a single-purpose device that "holds" your private key(s), ensuring your private key(s) are safe.
 * Typically, they use a 24-word phrase. This phrase you should write down (not on your computer) and store separately from your hardware wallet.
