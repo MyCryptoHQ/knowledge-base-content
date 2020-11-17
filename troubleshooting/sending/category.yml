@@ -5,6 +5,7 @@ articles:
   - transaction-failed-out-of-gas
   - transactions-not-showing-or-pending
   - error-insufficient-funds-message
+  - gas-required-exceeds-allowance-or-always-failing-transaction
   - what-to-do-if-you-sent-to-wrong-address
   - ethereum-balance-not-loading-or-showing
   - eth-or-tokens-not-showing-on-exchange
