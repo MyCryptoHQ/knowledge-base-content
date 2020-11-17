@@ -7,7 +7,9 @@ date_published: '2020-11-17'
 date_modified: '2020-11-17'
 ---
 
-This error can occur, usually when you are trying to interact with a contract. It means that MyCrypto could not estimate the gas limit for your transaction. There are multiple causes for this error, such as:
+This error can occur when interacting with a contract, and means that MyCrypto could not estimate the gas limit for your transaction.
+
+This error can be caused by a few reasons, including:
 
 - The gas limit required for your transaction is higher than the block gas limit. You can see the current block gas limit for the Ethereum mainnet [here](https://ethstats.io/).
 - Contract execution for your transaction will fail, so the gas limit cannot be estimated.
