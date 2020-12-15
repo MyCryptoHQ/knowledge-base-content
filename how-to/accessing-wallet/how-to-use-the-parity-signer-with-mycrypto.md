@@ -5,16 +5,12 @@ tags:
   - Parity Signer
 priority: 60
 date_published: '2018-04-18'
-date_modified: '2020-10-08'
+date_modified: '2020-10-20'
 ---
-
-## What is the Parity Signer?
 
 Parity Signer, available for iOS and Android, is an offline mobile app that securely generates and stores your Ethereum private keys. Most mobile wallets connect to the internet, but Parity Signer gives you one extra layer of security: it never connects to the internet and can be used air-gapped.
 
-Parity Signer has been the perfect companion with Parity Wallet, allowing users to create “watch-only” accounts on their networked computers while keeping their keys safer in the open-source mobile app.
-
-But now, you can also use MyCrypto to send transactions from your Parity Signer accounts without having to run your own Parity node.
+Parity Signer allows users to create “watch-only” accounts on their networked computers while keeping their keys safe in the open-source mobile app. You can use MyCrypto to send transactions from your Parity Signer accounts.
 
 ## How to get started
 
@@ -36,7 +32,7 @@ Currently, the Android app is still in beta, but it is publicly available via th
 
 ![Account name](../../assets/how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto/account-name.png)
 
-Your recovery phrase and public address will be generated. After you type in your account name, make sure your back up your recovery phrase. Click [here](https://blockonomi.com/keep-recovery-seed-safe/) for more info on how to back up and store your recovery phrase.
+Your recovery phrase and public address will be generated. After you type in your account name, make sure your back up your recovery phrase. Click [here](/how-to/backup-restore/how-to-save-back-up-your-wallet) for more info on how to back up and store your recovery phrase.
 
 4. Enter and confirm your PIN.
 
@@ -88,14 +84,13 @@ Check to make sure your account details match up. From this screen, you can send
 3. Review the details carefully and enter your PIN to sign the transaction offline.
 4. Present your signed transaction QR code to MyCrypto to confirm and send!
 
-[View FULL Tutorial on Parity's Wiki](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html).
+[View full tutorial on Parity's GitHub page](https://github.com/paritytech/parity-signer/blob/master/docs/tutorials/MyCrypto-tutorial.md).
 
 Make sure to first do a trial run with a small amount of Ether before sending larger amounts.
 
 ## Related articles
 
-- [Parity Support](http://paritytech.io/)
-- [Parity Privacy Policy](http://paritytech.io/legal/)
-- [Parity Signer + MyCrypto Tutorial](https://wiki.parity.io/Parity-Signer-Mobile-App-MyCrypto-tutorial.html)
+- [Parity website](https://www.parity.io/)
+- [Parity Privacy Policy](https://www.parity.io/terms/)
 - [How to Keep your Recovery Seed/Phrase Secure](https://blockonomi.com/keep-recovery-seed-safe/)
 - [Traditional Hardware Wallet Recommendations](/staying-safe/hardware-wallet-recommendations)
