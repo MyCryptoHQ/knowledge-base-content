@@ -5,7 +5,7 @@ tags:
   - Ethereum
 priority: 40
 date_published: '2018-07-02'
-date_modified: '2020-10-08'
+date_modified: '2020-12-16'
 ---
 
 There are currently 4 different testnets for the Ethereum public chain:
@@ -14,6 +14,12 @@ There are currently 4 different testnets for the Ethereum public chain:
 - Ropsten
 - Kovan
 - Goerli
+
+With the [MyCrypto beta](https://beta.mycrypto.com/) faucet you can easily request Ether from any of the above mentioned testnets. Get started with the [MyCrypto faucet](https://app.mycrypto.com/faucet) by adding your address, and request testnet Ether right away.
+
+![Faucet overview](../../assets/how-to/getting-started/where-to-get-testnet-ether/faucet-intro.png)
+
+Below you will be able to find additional information for every testnet, and alternative faucets.
 
 ## Rinkeby
 
@@ -37,12 +43,11 @@ Ropsten is a public testnet for Ethereum that uses PoW (Proof of Work).
 - Block explorer: <https://ropsten.etherscan.io/>
 - GitHub: <https://github.com/ethereum/ropsten>
 
-| Faucets                                                                |
-| ---------------------------------------------------------------------- |
-| <http://faucet.ropsten.be:3001/>                                       |
-| <https://faucet.kyber.network/>                                        |
-| <https://faucet.metamask.io/>                                          |
-| <https://ipfs.io/ipfs/QmVAwVKys271P5EQyEfVSxm7BJDKWt42A2gHvNmxLjZMps/> |
+| Faucets                          |
+| -------------------------------- |
+| <http://faucet.ropsten.be:3001/> |
+| <https://faucet.kyber.network/>  |
+| <https://faucet.metamask.io/>    |
 
 | Token Faucets                                 |
 | --------------------------------------------- |
@@ -60,11 +65,11 @@ Kovan is a public testnet for Ethereum that uses Parity's PoA (Proof of Authorit
 - Block explorer: <https://kovan.etherscan.io/>
 - GitHub: <https://github.com/kovan-testnet/>
 
-| Faucets                                                                            |
-| ---------------------------------------------------------------------------------- |
-| Ask on <https://gitter.im/kovan-testnet/faucet>                                    |
-| Verify your account <https://www.youtube.com/watch?v=99UucFzYCRc&feature=youtu.be> |
-| <https://faucets.blockxlabs.com/>                                                  |
+| Faucets                                                           |
+| ----------------------------------------------------------------- |
+| Ask on <https://gitter.im/kovan-testnet/faucet>                   |
+| Verify your account <https://www.youtube.com/watch?v=99UucFzYCRc> |
+| <https://faucets.blockxlabs.com/>                                 |
 
 ## **Goerli**
 
@@ -77,7 +82,7 @@ Goerli is a public testnet for Ethereum that POA (Proof of Authority) consensus 
 - Block explorer: <https://goerli.etherscan.io/>
 - GitHub: <https://github.com/goerli/>
 
-| Faucets                                                |
-| ------------------------------------------------------ |
-| Request on <https://goerli-faucet.slock.it/index.html> |
-| <https://faucet.goerli.mudit.blog/>                    |
+| Faucets                                     |
+| ------------------------------------------- |
+| <https://goerli-faucet.slock.it/index.html> |
+| <https://faucet.goerli.mudit.blog/>         |
