@@ -43,11 +43,11 @@ Ropsten is a public testnet for Ethereum that uses PoW (Proof of Work).
 - Block explorer: <https://ropsten.etherscan.io/>
 - GitHub: <https://github.com/ethereum/ropsten>
 
-| Faucets                                                                |
-| ---------------------------------------------------------------------- |
-| <http://faucet.ropsten.be:3001/>                                       |
-| <https://faucet.kyber.network/>                                        |
-| <https://faucet.metamask.io/>                                          |
+| Faucets                          |
+| -------------------------------- |
+| <http://faucet.ropsten.be:3001/> |
+| <https://faucet.kyber.network/>  |
+| <https://faucet.metamask.io/>    |
 
 | Token Faucets                                 |
 | --------------------------------------------- |
@@ -65,11 +65,11 @@ Kovan is a public testnet for Ethereum that uses Parity's PoA (Proof of Authorit
 - Block explorer: <https://kovan.etherscan.io/>
 - GitHub: <https://github.com/kovan-testnet/>
 
-| Faucets                                                                            |
-| ---------------------------------------------------------------------------------- |
-| Ask on <https://gitter.im/kovan-testnet/faucet>                                    |
+| Faucets                                                           |
+| ----------------------------------------------------------------- |
+| Ask on <https://gitter.im/kovan-testnet/faucet>                   |
 | Verify your account <https://www.youtube.com/watch?v=99UucFzYCRc> |
-| <https://faucets.blockxlabs.com/>                                                  |
+| <https://faucets.blockxlabs.com/>                                 |
 
 ## **Goerli**
 
@@ -82,7 +82,7 @@ Goerli is a public testnet for Ethereum that POA (Proof of Authority) consensus 
 - Block explorer: <https://goerli.etherscan.io/>
 - GitHub: <https://github.com/goerli/>
 
-| Faucets                                                |
-| ------------------------------------------------------ |
+| Faucets                                     |
+| ------------------------------------------- |
 | <https://goerli-faucet.slock.it/index.html> |
-| <https://faucet.goerli.mudit.blog/>                    |
+| <https://faucet.goerli.mudit.blog/>         |
