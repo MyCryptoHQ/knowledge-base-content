@@ -15,11 +15,11 @@ There are currently 4 different testnets for the Ethereum public chain:
 - Kovan
 - Goerli
 
-The [MyCrypto beta](https://beta.mycrypto.com/) allows you to easily request testnet Ether from any of the above mentioned testnets. Get started with the [MyCrypto beta](https://beta.mycrypto.com/) by adding your address, and [request testnet Ether](https://app.mycrypto.com/faucet) right away.
+With the [MyCrypto beta faucet](https://beta.mycrypto.com/) you can easily request Ether from any of the above mentioned testnets. Get started with the [MyCrypto beta](https://beta.mycrypto.com/) by adding your address, and [request testnet Ether](https://app.mycrypto.com/faucet) right away.
 
 ![Faucet overview](../../assets/how-to/getting-started/where-to-get-testnet-ether/faucet-intro.png)
 
-Below you will be able to find additional information for every testnet, and any alternative (token) faucets.
+Below you will be able to find additional information for every testnet, and alternative faucets.
 
 ## Rinkeby
 
