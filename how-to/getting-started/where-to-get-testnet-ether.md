@@ -5,7 +5,7 @@ tags:
   - Ethereum
 priority: 40
 date_published: '2018-07-02'
-date_modified: '2020-10-08'
+date_modified: '2020-12-16'
 ---
 
 There are currently 4 different testnets for the Ethereum public chain:
@@ -14,6 +14,12 @@ There are currently 4 different testnets for the Ethereum public chain:
 - Ropsten
 - Kovan
 - Goerli
+
+The [MyCrypto beta](https://beta.mycrypto.com/) allows you to easily request testnet Ether from any of the above mentioned testnets. Get started with the [MyCrypto beta](https://beta.mycrypto.com/) by adding your address, and [request testnet Ether](https://app.mycrypto.com/faucet) right away.
+
+![Faucet overview](../../assets/how-to/getting-started/where-to-get-testnet-ether/faucet-intro.png)
+
+Below you will be able to find additional information for every testnet, and any alternative (token) faucets.
 
 ## Rinkeby
 
@@ -42,7 +48,6 @@ Ropsten is a public testnet for Ethereum that uses PoW (Proof of Work).
 | <http://faucet.ropsten.be:3001/>                                       |
 | <https://faucet.kyber.network/>                                        |
 | <https://faucet.metamask.io/>                                          |
-| <https://ipfs.io/ipfs/QmVAwVKys271P5EQyEfVSxm7BJDKWt42A2gHvNmxLjZMps/> |
 
 | Token Faucets                                 |
 | --------------------------------------------- |
@@ -63,7 +68,7 @@ Kovan is a public testnet for Ethereum that uses Parity's PoA (Proof of Authorit
 | Faucets                                                                            |
 | ---------------------------------------------------------------------------------- |
 | Ask on <https://gitter.im/kovan-testnet/faucet>                                    |
-| Verify your account <https://www.youtube.com/watch?v=99UucFzYCRc&feature=youtu.be> |
+| Verify your account <https://www.youtube.com/watch?v=99UucFzYCRc> |
 | <https://faucets.blockxlabs.com/>                                                  |
 
 ## **Goerli**
@@ -79,5 +84,5 @@ Goerli is a public testnet for Ethereum that POA (Proof of Authority) consensus 
 
 | Faucets                                                |
 | ------------------------------------------------------ |
-| Request on <https://goerli-faucet.slock.it/index.html> |
+| <https://goerli-faucet.slock.it/index.html> |
 | <https://faucet.goerli.mudit.blog/>                    |
