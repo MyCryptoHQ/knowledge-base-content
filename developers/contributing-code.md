@@ -5,18 +5,14 @@ tags:
   - MyCrypto
 priority: 63
 date_published: '2017-10-08'
-date_modified: '2020-10-08'
+date_modified: '2021-01-14'
 ---
 
 If you're a developer looking to pitch in, you're more than welcome to help out. Here are some suggestions for diving in:
 
 ## Read the Documentation
 
-Make sure you read the entire Readme to understand some basics about the project and how to run it. You can also check out our [style guide](https://github.com/MyCryptoHQ/MyCrypto/wiki/Style-Guides) for how to write code that matches the way we write things.
-
-## Find a Good First Issue
-
-If this is your first time contributing to MyCrypto, you'd probably do well to start small. We often mark good tasks for this on our issue queue with the "good first issue" label. [You can find those over here](https://github.com/MyCryptoHQ/mycrypto/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
+Make sure you read the entire Readme to understand some basics about the project and how to run it. You can also check out our [style guide](https://github.com/MyCryptoHQ/MyCrypto/wiki/Code-Style-Guide) for how to write code that matches the way we write things.
 
 ## Make an Issue First
 
