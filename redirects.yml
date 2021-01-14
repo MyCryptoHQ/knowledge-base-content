@@ -211,8 +211,6 @@ redirects:
     to: staying-safe/why-you-should-backup-your-hardware-wallet
   - from: security/how-to-stay-safe.html
     to: staying-safe/how-to-stay-safe
-  - from: best-of/trading-advice-what-to-do-when-you-lose-it-all-trading-margin.html
-    to: general-knowledge/investing-icos-tokens/margin-trading-what-to-do-when-you-lose-it-all
   - from: best-of/how-not-to-miss-out-on-ico.html
     to: general-knowledge/investing-icos-tokens/best-ways-to-avoid-missing-out-on-that-ico
   - from: best-of/investing-responsibly-by-brian-armstrong-coinbase.html
