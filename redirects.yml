@@ -87,8 +87,6 @@ redirects:
     to: how-to/sending/trezor-sending-from
   - from: hardware-wallets/trezor-sending-to-trezor-device.html
     to: how-to/sending/trezor-sending-to
-  - from: networks/sent-etc-to-eth-address.html
-    to: how-to/nodes-networks/access-eth-sent-to-etc-address-or-etc-sent-to-eth-address
   - from: hardware-wallets/ledger-hardware-wallet-using-with-android
     to: how-to/hardware-wallets/ledger/how-to-use-a-ledger-wallet-with-android
   - from: hardware-wallets/multiple-addresses-on-hardware-wallet.html
