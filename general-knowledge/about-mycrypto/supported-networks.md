@@ -1,12 +1,10 @@
 ---
 title: Which networks does MyCrypto support?
-description: FAQ
 tags:
   - Networks
   - MyCrypto
-priority: 95
 date_published: '2020-06-10'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
 MyCrypto supports a wide variety of different networks, better known as blockchains. The different types of networks that MyCrypto supports are all based on the original Ethereum codebase, with some differences which set them apart from the original Ethereum network.
@@ -259,33 +257,6 @@ Unit: DXN<br />
 Website: [dexon.org](https://dexon.org/)<br />
 Source: [github.com/dexon-foundation](https://github.com/dexon-foundation)<br />
 Block explorer: [dexonscan.app](https://dexonscan.app/)
-
-## Permission
-
-“_Permission’s blockchain and cryptocurrency enable you to own, control and profit from your time and personal information._” - [permission.io](https://permission.io/)
-
-Unit: ASK<br />
-Website: [permission.io](https://permission.io/)<br />
-Source: N/A<br />
-Block explorer: [explorer.permission.io](https://explorer.permission.io/)
-
-## Auxilium
-
-“_Auxilium is an independent coin and platform, including smart contracts, dApps and tokenization. In addition, our Proof of Authority system is most environmentally friendly and offers greater security, faster transactions, more cost-efficiency and simpler paths to scalability than tradition Proof of Work and Proof of Stake cryptocurrencies._” - [auxilium.global](https://auxilium.global/)
-
-Unit: AUX<br />
-Website: [auxilium.global](https://auxilium.global/)<br />
-Source: [github.com/auxiliumglobal](https://github.com/auxiliumglobal)<br />
-Block explorer: [explore.auxilium.global](https://explore.auxilium.global/)
-
-## EtherCore
-
-“_EtherCore is a multi-chain decentralized application and smart contracts platform that hosts various applications that can be used in real world. EtherCore offers highly distributed, fault tolerance and mission-critical network foundation for your blockchain business._” - [ethercore.io](https://www.ethercore.io/)
-
-Unit: ERE<br />
-Website: [ethercore.io](https://www.ethercore.io/)<br />
-Source: [github.com/ethercore](https://github.com/ethercore)<br />
-Block explorer: [explorer.ethercore.io](https://explorer.ethercore.io/)
 
 ## Energy Web Chain
 
