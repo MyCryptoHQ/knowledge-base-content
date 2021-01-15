@@ -6,7 +6,7 @@ tags:
   - MyCrypto
 priority: 60
 date_published: '2017-07-05'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
 No. And if you landed on a site telling you that you could, they are lying to you and trying to steal your private keys.
@@ -62,7 +62,7 @@ If this is functionality that you do want, feel free to use an exchange or hoste
 
 ## Hardware wallets
 
-Or, you know, spend the <\$100 and get a [hardware wallet](/staying-safe/hardware-wallet-recommendations). It's worth it. You can use it for 2FA on other services and ensure the safety and security of your funds.
+Or, you know, spend the <$100 and get a [hardware wallet](/staying-safe/hardware-wallet-recommendations). It's worth it. You can use it for 2FA on other services and ensure the safety and security of your funds.
 
 More information: <https://github.com/kvhnuke/etherwallet/issues/292>
 

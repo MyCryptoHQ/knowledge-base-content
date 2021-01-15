@@ -6,7 +6,7 @@ tags:
   - Transactions
   - Beta
 date_published: '2020-08-11'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
 <Alert>
@@ -29,7 +29,7 @@ MyCrypto has an integration with [Nansen](https://nansen.ai/) for automatic anal
 
 ## How to protect a transaction
 
-Protecting your transaction is easy. Make sure all fields are filled out, and simply click on the "Get Transaction Protection" button, on the "Send Assets" page. Note that you can currently only protect transactions when you send more than \$5.00.
+Protecting your transaction is easy. Make sure all fields are filled out, and simply click on the "Get Transaction Protection" button, on the "Send Assets" page. Note that you can currently only protect transactions when you send more than $5.00.
 
 ![Get transaction protection](../../assets/general-knowledge/about-mycrypto/what-are-protected-transactions/get-transaction-protection-button.png)
 

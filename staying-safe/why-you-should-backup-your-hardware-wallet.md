@@ -6,7 +6,7 @@ tags:
   - Backups
 priority: 90
 date_published: '2018-04-18'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
 ## Preface
@@ -36,7 +36,7 @@ While you think about this, it's also not a bad time to think about other things
 
 You can also opt for a fire-proof bag if you don't have any external place to keep the backup or don't feel like you are a high-risk target at this time (e.g., you don't have millions of dollars worth of crypto, don't have tweakers for neighbors, don't live in a place where there are common hurricanes or fires, etc.). The upside to these over traditional fireproof/waterproof safes is that they are cheaper and easier to conceal someplace random, which reduces the risk of robbery. Safes are known to house valuables. A friend recently had her house broken into and they took the entire safe because she never bolted it down. The only thing in there was some old photos of her great-grandparents and her birth certificate. That sucks.
 
-Analyze your personal risk and your situation. Would your life be over if the funds on that device were to be lost? How upset would you be? How much money do you have stored on it? What would be the impact of losing access to that device (including emotional damage / stress)? This is the amount of money you should spend securing it. We were recently talking and arrived at the conclusion that 100% of people who have over 1-weeks' worth of pay in crypto should have a hardware wallet. Considering that a fire-proof bag is < \$20, it's pretty much a no-brainer if you are in this space.
+Analyze your personal risk and your situation. Would your life be over if the funds on that device were to be lost? How upset would you be? How much money do you have stored on it? What would be the impact of losing access to that device (including emotional damage / stress)? This is the amount of money you should spend securing it. We were recently talking and arrived at the conclusion that 100% of people who have over 1-weeks' worth of pay in crypto should have a hardware wallet. Considering that a fire-proof bag is < $20, it's pretty much a no-brainer if you are in this space.
 
 Hope this helps!
 
