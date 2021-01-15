@@ -5,10 +5,8 @@ tags:
   - Addresses
 priority: 80
 date_published: '2017-07-05'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
-
-## What is a checksummed address?
 
 A checksummed address is an address that contains uppercase letters, as specified in [EIP-55](https://eips.ethereum.org/EIPS/eip-55). Checksummed addresses are meant to help prevent users from sending transactions to the wrong address.
 
@@ -26,6 +24,6 @@ Alternatively, if you use the checksummed version of an address and mistype it, 
 
 For this reason, we warn you when your address is not checksummed. You are still free to send funds to it, but you should double-check the address before doing so, _especially_ if you hand-typed it.
 
-If you are sending funds to one of your own wallets, you can save the checksummed address via the [Send & Receive](https://mycrypto.com/account/) page and copy the address displayed there.
+MyCrypto automatically shows your addresses as the checksummed version, and also gives you the checksummed version when you click the "copy" button next to any of the addresses you've added to MyCrypto.
 
 **To help others implement best practices, make sure to contact your favorite Ethereum organizations about adopting this standard to help protect their users (YOU!).**

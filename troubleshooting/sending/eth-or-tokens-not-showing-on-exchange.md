@@ -7,10 +7,10 @@ tags:
   - Ethereum
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
-First, check the transaction on [Etherscan](https://etherscan.io/) or [Etherchain](https://www.etherchain.org/), and ensure that there is no red ( ! ) symbol by the transaction.
+First, check the transaction on [Etherscan](https://etherscan.io/) or [Etherchain](https://www.etherchain.org/), and ensure that there is no red ( ! ) symbol or error in the transaction overview.
 
 ## Successful transactions
 
@@ -28,7 +28,7 @@ MyCrypto is not a "web wallet." We do not store your funds and you do not have a
 
 We also highly recommend that you Google the services you send funds to, as there are a lot of scams out there. Typing in "service name + scam" or "service name + reviews" will help you determine whether you are sending funds to a legitimate service.
 
-If you do not see the transaction on etherscan or etherchain, please check with the exchange that you used for this transaction because it may not have been broadcasted yet by the exchange.
+If you do not see the transaction on Etherscan or Etherchain, please check with the exchange that you used for this transaction because it may not have been broadcasted yet by the exchange.
 
 ## Related articles
 

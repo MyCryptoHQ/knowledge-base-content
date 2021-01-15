@@ -4,8 +4,14 @@ tags:
   - MyCrypto
 priority: 20
 date_published: '2020-08-03'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
+
+<Alert>
+
+The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com).
+
+</Alert>
 
 When installing apps from third-party developers (like MyCrypto), your operating system may put up a roadblock that attempts to dissuade you from installing it. This roadblock is generally a good thing, as it does help keep users safe from installing harmful applications, though there are instances where the application is not harmful and is simply published by a developer (like MyCrypto) that isn’t officially recognized by that operating system.
 

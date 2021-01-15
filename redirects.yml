@@ -132,7 +132,9 @@ redirects:
   - from: private-keys-passwords/missing-characters-of-private-key.html
     to: troubleshooting/accessing-wallet/missing-characters-of-private-key
   - from: hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-mycrypto.html
-    to: troubleshooting/accessing-wallet/ledger-hardware-wallet-unable-to-connect-on-mycrypto
+    to: troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-unable-to-connect-on-mycrypto
+  - from: troubleshooting/accessing-wallet/ledger-hardware-wallet-unable-to-connect-on-mycrypto
+    to: troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-unable-to-connect-on-mycrypto
   - from: tokens/adding-new-token-and-sending-custom-tokens.html
     to: how-to/tokens/how-to-add-a-custom-token
   - from: troubleshooting/tokens/adding-new-token-and-sending-custom-tokens

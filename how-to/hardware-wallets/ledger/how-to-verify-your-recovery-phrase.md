@@ -6,7 +6,7 @@ tags:
   - Safety & Security
 priority: 90
 date_published: '2019-03-29'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
 When you first set up your Ledger device, you are asked to write down your recovery phrase. You can use this recovery phrase to get access to your funds when the device breaks, or you have to setup the device again for some reason. It is good practice to verify the recovery phrase, to make sure you didn't make any mistakes when writing it down.
@@ -23,7 +23,7 @@ First, connect your Ledger to your computer and run Ledger Live. To install an a
 
 ![Ledger Live Manager section](../../../assets/how-to/hardware-wallets/ledger/how-to-verify-your-recovery-phrase/allow-ledger-manager.png)
 
-You may have to allow Ledger Manager on your device. If so, you should see a message on the Ledger itself. Simply press the right button to allow Ledger Live to manage your device. If you are unable to connect to your Ledger, there are some troubleshooting tips [here](/troubleshooting/accessing-wallet/ledger-hardware-wallet-unable-to-connect-on-mycrypto).
+You may have to allow Ledger Manager on your device. If so, you should see a message on the Ledger itself. Simply press the right button to allow Ledger Live to manage your device. If you are unable to connect to your Ledger, there are some troubleshooting tips [here](/troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-unable-to-connect-on-mycrypto).
 
 You should see an overview of all installable applications. Scroll down until you find "Recovery Check" and click "Install".
 
