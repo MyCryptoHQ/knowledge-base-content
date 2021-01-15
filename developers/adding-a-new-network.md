@@ -29,8 +29,6 @@ If you meet all of those requirements, you simply need to [make a pull request](
 3. If you need to add a new derivation path for your network, you can do so in [`src/config/dpaths.ts`](https://github.com/MyCryptoHQ/MyCrypto/blob/master/src/config/dpaths.ts). Simply add an object and variable for the derivation path, and then add the variable to the `DPathsList` array.
 4. Add one or more nodes to [`src/database/data/nodes.ts`](https://github.com/MyCryptoHQ/MyCrypto/blob/master/src/database/data/nodes.ts) using the `NetworkId` provided earlier.
 
-If you'd like to provide users with a direct link to your network without having to select it from the dropdown, you can send a URL like <https://app.mycrypto.com/?network={network}> where `{network}` is the `NetworkId`.
-
 ## Example
 
 [This commit exemplifies the process described above.](https://github.com/MyCryptoHQ/MyCrypto/commit/48028144986547f5e443101b10f11baac6bfbc74#diff-ced52679f30edd8ca077b5a52488edaec6a4d1adeababc5b5f022152024cd7db)
