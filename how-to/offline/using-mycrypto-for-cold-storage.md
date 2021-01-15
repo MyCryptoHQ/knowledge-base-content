@@ -6,10 +6,14 @@ tags:
   - Private Keys
 priority: 80
 date_published: '2017-07-05'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
-## Preface
+<Alert>
+
+The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com/).
+
+</Alert>
 
 The following assumes you are **not** using a Ledger or Trezor hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](/staying-safe/hardware-wallet-recommendations).
 
