@@ -3,9 +3,10 @@ title: Where to Get Testnet Ether?
 description: FAQ
 tags:
   - Ethereum
+  - Faucet
 priority: 40
 date_published: '2018-07-02'
-date_modified: '2020-12-16'
+date_modified: '2021-01-25'
 ---
 
 There are currently 4 different testnets for the Ethereum public chain:
@@ -18,6 +19,10 @@ There are currently 4 different testnets for the Ethereum public chain:
 With the [MyCrypto beta](https://beta.mycrypto.com/) faucet you can easily request Ether from any of the above mentioned testnets. Get started with the [MyCrypto faucet](https://app.mycrypto.com/faucet) by adding your address, and request testnet Ether right away.
 
 ![Faucet overview](../../assets/how-to/getting-started/where-to-get-testnet-ether/faucet-intro.png)
+
+The amount of testnet Ether you can request in a day is limited based on the demand. If you need a higher amount of testnet Ether, please reach out to us through [the contact form](/contact-us), or send an email to support@mycrypto.com. Please include the testnet, the amount you would like, and your Ethereum address.
+
+---
 
 Below you will be able to find additional information for every testnet, and alternative faucets.
 
