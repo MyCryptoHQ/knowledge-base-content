@@ -20,7 +20,7 @@ With the [MyCrypto beta](https://beta.mycrypto.com/) faucet you can easily reque
 
 ![Faucet overview](../../assets/how-to/getting-started/where-to-get-testnet-ether/faucet-intro.png)
 
-The amount of testnet Ether you can request on a day is limited based on the demand. If you need a higher amount of testnet Ether, please reach out to us through [the contact form](/contact-us), or send an email to support@mycrypto.com. Please include the testnet, the amount you would like, and your Ethereum address.
+The amount of testnet Ether you can request in a day is limited based on the demand. If you need a higher amount of testnet Ether, please reach out to us through [the contact form](/contact-us), or send an email to support@mycrypto.com. Please include the testnet, the amount you would like, and your Ethereum address.
 
 ---
 
