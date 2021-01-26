@@ -149,8 +149,6 @@ redirects:
     to: troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-missing-characters-from-address
   - from: hardware-wallets/error-code-5.html
     to: troubleshooting/hardware-wallets/ledger/error-code-5
-  - from: hardware-wallets/archos-safet-mini.html
-    to: troubleshooting/hardware-wallets/archos/archos-safet-mini
   - from: hardware-wallets/trezor-error-window-blocked.html
     to: troubleshooting/hardware-wallets/trezor/trezor-error-window-blocked
   - from: contributor-info/add-token-to-default-list.html

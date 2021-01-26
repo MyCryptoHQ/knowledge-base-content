@@ -5,7 +5,7 @@ tags:
   - Private Keys
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2020-10-08'
+date_modified: '2021-01-26'
 ---
 
 ## Important Information
@@ -31,6 +31,12 @@ A keystore file (sometimes called a UTC file) in Ethereum is an encrypted versio
 **Note**: Your keystore file has a .json file extension. If you try to convert it to any other file extension, then it may break when you try to convert it back. Don't do this. If you want to understand the contents of your json file, reference this [medium article by Julien.Maffre](https://medium.com/@julien.maffre/what-is-an-ethereum-keystore-file-86c8c5917b97).
 
 ## Accessing your wallet
+
+<Alert>
+
+The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com).
+
+</Alert>
 
 MyCrypto does not allow you to use the web application to access your keystore file. Instead, you have to download the [MyCrypto desktop app](https://download.mycrypto.com/). A more detailed explanation on why we decided for this change can be found [here](https://medium.com/mycrypto/a-safer-mycrypto-79d65196e7d8).
 

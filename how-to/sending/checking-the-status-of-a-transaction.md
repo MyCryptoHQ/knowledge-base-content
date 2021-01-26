@@ -5,16 +5,10 @@ tags:
   - Beta
 priority: 90
 date_published: '2020-08-24'
-date_modified: '2020-10-08'
+date_modified: '2021-01-26'
 ---
 
-<Alert>
-
-While [mycrypto.com](https://mycrypto.com/) also supports checking transactions, this improved version is currently only found on MyCrypto beta, which you can find at [beta.mycrypto.com](https://beta.mycrypto.com/).
-
-</Alert>
-
-The MyCrypto transaction status feature allows you to view the status of previously sent transactions, as well as various transaction information, such as [Gas Limit](/how-to/sending/how-to-know-what-gas-limit-to-use) used, [Gas Price](/how-to/sending/how-to-know-what-gas-price-to-use) used, and [Nonce](/general-knowledge/ethereum-blockchain/what-is-nonce). The feature is available at [app.mycrypto.com/tx-status](https://app.mycrypto.com/tx-status). In the near future, you'll be able to speed up a transaction from this page as well.
+The MyCrypto transaction status feature allows you to view the status of previously sent transactions, as well as various transaction information, such as [Gas Limit](/how-to/sending/how-to-know-what-gas-limit-to-use) used, [Gas Price](/how-to/sending/how-to-know-what-gas-price-to-use) used, and [Nonce](/general-knowledge/ethereum-blockchain/what-is-nonce). The feature is available at [app.mycrypto.com/tx-status](https://app.mycrypto.com/tx-status).
 
 ## Viewing transaction info
 
