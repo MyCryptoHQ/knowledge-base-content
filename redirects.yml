@@ -269,3 +269,5 @@ redirects:
     to: how-to/migrating/access-your-mycrypto-account-in-openethereum
   - from: how-to/sending/sending-and-adding-tokens
     to: how-to/sending/how-to-send-a-transaction
+  - from: how-to/hardware-wallets/trezor/trezor-sending-from
+    to: how-to/sending/how-to-send-a-transaction
