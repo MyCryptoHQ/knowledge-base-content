@@ -5,40 +5,45 @@ tags:
   - Transactions
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2020-10-08'
+date_modified: '2021-01-27'
 ---
 
 If you plan to move a large amount of Ether or tokens, you should first send a test transaction of a small amount to the destination wallet to ensure everything goes as planned.
-Optional, but **highly recommended** (if you haven't already): Install [MetaMask](/how-to/migrating/moving-from-mycrypto-to-metamask) or the [EtherAddressLookup Chrome Extension](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) to protect yourself from malicious websites around the crypto-space that will steal your private keys. Or even better, think about getting yourself a hardware wallet. If you have hundreds or thousands of dollars online, you might as well spend a little bit more money to ensure that your funds are safe.
 
-1. Navigate to the [Send page](https://mycrypto.com/account).
+Optional, but **highly recommended** (if you haven't already): Install [MetaMask](/how-to/migrating/moving-from-mycrypto-to-metamask) or the [EtherAddressLookup Chrome Extension](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn?hl=en-GB) to protect yourself from malicious websites around the crypto-space that will steal your private keys. Or even better, think about [getting yourself a hardware wallet](/staying-safe/hardware-wallet-recommendations). If you have hundreds or thousands of dollars online, you might as well spend a little bit more money to ensure that your funds are safe.
 
-2. Select how you would like to [access your wallet and unlock it](/how-to/accessing-wallet/how-to-access-your-wallet-with-keystore-file).
+![Send Assets button](../../assets/how-to/sending/how-to-send-a-transaction/send-assets-button.png)
 
-3. If you installed MetaMask earlier, set up your system to unlock your wallet safely in just one click. Because of how fast and easy it is, we strongly recommend this method.
+In your dashboard, after having added your address(es), click the "Send Assets" button.
 
-4. Enter the address you would like to send to in the "To Address:" field.
+![Details entered](../../assets/how-to/sending/how-to-send-a-transaction/details-entered.png)
 
-5. If you're sending ETH, move on the step 6. If you are sending a token, select which one you want to send. If the token of your choice is not listed:
+Select the asset that you would like to transfer, the address which you would like to send _from_, recipient address which you would like to send _to_, and the amount of the asset which you will be sending.
 
-   1. In the sidebar, click [Add Custom Token](/how-to/tokens/how-to-add-a-custom-token).
-   2. Enter the address, name, and decimals of the token. These are provided by the developers of the token and are also found on [Ethplorer](https://ethplorer.io/).
-   3. Click "Save."
-   4. You can now send that token as well as see it's balance in the sidebar.
+![Transaction fee slider](../../assets/how-to/sending/how-to-send-a-transaction/transaction-fee-slider.png)
 
-6. Enter the amount you would like to send.
+The transaction fee slider allows you to choose how quickly your transaction is mined. Keep in mind that with a higher value, your transaction will get mined quicker but will cost more too. [You can find more info about Gas Price here](/how-to/sending/how-to-know-what-gas-price-to-use).
 
-7. You can also click the "Send Entire Balance" link if you would like the transfer the entire balance.
+![Protected Transactions](../../assets/how-to/sending/how-to-send-a-transaction/transaction-protection.png)
 
-8. Click "Generate Transaction." A couple more fields will appear. This is your browser generating the transaction.
+Additionally, you can choose to protect your transaction. [You can find more info about Protected Transactions here](/general-knowledge/about-mycrypto/what-are-protected-transactions).
 
-9. Click the blue "Send Transaction" button below that. A pop-up will appear. Double-check that the amount, the type of coin, and the address are correct.
+![Next button](../../assets/how-to/sending/how-to-send-a-transaction/next-button.png)
 
-10. Click "Yes, I am sure! Make transaction" button. The transaction will be submitted. The TX ID will display. You can click that TX ID to see it on the blockchain.
+Click the blue "Next" button to proceed.
 
-Just as a reminder, any transaction that you make will require gas which is paid in Ether. It is a transaction fee that is paid to the miners as an incentive to include your transactions in the blocks that they mine.
+![Sign transaction](../../assets/how-to/sending/how-to-send-a-transaction/sign-transaction.png)
+
+Depending on how you initially added the address that you are sending from, you will have to sign the address from your hardware wallet, Web3 or WalletConnect instance.
+
+![Confirm send](../../assets/how-to/sending/how-to-send-a-transaction/confirm-send.png)
+
+After signing your transaction, you will get an overview of the transaction that you are about to send. If everything looks good, hit "Confirm and Send".
+
+Your transaction is on its way!
 
 ## Related Articles
 
 - [What is Gas](/general-knowledge/ethereum-blockchain/what-is-gas)
-- [Transactions Not Showing Up or Pending Forever](/troubleshooting/sending/transactions-not-showing-or-pending)
+- [Checking the Status of a Transaction](/how-to/sending/checking-the-status-of-a-transaction)
+- [How To Cancel or Replace a Stuck Transaction](/how-to/sending/checking-or-replacing-a-transaction-after-it-has-been-sent)
