@@ -6,14 +6,16 @@ tags:
   - Transactions
 priority: 90
 date_published: '2017-07-05'
-date_modified: '2020-07-01'
+date_modified: '2021-01-27'
 ---
 
 If you are [using MyCrypto offline and locally](/how-to/offline/how-to-run-mycrypto-offline-and-locally), it is not possible to send transactions from the offline computer. An internet connection is required to send or broadcast a transaction. To do this, you should use a **second** computer that does have an internet connection. This comes with the advantage that your private key never leaves the offline computer and malware won't be able to steal your private key.
 
 ## 1. Getting the gas price & nonce
 
-Start off by going to the ["Offline Transaction" page](https://legacy.mycrypto.com/#offline-transaction) on your **online** computer and fill in your address. Please note that this is the address you want to send FROM, not TO. This will generate the nonce for the transaction. You can read more about what a nonce is [here](/general-knowledge/ethereum-blockchain/what-is-nonce).
+First we need to find the [nonce](/general-knowledge/ethereum-blockchain/what-is-nonce) that you need to use for your transaction. On your online computer, enter your Ethereum address on [Etherscan.io](https://etherscan.io/), and find the latest transaction _from_ your address. Click "Click to see More", and find the value next to "Nonce". To get the nonce value for your offline transaction, you add 1 to this value.
+
+[You can find instructions on getting the correct Gas Price value here](/how-to/sending/how-to-know-what-gas-price-to-use).
 
 ## 2. Filling in the transaction information
 
@@ -27,4 +29,4 @@ The next step is to sign the transaction. Click the blue "Sign Transaction" box,
 
 ## 4. Sending the transaction
 
-Finally, copy the signed transaction to your **online** computer. It will not possible to change any of the transaction information after signing the transaction, so it is safe to copy it to another computer. On the ["Broadcast Transaction"](https://mycrypto.com/pushTx) page, fill in your signed transaction from step 3. Click the "Send Transaction" button and your transaction should be broadcast.
+Finally, copy the signed transaction to your **online** computer. It will not possible to change any of the transaction information after signing the transaction, so it is safe to copy it to another computer. On the ["Broadcast Transaction"](https://app.mycrypto.com/broadcast-transaction) page, fill in your signed transaction from step 3. Click the "Send Transaction" button and your transaction should be broadcast.

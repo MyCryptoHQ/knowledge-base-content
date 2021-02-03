@@ -6,7 +6,7 @@ tags:
   - Gas
 priority: 50
 date_published: '2017-07-05'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
 > "Why didn't I get my transaction fee (TX Fee) back, even though my transaction failed?"\*
@@ -21,5 +21,5 @@ This is **not** a transaction fee that MyCrypto, or any other service provider, 
 
 ## Related articles
 
-- [General info about the Ethereum blockchain](/general-knowledge/ethereum-blockchain)
+- [What is Gas?](/general-knowledge/ethereum-blockchain/what-is-gas)
 - [Transaction failed: Out of gas](/troubleshooting/sending/transaction-failed-out-of-gas)

@@ -6,7 +6,7 @@ tags:
   - Safety & Security
 priority: 100
 date_published: '2015-10-05'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
 - Please take some time to understand this for your own security.
@@ -51,9 +51,9 @@ date_modified: '2020-10-08'
 
 - The blockchain is a digital decentralized ledger.
 - It keeps track of all transactions in a chronological order that have ever been made in the history of the blockchain.
-- It is stored and maintained by a peer-to-peer network made up of nodes (mienrs) which verify and approve of transactions, which make it nearly impossible to fake or tamper with transactions.
+- It is stored and maintained by a peer-to-peer network made up of nodes (miners) which verify and approve of transactions, which make it nearly impossible to fake or tamper with transactions.
 - The blocks in the blockchain are made up of a group of transactions that have been verified and accepted by the miners. This "block" is then added to the stack of previous blocks, which forms a chain of blocks: a.k.a The BlockChain.
-- When you see your balance on MyCrypto.com or view your transactions on etherscan.io, you are seeing data on the blockchain, MyCrypto does _NOT_ store any data.
+- When you see your balance on MyCrypto.com or view your transactions on Etherscan.io, you are seeing data on the blockchain, MyCrypto does _NOT_ store any data.
 - We are not the blockchain, we allow you to interact _WITH_ the Ethereum blockchain (send transactions), and view information that is publicly available on the blockchain
 
 <Clearfix />
@@ -94,11 +94,10 @@ date_modified: '2020-10-08'
 
 ## How to protect yourself from phishers
 
-Phishers send you a message with a link to a website that looks just like MyCrypto, EtherDelta, Paypal, or your bank, but is not the real website. They steal your information and then steal your money.
+Phishers send you a message with a link to a website that looks just like MyCrypto, PayPal, or your bank, but is not the real website. They steal your information and then steal your money.
 
-- Use the [ESL](https://chrome.google.com/webstore/detail/ethersecuritylookup/bhhfhgpgmifehjdghlbbijjaimhmcgnf?hl=en-GB) or [MetaMask](/how-to/migrating/moving-from-mycrypto-to-metamask) Chrome Extension to block malicious websites.
+- Use the [EtherAddressLookup](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](/how-to/migrating/moving-from-mycrypto-to-metamask) Chrome Extension to block malicious websites.
 - Always check the URL: `https://mycrypto.com`.
-- Always make sure the URL bar has `MyCrypto, Inc` in green.
 - Do not trust messages or links sent to you randomly via email, Slack, Reddit, Twitter, etc.
 - Always navigate directly to a site before you enter information. Do not enter information after clicking a link from a message or email.
 - [Install an AdBlocker](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) and do not click ads on your search engine (e.g. Google).

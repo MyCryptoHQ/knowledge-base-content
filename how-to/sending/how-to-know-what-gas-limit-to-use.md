@@ -6,7 +6,7 @@ tags:
   - Transactions
 priority: 60
 date_published: '2018-02-06'
-date_modified: '2020-10-08'
+date_modified: '2021-01-27'
 ---
 
 If you send a transaction with a gas limit that is too low, you may run into the following error: "Warning! Error encountered during contract execution [Out of Gas]." Each transaction on the blockchain requires gas, and the higher the complexity is of the transaction, the more gas it needs.
@@ -15,7 +15,7 @@ A standard Ether transaction from one address to another address (without contra
 
 ## How to set the gas limit
 
-To change the gas limit for your transaction, click on "+ Advanced" on the transaction screen. To set the gas limit, you have to uncheck the "Automatically Calculate Gas Limit" checkbox.
+To change the gas limit for your transaction, click on "Show Advanced Options" on the transaction screen. To set the gas limit, you have to uncheck the "Automatically Calculate Gas Limit" checkbox.
 
 ![Advanced transaction settings](../../assets/how-to/sending/how-to-know-what-gas-limit-to-use/advanced-transaction-settings.png)
 

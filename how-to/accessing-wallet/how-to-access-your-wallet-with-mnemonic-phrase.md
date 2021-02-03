@@ -5,7 +5,7 @@ tags:
   - Private Keys
 priority: 100
 date_published: '2017-06-20'
-date_modified: '2020-10-08'
+date_modified: '2021-01-26'
 ---
 
 ## Important Information
@@ -25,6 +25,12 @@ Mnemonic phrases are vulnerable for two reasons:
    - If you forget the mnemonic phrase or lose the file where you saved it, there is no guarantee that you will ever gain access back to the wallet.
 
 ## Accessing your wallet
+
+<Alert>
+
+The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com).
+
+</Alert>
 
 MyCrypto does not allow you to use the web application to access your mnemonic phrase. Instead, you have to download the [MyCrypto desktop app](https://download.mycrypto.com/). A more detailed explanation of why we decided on this change can be found [here](https://medium.com/mycrypto/a-safer-mycrypto-79d65196e7d8).
 

@@ -5,14 +5,8 @@ tags:
   - Beta
 priority: 100
 date_published: '2020-10-20'
-date_modified: '2020-10-21'
+date_modified: '2021-01-26'
 ---
-
-<Alert>
-
-This feature is currently only found on MyCrypto beta, which you can find at [beta.mycrypto.com](https://beta.mycrypto.com/).
-
-</Alert>
 
 During times in which the Ethereum network is busy, you might notice that transactions can take longer than expected to confirm. With MyCrypto, it's possible to speed up these transactions to make sure that your funds quickly arrive where you want them to be.
 

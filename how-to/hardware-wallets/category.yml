@@ -4,7 +4,3 @@ description: Hardware wallets are one of the easiest and most secure methods for
 categories:
   - ledger
   - trezor
-  - archos
-
-articles:
-  - multiple-addresses-showing-on-hardware-wallet

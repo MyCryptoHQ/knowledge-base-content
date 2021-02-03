@@ -6,14 +6,8 @@ tags:
   - WalletConnect
 priority: 70
 date_published: '2020-08-06'
-date_modified: '2020-08-06'
+date_modified: '2021-01-26'
 ---
-
-<Alert>
-
-This feature is currently only found on MyCrypto beta, which you can find at [beta.mycrypto.com](https://beta.mycrypto.com/).
-
-</Alert>
 
 It is very easy to use your mobile wallet in conjunction with the functionality of MyCrypto. Many of the most widely used mobile wallets allow you to connect to web3 applications quickly and easily by using WalletConnect. It’s as simple as scanning a QR code with your phone.
 

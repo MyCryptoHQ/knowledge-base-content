@@ -132,7 +132,9 @@ redirects:
   - from: private-keys-passwords/missing-characters-of-private-key.html
     to: troubleshooting/accessing-wallet/missing-characters-of-private-key
   - from: hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-mycrypto.html
-    to: troubleshooting/accessing-wallet/ledger-hardware-wallet-unable-to-connect-on-mycrypto
+    to: troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-unable-to-connect-on-mycrypto
+  - from: troubleshooting/accessing-wallet/ledger-hardware-wallet-unable-to-connect-on-mycrypto
+    to: troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-unable-to-connect-on-mycrypto
   - from: tokens/adding-new-token-and-sending-custom-tokens.html
     to: how-to/tokens/how-to-add-a-custom-token
   - from: troubleshooting/tokens/adding-new-token-and-sending-custom-tokens
@@ -147,8 +149,6 @@ redirects:
     to: troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-missing-characters-from-address
   - from: hardware-wallets/error-code-5.html
     to: troubleshooting/hardware-wallets/ledger/error-code-5
-  - from: hardware-wallets/archos-safet-mini.html
-    to: troubleshooting/hardware-wallets/archos/archos-safet-mini
   - from: hardware-wallets/trezor-error-window-blocked.html
     to: troubleshooting/hardware-wallets/trezor/trezor-error-window-blocked
   - from: contributor-info/add-token-to-default-list.html
@@ -267,3 +267,7 @@ redirects:
     to: how-to/hardware-wallets/trezor/trezor-sending-to
   - from: how-to/migrating/access-your-mycrypto-account-in-parity
     to: how-to/migrating/access-your-mycrypto-account-in-openethereum
+  - from: how-to/sending/sending-and-adding-tokens
+    to: how-to/sending/how-to-send-a-transaction
+  - from: how-to/hardware-wallets/trezor/trezor-sending-from
+    to: how-to/sending/how-to-send-a-transaction

@@ -5,7 +5,7 @@ tags:
   - Tokens
 priority: 110
 date_published: '2020-03-30'
-date_modified: '2020-10-08'
+date_modified: '2021-01-26'
 ---
 
 Bitcoin is one of the most popular cryptocurrencies, and is considered to be the first decentralized cryptocurrency to have been created back in 2009. It pioneered the concept of a blockchain, of which many other applications and cryptocurrencies have been created.
@@ -14,7 +14,7 @@ Since Bitcoin works a bit differently than the regular financial world, it's imp
 
 ## Buying Bitcoin with USD
 
-You can go to [buy.mycrypto.com](https://buy.mycrypto.com/) and use our Simplex integration, or alternatively, use an exchange for purchasing cryptocurrency.
+You can go to [buy.mycrypto.com](https://buy.mycrypto.com/) and use our MoonPay integration, or alternatively, use an exchange for purchasing cryptocurrency.
 
 ## Buying through an exchange
 
