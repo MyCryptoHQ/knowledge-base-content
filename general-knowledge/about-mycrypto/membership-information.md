@@ -5,7 +5,7 @@ tags:
   - Beta
 priority: 85
 date_published: '2020-08-10'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
 The MyCrypto Membership is a monthly subscription that gives you additional features and helps to support MyCrypto’s future developments.
@@ -32,7 +32,7 @@ We have a lot of plans for the MyCrypto Membership and a long-term roadmap that 
 
 ### How much does the MyCrypto Membership cost?
 
-\$4.00 per month, or you can purchase multiple month packages at a discounted rate. For the hardcore, there’s also a lifetime membership. Please keep in mind that at this time, it's only possible to purchase monthly memberships with DAI. We may add more options in the future.
+$4.00 per month, or you can purchase multiple month packages at a discounted rate. For the hardcore, there’s also a lifetime membership. Please keep in mind that at this time, it's only possible to purchase monthly memberships with DAI. We may add more options in the future.
 
 ### How does the MyCrypto Membership work?
 
