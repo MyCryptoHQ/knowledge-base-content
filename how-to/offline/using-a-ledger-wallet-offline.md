@@ -6,8 +6,14 @@ tags:
   - Ledger
 priority: 70
 date_published: '2018-02-15'
-date_modified: '2020-07-01'
+date_modified: '2021-01-15'
 ---
+
+<Alert>
+
+The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com/).
+
+</Alert>
 
 Storing your ETH, tokens, ETC, BTC and many other cryptocurrencies on a [hardware wallet](/staying-safe/hardware-wallet-recommendations) like the Ledger wallet is one of the safest and easiest ways to store your coins. Though the keys are stored on the device itself, you can increase your security by accessing your Ledger wallet offline. This reduces various risks, like [phishing attacks](/staying-safe/common-scams/common-scams-overview).
 

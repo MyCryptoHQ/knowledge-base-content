@@ -1,17 +1,15 @@
 ---
-title: 'Does MyCrypto support Bitcoin or other coins (LTC, STEEM, ZEC)?'
-description: FAQ
+title: 'Does MyCrypto support Bitcoin or other coins (LTC, XRP, XMR)?'
 tags:
   - Tokens
   - MyCrypto
-priority: 40
 date_published: '2017-06-20'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
-MyCrypto supports `ETH`, `ETC`, all testnet networks (Ropsten, Kovan, Rinkeby), any other Ethereum-based network (`UBQ`, `EXP`, `POA` etc.) and any Ethereum Standard Tokens - aka "ERC-20" tokens.
+MyCrypto supports `ETH`, `ETC`, all testnet networks (Ropsten, Kovan, Rinkeby), any other Ethereum-based network (`EWT`, `UBQ`, `EXP`, `POA` etc.), and any Ethereum Standard Tokens - also known as "ERC-20" tokens.
 
-You can use [Shapeshift.io](https://shapeshift.io/) or another exchange to _swap / convert / exchange_ your other coins into ETH or Ethereum tokens. However, you do not send those other coins directly to your Ethereum address.
+You can use [Shapeshift.io](https://shapeshift.io/) or another exchange to swap ,convert, or exchange your other coins into ETH or Ethereum tokens. However, you do not send those other coins directly to your Ethereum address.
 
 We recommend [Exodus.io](https://www.exodus.io/) as a client-side, multi-coin solution.
 
@@ -20,6 +18,5 @@ MyCrypto supports a lot of ERC-20 tokens by default, however, any missing ERC-20
 ## Related articles
 
 - [How can I add a non-default token to MyCrypto?](/how-to/tokens/showing-and-loading-tokens)
-- [I am throwing a #FOMOFest (aka a token sale, token creation period, ICO) and want to add my token to MyCrypto for all my investors. What do I do?](/developers/add-token-to-default-list)
-- [List of default ERC-20 tokens in MyCrypto](https://github.com/MyCryptoHQ/MyCrypto/blob/develop/common/config/tokens/eth.json)
+- [Adding Your Token as a Default Token](/developers/add-token-to-default-list)
 - [How to buy Bitcoin](/how-to/getting-started/how-to-buy-btc-with-usd)

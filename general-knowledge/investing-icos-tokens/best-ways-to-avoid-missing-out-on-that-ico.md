@@ -5,14 +5,8 @@ tags:
   - Tokens
 priority: 90
 date_published: '2017-07-05'
-date_modified: '2020-10-08'
+date_modified: '2021-01-14'
 ---
-
-This is part of a series where Taylor pull's sweet comments she's made or found over the years in the hope that they can be useful, searchable, remembered, referenced, and/or aid in the creation of future Knowledge Base posts. Many are unpolished and contain specific references to previous discussions or users.
-
----
-
-There are a few posts I made after GNT and before MLN that contain good advice but here's the most excessively planned way:
 
 - Create a new wallet and back it up in triplicate in physically different locations. (Your house could catch fire and you don't want to be without your backups).
 - Throw whatever ETH you want to invest into the next ICO in that account.
@@ -24,20 +18,20 @@ There are a few posts I made after GNT and before MLN that contain good advice b
 - Generate the info from _your_ address. Your address is the address you are sending FROM.
 - Fill in the ICO's address.
 - Fill in the amount of ETH you want to invest.
-- Raise the gas price if you think it'll help. 40000000000 but you're going to pay about a dollar if it falls.
+- Raise the gas price if you think it'll help.
 - Set the gas limit to 400000. This more than covers any contract you will be sending to.
 - Nonce is at the top of the page.
 - Make sure whatever amount you have in your account is an ETH or 2 more than the amount your sending. This gives you a lot of room for miscalculating gas limit \* gas price. So if you want to invest 50 ETH, have 52 ETH in your account.
 - Unlock your wallet and get the signed transaction. DO NOT SEND IT.
-- Save this signed TX to a text document on your computer.
+- Save this signed transaction to a text document on your computer.
 - As long as you don't send any transactions from that account before the ICO, you will be fine. The nonce counts the number of transactions. If you try to send two transactions with the same nonce, only one with go through. This is why making a dedicated account is helpful.
-- Do the same _again_ EXCEPT increase the nonce by 1. So if your nonce is 0 for the first TX, then the second TX will be 1. If the nonce is 32, the second nonce will be 33.
+- Do the same _again_ EXCEPT increase the nonce by 1. So if your nonce is 0 for the first transaction, then the second transaction will be 1. If the nonce is 32, the second nonce will be 33.
 
-Now you have 2 TXs. You can send the first one _or_ the first and the second one. You cannot send _only_ the second one.
+Now you have 2 transactions. You can send the first one _or_ the first and the second one. You cannot send _only_ the second one.
 
 ## At 1 hour before ICO time...
 
-1. Open <https://mycrypto.com/pushTx>
+1. Open <https://app.mycrypto.com/broadcast-transaction>
 2. Open <https://etherscan.io/pushTx>
 3. Open your text document with your 2 signed transactions.
 4. Open the investment instructions for the ICO (the thing that has the address and gas limit and any data)
@@ -46,9 +40,9 @@ Now you have 2 TXs. You can send the first one _or_ the first and the second one
 
 ## At ICO time
 
-- Copy the first signed transaction into the box at the bottom of <https://mycrypto.com/pushTx> AND the box on <https://etherscan.io/pushTx>.
+- Copy the first signed transaction into the box at the bottom of <https://app.mycrypto.com/broadcast-transaction> AND the box on <https://etherscan.io/pushTx>.
 - **Do NOT send from both places!!**
-- When the ICO starts, press send on **one of the pages.** Wait. Click the TX hash. Refresh the page. If after ~60 seconds it's not showing up on Etherscan, go to the other page and click send.
+- When the ICO starts, press send on **one of the pages.** Wait. Click the transaction hash. Refresh the page. If after ~60 seconds it's not showing up on Etherscan, go to the other page and click send.
 - At this point, it should go through. If the node failed or something random happened, you've now attempted to send from two locations.
 - If your transaction fails on the blockchain (out of gas, bad jump) then get your second signed tx from your document and send it from one of those pages. Hopefully the bad jump was because you sent too early and your second one will go through.
 - If both fail due to out of gas or something, stop and breath.
@@ -70,6 +64,6 @@ If at this point you still aren't able to get in, then there is a higher power t
 
 My biggest recommendation though: send more transactions. I send like 10 TXs a day. I can do it in my sleep. But I was scared for the longest time, which caused me to make mistakes. Get comfortable sending by _sending_. Create a couple accounts and send 0.01 ETH to each of them. Then send 0.001 ETH back and forth every single day. Do things wrong. See the errors. Fix the errors. Do things right. Get comfortable.
 
-### Source
+## Source
 
-- [https://www.reddit.com/r/ethtrader/comments/68vf2i/things_i_would_do_for_you_if_you_were_about_to/dh2cy9t/](https://www.reddit.com/r/ethtrader/comments/68vf2i/things_i_would_do_for_you_if_you_were_about_to/dh2cy9t/)
+[https://www.reddit.com/r/ethtrader/comments/68vf2i/things_i_would_do_for_you_if_you_were_about_to/dh2cy9t/](https://www.reddit.com/r/ethtrader/comments/68vf2i/things_i_would_do_for_you_if_you_were_about_to/dh2cy9t/)

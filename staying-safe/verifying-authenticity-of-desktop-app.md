@@ -6,8 +6,14 @@ tags:
   - MyCrypto
 priority: 75
 date_published: '2018-05-01'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
+
+<Alert>
+
+The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com/).
+
+</Alert>
 
 After downloading the desktop application, it's highly recommended to verify the checksum of the application. This ensures that you are using the real MyCrypto desktop application and not one that has been tampered with by someone else.
 

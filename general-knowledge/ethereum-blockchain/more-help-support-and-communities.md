@@ -7,11 +7,12 @@ tags:
   - Ethereum
 priority: 50
 date_published: '2018-06-21'
-date_modified: '2020-10-14'
+date_modified: '2021-01-14'
 ---
 
 ## General Questions and Ethereum
 
+- General Information: [Ethereum.org](https://ethereum.org)
 - Questions: [/r/ethereum](https://reddit.com/r/ethereum)
 - Questions: [Stack Exchange](https://ethereum.stackexchange.com/)
 - Getting Started: [Reddit Guide](https://www.reddit.com/r/ethereum/comments/61y5ix/welcome_to_rethereum_the_reddit_front_page_of_the/)
@@ -23,8 +24,7 @@ date_modified: '2020-10-14'
 - Geth: [Website](https://geth.ethereum.org/) · [Gitter](https://gitter.im/ethereum/go-ethereum)
 - OpenEthereum: [GitHub](https://github.com/openethereum/openethereum)
 - Metamask: [Website](https://metamask.io/) · [Support](https://metamask.zendesk.com/hc/en-us)
-- MyCrypto: [Website](https://mycrypto.com/) · [FAQ](https://support.mycrypto.com/) · [Support](/contact-us)
-- MyEtherWallet: [Website](https://myetherwallet.com/) · [FAQ](https://myetherwallet.github.io/knowledge-base/) · [Support](mailto:support@myetherwallet.com)
+- MyCrypto: [Website](https://mycrypto.com/) · [FAQ](/) · [Support](/contact-us)
 - Jaxx: [Website](https://jaxx.io/) · [Support](https://support.decentral.ca/hc/en-us)
 - Ledger: [Website](https://www.ledgerwallet.com/r/1985?path=/products/) · [Support](https://support.ledger.com/hc/en-us/requests/new)
 - Trezor: [Website](https://shop.trezor.io/?offer_id=10&aff_id=1735) · [Gitter](https://gitter.im/trezor/community) · [Support](https://trezor.io/support/)
@@ -44,7 +44,7 @@ date_modified: '2020-10-14'
 - Kraken: [Website](https://www.kraken.com/) · [Support](https://support.kraken.com/hc/en-us)
 - Kucoin: [Website](https://www.kucoin.com/) · [Support](https://support.kucoin.plus/hc/en-us)
 - Poloniex: [Website](https://poloniex.com/) · [Support](https://support.poloniex.com/hc/en-us)
-- Shapeshift: [Website](https://classic.shapeshift.com) · [Support](https://shapeshift.zendesk.com/hc/en-us/requests/new)
+- Shapeshift: [Website](https://shapeshift.com) · [Support](https://shapeshift.zendesk.com/hc/en-us/requests/new)
 
 ## Blockchain explorers
 

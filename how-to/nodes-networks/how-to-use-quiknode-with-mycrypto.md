@@ -6,7 +6,7 @@ tags:
   - Networks
 priority: 10
 date_published: '2020-08-02'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
 [QuikNode](https://quiknode.io/?tap_a=67226-09396e&tap_s=860550-6c3251) is a service that allows you to get your own, personal Ethereum node. Besides Ethereum, they also provide nodes for Bitcoin and Ethereum testnets, with the possibility to choose between a variety of different clients. They provide elastic APIs, dedicated nodes, powerful tools, and analytics, all in one easy-to-use dashboard.
@@ -25,20 +25,10 @@ After selecting your node, the HTTP Provider URL that you can use in your MyCryp
 
 ## Connecting to your endpoint
 
-Let's add this node to your MyCrypto interface! Depending on if you're using the MyCrypto website or [desktop app](https://download.mycrypto.com/), this process might be slightly different.
-
-- **MyCrypto website**: click the network switcher in the top-right of the interface, where it says "Ethereum (Auto)" by default. Then click the "Add Custom Node" button at the bottom of the menu.
-
-![Network switcher website](../../assets/how-to/nodes-networks/how-to-use-quiknode-with-mycrypto/network-switcher-website.png)
-
-- **MyCrypto desktop app**: find the network switcher on the left-hand side of the interface, where it says "Change Network". Then click the "Add Custom Node" button at the bottom of the menu.
-
-![Network switcher desktop app](../../assets/how-to/nodes-networks/how-to-use-quiknode-with-mycrypto/network-switcher-desktop.png)
+Let's add this node to your MyCrypto interface! First, go to [the settings page on MyCrypto](https://app.mycrypto.com/settings). Under "Network & Nodes", click on the dropdown menu next to the Ethereum network, and select the "Custom" option on the bottom.
 
 A new screen will appear, allowing you to enter the details of your QuikNode instance. For the name, it can be set to anything you'd like. For the network, make sure that it's the same one as you have your QuikNode instance set up to be. In the URL field, you can enter your personal endpoint that you copied earlier from the QuikNode dashboard.
 
-![Custom node modal](../../assets/how-to/nodes-networks/how-to-use-quiknode-with-mycrypto/add-custom-node.png)
+![Add custom node](../../assets/how-to/nodes-networks/how-to-use-quiknode-with-mycrypto/add-custom-node.png)
 
 After saving it, your MyCrypto interface will automatically connect to it. You've successfully added your own QuikNode instance to MyCrypto!
-
-![Node connected](../../assets/how-to/nodes-networks/how-to-use-quiknode-with-mycrypto/node-connected.png)

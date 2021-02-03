@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 85
 date_published: '2017-07-05'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
 Below are some tips to reduce the risk of losing your hard-earned coins
@@ -57,11 +57,11 @@ Does it have any comments? Are they all angry people who had their funds stolen?
 
 Or is there some extra verification that this is legit? Again, never rely on a single comment—multiple indications of legitimacy are ideal.
 
-## 6. And always make sure you are on the correct MyCrypto
+## 6. Always make sure you are on the correct MyCrypto
 
 ![Check address](../assets/staying-safe/mycrypto-protips-how-not-to-get-scammed-during-ico/check-address.png)
 
-Finally, when you go to contribute, make sure you are on a legit version of MyCrypto (<https://mycrypto.com/>).
+When you go to contribute, make sure you are on a legit version of MyCrypto (<https://mycrypto.com/>).
 
 Check the URL. Check the SSL (it should always say MyCrypto, Inc [US]).
 
@@ -71,7 +71,9 @@ In this case, district0x's is kinda pinky-yellow and the address starts with 0xF
 
 ![Check identicon + address](../assets/staying-safe/mycrypto-protips-how-not-to-get-scammed-during-ico/check-identicon.jpg)
 
-Sweetness.
+## 7. Use protected transactions
+
+MyCrypto can automatically check your transaction to ensure it is sent to the right person. Learn more about [how to use protected transactions](general-knowledge/about-mycrypto/what-are-protected-transactions).
 
 ### Related articles
 
