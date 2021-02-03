@@ -1,14 +1,10 @@
 ---
 title: How Can We Trust MyCrypto?
-description: >-
-  How can we be sure MyCrypto.com is safe? Many people thought Parity was safe
-  and the Parity problem is sort of jarring. How can we trust MyCrypto?
 tags:
   - Safety & Security
   - MyCrypto
-priority: 80
 date_published: '2017-11-23'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
 **The quickest answer is: Luckily, you don't have to trust us!**
@@ -24,4 +20,4 @@ ETH is going to the moon as it is... we just have to keep building for the futur
 
 ## Related links
 
-[Meet the MyCrypto Team](https://about.mycrypto.com/)
+- [Meet the MyCrypto Team](https://about.mycrypto.com/)

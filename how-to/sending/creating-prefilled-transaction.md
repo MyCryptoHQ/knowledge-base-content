@@ -6,7 +6,7 @@ tags:
   - Beta
 priority: 40
 date_published: '2019-01-22'
-date_modified: '2020-10-13'
+date_modified: '2021-01-27'
 ---
 
 Pre-filled transactions can be created by appending certain parameters into the query section of a URL.
@@ -15,16 +15,7 @@ Pre-filled transactions are a helpful function that allow for many things, inclu
 
 If you create a pre-filled MyCrypto transaction URL and send it to someone, they can input the URL into their browser and it'll automatically take them to the MyCrypto send page and fill it out with the specified parameters.
 
-<Accordion>
-<AccordionItem title="MyCrypto Beta">
-
 ## Parameters
-
-<Alert>
-
-These parameters only apply on MyCrypto beta, which you can find at [beta.mycrypto.com](https://beta.mycrypto.com/).
-
-</Alert>
 
 - `type` - The _type_ of pre-filled transaction (use **resubmit** in most cases).
 - `gasPrice` - The _gas price_ of the transaction (should be in hex wei format. ex: **0x059682f000**).
@@ -46,37 +37,6 @@ ERC20 Transaction
 
 <https://app.mycrypto.com/send?type=resubmit&gasLimit=0x5208&chainId=1&nonce=0xD8&gasPrice=0x059682f000&from=0x5197B5b062288Bbf29008C92B08010a92Dd677CD&to=0x6B175474E89094C44Da98b954EedeAC495271d0F&value=0x0&data=0xa9059cbb0000000000000000000000005197B5b062288Bbf29008C92B08010a92Dd677CD000000000000000000000000000000000000000000000104f6e0a229913de8a2>
 
-</AccordionItem>
-<AccordionItem title="MyCrypto.com">
-
-## Parameters
-
-- `to` - The _To_ address of the transaction.
-- `value` - The _Value_ of the transaction (in Ether).
-- `data` - The _Data_ field of the transaction (should be in hex format).
-
-### Example
-
-<https://mycrypto.com/account/send?&to=0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520&value=1&data=0xadefadedafdef>
-
-Breaking this down, the transaction will have:
-
-- A send _To_ address = `0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520`.
-- A _Value_ = `1` Ether.
-- A _Data_ field = `0xadefadedafdef`.
-
-After accessing your address, this will open with the pre-filled transaction screen:
-![Pre-Filled Transaction Screen](../../assets/shared/pre-filled-transaction-page.PNG)
-
-### Additional notes
-
-- mycrypto.com does not support setting _gas price_, _gas limit_ or _nonce_ because we auto-calculate those fields.
-- mycrypto.com does not support the _tokenSymbol_ and _sendMode_ token parameters.
-
-</AccordionItem>
-</Accordion>
-
 ## Related articles
 
 - [What is Gas](/general-knowledge/ethereum-blockchain/what-is-gas)
-- [What are pre-filled transactions](https://ethereum.stackexchange.com/questions/27909/how-to-prefill-fields-on-myetherwallet-with-given-receiver-address-amount-and)

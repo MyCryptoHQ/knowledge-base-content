@@ -3,7 +3,7 @@ title: How to recover assets sent to the wrong address
 tags:
   - Ledger
 date_published: '2021-01-14'
-date_modified: '2021-01-15'
+date_modified: '2021-02-03'
 ---
 
 If you've ever sent coins to the wrong address (for example, sending ETC or EWT to your ETH address), it can be scary, but it's solvable. Making this mistake with a Ledger requires a little more time and effort to solve it as you cannot send ETC or EWT transactions from an ETH address by default with a Ledger device.
@@ -40,13 +40,11 @@ You should now see the ETH Recovery app on your Ledger device. This app works ve
 
 - Make sure you are connected to the network of the asset you want to recover. For example, if you want to recover ETC coins, you should be connected to the ETC network.
 
-- Connect to your Ledger device in MyCrypto. If you are unable to connect to your device, you may need to close Ledger Live first. You can find further troubleshooting steps in [this article](https://support.mycrypto.com/troubleshooting/accessing-wallet/ledger-hardware-wallet-unable-to-connect-on-mycrypto).
+- Connect to your Ledger device in MyCrypto. If you are unable to connect to your device, you may need to close Ledger Live first. You can find further troubleshooting steps in [this article](/troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-unable-to-connect-on-mycrypto).
 
 - Your address likely won't show up at first. For this, you have to change the [derivation path](https://support.mycrypto.com/general-knowledge/ethereum-blockchain/what-is-a-derivation-path), to the derivation path of the asset that you sent your coins to. For example, if you sent your ETC **coins** to an ETH **address**, you have to change the derivation path to the ETH derivation path.
 
   ![Derivation path overview](../../../assets/how-to/hardware-wallets/ledger/how-to-recover-assets-sent-to-the-wrong-address/derivation-path-overview.png)
-
-  If you are using an address provided by Ledger Live, please refer to [this article to access Ledger Live addresses in MyCrypto](https://support.mycrypto.com/how-to/hardware-wallets/ledger/how-to-access-ledger-live-address-in-mycrypto).
 
 - Select your address and click on "Unlock."
 

@@ -6,7 +6,7 @@ tags:
   - Tokens
 priority: 60
 date_published: '2017-06-20'
-date_modified: '2020-10-08'
+date_modified: '2021-01-26'
 ---
 
 Hello and welcome to Ethereum! Ethereum and digital currencies are pretty new and in this new financial world, things can be a little bit different. This article gives an overview of what ETH is, where and how you can buy ETH with USD, some important info on how to store it, and how to be secure. We tried to keep it as short as possible so please take the time to read through the article. Don't hesitate to contact us directly if you have any questions or concerns, we are here to help!
@@ -37,7 +37,7 @@ For any questions or issues on how to buy ETH with USD via Coinbase, please cont
 
 Purchasing ETH on exchanges is very common and probably the most popular way to buy ETH. Once you have purchased your ETH, you have a choice of how to store it.
 
-- [MyCrypto](https://beta.mycrypto.com/) - Client-Side Wallet - You are in control of your funds and private information like passwords and private keys
+- [MyCrypto](https://mycrypto.com/) - Client-Side Wallet - You are in control of your funds and private information like passwords and private keys
 - Exchange - Hosted Wallet - Funds and private information is stored on company servers.
 - [Hardware Wallet](https://support.mycrypto.com/staying-safe/hardware-wallet-recommendations) - Physical Device that stores your private information.
 
@@ -80,7 +80,7 @@ Then, create an Ethereum account and back it up. From where you have stored your
 **Please make sure you back it up!**
 
 - [MyCrypto.com](https://mycrypto.com/)
-- [Beta MyCrypto](https://beta.mycrypto.com/)
+- [Beta MyCrypto](https://mycrypto.com/)
 - [Legacy MyCrypto](https://legacy.mycrypto.com)
 - [JAXX](https://jaxx.io/) - multi-platform, multi-currency
 - [Exodus.io](https://www.exodus.io/) - multi-currency desktop app

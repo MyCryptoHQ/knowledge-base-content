@@ -6,7 +6,7 @@ tags:
   - Ethereum
 priority: 70
 date_published: '2018-04-18'
-date_modified: '2020-07-01'
+date_modified: '2021-01-27'
 ---
 
 With Ethereum, signatures are a way of providing evidence that a specific user has access to a specific address.
@@ -15,7 +15,7 @@ For example, if user A wants to provide evidence to user B that user A has acces
 
 ### Signing a message
 
-1. Go to the [message signing page on MyCrypto](https://mycrypto.com/sign-and-verify-message/sign).
+1. Go to the [message signing page on MyCrypto](https://app.mycrypto.com/sign-message).
 2. Access your wallet.
 
 ![](../../assets/how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum/accessing-wallet.png)
@@ -29,9 +29,9 @@ For example, if user A wants to provide evidence to user B that user A has acces
 
 ```json
 {
-  "address": "0x497D15829C338f9e817314662febC7ccE47E69b1",
+  "address": "0x2a3052ef570a031400BffD61438b2D19e0E8abef",
   "msg": "This is proof that I, user A, have access to this address.",
-  "sig": "0xfa076d068ca83ec87203f394c630a1a992f0d39eac5e761aec4c90011204f0b776adf698fe3d626dfd4e7c6ef1f89adb4b9831adaeac72dd19093381265b45471b",
+  "sig": "0x4e1ce8ea60bc6dfd4068a35462612495850cb645a1c9f475eb969bff21d0b0fb414112aaf13f01dd18a3527cb648cdd51b618ae49d4999112c33f86b7b26e9731b",
   "version": "2"
 }
 ```
@@ -40,7 +40,7 @@ You can use this message as proof that you own an address, and share it with any
 
 ### Verifying a message
 
-1. Go to the [message verifying page on MyCrypto](https://mycrypto.com/sign-and-verify-message/verify).
+1. Go to the [message verifying page on MyCrypto](https://app.mycrypto.com/verify-message).
 2. Enter the signed message that you want to check, and click "Verify Message."
 
 ![](../../assets/how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum/verifying-message.png)

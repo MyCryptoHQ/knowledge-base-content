@@ -6,7 +6,7 @@ tags:
   - Private Keys
 priority: 90
 date_published: '2015-10-05'
-date_modified: '2020-10-08'
+date_modified: '2021-01-27'
 ---
 
 We highly recommend getting a hardware wallet or using MetaMask as a method to access your wallet and store your funds.
@@ -17,13 +17,15 @@ Remember to back up any wallets you create! Including the 12-word or 24-word pri
 
 ## How To Create a New Wallet
 
-- Go to <https://mycrypto.com/generate>.
+If you do not choose to use a hardware wallet or MetaMask, then we recommend to use the MyCrypto desktop app. The desktop app is available for Mac, Windows, Linux or as a standalone app.
 
-![Generate page](../../assets/how-to/getting-started/how-to-create-a-wallet/generate-page.png)
+<Alert>
 
-If you do not choose to use a hardware wallet, MetaMask, or Parity Signer, then we recommend to use MyCrypto desktop app. The desktop app is available for Mac, Windows, Linux or as a standalone app.
+The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com).
 
-[Download the MyCrypto Desktop App](https://download.mycrypto.com/)
+</Alert>
+
+Follow our guide on [running MyCrypto offline and locally](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
 
 Once you have downloaded and successfully installed the app, open the app from your applications folder. This should open the MyCrypto Desktop interface.
 

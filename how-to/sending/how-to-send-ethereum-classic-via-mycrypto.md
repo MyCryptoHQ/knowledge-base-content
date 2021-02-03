@@ -5,14 +5,9 @@ tags:
   - Transactions
 priority: 70
 date_published: '2017-10-08'
-date_modified: '2020-07-01'
+date_modified: '2021-01-27'
 ---
 
-In order to see your ETC and interact with the ETC chain, you must first connect to an ETC node.
+When adding a new address to your MyCrypto interface, make sure that you select the Ethereum Classic network while adding it. This will let MyCrypto know for which network it should find your funds, so you can interact with it.
 
-1. Select "ETC (AUTO)" in the node-switcher in the top-right corner of MyCrypto, or in the bottom-left corner if you are using the desktop app.
-2. Unlock your wallet to send ETC and to interact with the ETC chain.
-
-If you just want to check your balance, use the "View Wallet" option and fill in your address. You can also [check your balance on a blockchain explorer](/how-to/accessing-wallet/how-to-check-the-balance-of-your-account).
-
-In order to switch back to ETH, simply change the node back to an ETH node.
+[You can find additional information about sending transactions with MyCrypto here](/how-to/sending/how-to-send-a-transaction).

@@ -35,14 +35,10 @@ redirects:
     to: how-to/sending/how-to-send-a-transaction
   - from: send/sending-and-adding-tokens.html
     to: how-to/sending/sending-and-adding-tokens
-  - from: transactions/how-to-schedule-a-transaction.html
-    to: how-to/sending/how-to-schedule-a-transaction
   - from: networks/access-your-etc-on-mycrypto.html
     to: how-to/sending/how-to-send-ethereum-classic-via-mycrypto
   - from: offline/making-offline-transaction-on-mycrypto.html
     to: how-to/sending/how-to-make-an-offline-transaction
-  - from: offline/is-the-send-page-offline.html
-    to: how-to/offline/is-the-view-and-send-page-offline
   - from: faq/where-to-get-testnet-ether.html
     to: how-to/getting-started/where-to-get-testnet-ether
   - from: faq/how-to-buy-ethereum-with-usd.html
@@ -87,12 +83,8 @@ redirects:
     to: how-to/sending/trezor-sending-from
   - from: hardware-wallets/trezor-sending-to-trezor-device.html
     to: how-to/sending/trezor-sending-to
-  - from: networks/sent-etc-to-eth-address.html
-    to: how-to/nodes-networks/access-eth-sent-to-etc-address-or-etc-sent-to-eth-address
   - from: hardware-wallets/ledger-hardware-wallet-using-with-android
     to: how-to/hardware-wallets/ledger/how-to-use-a-ledger-wallet-with-android
-  - from: hardware-wallets/multiple-addresses-on-hardware-wallet.html
-    to: how-to/hardware-wallets/multiple-addresses-showing-on-hardware-wallet
   - from: gas/how-do-I-know-what-gas-limit-to-use.html
     to: how-to/sending/how-to-know-what-gas-limit-to-use
   - from: how-to/sending/how-to-know-what-gas-price-or-gas-limit-to-use
@@ -113,8 +105,6 @@ redirects:
     to: troubleshooting/sending/transaction-not-showing-or-pending
   - from: tokens/errcode-unable-to-locate-corresponding-transfer-event-log.html
     to: troubleshooting/sending/errcode-unable-to-locate-corresponding-transfer-event-log
-  - from: gas/error-insufficient-funds-message.html
-    to: troubleshooting/sending/error-insufficient-funds-message
   - from: addresses/ethereum-balance-not-loading-or-showing.html
     to: troubleshooting/sending/ethereum-balance-not-loading-or-showing
   - from: addresses/eth-or-tokens-not-showing-on-exchange.html
@@ -134,7 +124,9 @@ redirects:
   - from: private-keys-passwords/missing-characters-of-private-key.html
     to: troubleshooting/accessing-wallet/missing-characters-of-private-key
   - from: hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-mycrypto.html
-    to: troubleshooting/accessing-wallet/ledger-hardware-wallet-unable-to-connect-on-mycrypto
+    to: troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-unable-to-connect-on-mycrypto
+  - from: troubleshooting/accessing-wallet/ledger-hardware-wallet-unable-to-connect-on-mycrypto
+    to: troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-unable-to-connect-on-mycrypto
   - from: tokens/adding-new-token-and-sending-custom-tokens.html
     to: how-to/tokens/how-to-add-a-custom-token
   - from: troubleshooting/tokens/adding-new-token-and-sending-custom-tokens
@@ -149,8 +141,6 @@ redirects:
     to: troubleshooting/hardware-wallets/ledger/ledger-hardware-wallet-missing-characters-from-address
   - from: hardware-wallets/error-code-5.html
     to: troubleshooting/hardware-wallets/ledger/error-code-5
-  - from: hardware-wallets/archos-safet-mini.html
-    to: troubleshooting/hardware-wallets/archos/archos-safet-mini
   - from: hardware-wallets/trezor-error-window-blocked.html
     to: troubleshooting/hardware-wallets/trezor/trezor-error-window-blocked
   - from: contributor-info/add-token-to-default-list.html
@@ -211,8 +201,6 @@ redirects:
     to: staying-safe/why-you-should-backup-your-hardware-wallet
   - from: security/how-to-stay-safe.html
     to: staying-safe/how-to-stay-safe
-  - from: best-of/trading-advice-what-to-do-when-you-lose-it-all-trading-margin.html
-    to: general-knowledge/investing-icos-tokens/margin-trading-what-to-do-when-you-lose-it-all
   - from: best-of/how-not-to-miss-out-on-ico.html
     to: general-knowledge/investing-icos-tokens/best-ways-to-avoid-missing-out-on-that-ico
   - from: best-of/investing-responsibly-by-brian-armstrong-coinbase.html
@@ -271,3 +259,7 @@ redirects:
     to: how-to/hardware-wallets/trezor/trezor-sending-to
   - from: how-to/migrating/access-your-mycrypto-account-in-parity
     to: how-to/migrating/access-your-mycrypto-account-in-openethereum
+  - from: how-to/sending/sending-and-adding-tokens
+    to: how-to/sending/how-to-send-a-transaction
+  - from: how-to/hardware-wallets/trezor/trezor-sending-from
+    to: how-to/sending/how-to-send-a-transaction

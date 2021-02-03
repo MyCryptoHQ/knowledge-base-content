@@ -6,7 +6,7 @@ tags:
   - Faucet
 priority: 40
 date_published: '2018-07-02'
-date_modified: '2021-01-25'
+date_modified: '2021-02-03'
 ---
 
 There are currently 4 different testnets for the Ethereum public chain:
@@ -16,7 +16,7 @@ There are currently 4 different testnets for the Ethereum public chain:
 - Kovan
 - Goerli
 
-With the [MyCrypto beta](https://beta.mycrypto.com/) faucet you can easily request Ether from any of the above mentioned testnets. Get started with the [MyCrypto faucet](https://app.mycrypto.com/faucet) by adding your address, and request testnet Ether right away.
+With the MyCrypto faucet you can easily request Ether from any of the above mentioned testnets. Get started with the [MyCrypto faucet](https://app.mycrypto.com/faucet) by adding your address, and request testnet Ether right away.
 
 ![Faucet overview](../../assets/how-to/getting-started/where-to-get-testnet-ether/faucet-intro.png)
 

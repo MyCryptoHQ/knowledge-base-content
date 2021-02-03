@@ -5,14 +5,8 @@ tags:
   - Beta
 priority: 100
 date_published: '2020-05-13'
-date_modified: '2020-10-08'
+date_modified: '2021-01-26'
 ---
-
-<Alert>
-
-This feature is currently only found on MyCrypto beta, which you can find at [beta.mycrypto.com](https://beta.mycrypto.com/).
-
-</Alert>
 
 Screen Lock is a security feature that is intended to keep prying eyes away from your information.
 
@@ -22,7 +16,7 @@ Screen Lock is especially useful for when your device is accessible to more peop
 
 ## How do I set up Screen Lock?
 
-When you have MyCrypto open and are inactive for a period of time (default is one minute), a countdown will appear.
+When you have MyCrypto open and are inactive for a period of time (default is 30 minutes), a countdown will appear.
 
 ![Screen Lock countdown](../../assets/how-to/accessing-wallet/what-is-screen-lock/countdown.png)
 

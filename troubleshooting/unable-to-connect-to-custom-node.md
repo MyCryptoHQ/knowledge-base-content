@@ -6,33 +6,24 @@ tags:
   - Networks
 priority: 10
 date_published: '2017-10-08'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
-For instructions on connecting to your own local Ethereum node with MyCrypto, please see [this](/developers/run-your-own-node-with-mycrypto) article.
-
 - Verify the URL you entered is correct.
+- If the node is running on a specific port, verify that the port you entered is correct.
+- Verify the correct network is selected.
 
-- Verify the port you entered is correct.
+## Locally hosted node
 
-- Verify that if you are connecting to an http:// node, you are running MyCrypto locally (NOT over https://).
+For instructions on connecting to your own local Ethereum node with MyCrypto, [please see this article on running MyCrypto with your own personal node](/developers/run-your-own-node-with-mycrypto).
+
+- Verify that if you are connecting to an http:// node, you are running MyCrypto locally with the [MyCrypto Desktop App](https://download.mycrypto.com/).
 
 - Verify you are running with:
 
-  - Geth: `geth --rpc --rpccorsdomain "*"`
-  - Parity: `parity --jsonrpc-cors "*"`
-
-- You can also run both clients in light client mode, which only downloads the recent state of the blockchain and saves bandwidth:
-
-  - Geth: `geth --rpc --rpccorsdomain "*" --syncmode "light"`
-  - Parity: `parity --jsonrpc-cors "*" --light`
+  - Geth: `geth --http --http.corsdomain "*"`
+  - OpenEthereum: `openethereum --jsonrpc-cors=all`
 
 - Verify your node is actually up and running.
-
-- Try removing the node and adding it again.
-
-- Try changing the node in the MyCrypto interface to Etherscan or Infura, then change back.
-
-- Try using Google Chrome or a different browser.
 
 - Ensure that you do not have a firewall or something else that may be blocking the connection.

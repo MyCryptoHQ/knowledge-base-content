@@ -32,6 +32,12 @@ Install the [EAL Chrome Extension](https://chrome.google.com/webstore/detail/eth
 
 ## 4. [Use MyCrypto locally and offline](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
 
+<Alert>
+
+The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com/).
+
+</Alert>
+
 ## 5. Do not trust random URLs.
 
 Do not trust communications, addresses, or URLs sent via private message. Always verify information with a secondary source.
