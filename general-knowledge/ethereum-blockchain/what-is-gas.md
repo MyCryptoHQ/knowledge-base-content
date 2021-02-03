@@ -6,7 +6,7 @@ tags:
   - Transactions
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2020-10-08'
+date_modified: '2021-01-14'
 ---
 
 ![Transaction pool infographic](../../assets/shared/transaction-pool-infographic.png)
@@ -55,3 +55,9 @@ You can adjust the gas price with the slider on the transaction page. It will au
 ![](../../assets/general-knowledge/ethereum-blockchain/what-is-gas/transaction-fee-slider.png)
 
 If you want, you can also manually adjust the gas price, by clicking on "+ Advanced". For the current recommended gas prices, you can refer to [ETH Gas Station](https://ethgasstation.info/).
+
+## Related Articles
+
+- [How To Know What Gas Price to Use](/how-to/sending/how-to-know-what-gas-price-to-use)
+- [How To Know What Gas Limit to Use](/how-to/sending/how-to-know-what-gas-limit-to-use)
+- [Gas Required Exceeds Allowance or Always Failing Transaction](/troubleshooting/sending/gas-required-exceeds-allowance-or-always-failing-transaction)

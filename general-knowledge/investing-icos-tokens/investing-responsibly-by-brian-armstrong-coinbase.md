@@ -1,14 +1,12 @@
 ---
-title: Investing Responsibly (by Brian Armstrong / Coinbase)
+title: Investing Responsibly (by Brian Armstrong / Coinbase)
 description: Best Of
 tags:
   - Exchanges
 priority: 50
 date_published: '2017-12-09'
-date_modified: '2020-10-08'
+date_modified: '2021-01-14'
 ---
-
-## Please invest responsibly
 
 We at Coinbase couldn’t be more excited by the explosion of interest in digital currencies. The last few weeks has seen an unprecedented increase in the price of digital currencies. More people are engaging with our platform than ever and that bodes well for the future of the digital currency. At the same time, it does create extreme volatility and stress on our systems. We take this very seriously and wanted to share some important thoughts.
 
@@ -32,21 +30,9 @@ As a proactive measure, we encourage customers to check the following items on t
 4. Complete any pending identity verifications. During times of significant volatility, ID verification may become degraded or unavailable. To learn more about identity verification on Coinbase, please refer to this FAQ.
 5. Expect payments to take the maximum number of days indicated when making a deposit or withdrawal.
 
-## Stay up to date
-
-We will continue to update customers on our website, our status page, in our apps, via email, on our blog and on Twitter.
-
-### We will keep you informed
-
-We are committed to safety, security and transparency. We are working tirelessly to provide the best service and support but we can’t promise perfection during the periods of extraordinary demand. We will continue to do our best to keep our customers informed.
-
----
-
 ## Related articles
 
 - [https://buynhodl.com/ether-investor-focus-olaf-carlson-wee-polychain-capital/](https://buynhodl.com/ether-investor-focus-olaf-carlson-wee-polychain-capital/)
-
----
 
 ## Source
 

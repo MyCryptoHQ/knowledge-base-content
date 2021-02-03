@@ -5,7 +5,7 @@ tags:
   - Ethereum
 priority: 30
 date_published: '2018-04-30'
-date_modified: '2020-10-08'
+date_modified: '2021-01-14'
 ---
 
 > Picture a spreadsheet that is duplicated thousands of times across a network of computers. Then imagine that this network is designed to regularly update this spreadsheet and you have a basic understanding of the blockchain.
@@ -14,7 +14,7 @@ date_modified: '2020-10-08'
 
 The blockchain is a **public**, distributed ledger. It allows anyone, anywhere to view and verify the transactions executed on it. In fact, the primary value of blockchains is that they remove reliance on closed, third-party, centralized systems and bring a new level of transparency through decentralized, shared data.
 
-**So, no, the blockchain is not private.** Every transaction and every bit of information that you broadcast and put on the blockchain is completely public. It can easily be viewed via a blockchain explorer (like [Etherscan.io](https://etherscan.io/) for Ethereum). But even if your blockchain activity can be seen by anyone, it doesn’t require you to broadcast your name, email address, password, date of birth, location, or any other personal information.
+**So, no, the blockchain is not private.** Every transaction and every bit of information that you broadcast and put on the blockchain is completely public. It can easily be viewed via a blockchain explorer (like [Etherscan](https://etherscan.io/) for Ethereum). But even if your blockchain activity can be seen by anyone, it doesn’t require you to broadcast your name, email address, password, date of birth, location, or any other personal information.
 
 Everything is pseudonymous so that your activity is associated with an “address” rather than your actual identity. On Ethereum, an address will look like this: 0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520. If you visit [an address page on Etherscan](https://etherscan.io/address/0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520), you can view the holdings of that address and all the transactions that have ever been made to and from that address.
 
@@ -34,7 +34,7 @@ If you were to send a transaction to wallet address 0x4bbeEB066eD09B7AEd07bF39EE
 
 If you were to publish your address on Reddit or Twitter, your address would be linked to your Reddit username or Twitter handle. If you use your full name on Twitter or have also published your full name on Reddit before, it would be possible for your full name to be linked to your address.
 
-Furthermore, if your address becomes linked to your name and has funds in it, it could make you a target for attackers. Everything is relative: A “small” amount of funds to you may be the monthly salary of an attacker on the other side of the world. The markets are also extremely volatile. Mentioning “I have 10 ETH” in 2015 meant you had $10. In 2018, it meant you had $10,000. In 2020 it could mean you have \$1,000,000. 🚀
+Furthermore, if your address becomes linked to your name and has funds in it, it could make you a target for attackers. Everything is relative: A “small” amount of funds to you may be the monthly salary of an attacker on the other side of the world. The markets are also extremely volatile. Mentioning “I have 10 ETH” in 2015 meant you had $10. In 2020, it meant you had $10,000. In 2025 it could mean you have \$1,000,000. 🚀
 
 If a bad actor decides they want your funds, they could use information available on the web to attempt to attack you and your accounts, such as by [spear-phishing](https://archives.fbi.gov/archives/news/stories/2009/april/spearphishing_040109) or social engineering techniques. If you store your private keys on [Evernote](https://gizmodo.com/2-million-allegedly-stolen-from-cryptocurrency-vlogger-1825290362), Dropbox, [Google Drive](https://medium.com/blockchannel/someone-just-stole-9-000-of-crypto-from-me-dc04e89c289d), or any other cloud storage or note-taking application, those funds could be stolen if that single account is compromised.
 

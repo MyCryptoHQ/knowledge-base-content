@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 35
 date_published: '2017-07-05'
-date_modified: '2020-10-08'
+date_modified: '2021-01-15'
 ---
 
 **These phishers will not stop until they stop getting money or get caught.** We don't have the time or manpower to do it all. There are so many things to do and watch and document. We thank you for your help.
@@ -31,14 +31,13 @@ Help spread the word: Private keys are _private_. Use hardware wallets. Use cold
 - Install EtherAddressLookup to block malicious / phishing sites: [https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn).
 - Install MetaMask to block malicious / phishing sites and interact with MyCrypto: [https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn).
 - Never enter your private keys, passwords, or sensitive data on a website that you were sent via a message.
-- ONLY unlock your wallet when you want to send a transaction. Check your balance via [https://etherscan.io/](https://etherscan.io/) or [https://ethplorer.io/](https://ethplorer.io/).
 - Do not trust messages, addresses, or URLs sent via private message. Always verify information with a secondary source.
 - Check out our guide on [How to Prevent Loss & Theft](/staying-safe/protecting-yourself-and-your-funds).
 - [Protips: How Not to Get Scammed](/staying-safe/mycrypto-protips-how-not-to-get-scammed-during-ico).
 
 ## 3. Report malicious URLs
 
-- Report: [https://etherscamdb.info/](https://etherscamdb.info/).
+- Report: <https://cryptoscamdb.org>.
 - PR in malicious domains: [https://github.com/409H/EtherAddressLookup/blob/master/blacklists/domains.json](https://github.com/409H/EtherAddressLookup/blob/master/blacklists/domains.json).
 - PR in verified tweeters to automatically blacklist scam tweeters with very similar usernames: [https://github.com/409H/EtherSecurityLookup/blob/master/lists/twitter.whitelist.json](https://github.com/409H/EtherSecurityLookup/blob/master/lists/twitter.whitelist.json).
 - Add malicious non-URLs here: [https://github.com/ethereum-lists](https://github.com/ethereum-lists).

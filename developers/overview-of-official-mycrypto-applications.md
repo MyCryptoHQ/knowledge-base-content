@@ -5,16 +5,12 @@ tags:
   - MyCrypto
 priority: 90
 date_published: '2019-05-08'
-date_modified: '2020-10-08'
+date_modified: '2021-01-14'
 ---
-
-## Overview
 
 This document is meant to allow hackers to skip the recon stage and get straight into trying to find vulnerabilities. It outlines the in-scope domains, the software behind them, and a brief description of their functions.
 
 Our responsible disclosure program policy can be found at - [https://security.mycrypto.com](https://security.mycrypto.com).
-
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 <!-- Domain: *.mycrypto -->
 
@@ -38,8 +34,6 @@ It is built with Typescript and Javascript (React framework).
 
 <https://builtwith.com/mycrypto.com>
 
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
-
 ### [buy.mycrypto.com](https://buy.mycrypto.com)
 
 #### What it does
@@ -59,8 +53,6 @@ The application is delivered via Cloudflare and runs on an Express server.
 It is built with Javascript.
 
 <https://builtwith.com/buy.mycrypto.com>
-
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### [support.mycrypto.com](https://support.mycrypto.com)
 
@@ -82,8 +74,6 @@ It is built with Typescript and Javascript (Gatsby framework).
 
 <https://builtwith.com/support.mycrypto.com>
 
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
-
 ### [overflow.mycrypto.com](https://overflow.mycrypto.com)
 
 #### What it does
@@ -103,8 +93,6 @@ The application is delivered via GitHub pages.
 It is built with Typescript and Javascript (React framework).
 
 <https://builtwith.com/overflow.mycrypto.com>
-
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### [about.mycrypto.com](https://about.mycrypto.com)
 
@@ -126,8 +114,6 @@ It is built with Javascript.
 
 <https://builtwith.com/about.mycrypto.com>
 
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
-
 ### [beta.mycrypto.com](https://beta.mycrypto.com)
 
 #### What it does
@@ -147,8 +133,6 @@ The application is delivered via GitHub pages.
 It is built with Typescript and Javascript (React framework).
 
 <https://builtwith.com/beta.mycrypto.com>
-
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### [download.mycrypto.com](https://download.mycrypto.com)
 
@@ -171,8 +155,6 @@ The domain itself points to an AWS instance and delivered using CloudFront.
 It is built with Typescript and Javascript.
 
 <https://builtwith.com/download.mycrypto.com>
-
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 <!-- Domain: *.etherscamdb.info -->
 
@@ -198,8 +180,6 @@ It is built with Javascript (NodeJS).
 
 <https://builtwith.com/etherscamdb.info>
 
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
-
 <!-- Domain: *.cryptoscamdb.org -->
 
 ### [cryptoscamdb.org](https://cryptoscamdb.org)
@@ -224,8 +204,6 @@ It is built with Typescript and Javascript (Gatsby framework).
 
 <https://builtwith.com/cryptoscamdb.org>
 
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
-
 <!-- Domain *.ambo.io -->
 
 ### [ambo.io](https://ambo.io)
@@ -246,8 +224,6 @@ It is built with PHP 5.6 (Wordpress platform).
 
 <https://builtwith.com/ambo.io>
 
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
-
 ### [ambo.herokuapp.com](https://ambo.herokuapp.com)
 
 #### What it does
@@ -263,8 +239,6 @@ No user secrets are stored/sent here but because sends data to the app, we are i
 It is served on a Heroku Dyno.
 
 It is built with Express and NodeJs.
-
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### Ambo iOS App
 
@@ -282,8 +256,6 @@ It is served via the iOS App Store.
 
 It is built using Swift 4.2, made for devices >= iOS11.0.
 
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
-
 ### [analytics.mycryptoapi.com](https://analytics.mycryptoapi.com)
 
 #### What it does
@@ -299,8 +271,6 @@ Any unauthorized access or data leakage. Although we don't store any personal id
 It is hosted on an Amazon EC2 instance proxied with ELB.
 
 It is built using Matomo (Piwik) for the analytics
-
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
 
 ### [gas.mycryptoapi.com](https://gas.mycrypto.com)
 
@@ -318,8 +288,6 @@ The service is routed through Cloudfront with Amazon S3.
 
 The application is running in an ECS container.
 
-![separator](../assets/general-knowledge/about-mycrypto/system-mapping/separator.png)
-
 ### [proxy.mycryptoapi.com](https://proxy.mycryptoapi.com)
 
 #### What it does
@@ -333,3 +301,62 @@ This is our main gateway to retrieve data for our applications. We are mainly in
 #### What it runs on
 
 The service is routed through Cloudfront to an Amazon API Gateway.
+
+---
+
+## Other domains
+
+### \*.mycrypto.com
+
+Most of the things a typical user is interested on will be on the `mycrypto.com` domain - including various subdomains.
+
+- `legacy.mycrypto.com` - the old interface look
+- `summer.mycrypto.com` - our crypto summer calendar
+- `winter.mycrypto.com` - our crypto winter calendar
+- `0x.mycrypto.com` - holding the 0x protocol code used by the MyCrypto interface
+
+### mycryptoapi.com
+
+This domain holds many background processes that we rely on.
+
+- `raidentransport.mycryptoapi.com` - [matrix] server for Raiden related stuff
+- `api.mycryptoapi.com` - handles requests to our Blockchain RPC nodes
+- `apis.mycryptoapi.com` - used for weighted load balancing between two regions
+- `monero.mycryptoapi.com` - used for the backend of [monerovision.com](https://monerovision.com)
+
+### mycryptobuilds.com
+
+This domain is for staging and QA to test builds for our blockchain interface. Since the code
+running the interface is in test phase, there may be bugs - don't use it with the same
+conviction as production (`mycrypto.com`).
+
+- `mycryptobuilds.com` - serves QA builds for the blockchain interface
+
+### Other
+
+These are other domains in the MyCrypto family.
+
+- `etherscamdb.info` - a directory of scams in the ecosystem
+- `cryptoscamdb.org` - a directory of scams in the ecosystem
+- `defiscan.io` - a read-only snapshot explorer for decentralised finance
+- `monerovision.com` - a block explorer for Monero
+- `ambo.io` - the homepage for the Ambo wallet
+- `findeth.io` - a tool to help you find lost ether or address
+
+## Official email from MyCrypto
+
+If you recieve a communication that looks like it's from MyCrypto but _doesn't_ come from
+one of the domains listed, please be careful as it may contain malware or be a phishing
+attempt.
+
+You can signup to our newsletter by looking in the footer at [MyCrypto.com](https://mycrypto.com)
+
+- `mycrypto.com` - all emails from employees and support staff
+
+We have a newsletter that we send out monthly as well as communicate with you if you open any
+support ticket. Communications will only come from;
+
+- `newsletter@mycrypto.com` - for newsletter communications
+- `noreply@mycrypto.com` - for newsletter communications
+- `support@mycrypto.com` - for any support tickets
+- `security@mycrypto.com` - for any security related tickets

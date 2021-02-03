@@ -5,16 +5,16 @@ tags:
   - Private Keys
 priority: 110
 date_published: '2017-07-05'
-date_modified: '2020-10-08'
+date_modified: '2021-01-14'
 ---
 
-> What are the different types of private key formats that I can use to access my wallet?
+The ETH is stored on the blockchain. Your private key, Keystore file, or whatever piece of information you have proves ownership of that ETH, which allows you to move it. At the end of the day, you are always signing with your private key. However, for additional functionality (like protecting it with a password), there are different formats and ways of storing your private key:
 
-The ETH is stored on the blockchain. Your private key, Keystore file, or whatever piece of information you have proves ownership of that ETH, which allows you to move it.
+<Alert>
 
-At the end of the day, you are always signing with your private key.
+Private keys, mnemonic phrases, and keystore files are currently only available on the legacy MyCrypto desktop application.
 
-However, for additional functionality (like protecting it with a password), there are different formats and ways of storing your private key:
+</Alert>
 
 ## MetaMask
 
@@ -23,10 +23,6 @@ However, for additional functionality (like protecting it with a password), ther
 ## Hardware Wallets
 
 - [Learn More Here](/staying-safe/hardware-wallet-recommendations)
-
-## Parity Signer
-
-- [Learn More Here](/how-to/accessing-wallet/how-to-use-the-parity-signer-with-mycrypto)
 
 ## Keystore File (UTC / JSON)
 
@@ -65,7 +61,7 @@ The derivation path is a numerical representation of which private key / address
 
 ![Generate mnemonic phrase](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/generate-mnemonic-phrase.png)
 
-## Private Key (Unencrypted)
+## Private Key
 
 - This is the unencrypted text version of your private key, meaning no password is necessary.
 - If someone were to find your unencrypted private key, they could access your wallet without a password.
