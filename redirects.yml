@@ -35,14 +35,10 @@ redirects:
     to: how-to/sending/how-to-send-a-transaction
   - from: send/sending-and-adding-tokens.html
     to: how-to/sending/sending-and-adding-tokens
-  - from: transactions/how-to-schedule-a-transaction.html
-    to: how-to/sending/how-to-schedule-a-transaction
   - from: networks/access-your-etc-on-mycrypto.html
     to: how-to/sending/how-to-send-ethereum-classic-via-mycrypto
   - from: offline/making-offline-transaction-on-mycrypto.html
     to: how-to/sending/how-to-make-an-offline-transaction
-  - from: offline/is-the-send-page-offline.html
-    to: how-to/offline/is-the-view-and-send-page-offline
   - from: faq/where-to-get-testnet-ether.html
     to: how-to/getting-started/where-to-get-testnet-ether
   - from: faq/how-to-buy-ethereum-with-usd.html
@@ -89,8 +85,6 @@ redirects:
     to: how-to/sending/trezor-sending-to
   - from: hardware-wallets/ledger-hardware-wallet-using-with-android
     to: how-to/hardware-wallets/ledger/how-to-use-a-ledger-wallet-with-android
-  - from: hardware-wallets/multiple-addresses-on-hardware-wallet.html
-    to: how-to/hardware-wallets/multiple-addresses-showing-on-hardware-wallet
   - from: gas/how-do-I-know-what-gas-limit-to-use.html
     to: how-to/sending/how-to-know-what-gas-limit-to-use
   - from: how-to/sending/how-to-know-what-gas-price-or-gas-limit-to-use
@@ -111,8 +105,6 @@ redirects:
     to: troubleshooting/sending/transaction-not-showing-or-pending
   - from: tokens/errcode-unable-to-locate-corresponding-transfer-event-log.html
     to: troubleshooting/sending/errcode-unable-to-locate-corresponding-transfer-event-log
-  - from: gas/error-insufficient-funds-message.html
-    to: troubleshooting/sending/error-insufficient-funds-message
   - from: addresses/ethereum-balance-not-loading-or-showing.html
     to: troubleshooting/sending/ethereum-balance-not-loading-or-showing
   - from: addresses/eth-or-tokens-not-showing-on-exchange.html
