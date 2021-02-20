@@ -30,4 +30,3 @@ After opening Settings, you simply need to remove the view-only address by click
 ![Remove and Add Buttons](../../assets/how-to/accessing-wallet/how-does-view-address-work/remove-and-add.png)
 
 ![Add Account](../../assets/how-to/accessing-wallet/how-does-view-address-work/add-account.png)
-
