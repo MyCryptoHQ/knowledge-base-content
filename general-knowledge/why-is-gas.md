@@ -29,19 +29,12 @@ When there are hundreds of thousands of transactions waiting to be mined, it oft
 Here are some things you can do if you are experiencing issues with pending or stuck transactions relating to gas.
 
 1. Send with higher gas price next time
-
 2. Go outside, look at trees, wait
-
 3. [Cancel or replace the transaction](https://support.mycrypto.com/how-to/sending/checking-or-replacing-a-transaction-after-it-has-been-sent)
-
 4. [Learn about gas](https://support.mycrypto.com/general-knowledge/ethereum-blockchain/what-is-gas)
-
 5. [Learn about nonce](https://support.mycrypto.com/general-knowledge/ethereum-blockchain/what-is-nonce)
-
 6. Learn about alternative fee markets
-
 7. Call an old friend and have a chat about the good ol' days before COVID and 500 GWEI gas prices
-
 8. Hot take it on Twitter and/or ask Vitalik to speed it up.
 
 Make sure you understand why your transaction(s) aren't being mined—is it just a low gas price or do you have a low-nonce, low-gas price transaction preventing more recent transactions from being confirmed?
