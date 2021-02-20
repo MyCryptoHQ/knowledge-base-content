@@ -1,6 +1,6 @@
 ---
-title: 'Differences Between Wallet Types (e.g., Private Key vs Keystore)'
-description: Private Keys & Passwords
+title: 'Why is Gas?!'
+description: Gas and Transaction Fees
 tags:
   - Gas
 priority: 110
@@ -18,7 +18,7 @@ The price of Ether rose from $100 to $1500 in ~6 months and your transaction fee
 
 The network is increasingly busy and the transaction fee determines who's transaction is mined first.
 
-There is stuff to do on the Ethereum network! It's not just ICO's or staring at your assets anymore - you can [do defi](?ask jordan?) and [farm](?ask jordan ofr who we want to shout out?) and all sorts of stuff. Some of this stuff can be very profitable for traders or arbitragers who are racing with other traders or arbitragers for these profits. For example, if arbitrager 1 can make $10,000 by liquidating an undercollateralized position, they will gladly spend $1000 or $2000 or $5000 to send that transaction faster than arbitrager 2. You are competing with this activity whenever you send a transaction.
+There is stuff to do on the Ethereum network! It's not just ICO's or staring at your assets anymore - you can do defi and farm. Some of this stuff can be very profitable for traders or arbitragers who are racing with other traders or arbitragers for these profits. For example, if arbitrager 1 can make $10,000 by liquidating an undercollateralized position, they will gladly spend $1000 or $2000 or $5000 to send that transaction faster than arbitrager. You are also competing with this activity whenever you send a transaction.
 
 ## So what does this mean?
 
