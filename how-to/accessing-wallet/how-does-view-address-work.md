@@ -15,16 +15,19 @@ MyCrypto supports various methods of accessing your accounts (an account is made
 
 ### View only
 
+![Accounts List with View Only](../../assets/how-to/accessing-wallet/how-does-view-address-work/my-accounts-with-view-only.png)
+
 Adding a "view-only" account means that you will not be able to send a transaction from it. If you want the ability to SEND from this account, please choose another method of connection on the "Add Account" screen. Or, you can add it as "view-only" for now and connect it at another time.
 
 ## Changing from View-Only access to SEND Access
 
-After opening Settings, you simply need to remove the view-only address by clicking the "X", and then click "Add" so you can add your address through the actual method your address is stored on.
+Click on "Settings" or "Edit"
 
 ![Settings and Edit](../../assets/how-to/accessing-wallet/how-does-view-address-work/settings-and-edit.png)
+
+After opening Settings, you simply need to remove the view-only address by clicking the "X", and then click "Add" so you can add your address through the actual method your address is stored on.
 
 ![Remove and Add Buttons](../../assets/how-to/accessing-wallet/how-does-view-address-work/remove-and-add.png)
 
 ![Add Account](../../assets/how-to/accessing-wallet/how-does-view-address-work/add-account.png)
 
-![Accounts List with View Only](../../assets/how-to/accessing-wallet/how-does-view-address-work/my-accounts-with-view-only.png)
