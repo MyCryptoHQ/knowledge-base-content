@@ -5,10 +5,8 @@ tags:
   - Gas
 priority: 110
 date_published: '2021-02-19'
-date_modified: '2021-02-19'
+date_modified: '2021-02-22'
 ---
-
-### Why is Gas?!
 
 When sending a transaction on the Ethereum network you may be startled by the cost to send said transaction, especially if you are returning from a cryptocurrency hiatus.
 
@@ -18,7 +16,7 @@ The price of Ether rose from $100 to $1500 in ~6 months and your transaction fee
 
 The network is increasingly busy and the transaction fee determines who's transaction is mined first.
 
-There is stuff to do on the Ethereum network! It's not just ICO's or staring at your assets anymore - you can do defi and farm. Some of this stuff can be very profitable for traders or arbitragers who are racing with other traders or arbitragers for these profits. For example, if arbitrager 1 can make $10,000 by liquidating an undercollateralized position, they will gladly spend $1000 or $2000 or $5000 to send that transaction faster than arbitrager 2. You are also competing with this activity whenever you send a transaction.
+There is stuff to do on the Ethereum network! It's not just ICO's or staring at your assets anymore - you can do DeFi and farm. Some of this stuff can be very profitable for traders or arbitragers who are racing with other traders or arbitragers for these profits. For example, if arbitrager 1 can make $10,000 by liquidating an undercollateralized position, they will gladly spend $1000 or $2000 or $5000 to send that transaction faster than arbitrager 2. You are also competing with this activity whenever you send a transaction.
 
 ## So what does this mean?
 
@@ -30,11 +28,11 @@ Here are some things you can do if you are experiencing issues with pending or s
 
 1. Send with higher gas price next time
 2. Go outside, look at trees, wait
-3. [Cancel or replace the transaction](https://support.mycrypto.com/how-to/sending/checking-or-replacing-a-transaction-after-it-has-been-sent)
-4. [Learn about gas](https://support.mycrypto.com/general-knowledge/ethereum-blockchain/what-is-gas)
-5. [Learn about nonce](https://support.mycrypto.com/general-knowledge/ethereum-blockchain/what-is-nonce)
+3. [Cancel or replace the transaction](/how-to/sending/checking-or-replacing-a-transaction-after-it-has-been-sent)
+4. [Learn about gas](/general-knowledge/ethereum-blockchain/what-is-gas)
+5. [Learn about nonce](/general-knowledge/ethereum-blockchain/what-is-nonce)
 6. Learn about alternative fee markets
 7. Call an old friend and have a chat about the good ol' days before COVID and 500 GWEI gas prices
-8. Hot take it on Twitter and/or ask Vitalik to speed it up.
+8. Hot take it on Twitter and/or ask Vitalik to speed it up
 
 Make sure you understand why your transaction(s) aren't being mined—is it just a low gas price or do you have a low-nonce, low-gas price transaction preventing more recent transactions from being confirmed?
