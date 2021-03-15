@@ -8,7 +8,7 @@ date_modified: '2021-03-15'
 
 If you've ever sent coins to the wrong address (for example, sending ETC or EWT to your ETH address), it can be scary, but it's solvable. Making this mistake with a Trezor requires a little more time and effort to solve it as you cannot send ETC or EWT transactions from an ETH address by default with a Trezor device.
 
-One way to recover those funds is to use the recovery phrase for your Trezor device, but this comes with the risk that your recovery phrase may be stolen by malware or phishing. To access those coins in a safer way (one that does not involve using the recovery phrase), you can use the new `trezorctl` command line too provided by Trezor. Simply follow the steps below.
+One way to recover those funds is to use the recovery phrase for your Trezor device, but this comes with the risk that your recovery phrase may be stolen by malware or phishing. To access those coins in a safer way (one that does not involve using the recovery phrase), you can use the `trezorctl` command line too provided by Trezor. Simply follow the steps below.
 
 ## Install Python
 
