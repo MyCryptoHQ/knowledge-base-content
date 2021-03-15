@@ -3,7 +3,7 @@ title: How to recover assets sent to the wrong address
 tags:
   - Trezor
 date_published: '2021-01-14'
-date_modified: '2021-02-03'
+date_modified: '2021-03-15'
 ---
 
 If you've ever sent coins to the wrong address (for example, sending ETC or EWT to your ETH address), it can be scary, but it's solvable. Making this mistake with a Trezor requires a little more time and effort to solve it as you cannot send ETC or EWT transactions from an ETH address by default with a Trezor device.
@@ -83,6 +83,6 @@ From here on, you can simply send a transaction as usual. We recommend sending i
 
 To enable safety checks again, use the following command:
 
-```
+```bash
 trezorctl set safety-checks strict
 ```
