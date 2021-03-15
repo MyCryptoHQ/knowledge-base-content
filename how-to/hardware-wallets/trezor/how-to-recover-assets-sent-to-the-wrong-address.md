@@ -2,7 +2,7 @@
 title: How to recover assets sent to the wrong address
 tags:
   - Trezor
-date_published: '2021-01-14'
+date_published: '2021-03-15'
 date_modified: '2021-03-15'
 ---
 
