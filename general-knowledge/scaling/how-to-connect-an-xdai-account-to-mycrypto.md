@@ -3,7 +3,7 @@ title: How to connect an xDai account to MyCrypto
 tags:
   - xDai
 date_published: '2021-03-17'
-date_modified: '2021-03-17'
+date_modified: '2021-03-18'
 ---
 
 If you want one place to view and manage all of your xDai accounts at once, you’ll want to get set up with MyCrypto.
@@ -18,7 +18,7 @@ If you want one place to view and manage all of your xDai accounts at once, you�
 
 ![Accounts overview](../../assets/general-knowledge/scaling/how-to-connect-an-xdai-account-to-mycrypto/accounts-overview.png)
 
-As mentioned earlier, you can use the same account for Ethereum and for xDai, so we’ve made sure to distinguish your accounts separately according to the network they’re attached to. Note the above screenshot where it shows two separate listings for one address — one used with Ethereum, one used with xDai.
+As mentioned [in this article](/general-knowledge/scaling/how-to-connect-an-xdai-account-to-mycrypto), you can use the same account for Ethereum and for xDai, so we’ve made sure to distinguish your accounts separately according to the network they’re attached to. Note the above screenshot where it shows two separate listings for one address — one used with Ethereum, one used with xDai.
 
 From here, you can view your balances and interact with MyCrypto features using your xDai account just like you would with an Ethereum account.
 
