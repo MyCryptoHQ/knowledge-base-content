@@ -3,4 +3,5 @@ description: ''
 
 articles:
   - trezor-sending-to
+  - how-to-recover-assets-sent-to-the-wrong-address
   - trezor-making-a-backup
