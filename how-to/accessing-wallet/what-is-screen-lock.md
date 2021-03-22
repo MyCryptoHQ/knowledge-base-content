@@ -8,6 +8,12 @@ date_published: '2020-05-13'
 date_modified: '2021-01-26'
 ---
 
+_Update: The Screen Lock feature is currently inactive and may come back at a later date. This does not effect the security of the MyCrypto app or your funds/accounts, as this was a visual feature -- the security of your funds remains in your hands and your hands alone._
+
+_The "unlock" portion of the feature will remain accessible for a short period of time so those who have settings files with a lock will be able to unlock it, and it's recommended for all Screen Lock users to export a new settings file without the lock so there's no issue uploading your settings in the future._
+
+---
+
 Screen Lock is a security feature that is intended to keep prying eyes away from your information.
 
 When you have your MyCrypto dashboard open and become inactive, Screen Lock will hide all of the information in your dashboard. This includes the addresses of the accounts you have added and the balances of those accounts.
