@@ -5,14 +5,16 @@ tags:
   - Beta
 priority: 100
 date_published: '2020-05-13'
-date_modified: '2021-01-26'
+date_modified: '2021-03-25'
 ---
 
-_Update: The Screen Lock feature is currently inactive and may come back at a later date. This does not effect the security of the MyCrypto app or your funds/accounts, as this was a visual feature -- the security of your funds remains in your hands and your hands alone._
+<Alert>
 
-_The "unlock" portion of the feature will remain accessible for a short period of time so those who have settings files with a lock will be able to unlock it, and it's recommended for all Screen Lock users to export a new settings file without the lock so there's no issue uploading your settings in the future._
+Update: The Screen Lock feature is currently inactive and may come back at a later date. This does not effect the security of the MyCrypto app or your funds/accounts, as this was a visual feature -- the security of your funds remains in your hands and your hands alone.
 
----
+The "unlock" portion of the feature will remain accessible for a short period of time so those who have settings files with a lock will be able to unlock it, and it's recommended for all Screen Lock users to export a new settings file without the lock so there's no issue uploading your settings in the future.
+
+</Alert>
 
 Screen Lock is a security feature that is intended to keep prying eyes away from your information.
 
