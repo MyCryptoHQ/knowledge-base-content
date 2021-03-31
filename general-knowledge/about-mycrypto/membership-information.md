@@ -46,7 +46,7 @@ We use the [Unlock Protocol](https://unlock-protocol.com/) for this. You’ll be
 
 ### What cryptocurrencies can I use to buy a Membership?
 
-You can currently purchase a MyCrypto Membership on the Ethereum network with DAI or [ETH](https://support.mycrypto.com/how-to/getting-started/how-to-buy-ether-with-usd), or on the xDAI network with [xDAI](https://support.mycrypto.com/general-knowledge/scaling/how-to-get-xdai). We will likely add more payment methods in the future - stay tuned!
+You can currently purchase a MyCrypto Membership on the Ethereum network with DAI or [ETH](/how-to/getting-started/how-to-buy-ether-with-usd), or on the xDAI network with [xDAI](/general-knowledge/scaling/how-to-get-xdai). We will likely add more payment methods in the future - stay tuned!
 
 ### Can I give my token to someone else?
 
