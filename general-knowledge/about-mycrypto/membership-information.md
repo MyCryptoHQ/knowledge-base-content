@@ -5,7 +5,7 @@ tags:
   - Beta
 priority: 85
 date_published: '2020-08-10'
-date_modified: '2021-01-15'
+date_modified: '2021-03-31'
 ---
 
 <Alert>
@@ -44,7 +44,7 @@ $4.00 per month, or you can purchase multiple month packages at a discounted rat
 
 We use the [Unlock Protocol](https://unlock-protocol.com/) for this. You’ll be purchasing a token that unlocks features of MyCrypto when we detect that you hold that token. Each token has an expiration date according to the duration of membership you purchased. One membership unlocks the membership features for all the addresses in your interface, so you don't need additional memberships.
 
-### What cryptocurrencies can I use to buy a MyCrypto Membership?
+### What cryptocurrencies can I use to buy a Membership?
 
 You can currently purchase a MyCrypto Membership on the Ethereum network with DAI or [ETH](https://support.mycrypto.com/how-to/getting-started/how-to-buy-ether-with-usd), or on the xDAI network with [xDAI](https://support.mycrypto.com/general-knowledge/scaling/how-to-get-xdai). We will likely add more payment methods in the future - stay tuned!
 
