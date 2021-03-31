@@ -5,8 +5,14 @@ tags:
   - Beta
 priority: 85
 date_published: '2020-08-10'
-date_modified: '2021-01-15'
+date_modified: '2021-03-31'
 ---
+
+<Alert>
+  
+Ethereum gas fees can be a high barrier of entry to purchasing a MyCrypto Membership at times, so we've added support for purchasing memberships on the xDai network! Owning a MyCrypto Membership is the same regardless of the network you purchase it on -- as long as you have the Membership-holding account connected to MyCrypto, you're good to go.
+
+</Alert>
 
 The MyCrypto Membership is a monthly subscription that gives you additional features and helps to support MyCrypto’s future developments.
 
@@ -32,11 +38,15 @@ We have a lot of plans for the MyCrypto Membership and a long-term roadmap that 
 
 ### How much does the MyCrypto Membership cost?
 
-$4.00 per month, or you can purchase multiple month packages at a discounted rate. For the hardcore, there’s also a lifetime membership. Please keep in mind that at this time, it's only possible to purchase monthly memberships with DAI. We may add more options in the future.
+$4.00 per month, or you can purchase multiple month packages at a discounted rate. For the hardcore, there’s also a lifetime membership.
 
 ### How does the MyCrypto Membership work?
 
 We use the [Unlock Protocol](https://unlock-protocol.com/) for this. You’ll be purchasing a token that unlocks features of MyCrypto when we detect that you hold that token. Each token has an expiration date according to the duration of membership you purchased. One membership unlocks the membership features for all the addresses in your interface, so you don't need additional memberships.
+
+### What cryptocurrencies can I use to buy a Membership?
+
+You can currently purchase a MyCrypto Membership on the Ethereum network with DAI or [ETH](/how-to/getting-started/how-to-buy-ether-with-usd), or on the xDAI network with [xDAI](/general-knowledge/scaling/how-to-get-xdai). We will likely add more payment methods in the future - stay tuned!
 
 ### Can I give my token to someone else?
 
@@ -56,7 +66,7 @@ Unfortunately, no. We will not be offering refunds for MyCrypto Membership.
 
 ### How do I receive my MyCrypto stickers and / or shirt?
 
-All MyCrypto Members can receive MyCrypto stickers, but you must have been a member for at least three months in order to receive a MyCrypto shirt. You can purchase a 3/6/12month or lifetime membership in order to circumvent this. Please follow the instructions below to redeem your rewards.
+All MyCrypto Members can receive MyCrypto stickers, but you must have been a member for at least three months in order to receive a MyCrypto shirt. 12-month or lifetime membership in order to circumvent this. Please follow the instructions below to redeem your rewards.
 
 ## How to receive your physical rewards
 
