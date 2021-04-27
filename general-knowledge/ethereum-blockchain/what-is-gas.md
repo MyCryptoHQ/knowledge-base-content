@@ -6,7 +6,7 @@ tags:
   - Transactions
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2021-01-14'
+date_modified: '2021-04-27'
 ---
 
 ![Transaction pool infographic](../../assets/shared/transaction-pool-infographic.png)
@@ -44,7 +44,7 @@ However, the units of gas necessary for a transaction are already defined by how
 
 All unused gas is refunded to you at the end of a transaction, so if you go to MyCrypto, send 1 ETH to our donation address, and use a gas limit of 400,000 you will receive 400,000 - 21,000 back. However, if you were sending 1 ETH to a contract, and your transaction to the contract fails, your transaction may use the entire 400,000, and you receive nothing back.
 
-If your transaction runs out of gas, you can refer to [this article](/how-to/sending/how-to-know-what-gas-price-or-gas-limit-to-use) in order to figure out what gas limit you should use.
+If your transaction runs out of gas, you can refer to our article on [knowing which gas limit you should use](/how-to/sending/how-to-know-what-gas-limit-to-use)).
 
 ### Gas Price
 
