@@ -11,18 +11,38 @@ date_modified: '2021-01-14'
 
 ![Transaction pool infographic](../../assets/shared/transaction-pool-infographic.png)
 
+### What is gas?
+
 Ethereum is the network, also known as the blockchain. Ether (ETH) is the fuel for that network. When you send tokens, interact with a contract, send ETH, or do anything else on the blockchain, you must pay for that computation. That payment is calculated in gas, and gas is paid in ETH.
 
 You are paying for the _computation_, regardless of whether your transaction succeeds or fails. Even if it fails, the miners must validate and execute your transaction _(compute)_ and therefore you must pay for that computation just like you would pay for a successful transaction.
 
-You can see your transaction fee (`Gas limit` × `Gas price`) in ETH & USD when you search for your transaction on [Etherscan.io](https://etherscan.io). This is not a transaction fee that MyCrypto, or any other service provider, receives. This fee is paid to miners for mining transactions, putting them into blocks, and securing the blockchain.
+Any time you send a transaction on Ethereum you must pay a transaction fee. This fee is known as "gas" and is paid with Ether.
+
+You can see your transaction fee (`Gas limit` × `Gas price`) in ETH & USD values when you search for your transaction on [Etherscan.io](https://etherscan.io). This is not a transaction fee that MyCrypto, or any other service provider, receives. This fee is paid to miners for mining transactions, putting them into blocks, and securing the blockchain.
+
+The amount you must pay to send a transaction increases as a transaction gets more complex and as the Ethereum network gets busier. For example, simply sending Ether to someone requires the smallest fee, and interacting with complex smart contracts costs more. Similarly, it used to be that the network was rarely full of transactions, but today it's almost always busy.
+
+### Does Bitcoin have gas?
+
+Bitcoin and Ethereum are similar in that both require a fee to be paid in the block and with native coin.
+
+* To transact on the Bitcoin blockchain, an amount of Bitcoin is required as a fee.
+* To transact on the Ethereum blockchain, an amount of Ether is required as a fee.
+
+But while Bitcoin requires a transaction fee that is paid in its native coin, it isn't called gas, and the amount needed to send is not calculated in the same way. 
+What determines the amount I must pay as a transaction fee?
+There are two main factors for determining the price of a transaction: gas limit and gas price.
+
+The gas limit is the maximum amount of computational resources that can be utilized to complete the transaction, and is usually estimated fairly accurately. Sometimes you’ll actually use less than estimated, in which case the leftover amount will be refunded.
+
+The least expensive transaction on the Ethereum blockchain is the simple function of sending ETH from one externally owned account (an “EOA”) to another; this would have a gas limit of 21000. 
+
+The more complicated a transaction is and the more functions it involves, the more gas that transaction will require. Some highly complicated transactions can use millions of units of gas.
+
+The gas price is commonly denoted in gwei and is on a scale that starts from 0 and goes to 500+ in some extreme cases. 
 
 ## Overview
-
-When you hear "Gas", the person is either talking about:
-
-- Gas Limit
-- Gas Price
 
 The total cost of a transaction (the "transaction fee") is the gas limit, multiplied by the gas price. Typically, if someone just says "Gas", they are talking about the "Gas Limit". You can think of the gas limit like the amount of liters/gallons/units of gas for a car. You can think of the gas price as the cost of that liter/gallon/unit of gas:
 
