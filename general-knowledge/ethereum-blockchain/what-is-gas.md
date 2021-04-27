@@ -44,7 +44,7 @@ However, the units of gas necessary for a transaction are already defined by how
 
 All unused gas is refunded to you at the end of a transaction, so if you go to MyCrypto, send 1 ETH to our donation address, and use a gas limit of 400,000 you will receive 400,000 - 21,000 back. However, if you were sending 1 ETH to a contract, and your transaction to the contract fails, your transaction may use the entire 400,000, and you receive nothing back.
 
-If your transaction runs out of gas, you can refer to our article on [knowing which gas limit you should use](/how-to/sending/how-to-know-what-gas-limit-to-use)).
+If your transaction runs out of gas, you can refer to our article on [knowing which gas limit you should use](/how-to/sending/how-to-know-what-gas-limit-to-use).
 
 ### Gas Price
 
