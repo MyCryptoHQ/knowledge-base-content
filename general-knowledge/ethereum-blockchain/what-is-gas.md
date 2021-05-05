@@ -11,8 +11,6 @@ date_modified: '2021-05-05'
 
 ![Transaction pool infographic](../../assets/shared/transaction-pool-infographic.png)
 
-### What is gas?
-
 Ethereum is the network, also known as the blockchain. Ether (ETH) is the fuel for that network. When you send tokens, interact with a contract, send ETH, or do anything else on the blockchain, you must pay for that computation. That payment is calculated in gas, and gas is paid in ETH.
 
 You are paying for the _computation_, regardless of whether your transaction succeeds or fails. Even if it fails, the miners must validate and execute your transaction _(compute)_ and therefore you must pay for that computation just like you would pay for a successful transaction.
@@ -30,17 +28,17 @@ Bitcoin and Ethereum are similar in that both require a fee to be paid in the bl
 - To transact on the Bitcoin blockchain, an amount of Bitcoin is required as a fee.
 - To transact on the Ethereum blockchain, an amount of Ether is required as a fee.
 
-But while Bitcoin requires a transaction fee that is paid in its native coin, it isn't called gas, and the amount needed to send is not calculated in the same way. 
+But while Bitcoin requires a transaction fee that is paid in its native coin, it isn't called gas, and the amount needed to send is not calculated in the same way.
 What determines the amount I must pay as a transaction fee?
 There are two main factors for determining the price of a transaction: gas limit and gas price.
 
 The gas limit is the maximum amount of computational resources that can be utilized to complete the transaction, and is usually estimated fairly accurately. Sometimes you’ll actually use less than estimated, in which case the leftover amount will be refunded.
 
-The least expensive transaction on the Ethereum blockchain is the simple function of sending ETH from one externally owned account (an “EOA”) to another; this would have a gas limit of 21000. 
+The least expensive transaction on the Ethereum blockchain is the simple function of sending ETH from one externally owned account (an “EOA”) to another; this would have a gas limit of 21000.
 
 The more complicated a transaction is and the more functions it involves, the more gas that transaction will require. Some highly complicated transactions can use millions of units of gas.
 
-The gas price is commonly denoted in gwei and is on a scale that starts from 0 and goes to 500+ in some extreme cases. 
+The gas price is commonly denoted in gwei and is on a scale that starts from 0 and goes to 500+ in some extreme cases.
 
 ## Overview
 
