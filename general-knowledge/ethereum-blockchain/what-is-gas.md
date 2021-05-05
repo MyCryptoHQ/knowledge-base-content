@@ -6,7 +6,7 @@ tags:
   - Transactions
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2021-01-14'
+date_modified: '2021-05-05'
 ---
 
 ![Transaction pool infographic](../../assets/shared/transaction-pool-infographic.png)
@@ -27,8 +27,8 @@ The amount you must pay to send a transaction increases as a transaction gets mo
 
 Bitcoin and Ethereum are similar in that both require a fee to be paid in the block and with native coin.
 
-* To transact on the Bitcoin blockchain, an amount of Bitcoin is required as a fee.
-* To transact on the Ethereum blockchain, an amount of Ether is required as a fee.
+- To transact on the Bitcoin blockchain, an amount of Bitcoin is required as a fee.
+- To transact on the Ethereum blockchain, an amount of Ether is required as a fee.
 
 But while Bitcoin requires a transaction fee that is paid in its native coin, it isn't called gas, and the amount needed to send is not calculated in the same way. 
 What determines the amount I must pay as a transaction fee?
@@ -72,7 +72,7 @@ If you want to spend less on a transaction, you can do so by lowering the amount
 
 You can adjust the gas price with the slider on the transaction page. It will automatically determine the "best" gas price, by looking at current network activity.
 
-![](../../assets/general-knowledge/ethereum-blockchain/what-is-gas/transaction-fee-slider.png)
+![Transaction fee slider](../../assets/general-knowledge/ethereum-blockchain/what-is-gas/transaction-fee-slider.png)
 
 If you want, you can also manually adjust the gas price, by clicking on "+ Advanced". For the current recommended gas prices, you can refer to [ETH Gas Station](https://ethgasstation.info/).
 
