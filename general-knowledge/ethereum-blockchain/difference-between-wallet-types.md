@@ -5,73 +5,83 @@ tags:
   - Private Keys
 priority: 110
 date_published: '2017-07-05'
-date_modified: '2021-01-14'
+date_modified: '2021-06-11'
 ---
 
-The ETH is stored on the blockchain. Your private key, Keystore file, or whatever piece of information you have proves ownership of that ETH, which allows you to move it. At the end of the day, you are always signing with your private key. However, for additional functionality (like protecting it with a password), there are different formats and ways of storing your private key:
+Cryptocurrency might be home to some of the most confusing naming conventions on Earth.
 
-<Alert>
+> What's the difference between "wallet" and "account"?
+> Isn't MyCrypto a wallet?
+> What's the difference between a seed phrase and a private key?
+> Isn't my seed phrase my private key?
 
-Private keys, mnemonic phrases, and keystore files are currently only available on the legacy MyCrypto desktop application.
+Fortunately, you're not the only one who might be confused, as much of the Ethereum ecosystem often uses these terms interchangeably.
 
-</Alert>
+## Defining a Wallet
 
-## MetaMask
+Per Ethereum.org - _"Ethereum wallets are applications that let you interact with your Ethereum account. Think of it like an internet banking app – without the bank. Your wallet lets you read your balance, send transactions and connect to applications."_
 
-- [Learn More Here](/how-to/migrating/moving-from-mycrypto-to-metamask)
+Your wallet is where you are interacting with the Ethereum network. Even though that might sound quite clear so far, there are various wallet types, such as hardware wallets, web wallets, seed phrase wallets, or paper wallets. You might also come across terms such as "hot" and "cold" wallets.
 
-## Hardware Wallets
+The following will describe these wallets and the differences between them in further detail.
 
-- [Learn More Here](/staying-safe/hardware-wallet-recommendations)
+## Private Keys
 
-## Keystore File (UTC / JSON)
+A private key proves full ownership of an Ethereum account, which includes any and all funds on that account. A raw private key is a string of 64 characters, consisting of a combination of characters between A-F and 0-9, and could be written down on a piece of paper. No password is required, which means that if someone were to find your unencrypted private key, they could access your account easily.
 
-A keystore file is a file that is generated using your private key + a password of your choosing. Using fancy math and code…
+Using raw private keys is not recommended, as they are [insecure](https://medium.com/mycrypto/a-safer-mycrypto-79d65196e7d8). If you were to access your account on a phishing site with a private key, the phishers would get full access to your wallet. However, if you still desire to create and use a wallet in this manner, you can generate them locally with the [MyCrypto Desktop App](https://download.mycrypto.com/).
+
+## Web Wallets
+
+Web wallets are wallets that you can access in your browser, typically with an email address and password login. In many cases, the company that owns the web wallet has custody (management) of your private key and its funds. You're essentially trusting that the website where you're storing your crypto is doing the right thing, and won't take your money from you.
+
+Putting control back into your hands is something MyCrypto cares deeply for, and while web wallets might offer benefits such as being able to change the password in case you lose it, your funds are still in the hands of another entity and not your own.
+
+MyCrypto is **not** a web wallet, as your private key is never sent to us, and everything you do with MyCrypto is performed locally on your computer. MyCrypto is known as noncustodial because of this.
+
+## Keystore Files
+
+Keystore files, commonly known as UTC/JSON files, are files that are generated using a private key + a password of your choosing, essentially encrypting the private key.
 
 ![Keystore file graphic](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/keystore-file-graphic.png)
 
-If you only have the keystore file (without the password), you cannot “go backward” to get the private key. However, if you combine the password with the keystore file, you can use fancy math and code…
+This is slightly safer than a raw private key, as you cannot "go backwards" to get the private key without having the password associated with your keystore file.
 
 ![Private key graphic](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/private-key-graphic.png)
 
-- This is encrypted by the password you chose.
-- If you cannot use one of the options above, this is the recommended version to save.
-- This Keystore file matches the format used by Mist so you can easily import it in the future.
-- Make sure to have multiple backups.
-- Keystore files are insecure. If you unlock your account on a phishing site with a Keystore file, the phishers will get full access to your wallet. Use one of the options above, or the [MyCrypto Desktop App](https://download.mycrypto.com/).
+While slightly safer than a raw private key, this wallet type is still insecure, as phishers will get full access to your wallet if you mistakenly upload your keystore file + associated password to a phishing site.
 
-[How to Properly Save and Backup Your Wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
+## Mnemonic Phrases
 
-![Keystore file unlock](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/keystore-file-unlock.png)
-
-## Mnemonic Phrase
-
-A mnemonic phrase is actually a whole bunch of private keys, represented by a 12- or 24-word phrase that looks something like: brain surround have swap horror body response double fire dumb bring hazard. Again, using fancy math and code…
+Commonly referred to as seed phrases, secret phrases, recovery phrases, or 12- or 24-word phrases (depending on the length), mnemonic phrases are a group of random words. These can be used to derive a theoretically infinite number of accounts, are often used in combination with hardware wallets, and should be written down on a piece of paper by the user to safely back up their funds.
 
 ![Mnemonic phrase graphic](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/mnemonic-phrase-graphic.png)
 
-The derivation path is a numerical representation of which private key / address you wish to access. Have you ever had trouble accessing your older Ethereum addresses when you use Ledger Live? The derivation path is why. Unlike a keystore file, there is no way to turn a private key into a mnemonic phrase. It’s a one way street.
+A derivation path is a numerical representation of which individual address (and related private key) you wish to access within a mnemonic phrase. Different applications might interact with these differently. Have you ever had trouble accessing your older Ethereum addresses when you use Ledger Live? The derivation path is why. Unlike a keystore file, there is no way to turn a private key into a mnemonic phrase. It’s a one-way street.
 
-- Typically, these come in 12-word or 24-word strings.
-- They can derive multiple addresses, meaning your phrase actually is able to create multiple accounts, addresses, and private keys.
-- [MyCrypto](https://download.mycrypto.com), Ledger, Trezor, MetaMask, and Jaxx create these for you.
-- Mnemonic phrases are insecure. If you unlock your account on a phishing site with a mnemonic phrase, the phishers will get full access to your wallet. Use one of the options above, or the [MyCrypto Desktop App](https://download.mycrypto.com/).
+The biggest benefit of this kind of wallet is that instead of only supporting one account, it can derive an endless amount of them, with the same 12 or 24 words.
 
-![Create new wallet](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/create-new-wallet.png)
+Also, it is optional to add an additional password on top of a mnemonic phrase, similar to how a Keystore File has a password. This is useful because accessing your wallets would require something you have (the mnemonic phrase) plus something you know (the password). Unfortunately, the mnemonic phrase is also seen as insecure because of the same phishing dangers like private keys and keystore files, but at the end of the day, this is all up to an individual’s level of awareness and security.
 
-![Generate mnemonic phrase](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/generate-mnemonic-phrase.png)
+## Hardware Wallets
 
-## Private Key
+Hardware wallets, such as [Ledger](https://www.ledgerwallet.com/r/1985?path=/products/) or [Trezor](https://shop.trezor.io/?offer_id=10&aff_id=1735), are physical devices that require you to manually perform an action on the device in order to confirm a transaction from your account(s).
 
-- This is the unencrypted text version of your private key, meaning no password is necessary.
-- If someone were to find your unencrypted private key, they could access your wallet without a password.
-- For this reason, encrypted versions are typically recommended. To learn about how you can encrypt your private key, [click here for more information](/how-to/migrating/how-to-change-your-wallet-password-unencrypted-to-encrypted).
-- However, you should print the paper wallet or save this in an **offline** environment (like a piece of paper or USB drive). This ensures a lost password does not result in lost ETH, and acts as another backup.
-- Private keys are insecure. If you unlock your account on a phishing site with a private key, the phishers will get full access to your wallet. Use one of the options above, or the [MyCrypto Desktop App](https://download.mycrypto.com/).
+The device itself stores the private keys and signs transactions for you. MyCrypto is integrated with both Ledger and Trezor, so you can even use the same interface you are already familiar with. This ensures your keys aren't ever exposed to the internet. Phishers can't get them. Malware can't get them. Keyloggers can't get them.
 
-![Save private key](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/save-private-key.png)
+<hr />
+
+Whatever solution you are currently using or might end up using, no solution is perfect at the end of the day. While private keys or mnemonic phrases might be the easiest solution, as they are the simplest to create, your funds might get stolen if this sensitive information falls into the wrong hands.
+
+Even with hardware wallets, the solution we recommend most, whichever interface you might end up connecting your device to could potentially be compromised and send illegitimate transaction info to your hardware wallet in the hopes of you confirming it without double-checking the receiving address on the physical device itself.
+
+We absolutely recommend being proactive about the [security of your funds](/staying-safe/protecting-yourself-and-your-funds), and hardware wallets are the single best way of ensuring private keys are contained on a separate device, preferably in an [offline environment](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
+
+- Buy a [Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
+- Buy a [Trezor](https://shop.trezor.io/?offer_id=10&aff_id=1735)
 
 ## Related articles
 
 - [Protecting Yourself and Your Funds](/staying-safe/protecting-yourself-and-your-funds)
 - [How to Properly Save and Backup your Wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
+- [Hardware Wallet Recommendations](/staying-safe/hardware-wallet-recommendations)
