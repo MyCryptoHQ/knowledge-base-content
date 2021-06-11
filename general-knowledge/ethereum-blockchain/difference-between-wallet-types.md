@@ -8,18 +8,18 @@ date_published: '2017-07-05'
 date_modified: '2021-06-11'
 ---
 
-Cryptocurrency might be home to some of the most confusing naming conventions on Earth. 
+Cryptocurrency might be home to some of the most confusing naming conventions on Earth.
 
 > What's the difference between "wallet" and "account"?
-  Isn't MyCrypto a wallet?
-  What's the difference between a seed phrase and a private key?
-  Isn't my seed phrase my private key?
+> Isn't MyCrypto a wallet?
+> What's the difference between a seed phrase and a private key?
+> Isn't my seed phrase my private key?
 
 Fortunately, you're not the only one who might be confused, as much of the Ethereum ecosystem often uses these terms interchangeably.
 
 ## Defining a Wallet
 
-Per Ethereum.org - *"Ethereum wallets are applications that let you interact with your Ethereum account. Think of it like an internet banking app – without the bank. Your wallet lets you read your balance, send transactions and connect to applications."*
+Per Ethereum.org - _"Ethereum wallets are applications that let you interact with your Ethereum account. Think of it like an internet banking app – without the bank. Your wallet lets you read your balance, send transactions and connect to applications."_
 
 Your wallet is where you are interacting with the Ethereum network. Even though that might sound quite clear so far, there are various wallet types, such as hardware wallets, web wallets, seed phrase wallets, or paper wallets. You might also come across terms such as "hot" and "cold" wallets.
 
@@ -33,7 +33,7 @@ Using raw private keys is not recommended, as they are [insecure](https://medium
 
 ## Web Wallets
 
-Web wallets are wallets that you can access in your browser, typically with an email address and password login. In many cases, the company that owns the web wallet has custody (management) of your private key and its funds. You're essentially trusting that the website where you're storing your crypto is doing the right thing, and won't take your money from you. 
+Web wallets are wallets that you can access in your browser, typically with an email address and password login. In many cases, the company that owns the web wallet has custody (management) of your private key and its funds. You're essentially trusting that the website where you're storing your crypto is doing the right thing, and won't take your money from you.
 
 Putting control back into your hands is something MyCrypto cares deeply for, and while web wallets might offer benefits such as being able to change the password in case you lose it, your funds are still in the hands of another entity and not your own.
 
@@ -73,7 +73,7 @@ The device itself stores the private keys and signs transactions for you. MyCryp
 
 Whatever solution you are currently using or might end up using, no solution is perfect at the end of the day. While private keys or mnemonic phrases might be the easiest solution, as they are the simplest to create, your funds might get stolen if this sensitive information falls into the wrong hands.
 
-Even with hardware wallets, the solution we recommend most, whichever interface you might end up connecting your device to could potentially be compromised and send illegitimate transaction info to your hardware wallet in the hopes of you confirming it without double-checking the receiving address on the physical device itself. 
+Even with hardware wallets, the solution we recommend most, whichever interface you might end up connecting your device to could potentially be compromised and send illegitimate transaction info to your hardware wallet in the hopes of you confirming it without double-checking the receiving address on the physical device itself.
 
 We absolutely recommend being proactive about the [security of your funds](/staying-safe/protecting-yourself-and-your-funds), and hardware wallets are the single best way of ensuring private keys are contained on a separate device, preferably in an [offline environment](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
 
