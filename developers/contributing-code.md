@@ -5,7 +5,7 @@ tags:
   - MyCrypto
 priority: 63
 date_published: '2017-10-08'
-date_modified: '2021-01-14'
+date_modified: '2021-06-23'
 ---
 
 If you're a developer looking to pitch in, you're more than welcome to help out. Here are some suggestions for diving in:
