@@ -5,7 +5,7 @@ tags:
   - Backups
 priority: 100
 date_published: '2015-10-05'
-date_modified: '2020-10-08'
+date_modified: '2021-06-23'
 ---
 
 ## Preface
@@ -16,7 +16,7 @@ To save / backup your [Ledger](/how-to/migrating/moving-from-mycrypto-to-ledger)
 
 ## How to back up your account
 
-1. Unlock your new wallet from the Keystore / UTC file on your USB drive via the Mnemonic Phrase or private key that you printed out. Ensure that it unlocks the wallet you are sent to and matches the bookmark you have.
+1. Unlock your new wallet from the Keystore / UTC file on your USB drive via the Secret Recovery Phrase or private key that you printed out. Ensure that it unlocks the wallet you are sent to and matches the bookmark you have.
 
    - _Do not simply leave your wallet open. Pretend you are coming back a year later to access your riches. Can you do it?_
 
@@ -32,7 +32,7 @@ Doing all of this is tedious, but it ensures you (1) have complete access to you
 
 ## Safe storage of backups
 
-It is recommended that you store backups of both forms of your key (the Keystore file or Mnemonic Phrase and paper wallet version) in physically separate, offline environments.
+It is recommended that you store backups of both forms of your key (the Keystore file or Secret Recovery Phrase and paper wallet version) in physically separate, offline environments.
 
 This prevents loss of the private key and password due to things like a dead hard drive, lost USB drive, wet piece of paper, etc. Keep in mind that physical loss can occur from events that affect an entire geographical area (e.g., fire, flood).
 

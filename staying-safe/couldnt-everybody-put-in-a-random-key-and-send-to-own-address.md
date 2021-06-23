@@ -8,7 +8,7 @@ tags:
   - Phishing
 priority: 45
 date_published: '2017-06-20'
-date_modified: '2020-10-08'
+date_modified: '2021-06-23'
 ---
 
 ## Short Version
@@ -39,7 +39,7 @@ Of course, this all assumes that keys are generated in a truly random way and wi
 
 ## Related articles
 
-- [BIP-39s (mnemonic phrases & Ledger hardware wallets)](https://www.reddit.com/r/ledgerwallet/comments/6cjvam/probability_of_seed_phrase_collisionbrute_forcing/)
+- [BIP-39s (Secret Recovery Phrases & Ledger hardware wallets)](https://www.reddit.com/r/ledgerwallet/comments/6cjvam/probability_of_seed_phrase_collisionbrute_forcing/)
 - [How does it ensure that it doesn't give different people the same key?](/staying-safe/ethereum-two-people-same-private-key)
 - [Not all private keys are valid on the curve](https://crypto.stackexchange.com/questions/30269/are-all-possible-ec-private-keys-valid)
 - [https://en.wikipedia.org/wiki/Public-key_cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)

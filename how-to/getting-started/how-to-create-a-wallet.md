@@ -6,7 +6,7 @@ tags:
   - Private Keys
 priority: 90
 date_published: '2015-10-05'
-date_modified: '2021-01-27'
+date_modified: '2021-06-23'
 ---
 
 We highly recommend getting a hardware wallet or using MetaMask as a method to access your wallet and store your funds.
@@ -66,7 +66,7 @@ Select an option for a type of wallet to create. In this case, click "Generate a
 8. Copy & paste your address into a text document and save it.
    - _Search your address on [Etherscan](https://etherscan.io/). Bookmark this page. This is how you will view your balance at any time_.
 
-### Mnemonic phrase
+### Secret Recovery Phrase
 
 1. Click the `"Generate a Mnemonic Phrase"` button.
 
@@ -83,7 +83,7 @@ Congratulations! You've successfully created a wallet!
 
 ## Things to double check
 
-- Unlock your new wallet using the method you chose to generate your wallet: Keystore File or Mnemonic Phrase. Ensure it unlocks the wallet you generated and that the address matches the one you bookmarked.
+- Unlock your new wallet using the method you chose to generate your wallet: Keystore File or Secret Recovery Phrase. Ensure it unlocks the wallet you generated and that the address matches the one you bookmarked.
 
   - _Do not simply leave your new wallet open. Pretend you are coming back a year later to access your riches. Can you do it?_
 
@@ -99,7 +99,7 @@ Doing all of this is tedious, but it ensures (1) you have complete access to you
 
 ### Safe storage of backups
 
-It is recommended that you store backups of both forms of your key (the Keystore or Mnemonic Phrase and paper wallet version) in physically separate, offline environments.
+It is recommended that you store backups of both forms of your key (the Keystore or Secret Recovery Phrase and paper wallet version) in physically separate, offline environments.
 
 This prevents loss of the private key and password due to a dead hard drive, lost USB drive, wet piece of paper, etc. Keep in mind that physical loss can affect an entire geographical area (e.g., fire, flood).
 

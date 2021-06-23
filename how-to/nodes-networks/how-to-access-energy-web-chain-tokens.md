@@ -5,7 +5,7 @@ tags:
   - Networks
 priority: 20
 date_published: '2020-09-30'
-date_modified: '2021-01-15'
+date_modified: '2021-06-23'
 ---
 
 Energy Web Chain ("EWC") is a blockchain designed to be used for the energy sector. Its utility token is Energy Web Token ("EWT") and this article will explain how you can access these tokens using MyCrypto.
@@ -38,7 +38,7 @@ If you have accidentally sent EWT to your Ethereum addresses previously, you can
 
 You will see your Ethereum addresses displayed alongside their EWT funds.
 </AccordionItem>
-<AccordionItem title="Private Key/Mnemonic Phrase/Keystore File">
+<AccordionItem title="Private Key/Secret Recovery Phrase/Keystore File">
 
 <Alert>
 

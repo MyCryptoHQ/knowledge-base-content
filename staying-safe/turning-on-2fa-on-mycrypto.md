@@ -6,7 +6,7 @@ tags:
   - MyCrypto
 priority: 60
 date_published: '2017-07-05'
-date_modified: '2021-01-15'
+date_modified: '2021-06-23'
 ---
 
 [2FA / MFA](https://en.wikipedia.org/wiki/Multi-factor_authentication) is something that works for server-side applications in order to add an additional layer of security on top of the username and password.
@@ -52,7 +52,7 @@ Because all the nodes and miners all across the entire world have to play by the
 
 ## The blockchain and MyCrypto
 
-In the case of MyCrypto.com, a client-side application, we do not have servers in this fashion. We do not hold your keys on our servers. We do not give you access to the keys on our servers. You have the key. That key is the core piece of information that allows access to authenticate a transaction on the blockchain. While _you_ can encrypt it with a password, there is no server that can verify or track a 2FA login / [OTP](https://en.wikipedia.org/wiki/One-time_password) when you are using MyCrypto. If someone gets your private key (Keystore file, mnemonic, passwords), they have complete access to your funds. There is no stopping transactions, canceling transactions, or resetting passwords.
+In the case of MyCrypto.com, a client-side application, we do not have servers in this fashion. We do not hold your keys on our servers. We do not give you access to the keys on our servers. You have the key. That key is the core piece of information that allows access to authenticate a transaction on the blockchain. While _you_ can encrypt it with a password, there is no server that can verify or track a 2FA login / [OTP](https://en.wikipedia.org/wiki/One-time_password) when you are using MyCrypto. If someone gets your private key (Keystore file, Secret Recovery Phrase, passwords), they have complete access to your funds. There is no stopping transactions, canceling transactions, or resetting passwords.
 
 In order to implement 2FA, we would need to store your key and protect it on our servers. This is simply not something we want to do. If we did so, we would have a situation where anyone who gets access to our servers, your keys, or your 2FA codes gets access to the funds of every user on our servers. The bounty on hacking our servers is as large as the funds held by every user. That's a huge bounty and is dangerous.
 

@@ -4,7 +4,7 @@ tags:
   - Tokens
 priority: 90
 date_published: '2020-06-26'
-date_modified: '2020-10-08'
+date_modified: '2021-06-23'
 ---
 
 <Alert>
@@ -17,7 +17,7 @@ If you have tokens in a Mist multisig contract, sending them from the contract i
 
 - Navigate to [the contracts page on MyCrypto](https://mycrypto.com/contracts/interact).
 
-  - If you are using a private key, keystore file or mnemonic phrase, please use the [desktop application](https://download.mycrypto.com) instead.
+  - If you are using a private key, keystore file or Secret Recovery Phrase, please use the [desktop application](https://download.mycrypto.com) instead.
 
 - Select the Mist Multisig Contract from the drop down menu.
 

@@ -6,7 +6,7 @@ tags:
   - Tokens
 priority: 60
 date_published: '2017-06-20'
-date_modified: '2021-01-26'
+date_modified: '2021-06-23'
 ---
 
 Hello and welcome to Ethereum! Ethereum and digital currencies are pretty new and in this new financial world, things can be a little bit different. This article gives an overview of what ETH is, where and how you can buy ETH with USD, some important info on how to store it, and how to be secure. We tried to keep it as short as possible so please take the time to read through the article. Don't hesitate to contact us directly if you have any questions or concerns, we are here to help!
@@ -69,7 +69,7 @@ NOTE: If you choose to store your ETH on exchanges, it also means that if the ex
    - Your password
    - Your private key
 
-The private key is like a password, but way more intense. Plus, it's a password that is protected by another password. In MyCrypto, this private key is in the form of a keystore file or a mnemonic phrase. You need to make a backup of this in case anything happens to your computer.
+The private key is like a password, but way more intense. Plus, it's a password that is protected by another password. In MyCrypto, this private key is in the form of a keystore file or a Secret Recovery Phrase. You need to make a backup of this in case anything happens to your computer.
 
 ## Alternative steps 1-5:
 
