@@ -23,7 +23,7 @@ This is awesome that you already ordered a [hardware wallet](/staying-safe/hardw
 
 ## Terminology -- Secret Recovery Phrase
 
-This will be a list of 12-24 english words, taken from a master list of 2048 possible words, and is also often referred to as your private key or seed phrase.
+This will be a list of 12-24 english words, taken from a master list of 2048 possible words, and is also often referred to as your private key or Secret Recovery Phrase.
 
 These words are what you store in the cryptosteel. Every word is unique given the first 4 letters, e.g., these and thesaurus cannot both be words because they both start with 'thes'. So you'll notice the cryptosteel only has space for 4 letters on each word. It is incredibly important that you keep your Secret Recovery Phrase safe from prying eyes. **NEVER store it digitally -- in a text file, in an encrypted file, in a picture, just don't do it.** That will violate the security model of the Trezor (which is that your Secret Recovery Phrase only gets stored on the Trezor and is never exposed to a potentially compromised machine, all general purpose computing devices are potentially infected).
 

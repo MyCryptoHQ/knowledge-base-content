@@ -21,7 +21,7 @@ Secret Recovery Phrase are vulnerable for two reasons:
    - Using a Secret Recovery Phrase requires you to either physically type it into the website or copy & paste to access the wallet. If you enter this information into a phishing website, your funds **WILL BE STOLEN**.
 
 2. They are not recoverable if lost or stolen
-   - MyCrypto does not store any information. We only have access to information that is publicly available on the blockchain. Hardware wallets at least give you a chance to restore your wallet if you lose the device using the 12-word seed phrase, if you have backed it up correctly.
+   - MyCrypto does not store any information. We only have access to information that is publicly available on the blockchain. Hardware wallets at least give you a chance to restore your wallet if you lose the device using the 12-word Secret Recovery Phrase, if you have backed it up correctly.
    - If you forget the Secret Recovery Phrase or lose the file where you saved it, there is no guarantee that you will ever gain access back to the wallet.
 
 ## Accessing your wallet

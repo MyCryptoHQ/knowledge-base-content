@@ -13,7 +13,7 @@ We highly recommend getting a hardware wallet or using MetaMask as a method to a
 
 The following assumes you are **not** using a hardware wallet or MetaMask. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](/staying-safe/hardware-wallet-recommendations).
 
-Remember to back up any wallets you create! Including the 12-word or 24-word private seed phrase for your hardware wallets! MyCrypto <em>CANNOT</em> recover any lost passwords or access accounts. MyCrypto only has access to information that is publicly available on the blockchain. The security and responsibility of your funds rests on your own shoulders! But MyCrypto will always be here for guidance and to answer any questions that you may have regarding how to be safe with your funds.
+Remember to back up any wallets you create! Including the 12-word or 24-word Secret Recovery Phrase for your hardware wallets! MyCrypto <em>CANNOT</em> recover any lost passwords or access accounts. MyCrypto only has access to information that is publicly available on the blockchain. The security and responsibility of your funds rests on your own shoulders! But MyCrypto will always be here for guidance and to answer any questions that you may have regarding how to be safe with your funds.
 
 ## How To Create a New Wallet
 

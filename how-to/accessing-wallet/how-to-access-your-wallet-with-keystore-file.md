@@ -5,7 +5,7 @@ tags:
   - Private Keys
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2021-01-26'
+date_modified: '2021-06-23'
 ---
 
 ## Important Information
@@ -21,7 +21,7 @@ Keystore files are vulnerable for two reasons:
    - To use a keystore file means you need to upload this file online and type in a password to unlock the file. If you enter this into a fake phishing website, your funds **WILL BE STOLEN**
 
 2. They are not recoverable if lost or stolen
-   - MyCrypto does not store any information. We only have access to information that is publicly available on the blockchain. Hardware wallets at least give you a chance to restore your wallet if you lose the device using the 12-word seed phrase if you have backed it up correctly.
+   - MyCrypto does not store any information. We only have access to information that is publicly available on the blockchain. Hardware wallets at least give you a chance to restore your wallet if you lose the device using the 12-word Secret Recovery Phrase if you have backed it up correctly.
    - If you lose the keystore file or forget the password, there is almost no guarantee that you will ever gain access back to the wallet
 
 ### What is a Keystore File?
