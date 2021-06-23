@@ -21,7 +21,7 @@ date_modified: '2021-01-14'
 
 ## Clients / Wallets / Interfaces
 
-- Geth: [Website](https://geth.ethereum.org/) · [Gitter](https://gitter.im/ethereum/go-ethereum)
+- Geth: [Website](https://geth.ethereum.org/) · [Discord Server](https://discord.gg/invite/nthXNEv)
 - OpenEthereum: [GitHub](https://github.com/openethereum/openethereum)
 - Metamask: [Website](https://metamask.io/) · [Support](https://metamask.zendesk.com/hc/en-us)
 - MyCrypto: [Website](https://mycrypto.com/) · [FAQ](/) · [Support](/contact-us)
