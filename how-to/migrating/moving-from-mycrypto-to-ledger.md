@@ -6,7 +6,7 @@ tags:
   - Ledger
 priority: 100
 date_published: '2017-10-08'
-date_modified: '2020-10-08'
+date_modified: '2021-06-23'
 ---
 
 The Ledger Nano S is one of the best and easiest-to-use cryptocurrency hardware wallets out there, and is available for purchase [here](https://www.ledgerwallet.com/r/1985?path=/products/). While the Ledger Nano S supports a wide range of cryptocurrencies, this guide was specifically written for using Ether and ERC-20 tokens with MyCrypto.
@@ -27,7 +27,7 @@ The Nano S will then ask you to set up a pin. This is an important step, as you 
 
 ![Write down your recovery phrase](../../assets/how-to/migrating/moving-from-mycrypto-to-ledger/write-down-recovery.jpg)
 
-Next, the Nano S will give you 24 random words that you will have to write down on the provided card that came in the box. These are the recovery words, also known as a seed phrase, that you will have to use to restore your Nano S in case it fails or you accidentally reset it. Once you've written down all of the words, it will ask you to confirm your recovery phrase in order to make sure that you've written them down correctly.
+Next, the Nano S will give you 24 random words that you will have to write down on the provided card that came in the box. These are the recovery words, also known as a Secret Recovery Phrase, that you will have to use to restore your Nano S in case it fails or you accidentally reset it. Once you've written down all of the words, it will ask you to confirm your recovery phrase in order to make sure that you've written them down correctly.
 
 **Do not save these recovery words on your computer**, as it will be just as unsafe as using a normal private key. Always write it down physically using a pen on a piece of paper only you have access to. Also, do not take a photo of your piece of paper.
 

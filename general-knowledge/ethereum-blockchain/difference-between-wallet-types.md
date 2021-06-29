@@ -5,7 +5,7 @@ tags:
   - Private Keys
 priority: 110
 date_published: '2017-07-05'
-date_modified: '2021-06-11'
+date_modified: '2021-06-23'
 ---
 
 Cryptocurrency might be home to some of the most confusing naming conventions on Earth.
@@ -43,25 +43,25 @@ MyCrypto is **not** a web wallet, as your private key is never sent to us, and e
 
 Keystore files, commonly known as UTC/JSON files, are files that are generated using a private key + a password of your choosing, essentially encrypting the private key.
 
-![Keystore file graphic](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/keystore-file-graphic.png)
+> private key + password -> keystore file
 
 This is slightly safer than a raw private key, as you cannot "go backwards" to get the private key without having the password associated with your keystore file.
 
-![Private key graphic](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/private-key-graphic.png)
+> keystore file + password -> private key
 
 While slightly safer than a raw private key, this wallet type is still insecure, as phishers will get full access to your wallet if you mistakenly upload your keystore file + associated password to a phishing site.
 
-## Mnemonic Phrases
+## Secret Recovery Phrase
 
-Commonly referred to as seed phrases, secret phrases, recovery phrases, or 12- or 24-word phrases (depending on the length), mnemonic phrases are a group of random words. These can be used to derive a theoretically infinite number of accounts, are often used in combination with hardware wallets, and should be written down on a piece of paper by the user to safely back up their funds.
+Commonly referred to as mnemonic phrases, seed phrases, recovery phrases, or 12- or 24-word phrases (depending on the length), Secret Recovery Phrase are a group of random words. These can be used to derive a theoretically infinite number of accounts, are often used in combination with hardware wallets, and should be written down on a piece of paper by the user to safely back up their funds.
 
-![Mnemonic phrase graphic](../../assets/general-knowledge/ethereum-blockchain/differences-between-wallet-types/mnemonic-phrase-graphic.png)
+> Secret Recovery Phrase + derivation path (optional) password -> private key
 
-A derivation path is a numerical representation of which individual address (and related private key) you wish to access within a mnemonic phrase. Different applications might interact with these differently. Have you ever had trouble accessing your older Ethereum addresses when you use Ledger Live? The derivation path is why. Unlike a keystore file, there is no way to turn a private key into a mnemonic phrase. It’s a one-way street.
+A derivation path is a numerical representation of which individual address (and related private key) you wish to access within a Secret Recovery Phrase. Different applications might interact with these differently. Have you ever had trouble accessing your older Ethereum addresses when you use Ledger Live? The derivation path is why. Unlike a keystore file, there is no way to turn a private key into a Secret Recovery Phrase. It’s a one-way street.
 
 The biggest benefit of this kind of wallet is that instead of only supporting one account, it can derive an endless amount of them, with the same 12 or 24 words.
 
-Also, it is optional to add an additional password on top of a mnemonic phrase, similar to how a Keystore File has a password. This is useful because accessing your wallets would require something you have (the mnemonic phrase) plus something you know (the password). Unfortunately, the mnemonic phrase is also seen as insecure because of the same phishing dangers like private keys and keystore files, but at the end of the day, this is all up to an individual’s level of awareness and security.
+Also, it is optional to add an additional password on top of a Secret Recovery Phrase, similar to how a Keystore File has a password. This is useful because accessing your wallets would require something you have (the Secret Recovery Phrase) plus something you know (the password). Unfortunately, the Secret Recovery Phrase is also seen as insecure because of the same phishing dangers like private keys and keystore files, but at the end of the day, this is all up to an individual’s level of awareness and security.
 
 ## Hardware Wallets
 
@@ -71,7 +71,7 @@ The device itself stores the private keys and signs transactions for you. MyCryp
 
 <hr />
 
-Whatever solution you are currently using or might end up using, no solution is perfect at the end of the day. While private keys or mnemonic phrases might be the easiest solution, as they are the simplest to create, your funds might get stolen if this sensitive information falls into the wrong hands.
+Whatever solution you are currently using or might end up using, no solution is perfect at the end of the day. While private keys or Secret Recovery Phrase might be the easiest solution, as they are the simplest to create, your funds might get stolen if this sensitive information falls into the wrong hands.
 
 Even with hardware wallets, the solution we recommend most, whichever interface you might end up connecting your device to could potentially be compromised and send illegitimate transaction info to your hardware wallet in the hopes of you confirming it without double-checking the receiving address on the physical device itself.
 

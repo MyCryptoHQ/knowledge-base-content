@@ -5,7 +5,7 @@ tags:
   - Ethereum
 priority: 60
 date_published: '2015-10-05'
-date_modified: '2020-10-20'
+date_modified: '2021-06-23'
 ---
 
 ## Words are Hard
@@ -90,7 +90,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 - The more random something is, the more entropy it has and the more secure it is.
 - Usually defined in "bits of entropy" or the number of years it would take to brute-force a **\_\_\_\_** (e.g., private key) derived with that much entropy.
 - Ethereum private keys are 256-bit keys.
-- 24-Word mnemonic phrases are also 256 bits of entropy. 2048 words in the dictionary. 11 bits of entropy (the words). `11 * 24 = 264`. The last word is a checksum.
+- 24-Word Secret Recovery Phrase are also 256 bits of entropy. 2048 words in the dictionary. 11 bits of entropy (the words). `11 * 24 = 264`. The last word is a checksum.
 
 ### Ethereum vs. Ether
 
@@ -143,7 +143,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 - The exact process of this is defined at the time that the address is created.
 - A multisig address might be used because it allows for increased security.
 
-### Mnemonic Phrase
+### Secret Recovery Phrase
 
 - Another fancy version of your private key, which is actually used to derive multiple private keys.
 - A (typically) 12- or 24-word phrase that allows you to access an infinite number of accounts.
@@ -169,7 +169,7 @@ This is a list of terms you might encounter when using the MyCrypto interface.
 - A string of 64 hexadecimal characters.
 - ([Almost](https://crypto.stackexchange.com/questions/30269/are-all-possible-ec-private-keys-valid)) every string of 64 hexadecimal characters is a private key.
 - If you hand type a private key differently today than yesterday, you will access a different wallet. Never hand type your private key.
-- This is the string you need to send from your account. Without it, you cannot access your funds. Although, you don't need to save this raw, unencrypted private key in this format. You can save the fancy versions of it (e.g., the Keystore File / Mnemonic Phrase).
+- This is the string you need to send from your account. Without it, you cannot access your funds. Although, you don't need to save this raw, unencrypted private key in this format. You can save the fancy versions of it (e.g., the Keystore File / Secret Recovery Phrase).
 - Example: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`.
 
 ### Proof-of-Stake

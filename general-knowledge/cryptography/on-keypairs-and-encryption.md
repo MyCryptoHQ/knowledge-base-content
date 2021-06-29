@@ -6,14 +6,14 @@ tags:
   - Safety & Security
 priority: 4
 date_published: '2017-07-05'
-date_modified: '2020-10-08'
+date_modified: '2021-06-23'
 ---
 
-The Ledger (and other hardware wallets) are essentially USB sticks but with really really really really really really hardcore software / firmware / hardware that makes it so your key cannot be accessed or moved, even if your computer is compromised. With a regular USB drive, 1337 h4x0r can pull crazy maneuvers to get the info from it via hardware alone, watching the read / writes, or simply searching for your private key, mnemonic, or keystore file on the USB drive. Ledger / Trezor are dedicated devices built to prevent all these types of attacks.
+The Ledger (and other hardware wallets) are essentially USB sticks but with really really really really really really hardcore software / firmware / hardware that makes it so your key cannot be accessed or moved, even if your computer is compromised. With a regular USB drive, 1337 h4x0r can pull crazy maneuvers to get the info from it via hardware alone, watching the read / writes, or simply searching for your private key, Secret Recovery Phrase, or keystore file on the USB drive. Ledger / Trezor are dedicated devices built to prevent all these types of attacks.
 
 ## Keypairs & cryptography
 
-The private key (or keystore file or mnemonic or hardware wallet) is basic cryptography in the end⁠—the same cryptography that is used in all sorts of systems that have been around far longer than cryptocurrencies.
+The private key (or keystore file or Secret Recovery Phrase or hardware wallet) is basic cryptography in the end⁠—the same cryptography that is used in all sorts of systems that have been around far longer than cryptocurrencies.
 
 At it's most basic, a `private key` can turn into a `public key` but a `public key` cannot turn into a `private key`. However, this public key (via fancy math and really really intense computations) can _verify that a specific private key was used to sign the transaction_.
 
@@ -38,7 +38,7 @@ The only way to move funds is to send those funds with a transaction signed by t
 
 Okay bear with me one more thing.
 
-Private keys can be fancy: They can be keystore files (which are encrypted with a password) or mnemonic phrases (which can be encrypted with a password, are easier to read, and give you access to multiple addresses / accounts / keypairs).
+Private keys can be fancy: They can be keystore files (which are encrypted with a password) or Secret Recovery Phrase (which can be encrypted with a password, are easier to read, and give you access to multiple addresses / accounts / keypairs).
 
 When we say encrypted we mean that you must do something first, before you can use the private key to sign the transaction. Encryption works like this:
 

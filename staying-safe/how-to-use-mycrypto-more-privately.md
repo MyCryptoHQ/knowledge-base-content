@@ -6,7 +6,7 @@ tags:
   - MyCrypto
 priority: 75
 date_published: '2021-04-30'
-date_modified: '2021-05-12'
+date_modified: '2021-06-23'
 ---
 
 With the cryptocurrency industry growing faster than ever, it has become more and more lucrative for financial companies and institutions to know as much as possible about you and how you interact with your funds online. While [data breaches are happening left and right](https://haveibeenpwned.com/), and marketing companies are tracking your every step online, privacy has never been more important -- and has never been more difficult to achieve.
@@ -53,7 +53,7 @@ If you’ve got the “Auto” option selected, your MyCrypto interface will aut
 
 For increased security, you can also run MyCrypto locally on your computer, without having an internet connection. By using the [MyCrypto desktop application](/how-to/offline/how-to-run-mycrypto-offline-and-locally), you can generate new addresses and create transactions on an offline computer, after which you only have to copy the signed transaction to a computer that is connected to the internet in order to broadcast it to the Ethereum network. You’ll effectively have a wallet that’s completely air-gapped.
 
-You can generate a new private key, keystore file, or mnemonic phrase, and access this wallet with the desktop app on an offline computer. As there is no internet connection, you will have to manually fill in some fields, such as the [gas price](/how-to/sending/how-to-know-what-gas-price-to-use) and [nonce](/general-knowledge/ethereum-blockchain/what-is-nonce), that would normally be automatically retrieved from the blockchain.
+You can generate a new private key, keystore file, or Secret Recovery Phrase, and access this wallet with the desktop app on an offline computer. As there is no internet connection, you will have to manually fill in some fields, such as the [gas price](/how-to/sending/how-to-know-what-gas-price-to-use) and [nonce](/general-knowledge/ethereum-blockchain/what-is-nonce), that would normally be automatically retrieved from the blockchain.
 
 ![Offline transaction overview](../assets/staying-safe/how-to-use-mycrypto-more-privately/offline-transaction.png)
 

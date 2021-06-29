@@ -6,7 +6,7 @@ tags:
   - MetaMask
 priority: 80
 date_published: '2017-10-08'
-date_modified: '2020-10-08'
+date_modified: '2021-06-23'
 ---
 
 ## Using MetaMask + MyCrypto has 3 key benefits:
@@ -24,7 +24,7 @@ When you set up MetaMask, you will be given a new wallet address and a new priva
 ### Importing your Existing Wallet
 
 - **Pros**: You don't need to transfer your funds to the wallet that MetaMask gives you. (Save on Eth Fees, Hurray!)
-- **Cons**: The current wallet you use could be compromised, and importing your wallet to MetaMask won't stop your funds from being stolen. It will not be secured by the backup seed that MetaMask gives you.
+- **Cons**: The current wallet you use could be compromised, and importing your wallet to MetaMask won't stop your funds from being stolen. It will not be secured by the Secret Recovery Phrase that MetaMask gives you.
 
 ### Using the new wallet MetaMask gives you
 
@@ -66,7 +66,7 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 ## Loose keys
 
 - If you click on the little man-switchy icon in the top-right corner after importing a private key, then you will see your new imported address with the word "loose" under it.
-- "Loose" keys on MetaMask are imported private keys. These keys are NOT secured by the MetaMask backup seed phrases.
+- "Loose" keys on MetaMask are imported private keys. These keys are NOT secured by the MetaMask Secret Recovery Phrase.
 
 ## Transferring your funds
 

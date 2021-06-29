@@ -6,7 +6,7 @@ tags:
   - Trezor
 priority: 90
 date_published: '2017-11-08'
-date_modified: '2020-10-08'
+date_modified: '2021-06-23'
 ---
 
 The Trezor is one of the best and easiest-to-use cryptocurrency hardware wallets out there, and is available for purchase [here](https://shop.trezor.io/?offer_id=10&aff_id=1735). While the Trezor supports a wide range of cryptocurrencies, this guide was specifically written for using Ether and ERC-20 tokens with MyCrypto.
@@ -36,7 +36,7 @@ When connecting to your Trezor, **you do not generate a new wallet on MyCrypto**
 ![Your Trezor is not backed up](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/not-backed-up.png)
 
 5. **Creating your backup.**
-   - The Trezor will give you 24 random words that you will have to write down on the provided card that came in the box. These are the recovery words, also known as a seed phrase.
+   - The Trezor will give you 24 random words that you will have to write down on the provided card that came in the box. These are the recovery words, also known as a Secret Recovery Phrase.
    - You will have to use these words to restore your Trezor in case it fails or you accidentally reset it.
    - **Do not save these recovery words on your computer or take a photo of these words with your phone.** Doing so means you are just as unsafe as using a normal private key.
    - Always write them down physically using pen and paper, and keep this paper safe.
@@ -51,7 +51,7 @@ When connecting to your Trezor, **you do not generate a new wallet on MyCrypto**
 ![Confirm recovery phrase](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/confirm-recovery-phrase.png)
 
 7. **You're done backing up your Trezor!**
-   - In case you lose or break your Trezor, you will now be able to recover the wallets stored on it using the 24-word seed phrase.
+   - In case you lose or break your Trezor, you will now be able to recover the wallets stored on it using the 24-word Secret Recovery Phrase.
 
 ![Backup complete](../../assets/how-to/migrating/moving-from-mycrypto-to-trezor/backup-complete.png)
 

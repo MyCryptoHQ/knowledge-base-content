@@ -6,7 +6,7 @@ tags:
   - MyCrypto
 priority: 61
 date_published: '2018-05-29'
-date_modified: '2021-01-15'
+date_modified: '2021-06-23'
 ---
 
 Please see [this article](/general-knowledge/about-mycrypto/supported-networks) for a list of networks that are currently supported by MyCrypto.
@@ -25,7 +25,7 @@ Adding support for your Ethereum-like network is easy, assuming it isn't signifi
 If you meet all of those requirements, you simply need to [make a pull request](https://github.com/MyCryptoHQ/MyCrypto) with the following changes:
 
 1. Add a new `NetworkId` to [`src/types/networkId.ts`](https://github.com/MyCryptoHQ/MyCrypto/blob/master/src/types/networkId.ts).
-2. In [`src/database/data/networks.ts`](https://github.com/MyCryptoHQ/MyCrypto/blob/master/src/database/data/networks.ts), add an entry using the `NetworkId` as the key. The `dPaths` field specifies default derivation paths for usage in hierarchical deterministic wallets (Ledger, Trezor, mnemonic phrase). Note: Ledger may block your network's chain ID to only be used in specific derivation paths.
+2. In [`src/database/data/networks.ts`](https://github.com/MyCryptoHQ/MyCrypto/blob/master/src/database/data/networks.ts), add an entry using the `NetworkId` as the key. The `dPaths` field specifies default derivation paths for usage in hierarchical deterministic wallets (Ledger, Trezor, Secret Recovery Phrase). Note: Ledger may block your network's chain ID to only be used in specific derivation paths.
 3. If you need to add a new derivation path for your network, you can do so in [`src/config/dpaths.ts`](https://github.com/MyCryptoHQ/MyCrypto/blob/master/src/config/dpaths.ts). Simply add an object and variable for the derivation path, and then add the variable to the `DPathsList` array.
 4. Add one or more nodes to [`src/database/data/nodes.ts`](https://github.com/MyCryptoHQ/MyCrypto/blob/master/src/database/data/nodes.ts) using the `NetworkId` provided earlier.
 

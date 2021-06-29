@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 70
 date_published: '2018-03-12'
-date_modified: '2020-10-08'
+date_modified: '2021-06-23'
 ---
 
 Malicious software is anything that changes the functionality of your computer for the purpose of making someone else profit in some way. Malicious software can come in many forms, from [Keyloggers](https://en.wikipedia.org/wiki/Keystroke_logging) to [Clipboard Hijackers](http://whatis.techtarget.com/definition/clipboard-hijack-attack) to [RATs](https://en.wikipedia.org/wiki/Remote_access_trojan) and [Trojans](<https://en.wikipedia.org/wiki/Trojan_horse_(computing)>).
@@ -27,7 +27,7 @@ To mitigate this, users should always practice safe computing habits. Here are s
 
 ## Keyloggers
 
-Keyloggers can be used to record your private keys/keystore passwords/mnemonic phrases.
+Keyloggers can be used to record your private keys/keystore passwords/Secret Recovery Phrases.
 
 ## Clipboard Hijackers
 

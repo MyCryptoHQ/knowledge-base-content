@@ -6,10 +6,10 @@ tags:
   - Backups
 priority: 80
 date_published: '2015-07-15'
-date_modified: '2020-10-08'
+date_modified: '2021-06-23'
 ---
 
-All you need is the 24 seed words that you wrote down when you first initially setup the Trezor. You can use the words on MyCrypto to recover your crypto and tokens.
+All you need is the Secret Recovery Phrase that you wrote down when you first initially setup the Trezor. You can use the words on MyCrypto to recover your crypto and tokens.
 
 If you used any passphrases on the Trezor and used any crypto or tokens with a passphrase protected wallet, then you will also need the relevant passphrase.
 

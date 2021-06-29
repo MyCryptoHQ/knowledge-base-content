@@ -6,7 +6,7 @@ tags:
   - Safety & Security
 priority: 100
 date_published: '2015-10-05'
-date_modified: '2021-01-15'
+date_modified: '2021-06-23'
 ---
 
 - Please take some time to understand this for your own security.
@@ -73,7 +73,7 @@ date_modified: '2021-01-15'
 
 ## **You** and **only you** are responsible for your security
 
-- Be diligent to keep your private key and password safe. Your private key is sometimes called your mnemonic phrase, keystore file, UTC file, JSON file, wallet file.
+- Be diligent to keep your private key and password safe. Your private key is sometimes called your Secret Recovery Phrase, keystore file, UTC file, JSON file, wallet file.
 - If lose your private key or password, no one can recover it.
 - If you enter your private key on a phishing website, you will have all your funds taken.
 

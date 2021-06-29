@@ -6,12 +6,12 @@ tags:
   - Phishing
 priority: 75
 date_published: '2017-07-05'
-date_modified: '2021-01-15'
+date_modified: '2021-06-23'
 ---
 
 ## Victim of a phishing attack? We are sorry this happened
 
-Unfortunately, we encounter these phishing scams / attacks on a daily basis. The most common cause for these incidents is entering your private key on a malicious website. Sometimes it is a fake MyCrypto site (e.g., mycryqto[.]com) and other times it is a fake ICO, airdrop, or EthZero-like website. You may encounter these imposters on social media (e.g., Reddit, Twitter, or Slack), via email, ads on legitimate sites, or even in your search results when looking for a real project. Other major brands like Apple, Google, and PayPal are also vulnerable and they are used as lures for phishing attacks as well. If you enter your private key, Keystore file, mnemonic phrase, or password on a malicious website, the scammer will have complete access to your funds. You will **never** need to provide a private key to these sites.
+Unfortunately, we encounter these phishing scams / attacks on a daily basis. The most common cause for these incidents is entering your private key on a malicious website. Sometimes it is a fake MyCrypto site (e.g., mycryqto[.]com) and other times it is a fake ICO, airdrop, or EthZero-like website. You may encounter these imposters on social media (e.g., Reddit, Twitter, or Slack), via email, ads on legitimate sites, or even in your search results when looking for a real project. Other major brands like Apple, Google, and PayPal are also vulnerable and they are used as lures for phishing attacks as well. If you enter your private key, Keystore file, Secret Recovery Phrase, or password on a malicious website, the scammer will have complete access to your funds. You will **never** need to provide a private key to these sites.
 
 Because of the nature of the blockchain and cryptography, there is no way to reverse transactions or reset your passwords. Once a transaction is on the blockchain, it's final. For this reason, you need to move the rest of your funds as soon as possible to a new address and discontinue use of the address that was phished.
 
