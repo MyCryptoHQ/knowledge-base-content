@@ -1,4 +1,5 @@
 ---
+title: 'Option 1 Custom Title'
 date_published: '2021-07-07'
 date_modified: '2021-07-07'
 ---
