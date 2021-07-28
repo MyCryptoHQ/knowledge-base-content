@@ -1,3 +1,10 @@
 title: Accessing my account
 
-categories: []
+categories:
+  - hardware-wallet
+  - web3
+  - walletconnect
+  - private-key
+  - keystore-file
+  - secret-recovery-phrase
+  - other
