@@ -1,0 +1,38 @@
+---
+title: What is EIP-1559?
+description: Addresses & Balances
+tags:
+  - Ethereum
+  - Gas
+priority: 10
+date_published: '2021-08-05'
+date_modified: '2021-08-05'
+---
+
+August 5th of 2021 launched the London hard fork, which includes various changes to how transaction fees are handled in Ethereum, aiming to make them more predictable. These changes are part of an Ethereum Improvement Proposal (EIP), known as EIP-1559.
+
+## How did fees work previously?
+
+Previously, the speed at which transactions were mined and the costs of them were set by a single Gas Price value. Transactions with the highest gas price would get mined first, before other transactions with a lower gas price would get mined, or would not get mined at all if the specified gas price wasn't high enough, causing the transaction to stay pending forever until it eventually gets dropped from the network.
+
+This makes for a very unpredictable situation, in which the minimum gas price to get a transaction included changes all the time.
+
+## EIP-1559
+
+The new system introduces a **base fee**, which is an algorithmically determined fee to get a transaction through on the Ethereum network. Additionally, a **priority fee** is introduced, which can be seen as a tip to incentivize miners to prioritize your transaction before it considers other transactions.
+
+In the previous system, all transaction fees were paid to the miners on the network. With EIP-1559, only the priority fee (and block rewards) go the miner, while the base fee is burned.
+
+## What will change for me?
+
+You'll notice that you'll no longer find a transaction fee slider when you send a transaction with [app.mycrypto.com](https://app.mycrypto.com/). Instead, it will show an estimated fee that will be enough to get your transaction mined in a quick manner.
+
+![Transaction fee estimate](../../assets/general-knowledge/ethereum-blockchain/what-is-eip-1559/tx-fee-overview.png)
+
+Keep in mind that the Ethereum network might still get congested, which can cause a high base fee. This update doesn't necessarily make transaction fees cheaper, but does give you a better sense of how busy the network is by looking at the base fee.
+
+If you wish, you can manually change the transaction fee by clicking the pencil icon.
+
+![Transaction fee detailed view](../../assets/general-knowledge/ethereum-blockchain/what-is-eip-1559/tx-fee-detailed.png)
+
+The **Max Fee** is the highest total gas price per gas unit that you're willing to spend on your transaction. The **Max Priority Fee** is an optional amount that gets paid to the miner that processes your transaction. Keep in mind that the Max Priority Fee should not exceed the Max Fee.
