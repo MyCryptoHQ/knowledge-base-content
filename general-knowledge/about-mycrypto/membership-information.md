@@ -48,9 +48,9 @@ We use the [Unlock Protocol](https://unlock-protocol.com/) for this. You’ll be
 
 You can currently purchase a MyCrypto Membership on:
 
-* the Ethereum network with DAI or [ETH](/how-to/getting-started/how-to-buy-ether-with-usd)
-* the xDAI network with [xDAI](/general-knowledge/scaling/how-to-get-xdai)
-* the Polygon network with USDC
+- the Ethereum network with DAI or [ETH](/how-to/getting-started/how-to-buy-ether-with-usd)
+- the xDAI network with [xDAI](/general-knowledge/scaling/how-to-get-xdai)
+- the Polygon network with USDC
 
 If you don't have the tokens to purchase a membership, get some by using [MyCrypto Swap](https://app.mycrypto.com/swap?utm_medium=organic&utm_source=support&utm_campaign=membership) or our [fiat onramp](https://buy.mycrypto.com)!
 
