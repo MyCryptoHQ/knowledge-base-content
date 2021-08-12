@@ -5,12 +5,12 @@ tags:
   - Beta
 priority: 85
 date_published: '2020-08-10'
-date_modified: '2021-03-31'
+date_modified: '2021-08-12'
 ---
 
 <Alert>
   
-Ethereum gas fees can be a high barrier of entry to purchasing a MyCrypto Membership at times, so we've added support for purchasing memberships on the xDai network! Owning a MyCrypto Membership is the same regardless of the network you purchase it on -- as long as you have the Membership-holding account connected to MyCrypto, you're good to go.
+Ethereum gas fees can be a high barrier of entry to purchasing a MyCrypto Membership at times, so we've added support for purchasing memberships on the xDai and Polygon networks! Owning a MyCrypto Membership is the same regardless of the network you purchase it on -- as long as you have the Membership-holding account connected to MyCrypto, you're good to go.
 
 </Alert>
 
@@ -46,7 +46,13 @@ We use the [Unlock Protocol](https://unlock-protocol.com/) for this. You’ll be
 
 ### What cryptocurrencies can I use to buy a Membership?
 
-You can currently purchase a MyCrypto Membership on the Ethereum network with DAI or [ETH](/how-to/getting-started/how-to-buy-ether-with-usd), or on the xDAI network with [xDAI](/general-knowledge/scaling/how-to-get-xdai). We will likely add more payment methods in the future - stay tuned!
+You can currently purchase a MyCrypto Membership on:
+
+* the Ethereum network with DAI or [ETH](/how-to/getting-started/how-to-buy-ether-with-usd)
+* the xDAI network with [xDAI](/general-knowledge/scaling/how-to-get-xdai)
+* the Polygon network with USDC
+
+If you don't have the tokens to purchase a membership, get some by using [MyCrypto Swap](https://app.mycrypto.com/swap?utm_medium=organic&utm_source=support&utm_campaign=membership) or our [fiat onramp](https://buy.mycrypto.com)!
 
 ### Can I give my token to someone else?
 
