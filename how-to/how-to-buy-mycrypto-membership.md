@@ -5,14 +5,14 @@ tags:
   - Beta
 priority: 50
 date_published: '2020-08-20'
-date_modified: '2021-03-31'
+date_modified: '2021-08-12'
 ---
 
 The MyCrypto Membership is a monthly subscription that gives you additional features and helps to support MyCrypto’s future developments.
 
 [Learn more about MyCrypto Membership](/general-knowledge/about-mycrypto/membership-information).
 
-_To purchase a MyCrypto Membership, you'll need to have the required amount of currency in one of your connected accounts. If you don’t have the required amount on the Ethereum network, visit [buy.mycrypto.com](https://buy.mycrypto.com/) to obtain it. If you don't have the required amount on the xDai network, you can [learn how to bridge funds to xDai](/general-knowledge/scaling/how-to-get-xdai)._
+To purchase a MyCrypto Membership, you'll need to have the required amount of currency in one of your connected accounts. Need funds? Use [MyCrypto Swap](https://app.mycrypto.com/swap?utm_medium=organic&utm_source=support&utm_campaign=membership) or our [fiat onramp](https://buy.mycrypto.com) to obtain them.
 
 1. Visit [app.mycrypto.com/membership](https://app.mycrypto.com/membership).
 2. Click "Buy Membership Now."
