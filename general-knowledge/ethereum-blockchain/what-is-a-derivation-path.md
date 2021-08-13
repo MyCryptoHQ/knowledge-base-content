@@ -20,7 +20,7 @@ Note the extra "/0" at the end of the derivation path. This number is called the
 
 Each coin has its own base derivation path, to ensure that you get different addresses for each coin. That does not mean that you cannot use the same address for ETH (`m/44'/60'/0'/0/x`) and ETC (`m/44'/61'/0'/0/x`), but by default, these addresses are separated.
 
-If you're interested in a full, technical explanation of how BIP-32 and BIP-44 work, please refer to [this article](https://medium.com/mycrypto/the-journey-from-mnemonic-phrase-to-address-6c5e86e11e14).
+If you're interested in a full, technical explanation of how BIP-32 and BIP-44 work, please refer to [this article](https://blog.mycrypto.com/the-journey-from-mnemonic-phrase-to-address/).
 
 ## Related Articles
 
