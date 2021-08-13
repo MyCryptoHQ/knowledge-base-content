@@ -6,12 +6,12 @@ tags:
   - Ethereum
 priority: 70
 date_published: '2020-08-01'
-date_modified: '2020-10-08'
+date_modified: '2021-08-12'
 ---
 
 When using Ethereum, you may encounter different units, such as Wei and Gwei. In this article, you'll find an explanation of the different units used, and a converter for all the different units.
 
-The smallest unit is Wei. One Wei is equal to 0.000000000000000001 (or 10<sup>-18</sup>) Ether. The [EVM (Ethereum Virtual Machine)](https://medium.com/mycrypto/the-ethereum-virtual-machine-how-does-it-work-9abac2b7c9e) uses Wei as base unit, since it is unable to deal with decimal numbers. Gwei, another common unit, primarily used for gas, is equal to 1000000000 Wei, or 0.000000001 (or 10<sup>-9</sup>) Ether. Below you will find a table, with all the other units and their respective value.
+The smallest unit is Wei. One Wei is equal to 0.000000000000000001 (or 10<sup>-18</sup>) Ether. The [EVM (Ethereum Virtual Machine)](https://blog.mycrypto.com/the-ethereum-virtual-machine---how-does-it-work-/) uses Wei as base unit, since it is unable to deal with decimal numbers. Gwei, another common unit, primarily used for gas, is equal to 1000000000 Wei, or 0.000000001 (or 10<sup>-9</sup>) Ether. Below you will find a table, with all the other units and their respective value.
 
 | Unit       | Alternative name         | Value           |
 | ---------- | ------------------------ | --------------- |
