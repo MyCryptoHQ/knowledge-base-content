@@ -4,7 +4,7 @@ tags:
   - Tokens
   - MyCrypto
 date_published: '2017-06-20'
-date_modified: '2021-01-15'
+date_modified: '2021-08-15'
 ---
 
 MyCrypto supports `ETH`, `ETC`, all testnet networks (Ropsten, Kovan, Rinkeby), any other Ethereum-based network (`EWT`, `UBQ`, `EXP`, `POA` etc.), and any Ethereum Standard Tokens - also known as "ERC-20" tokens. We have also recently added support for tokens in the Binance Smart Chain and Polygon/MATIC Network. 
