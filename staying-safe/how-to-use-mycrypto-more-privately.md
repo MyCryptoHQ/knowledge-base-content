@@ -6,7 +6,7 @@ tags:
   - MyCrypto
 priority: 75
 date_published: '2021-04-30'
-date_modified: '2021-06-23'
+date_modified: '2021-08-15'
 ---
 
 With the cryptocurrency industry growing faster than ever, it has become more and more lucrative for financial companies and institutions to know as much as possible about you and how you interact with your funds online. While [data breaches are happening left and right](https://haveibeenpwned.com/), and marketing companies are tracking your every step online, privacy has never been more important -- and has never been more difficult to achieve.
@@ -35,7 +35,7 @@ There are a plethora of different VPN providers you can use, and we highly recom
 
 ### Use Pocket Network’s node or a custom node
 
-By default, when you use MyCrypto you’re using one of four nodes: MyCrypto’s node, Etherscan’s node, Infura’s node, or the [recently-added Pocket Network node](https://pokt.network/mycrypto-adds-support-for-decentralized-infra-provider-pocket-network/). These are all reliable nodes that help to keep our infrastructure up and running, but there is a difference between them; Pocket Network’s node is inherently more decentralized than the other three.
+By default, when you use MyCrypto you’re using one of four nodes: MyCrypto’s node, Etherscan’s node, Infura’s node, or the [recently-added Pocket Network node](https://www.blog.pokt.network/og-web3-interface-mycrypto-adds-support-for-decentralized-infra-provider-pocket-network/). These are all reliable nodes that help to keep our infrastructure up and running, but there is a difference between them; Pocket Network’s node is inherently more decentralized than the other three.
 
 MyCrypto will automatically use one of the above four nodes, and if for some reason one of them fails, it’ll default to another. You can, however, select a preferred node for your account(s), if, for example, you’d prefer to use only Pocket Network’s node.
 
