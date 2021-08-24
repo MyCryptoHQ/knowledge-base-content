@@ -6,7 +6,7 @@ tags:
   - Faucet
 priority: 40
 date_published: '2018-07-02'
-date_modified: '2021-08-06'
+date_modified: '2021-08-24'
 ---
 
 There are currently 4 different testnets for the Ethereum public chain:
@@ -20,7 +20,7 @@ With the MyCrypto faucet you can easily request Ether from any of the above ment
 
 ![Faucet overview](../../assets/how-to/getting-started/where-to-get-testnet-ether/faucet-intro.png)
 
-The amount of testnet Ether you can request in a day is limited based on the demand. If you need a higher amount of testnet Ether, please reach out to us through [the contact form](/contact-us), or send an email to support@mycrypto.com. Please include the testnet, the amount you would like, and your Ethereum address. Although we will try to honor every request, please keep in mind that we only have a limited amount of testnet Ether at any given time. Usually, building and testing applications on testnet only requires up to 5 ETH. If you would like to request a higher amount because of exceptional circumstances (like education or non-profit development), include a clear explanation of your use case.
+The amount of testnet Ether you can request in a day is limited based on the demand. If you need a higher amount of testnet Ether, please reach out to us through [the contact form](/contact-us), or send an email to support@mycrypto.com. We can give out up to 1 testnet Ether for non-MyCrypto Members, if you would like more than this you can sign-up for a membership and be able to request up to 10 testnet Ether per 24-hour period. You can sign-up for a membership here: [app.mycrypto.com/membership](https://app.mycrypto.com/membership). The membership is $30 in xDAI, ETH or Polygon for a 12-month period. Usually, building and testing applications on testnet only requires up to 5 ETH. If you would like to request a higher amount because of exceptional circumstances (like education or non-profit development), include a clear explanation of your use case.
 
 ---
 
