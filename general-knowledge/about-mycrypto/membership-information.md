@@ -5,7 +5,7 @@ tags:
   - Beta
 priority: 85
 date_published: '2020-08-10'
-date_modified: '2021-08-12'
+date_modified: '2021-09-08'
 ---
 
 <Alert>
@@ -85,7 +85,7 @@ All MyCrypto Members can receive MyCrypto stickers, but you must have been a mem
   - Your name or alias
   - Your mailing address
 
-Click [here](mailto:members@mycrypto.com?subject=Sticker%20Request%20-%20MyCrypto%20Member) to open an email prompt with the address and subject line pre-filled.
+Click [here](mailto:membership@mycrypto.com?subject=Sticker%20Request%20-%20MyCrypto%20Member) to open an email prompt with the address and subject line pre-filled.
 
 **If you’ve been a member for at least 3 months and would like to request your MyCrypto Shirt**, send an email to [membership@mycrypto.com](mailto:membership@mycrypto.com) with the following:
 
@@ -97,4 +97,4 @@ Click [here](mailto:members@mycrypto.com?subject=Sticker%20Request%20-%20MyCrypt
   - Your mailing address
   - Your preferred shirt size
 
-Click [here](mailto:members@mycrypto.com?subject=Shirt%20Request%20-%20MyCrypto%20Member) to open an email prompt with the address and subject line pre-filled.
+Click [here](mailto:membership@mycrypto.com?subject=Shirt%20Request%20-%20MyCrypto%20Member) to open an email prompt with the address and subject line pre-filled.
