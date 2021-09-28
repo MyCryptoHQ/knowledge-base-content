@@ -6,7 +6,7 @@ tags:
   - Transactions
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2020-10-08'
+date_modified: '2021-09-28'
 ---
 
 Since the [deprecation of Mist](https://medium.com/@avsa/sunsetting-mist-da21c8e943d2) in 2019, many people with funds in their Mist multisig contracts were seemingly left stranded, as Mist was the only maintained application that supported sending from these multisig contracts.
@@ -80,3 +80,7 @@ In case you're trying to send a transaction which is above the daily spending li
 If your multisig requires more confirmations, you will have to repeat the confirmation process for each owner until it reaches the necessary approvals. Luckily, the `_h` value is the same for each of them. Once you have reached the minimum required amount of confirmations, you will be able to see that the transfer has been made ([example](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d)).
 
 ![Withdrawal executed](../../assets/how-to/sending/how-to-interact-with-a-multisig-contract/withdrawal-success-after-confirm.png)
+
+## Related articles
+
+- [Creating a Multi-Signature Wallet in Mist](https://ethdocs.org/en/latest/account-management.html#creating-a-multi-signature-wallet-in-mist)
