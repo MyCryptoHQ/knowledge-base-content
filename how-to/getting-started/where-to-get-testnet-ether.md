@@ -6,7 +6,7 @@ tags:
   - Faucet
 priority: 40
 date_published: '2018-07-02'
-date_modified: '2021-10-11'
+date_modified: '2021-10-12'
 ---
 
 Whether you're creating the next big dapp on Ethereum, want to try out staking, or simply want to test the waters and see how Ethereum works, using testnet ETH can enable you to learn and develop on Ethereum-based networks without having to spend your precious, real Ether.
@@ -72,7 +72,7 @@ You've successfully requested your free testnet Ether, and it'll be reflected in
 
 You're free to request testnet funds multiple times, but keep in mind that the amount of testnet Ether you can request in a day is limited based on the demand. If you need a higher amount of testnet Ether, please [reach out to us directly](/contact-us) or send an email to [support@mycrypto.com](support@mycrypto.com). Include your testnet address and the name of the testnet on which you would like to receive funds.
 
-If you are a [MyCrypto Member](https://app.mycrypto.com), you are able to request up to 10 testnet ETH per 24-hour period.
+If you are a [MyCrypto Member](https://app.mycrypto.com/membership?utm_medium=organic&utm_source=support&utm_campaign=faucet), you are able to request up to 10 testnet ETH per 24-hour period.
 
 You can grab a membership for a full year for 30 xDAI, or one can be purchased with ETH or Polygon as well. Aside from the increase in testnet ETH, memberships include perks like MyCrypto swag and exclusive NFTs!
 
