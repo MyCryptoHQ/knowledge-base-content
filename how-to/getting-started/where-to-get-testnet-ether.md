@@ -6,88 +6,74 @@ tags:
   - Faucet
 priority: 40
 date_published: '2018-07-02'
-date_modified: '2021-08-06'
+date_modified: '2021-10-12'
 ---
 
-There are currently 4 different testnets for the Ethereum public chain:
+Whether you're creating the next big dapp on Ethereum, want to try out staking, or simply want to test the waters and see how Ethereum works, using testnet ETH can enable you to learn and develop on Ethereum-based networks without having to spend your precious, real Ether.
 
-- Rinkeby
-- Ropsten
-- Kovan
-- Goerli
+ETH on testnets has no value and is free to claim through [MyCrypto's Testnet Faucet](https://app.mycrypto.com/faucet), which supports all current Ethereum testnets (Ropsten, Rinkeby, Kovan & Görli/Goerli).
 
-With the MyCrypto faucet you can easily request Ether from any of the above mentioned testnets. Get started with the [MyCrypto faucet](https://app.mycrypto.com/faucet) by adding your address, and request testnet Ether right away.
+➡️ [Get started with the MyCrypto faucet by adding your address, and request testnet Ether right away.](https://app.mycrypto.com/faucet)
 
-![Faucet overview](../../assets/how-to/getting-started/where-to-get-testnet-ether/faucet-intro.png)
+## What's a Testnet Anyway?
 
-The amount of testnet Ether you can request in a day is limited based on the demand. If you need a higher amount of testnet Ether, please reach out to us through [the contact form](/contact-us), or send an email to support@mycrypto.com. Please include the testnet, the amount you would like, and your Ethereum address. Although we will try to honor every request, please keep in mind that we only have a limited amount of testnet Ether at any given time. Usually, building and testing applications on testnet only requires up to 5 ETH. If you would like to request a higher amount because of exceptional circumstances (like education or non-profit development), include a clear explanation of your use case.
+When talking about Ethereum, interacting with dapps, or selling and buying NFTs, we're always talking about the "mainnet." Mainnet is the main Ethereum blockchain we all know and love - and is where most of the action is happening. Ether on the mainnet has value, and transactions cost real money.
 
----
+In addition to the mainnet, there are also multiple testnets. Testnets work separately from mainnet, but (mostly) work in the same way as mainnet. Ether for these networks can be freely obtained and has no real-world value. Oftentimes, major Ethereum upgrades are deployed on these testnets and tested extensively before being deployed on the mainnet. As Ether is free, it's also commonly used by smart contract developers to test out their contract before deploying it to the real Ethereum network.
 
-Below you will be able to find additional information for every testnet, and alternative faucets.
+### Görli/Goerli
 
-## Rinkeby
+Görli is a proof-of-authority testnet and was designed to work across various Ethereum clients, such as Geth, Parity/OpenEthereum, and Nethermind. Initially launched in 2019, the Görli network has already often been used before major upgrades are deployed on the Ethereum chain, such as the [Pyrmont Launchpad](https://pyrmont.launchpad.ethereum.org/en/) for becoming an Eth2 validator.
 
-Rinkeby is a public testnet for Ethereum that uses PoA (Proof of Authority).
+- Block explorer: [goerli.etherscan.io](https://goerli.etherscan.io/)
+- GitHub: [github.com/goerli](https://github.com/goerli/)
 
-### Useful links
+### Ropsten
 
-- Block explorer: <https://rinkeby.etherscan.io/>
+As the oldest working and only proof-of-work testnet on the list, the Ropsten testnet has been around since 2016. Previous to Ropsten, there was another testnet named "Morden" that launched when the Ethereum network was first launched in 2015 but was later [sunsetted due to replay attacks](https://blog.ethereum.org/2016/11/20/from-morden-to-ropsten/).
 
-| Faucets                           |
-| --------------------------------- |
-| <https://faucet.rinkeby.io/>      |
-| <https://faucets.blockxlabs.com/> |
+While having more unpredictable block times, Ropsten is the only proof-of-work testnet and most closely resembles the current mainnet.
 
-## Ropsten
+- Block explorer: [ropsten.etherscan.io](https://ropsten.etherscan.io/)
+- GitHub: [github.com/ethereum/ropsten](https://github.com/ethereum/ropsten)
 
-Ropsten is a public testnet for Ethereum that uses PoW (Proof of Work).
+### Kovan
 
-### Useful links
+Kovan is a proof-of-authority testnet that was initially created by the Parity (now OpenEthereum) team to work with the Parity/OpenEthereum client.
 
-- Block explorer: <https://ropsten.etherscan.io/>
-- GitHub: <https://github.com/ethereum/ropsten>
+- Block explorer: [kovan.etherscan.io](https://kovan.etherscan.io/)
+- GitHub: [github.com/kovan-testnet](https://github.com/kovan-testnet/)
 
-| Faucets                          |
-| -------------------------------- |
-| <http://faucet.ropsten.be:3001/> |
-| <https://faucet.kyber.network/>  |
-| <https://faucet.metamask.io/>    |
+### Rinkeby
 
-| Token Faucets                                 |
-| --------------------------------------------- |
-| <https://developers.smartcontract.com/faucet> |
+A proof-of-authority testnet that was initially created to be used with the Geth client, but is nowadays also supported by other clients, such as OpenEthereum or Nethermind.
 
-## Kovan
+- Block explorer: [rinkeby.etherscan.io](https://rinkeby.etherscan.io/)
 
-Kovan is a public testnet for Ethereum that uses Parity's PoA (Proof of Authority) consensus engine.
+## Obtaining Testnet Ether
 
-- Immune to spam attacks (Ether supply is controlled by trusted parties)
-- Consistent 4-second block time
+The easiest way to request testnet Ether for any network is to use [MyCrypto's Testnet Faucet](https://app.mycrypto.com/faucet).
 
-### Useful links
+To get started, add an account to your MyCrypto Dashboard and make sure to select the appropriate network (testnet) you would like to receive your testnet Ether on.
 
-- Block explorer: <https://kovan.etherscan.io/>
-- GitHub: <https://github.com/kovan-testnet/>
+![Select testnet](../../assets/how-to/getting-started/where-to-get-testnet-ether/select-testnet.png)
 
-| Faucets                                                           |
-| ----------------------------------------------------------------- |
-| Ask on <https://gitter.im/kovan-testnet/faucet>                   |
-| Verify your account <https://www.youtube.com/watch?v=99UucFzYCRc> |
-| <https://faucets.blockxlabs.com/>                                 |
+After adding your testnet account to your Dashboard, you're ready to use the MyCrypto Faucet. You can either go to [app.mycrypto.com/faucet](https://app.mycrypto.com/faucet), or go to Tools > Use Testnet Faucet in the left-hand side menu on MyCrypto.
 
-## **Goerli**
+![Select recipient](../../assets/how-to/getting-started/where-to-get-testnet-ether/select-recipient.png)
 
-Goerli is a public testnet for Ethereum that POA (Proof of Authority) consensus engine - it is cross client compatible.
+After adding your account, you're ready to request your testnet Ether. Simply select your testnet account and click the "Request Assets" button. You'll be prompted to complete a Captcha, which we need in place to keep the faucet available for everyone.
 
-- Immune to spam attacks (Ether supply is controlled by trusted parties)
+![Successfully requested testnet ETH](../../assets/how-to/getting-started/where-to-get-testnet-ether/success.png)
 
-### Useful links
+You've successfully requested your free testnet Ether, and it'll be reflected in your asset overview in a short while!
 
-- Block explorer: <https://goerli.etherscan.io/>
-- GitHub: <https://github.com/goerli/>
+### Requesting Additional Funds
 
-| Faucets                                     |
-| ------------------------------------------- |
-| <https://goerli-faucet.slock.it/index.html> |
-| <https://faucet.goerli.mudit.blog/>         |
+You're free to request testnet funds multiple times, but keep in mind that the amount of testnet Ether you can request in a day is limited based on the demand. If you need a higher amount of testnet Ether, please [reach out to us directly](/contact-us) or send an email to [support@mycrypto.com](support@mycrypto.com). Include your testnet address and the name of the testnet on which you would like to receive funds.
+
+If you are a [MyCrypto Member](https://app.mycrypto.com/membership?utm_medium=organic&utm_source=support&utm_campaign=faucet), you are able to request up to 10 testnet ETH per 24-hour period.
+
+You can grab a membership for a full year for 30 xDAI, or one can be purchased with ETH or Polygon as well. Aside from the increase in testnet ETH, memberships include perks like MyCrypto swag and exclusive NFTs!
+
+If you would like to request a higher amount because of exceptional circumstances (like education or non-profit development), please include a clear explanation of your use case.
