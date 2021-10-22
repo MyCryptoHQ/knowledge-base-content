@@ -1,5 +1,6 @@
 title: For Developers / Contributors
 description: Ethereum thrives on the efforts of builders. Read up on how you can contribute to MyCrypto's open-source platform.
+icon: ../assets/developers/icon.svg
 
 articles:
   - reporting-a-bug
