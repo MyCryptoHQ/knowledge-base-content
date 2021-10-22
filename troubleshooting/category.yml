@@ -1,5 +1,6 @@
 title: Troubleshooting Issues
 description: Having a problem interacting with your ETH or tokens? Is your Ledger or Trezor not working as expected? Find solutions to a variety of issues here.
+priority: 5
 icon:
   small: tool
   large: ../assets/troubleshooting/icon.svg
