@@ -5,7 +5,7 @@ tags:
   - Networks
 priority: 20
 date_published: '2020-09-30'
-date_modified: '2021-06-23'
+date_modified: '2021-10-25'
 ---
 
 Energy Web Chain ("EWC") is a blockchain designed to be used for the energy sector. Its utility token is Energy Web Token ("EWT") and this article will explain how you can access these tokens using MyCrypto.
@@ -40,7 +40,7 @@ You will see your Ethereum addresses displayed alongside their EWT funds.
 </AccordionItem>
 <AccordionItem title="Private Key/Secret Recovery Phrase/Keystore File">
 
-<Alert>
+<Alert label="The desktop application is not actively maintained.">
 
 The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com/).
 

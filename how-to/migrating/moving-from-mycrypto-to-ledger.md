@@ -6,7 +6,7 @@ tags:
   - Ledger
 priority: 100
 date_published: '2017-10-08'
-date_modified: '2021-06-23'
+date_modified: '2021-10-25'
 ---
 
 The Ledger Nano S is one of the best and easiest-to-use cryptocurrency hardware wallets out there, and is available for purchase [here](https://www.ledgerwallet.com/r/1985?path=/products/). While the Ledger Nano S supports a wide range of cryptocurrencies, this guide was specifically written for using Ether and ERC-20 tokens with MyCrypto.
@@ -81,7 +81,7 @@ Ledger made a clear and easy-to-follow guide on how to restore your Nano S [here
 
 ## Troubleshooting
 
-Ledger has an extensive knowledge base that you can find [here](https://support.ledgerwallet.com/hc/en-us), and MyCrypto's is [here](/). You can select any of these addresses to access them. If not, feel free to contact either [Ledger](https://support.ledgerwallet.com/hc/en-us) or [MyCrypto](/contact-us/).
+Ledger has an extensive knowledge base that you can find [here](https://support.ledgerwallet.com/hc/en-us), and MyCrypto's is [here](/). You can select any of these addresses to access them. If not, feel free to contact either [Ledger](https://support.ledgerwallet.com/hc/en-us) or [MyCrypto](mailto:support@mycrypto.com).
 
 ## Related links
 

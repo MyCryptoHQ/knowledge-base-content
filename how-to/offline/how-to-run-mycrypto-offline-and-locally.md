@@ -5,10 +5,10 @@ tags:
   - Offline
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2021-01-15'
+date_modified: '2021-10-25'
 ---
 
-<Alert>
+<Alert label="The desktop application is not actively maintained.">
 
 The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com/).
 

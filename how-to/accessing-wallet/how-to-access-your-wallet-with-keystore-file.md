@@ -5,7 +5,7 @@ tags:
   - Private Keys
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2021-06-23'
+date_modified: '2021-10-25'
 ---
 
 ## Important Information
@@ -32,9 +32,9 @@ A keystore file (sometimes called a UTC file) in Ethereum is an encrypted versio
 
 ## Accessing your wallet
 
-<Alert>
+<Alert label="The desktop application is not actively maintained.">
 
-The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com).
+The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com/).
 
 </Alert>
 

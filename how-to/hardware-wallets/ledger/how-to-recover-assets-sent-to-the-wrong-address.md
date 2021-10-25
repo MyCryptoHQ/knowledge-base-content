@@ -3,7 +3,7 @@ title: How to recover assets sent to the wrong address
 tags:
   - Ledger
 date_published: '2021-01-14'
-date_modified: '2021-02-03'
+date_modified: '2021-10-25'
 ---
 
 If you've ever sent coins to the wrong address (for example, sending ETC or EWT to your ETH address), it can be scary, but it's solvable. Making this mistake with a Ledger requires a little more time and effort to solve it as you cannot send ETC or EWT transactions from an ETH address by default with a Ledger device.
@@ -12,7 +12,7 @@ One way to recover those funds is to use the recovery phrase for your Ledger dev
 
 ## Install the ETH Recovery app
 
-<Alert>
+<Alert label="Be careful!">
 
 The ETH Recovery app is meant for recovering assets on EVM-based chains (such as Ethereum, Ethereum Classic, and EnergyWebChain) only. You **should not** use this app on a day to day basis, for transferring funds.
 

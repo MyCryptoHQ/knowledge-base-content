@@ -5,11 +5,11 @@ tags:
   - Beta
 priority: 85
 date_published: '2020-08-10'
-date_modified: '2021-09-08'
+date_modified: '2021-10-25'
 ---
 
-<Alert>
-  
+<Alert label="Memberships are available on the xDai and Polygon networks too.">
+
 Ethereum gas fees can be a high barrier of entry to purchasing a MyCrypto Membership at times, so we've added support for purchasing memberships on the xDai and Polygon networks! Owning a MyCrypto Membership is the same regardless of the network you purchase it on -- as long as you have the Membership-holding account connected to MyCrypto, you're good to go.
 
 </Alert>

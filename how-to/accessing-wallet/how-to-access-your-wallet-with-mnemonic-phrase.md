@@ -5,7 +5,7 @@ tags:
   - Private Keys
 priority: 100
 date_published: '2017-06-20'
-date_modified: '2021-06-23'
+date_modified: '2021-10-25'
 ---
 
 ## Important Information
@@ -26,9 +26,9 @@ Secret Recovery Phrase are vulnerable for two reasons:
 
 ## Accessing your wallet
 
-<Alert>
+<Alert label="The desktop application is not actively maintained.">
 
-The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com).
+The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com/).
 
 </Alert>
 
@@ -43,6 +43,5 @@ MyCrypto does not allow you to use the web application to access your Secret Rec
 ## Related articles
 
 - [Backing up your wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
-- [Sending & Receiving](/contact-us/)
 - [Protecting Yourself and Your Funds](/staying-safe/protecting-yourself-and-your-funds)
 - [Difference between an exchange and MyCrypto](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)

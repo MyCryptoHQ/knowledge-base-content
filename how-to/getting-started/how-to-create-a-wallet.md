@@ -6,7 +6,7 @@ tags:
   - Private Keys
 priority: 90
 date_published: '2015-10-05'
-date_modified: '2021-06-23'
+date_modified: '2021-10-25'
 ---
 
 We highly recommend getting a hardware wallet or using MetaMask as a method to access your wallet and store your funds.
@@ -19,9 +19,9 @@ Remember to back up any wallets you create! Including the 12-word or 24-word Sec
 
 If you do not choose to use a hardware wallet or MetaMask, then we recommend to use the MyCrypto desktop app. The desktop app is available for Mac, Windows, Linux or as a standalone app.
 
-<Alert>
+<Alert label="The desktop application is not actively maintained.">
 
-The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com).
+The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com/).
 
 </Alert>
 
