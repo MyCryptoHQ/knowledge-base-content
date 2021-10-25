@@ -19,3 +19,7 @@ categories:
 
 articles:
   - how-to-buy-mycrypto-membership
+
+popular_articles:
+  - getting-started/where-to-get-testnet-ether
+  - getting-started/how-to-sign-and-verify-messages-on-ethereum
