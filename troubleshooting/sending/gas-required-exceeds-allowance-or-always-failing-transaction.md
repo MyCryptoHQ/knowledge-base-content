@@ -4,7 +4,9 @@ tags:
   - Gas
   - Transactions
 date_published: '2020-11-17'
-date_modified: '2021-08-15'
+date_modified: '2021-10-26'
+related_articles:
+  - how-to/sending/how-to-know-what-gas-limit-to-use
 ---
 
 This error can occur when interacting with a contract, and means that MyCrypto could not estimate the gas limit for your transaction.

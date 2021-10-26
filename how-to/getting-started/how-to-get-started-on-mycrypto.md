@@ -4,7 +4,11 @@ tags:
   - MyCrypto
   - Safety & Security
 date_published: '2015-10-05'
-date_modified: '2021-10-25'
+date_modified: '2021-10-26'
+related_articles:
+  - staying-safe/protecting-yourself-and-your-funds
+  - staying-safe/hardware-wallet-recommendations
+  - how-to/offline/how-to-run-mycrypto-offline-and-locally
 ---
 
 - Please take some time to understand this for your own security.

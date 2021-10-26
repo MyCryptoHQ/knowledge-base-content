@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 100
 date_published: '2015-07-15'
-date_modified: '2021-10-25'
+date_modified: '2021-10-26'
 ---
 
 ![Cryptocurrency Security Guide](../assets/staying-safe/protecting-yourself-and-your-funds/cryptocurrenty-security-guide.jpg)
@@ -112,7 +112,3 @@ ONLY unlock your wallet when you want to send a transaction. Check your balance 
 ## 19. Lastly: Use your brain.
 
 - Think for a moment. Don't assume—ask. Don't blindly follow—question. If something doesn't seem right, if you feel like the luckiest person on Earth, or if you find yourself pondering, "I wonder why I haven't seen this on Reddit yet," there is likely a reason.
-
-## Related articles
-
-- [How to Stay Safe](https://support.mycrypto.com/staying-safe)

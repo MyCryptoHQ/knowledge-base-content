@@ -5,10 +5,11 @@ tags:
   - Backups
 priority: 100
 date_published: '2015-10-05'
-date_modified: '2021-06-23'
+date_modified: '2021-10-26'
+related_articles:
+  - general-knowledge/ethereum-blockchain/difference-between-wallet-types
+  - staying-safe/protecting-yourself-and-your-funds
 ---
-
-## Preface
 
 The following assumes you are **not** using a hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](/staying-safe/hardware-wallet-recommendations).
 
@@ -41,8 +42,3 @@ This prevents loss of the private key and password due to things like a dead har
 MyCrypto is not a "web wallet" and cannot recover your private key or password, access your account, move funds, recover funds, nor cancel/reverse transactions.
 
 We are a client-side interface that allows you to interact with cryptocurrencies. Please secure and back up your key like the millions of dollars it could someday be worth.
-
-## Related articles
-
-- [What is the difference between private key & Keystore / UTC file?](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)
-- [Protecting yourself and your funds](/staying-safe/protecting-yourself-and-your-funds)

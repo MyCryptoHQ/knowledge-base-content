@@ -5,7 +5,7 @@ tags:
   - MyCrypto
 priority: 66
 date_published: '2017-11-16'
-date_modified: '2021-01-14'
+date_modified: '2021-10-26'
 ---
 
 If there's a feature that you think would make MyCrypto a better product, we
@@ -27,6 +27,6 @@ want to know. Here's the best way to tell us:
 Features that are requested with the above information have a better chance of
 getting implemented.
 
-If there is no existing GitHub issue for your feature request yet, feel free to [open a new issue](https://github.com/MyCryptoHQ/MyCrypto/issues/new), or reach out to us through [the contact form](/contact-us).
+If there is no existing GitHub issue for your feature request yet, feel free to [open a new issue](https://github.com/MyCryptoHQ/MyCrypto/issues/new), or [send us an email](mailto:support@mycrypto.com).
 
 Thanks for the suggestions!

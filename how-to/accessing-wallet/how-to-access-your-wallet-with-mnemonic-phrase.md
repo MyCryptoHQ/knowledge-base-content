@@ -5,7 +5,11 @@ tags:
   - Private Keys
 priority: 100
 date_published: '2017-06-20'
-date_modified: '2021-10-25'
+date_modified: '2021-10-26'
+related_articles:
+  - how-to/backup-restore/how-to-save-back-up-your-wallet
+  - staying-safe/protecting-yourself-and-your-funds
+  - general-knowledge/ethereum-blockchain/difference-between-wallet-types
 ---
 
 ## Important Information
@@ -39,9 +43,3 @@ MyCrypto does not allow you to use the web application to access your Secret Rec
 3. The "View & Send" tab will appear. Click "Mnemonic Phrase."
 4. Enter your Secret Recovery Phrase. If you entered a password when you created the wallet, enter that as well. Failure to do so can change the list of addresses that you can access.
 5. Click "Choose address" and your list of wallets will show up.
-
-## Related articles
-
-- [Backing up your wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
-- [Protecting Yourself and Your Funds](/staying-safe/protecting-yourself-and-your-funds)
-- [Difference between an exchange and MyCrypto](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)

@@ -5,7 +5,11 @@ tags:
   - Transactions
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2021-01-27'
+date_modified: '2021-10-26'
+related_articles:
+  - general-knowledge/ethereum-blockchain/what-is-gas
+  - how-to/sending/checking-the-status-of-a-transaction
+  - how-to/sending/checking-or-replacing-a-transaction-after-it-has-been-sent
 ---
 
 If you plan to move a large amount of Ether or tokens, you should first send a test transaction of a small amount to the destination wallet to ensure everything goes as planned.
@@ -41,9 +45,3 @@ Depending on how you initially added the address that you are sending from, you 
 After signing your transaction, you will get an overview of the transaction that you are about to send. If everything looks good, hit "Confirm and Send".
 
 Your transaction is on its way!
-
-## Related Articles
-
-- [What is Gas](/general-knowledge/ethereum-blockchain/what-is-gas)
-- [Checking the Status of a Transaction](/how-to/sending/checking-the-status-of-a-transaction)
-- [How To Cancel or Replace a Stuck Transaction](/how-to/sending/checking-or-replacing-a-transaction-after-it-has-been-sent)

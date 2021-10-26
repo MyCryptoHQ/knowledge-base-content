@@ -7,7 +7,12 @@ tags:
   - Ethereum
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2021-01-15'
+date_modified: '2021-10-26'
+related_articles:
+  - general-knowledge/ethereum-blockchain/more-help-support-and-communities
+  - >-
+    how-to/getting-started/where-can-i-buy-sell-trade-or-exchange-my-eth-or-tokens
+  - how-to/tokens/showing-and-loading-tokens
 ---
 
 First, check the transaction on [Etherscan](https://etherscan.io/) or [Etherchain](https://www.etherchain.org/), and ensure that there is no red ( ! ) symbol or error in the transaction overview.
@@ -29,9 +34,3 @@ MyCrypto is not a "web wallet." We do not store your funds and you do not have a
 We also highly recommend that you Google the services you send funds to, as there are a lot of scams out there. Typing in "service name + scam" or "service name + reviews" will help you determine whether you are sending funds to a legitimate service.
 
 If you do not see the transaction on Etherscan or Etherchain, please check with the exchange that you used for this transaction because it may not have been broadcasted yet by the exchange.
-
-## Related articles
-
-- [More help, support and communities](/general-knowledge/ethereum-blockchain/more-help-support-and-communities)
-- [Where can I buy, sell, trade or exchange my Ether or tokens?](/how-to/getting-started/where-can-i-buy-sell-trade-or-exchange-my-eth-or-tokens)
-- [Showing and Loading Tokens](/how-to/tokens/showing-and-loading-tokens)

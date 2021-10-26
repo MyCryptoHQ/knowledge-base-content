@@ -7,7 +7,7 @@ tags:
   - MyCrypto
 priority: 2
 date_published: '2017-07-05'
-date_modified: '2021-01-14'
+date_modified: '2021-10-26'
 ---
 
 MyCrypto uses the `window.crypto` method which is a cryptographically secure pseudo-random number generator. It does not matter if you are online or offline.
@@ -33,14 +33,3 @@ As far as entropy on your system itself: it's no longer the case that a new comp
 ## Summary
 
 The good news is is that we're relying on things that really really smart groups of people to build and maintain how our keys are generated. There are glorious amount of specs (and even specs about testing those specs). The bad news is...if something in the above fail spectacularly, your insecurely generated ETH wallet is going to be the least of the world's issues.
-
-## Related articles
-
-- <https://arstechnica.com/information-technology/2015/05/crypto-flaws-in-blockchain-android-app-sent-bitcoins-to-the-wrong-address/>
-- <https://blog.cryptographyengineering.com/2015/04/02/truecrypt-report/>
-- <https://bugs.chromium.org/p/chromium/issues/detail?id=552749>
-- <https://www.cryptolux.org/images/7/7f/RNG_Survey.pdf>
-- <https://news.ycombinator.com/item?id=6195493>
-- <https://www.reddit.com/r/Bitcoin/comments/37oxow/the_security_issue_of_blockchaininfos_android/crolfk4/>
-- <https://twitter.com/tdryja/status/955161784792465408>
-- <https://www.reddit.com/r/Iota/comments/7rmc55/psa_do_not_use_online_seed_generators/>

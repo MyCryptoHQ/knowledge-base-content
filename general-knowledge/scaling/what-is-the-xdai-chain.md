@@ -3,7 +3,10 @@ title: What is the xDai chain?
 tags:
   - xDai
 date_published: '2021-03-17'
-date_modified: '2021-03-17'
+date_modified: '2021-10-26'
+related_articles:
+  - general-knowledge/scaling/how-to-get-xdai
+  - general-knowledge/scaling/how-to-connect-an-xdai-account-to-mycrypto
 ---
 
 The xDai chain is an Ethereum-based sidechain that uses a Proof-of-Stake mechanism. It has been live since late 2018 and uses a stablecoin, xDai, as its native cryptocurrency.
@@ -33,8 +36,3 @@ The xDai chain is a good companion to Ethereum.
 As we briefly mentioned earlier, transactions on the xDai chain are very fast and very cheap. **A transaction on the xDai chain costs a few pennies and will confirm in a matter of seconds**, compared to many dollars and likely many minutes on the Ethereum chain.
 
 Simply put, if you’re being stonewalled by Ethereum’s gas fees or if you want to explore what else is out there, you can ⭐actually do things⭐ on xDai!
-
-## Related Articles
-
-- [How to get xDai](/general-knowledge/scaling/how-to-get-xdai)
-- [How to connect an xDai account to MyCrypto](/general-knowledge/scaling/how-to-connect-an-xdai-account-to-mycrypto)

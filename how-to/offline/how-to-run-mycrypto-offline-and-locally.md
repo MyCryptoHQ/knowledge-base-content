@@ -5,7 +5,10 @@ tags:
   - Offline
 priority: 100
 date_published: '2017-07-05'
-date_modified: '2021-10-25'
+date_modified: '2021-10-26'
+related_articles:
+  - how-to/sending/how-to-make-an-offline-transaction
+  - how-to/accessing-wallet/how-to-check-the-balance-of-your-account
 ---
 
 <Alert label="The desktop application is not actively maintained.">
@@ -29,8 +32,3 @@ Move the downloaded executable to a USB stick or something similar, in order to 
 To open the MyCrypto application, double-click the executable. This should open up a new window on your computer with the local version of MyCrypto running. You will get a warning that says it is unable to connect to the network, but this is completely normal. You won't be able to see your Ether or token balance through your local MyCrypto, but you can still use [Etherscan](https://etherscan.io/) or [Etherchain](https://www.etherchain.org/) to see your balance.
 
 Be sure to periodically check for new updates to the MyCrypto desktop app, as it can't automatically let you know when it's on an offline computer. To update, simply download the newest version on [download.mycrypto.com](https://download.mycrypto.com/).
-
-## Related Articles
-
-- [How To Make An Offline Transaction](/how-to/sending/how-to-make-an-offline-transaction)
-- [Checking the Balance of Your Account](/how-to/accessing-wallet/how-to-check-the-balance-of-your-account)

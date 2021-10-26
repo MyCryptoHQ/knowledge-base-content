@@ -5,7 +5,7 @@ tags:
   - Ethereum
 priority: 30
 date_published: '2018-04-30'
-date_modified: '2021-01-14'
+date_modified: '2021-10-26'
 ---
 
 > Picture a spreadsheet that is duplicated thousands of times across a network of computers. Then imagine that this network is designed to regularly update this spreadsheet and you have a basic understanding of the blockchain.
@@ -80,12 +80,3 @@ Web3 extensions like MetaMask allow you to interact with the distributed web and
 - As mentioned above, limit when and where you publish your address to the web if you want to remain as secure as possible. Google indexes everything and once your address is out there, it’s going to be there for a long time.
 - Be mindful of what information you are revealing when interacting with Dapps, especially those that do create some sort of “identity.” Use different addresses for different Dapps when appropriate.
 - Be especially careful when publishing information to the blockchain that you may want to delete in the future. That bad meme, typo, or full name may be on the blockchain forever.
-
-## Related articles
-
-- [https://blockgeeks.com/guides/what-is-blockchain-technology/](https://blockgeeks.com/guides/what-is-blockchain-technology/)
-- [http://www.dummies.com/software/other-software/the-transparency-of-bitcoin/](http://www.dummies.com/software/other-software/the-transparency-of-bitcoin/)
-- [https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-transparency-explained](https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-transparency-explained)
-- [https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-privacy-explained](https://lisk.io/academy/blockchain-basics/benefits-of-blockchain/blockchain-privacy-explained)
-- [https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/](https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/)
-- [https://en.bitcoin.it/wiki/Address_reuse](https://en.bitcoin.it/wiki/Address_reuse)

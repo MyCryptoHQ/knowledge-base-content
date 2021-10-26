@@ -5,7 +5,9 @@ tags:
   - Tokens
 priority: 90
 date_published: '2017-11-12'
-date_modified: '2020-10-08'
+date_modified: '2021-10-26'
+related_articles:
+  - how-to/tokens/how-to-add-a-custom-token
 ---
 
 ## Not a valid ERC-20 token error

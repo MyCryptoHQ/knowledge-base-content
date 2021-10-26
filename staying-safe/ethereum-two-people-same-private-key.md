@@ -6,7 +6,9 @@ tags:
   - Private Keys
 priority: 50
 date_published: '2017-07-05'
-date_modified: '2021-01-15'
+date_modified: '2021-10-26'
+related_articles:
+  - staying-safe/couldnt-everybody-put-in-a-random-key-and-send-to-own-address
 ---
 
 First of all, a wallet's private key is not given, it is randomly generated. Then the public key is derived from it and, finally, the address is derived from the public key. It is remotely possible that someone else could randomly generate the same private key, but the chances of that happening are unbelievably tiny. Let's take things into perspective.
@@ -48,7 +50,3 @@ But what makes it impossible to find and brute force any specific address is the
 The estimated age of the universe is about 4.32 x 10^17 seconds. In order to check half of the possible addresses in 4.32 x 10^17 seconds, you would need to make approx 1.6 x 10^31 addresses per second. That's 16 nonillion addresses. Per second. For the entire history of the universe so far. That's to cover half of the addresses.
 
 Even if the blockchain is in active, vigorous use for the next ten thousand years, the chances of a duplicate private key are stochastically zero.
-
-## Related articles
-
-- [Couldn't everybody put in random private keys, look for a balance, and send to their own address?](/staying-safe/couldnt-everybody-put-in-a-random-key-and-send-to-own-address)

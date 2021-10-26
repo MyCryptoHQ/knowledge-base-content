@@ -5,7 +5,10 @@ tags:
   - Tokens
 priority: 100
 date_published: '2017-12-04'
-date_modified: '2020-07-01'
+date_modified: '2021-10-26'
+related_articles:
+  - >-
+    general-knowledge/investing-icos-tokens/best-ways-to-avoid-missing-out-on-that-ico
 ---
 
 ICO stands for "Initial Coin Offering," and is also known as a “token sale” or "crowdsale." It is an unregulated fundraising method for startups. Startup companies use these funds to further develop and complete their blockchain-based software projects. An ICO is similar to an IPO ("Initial Public Offering"), in which investors purchase shares of a company.

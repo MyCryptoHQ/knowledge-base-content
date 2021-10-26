@@ -5,7 +5,9 @@ tags:
   - Tokens
 priority: 20
 date_published: '2017-11-26'
-date_modified: '2020-10-08'
+date_modified: '2021-10-26'
+related_articles:
+  - staying-safe/protecting-yourself-and-your-funds
 ---
 
 Lately, a lot of blockchain projects on Ethereum have been 'airdropping' tokens in the wallets of users. This is done to either spread the distribution of tokens, or to advertise the token to users.

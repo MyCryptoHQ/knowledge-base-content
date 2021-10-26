@@ -6,10 +6,8 @@ tags:
   - Phishing
 priority: 70
 date_published: '2017-07-06'
-date_modified: '2020-10-08'
+date_modified: '2021-10-26'
 ---
-
-## Preface
 
 This is the updated version of the original post on Steemit [here](https://steemit.com/cryptocurrency/@tomshwom/tomshwom-s-advanced-crypto-security-guide-part-3-creating-a-secure-wallet).
 

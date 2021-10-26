@@ -6,7 +6,7 @@ tags:
   - Addresses
 priority: 75
 date_published: '2017-07-05'
-date_modified: '2020-10-08'
+date_modified: '2021-10-26'
 ---
 
 MyCrypto is not a "web wallet." You do not create an account or give us your ETH or tokens to hold on to. We are simply an interface that allows you to easily interact with cryptocurrency.
@@ -23,7 +23,3 @@ Unfortunately, this means we cannot:
 - Recover or reset your password
 
 If the account you sent to belongs to another party, such as an individual or an exchange, you should try and reach out to them to find out whether you can recover your funds. You can determine whether the account in use by searching it on [Etherscan](https://etherscan.io) and seeing if there are any other incoming or outgoing transactions.
-
-## Related articles
-
-- [Sending and Receiving](/how-to/sending)

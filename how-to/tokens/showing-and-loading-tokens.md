@@ -5,7 +5,10 @@ tags:
   - Tokens
 priority: 100
 date_published: '2017-12-23'
-date_modified: '2021-01-27'
+date_modified: '2021-10-26'
+related_articles:
+  - how-to/tokens/how-to-add-a-custom-token
+  - how-to/tokens/how-to-receive-tokens
 ---
 
 Upon adding your addresses to your MyCrypto interface, any tokens your addresses hold will automatically be shown in the balance overview.
@@ -19,8 +22,3 @@ You can also find a list of tokens that your addresses hold in the "Tokens" sect
 If a token you would like to see or send is not showing up, you will need to add it as a custom token. [You can find instructions on how to add a custom token here](/how-to/tokens/how-to-add-a-custom-token).
 
 ![No tokens found](../../assets/how-to/tokens/showing-and-loading-tokens/no-tokens-found.png)
-
-## Related Articles
-
-- [Adding a Custom Token](/how-to/tokens/how-to-add-a-custom-token)
-- [Receiving Tokens](/how-to/tokens/how-to-receive-tokens)

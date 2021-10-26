@@ -6,7 +6,7 @@ tags:
   - Gas
 priority: 10
 date_published: '2021-08-05'
-date_modified: '2021-08-06'
+date_modified: '2021-10-26'
 ---
 
 August 5th saw the deployment of the London hard fork, which includes various changes to how transaction fees are handled on Ethereum, aiming to make them more predictable. These changes are part of an Ethereum Improvement Proposal (EIP), known as EIP-1559.
@@ -36,8 +36,3 @@ If you wish, you can manually change the transaction fee by clicking the pencil 
 ![Transaction fee detailed view](../../assets/general-knowledge/ethereum-blockchain/what-is-eip-1559/tx-fee-detailed.png)
 
 The **Max Fee** is the highest total gas price per gas unit that you're willing to spend on your transaction, and is a maximum that consists of both the base fee and priority fee. The **Max Priority Fee** is an optional amount that gets paid to the miner that processes your transaction. Keep in mind that the Max Priority Fee should not exceed the Max Fee.
-
-## Related articles
-
-- [This is EIP-1559](https://thedailygwei.substack.com/p/this-is-eip-1559-the-daily-gwei-300)
-- [What is EIP-1559? How Will It Change Ethereum?](https://consensys.net/blog/quorum/what-is-eip-1559-how-will-it-change-ethereum/)

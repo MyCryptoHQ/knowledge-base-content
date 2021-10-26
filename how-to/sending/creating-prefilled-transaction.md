@@ -6,7 +6,9 @@ tags:
   - Beta
 priority: 40
 date_published: '2019-01-22'
-date_modified: '2021-01-27'
+date_modified: '2021-10-26'
+related_articles:
+  - general-knowledge/ethereum-blockchain/what-is-gas
 ---
 
 Pre-filled transactions can be created by appending certain parameters into the query section of a URL.
@@ -36,7 +38,3 @@ ETH Transaction
 ERC20 Transaction
 
 <https://app.mycrypto.com/send?type=resubmit&gasLimit=0x5208&chainId=1&nonce=0xD8&gasPrice=0x059682f000&from=0x5197B5b062288Bbf29008C92B08010a92Dd677CD&to=0x6B175474E89094C44Da98b954EedeAC495271d0F&value=0x0&data=0xa9059cbb0000000000000000000000005197B5b062288Bbf29008C92B08010a92Dd677CD000000000000000000000000000000000000000000000104f6e0a229913de8a2>
-
-## Related articles
-
-- [What is Gas](/general-knowledge/ethereum-blockchain/what-is-gas)

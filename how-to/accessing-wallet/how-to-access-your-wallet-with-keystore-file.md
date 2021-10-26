@@ -5,7 +5,12 @@ tags:
   - Private Keys
 priority: 40
 date_published: '2017-06-20'
-date_modified: '2021-10-25'
+date_modified: '2021-10-26'
+related_articles:
+  - how-to/backup-restore/how-to-save-back-up-your-wallet
+  - staying-safe/protecting-yourself-and-your-funds
+  - >-
+    general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto
 ---
 
 ## Important Information
@@ -54,10 +59,3 @@ MyCrypto does not allow you to use the web application to access your keystore f
 
 7. Find your account address, next to a colorful, circular icon. This icon visually represents your address.
    - If you printed out your wallet, check to be sure the circles match. They should be the same colors and shapes. Otherwise, something went wrong and you should start over.
-
-## Related articles
-
-- [Backing up your wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
-- [Sending & Receiving](/how-to/sending)
-- [Protecting Yourself and Your Funds](/staying-safe/protecting-yourself-and-your-funds)
-- [Difference between an exchange and MyCrypto](/general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto)

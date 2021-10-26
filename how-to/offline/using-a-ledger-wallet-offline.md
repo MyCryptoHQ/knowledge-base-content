@@ -6,7 +6,9 @@ tags:
   - Ledger
 priority: 70
 date_published: '2018-02-15'
-date_modified: '2021-10-25'
+date_modified: '2021-10-26'
+related_articles:
+  - how-to/sending/how-to-make-an-offline-transaction
 ---
 
 <Alert label="The desktop application is not actively maintained.">

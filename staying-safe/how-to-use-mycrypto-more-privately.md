@@ -6,7 +6,11 @@ tags:
   - MyCrypto
 priority: 75
 date_published: '2021-04-30'
-date_modified: '2021-08-15'
+date_modified: '2021-10-26'
+related_articles:
+  - general-knowledge/ethereum-blockchain/is-the-blockchain-private
+  - how-to/offline/how-to-run-mycrypto-offline-and-locally
+  - general-knowledge/about-mycrypto/how-can-mycrypto-send-offline
 ---
 
 With the cryptocurrency industry growing faster than ever, it has become more and more lucrative for financial companies and institutions to know as much as possible about you and how you interact with your funds online. While [data breaches are happening left and right](https://haveibeenpwned.com/), and marketing companies are tracking your every step online, privacy has never been more important -- and has never been more difficult to achieve.
@@ -84,9 +88,3 @@ Feel free to read our [Privacy Policy](https://mycrypto.com/privacy/) for more i
 Preserving your privacy online is a massive feat, and these are just some of the tips we’ve gathered to help you stay more private while interacting with your funds.
 
 Be mindful of what information you are revealing online, and how it might be attached to your Ethereum accounts. Posting your Ethereum addresses out in the open might attract unwanted attention, and we highly recommend you try your best to [protect yourself and your funds](/staying-safe/protecting-yourself-and-your-funds).
-
-## Related articles
-
-- [Is the Blockchain Private?](/general-knowledge/ethereum-blockchain/is-the-blockchain-private)
-- [How To Run MyCrypto Offline and Locally](/how-to/offline/how-to-run-mycrypto-offline-and-locally)
-- [How Can MyCrypto Send Offline?](/general-knowledge/about-mycrypto/how-can-mycrypto-send-offline)

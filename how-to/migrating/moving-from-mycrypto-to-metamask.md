@@ -6,7 +6,9 @@ tags:
   - MetaMask
 priority: 80
 date_published: '2017-10-08'
-date_modified: '2021-06-23'
+date_modified: '2021-10-26'
+related_articles:
+  - how-to/sending/how-to-send-a-transaction
 ---
 
 ## Using MetaMask + MyCrypto has 3 key benefits:
@@ -90,8 +92,3 @@ Your existing wallet should now be visible in MetaMask along with your Ether and
 ## Warning!
 
 - If you are sending a huge amount of tokens or ETH, please send a small test amount first. Or consider [getting a hardware wallet](/staying-safe/hardware-wallet-recommendations) or [running MyCrypto offline](/how-to/offline/how-to-run-mycrypto-offline-and-locally). This ensures you are as secure as possible.
-
-## Related articles
-
-- [MetaMask Privacy Policy](https://metamask.io/privacy.html)
-- [How to Transfer Funds](/how-to/sending/how-to-send-a-transaction)

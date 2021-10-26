@@ -5,7 +5,7 @@ tags:
   - Tokens
 priority: 90
 date_published: '2017-07-05'
-date_modified: '2021-01-14'
+date_modified: '2021-10-26'
 ---
 
 - Create a new wallet and back it up in triplicate in physically different locations. (Your house could catch fire and you don't want to be without your backups).
@@ -63,7 +63,3 @@ Now you have 2 transactions. You can send the first one _or_ the first and the s
 If at this point you still aren't able to get in, then there is a higher power telling you that you shouldn't invest in this clown show. Turn off your computer and go outside and thank the gods they protected you.
 
 My biggest recommendation though: send more transactions. I send like 10 TXs a day. I can do it in my sleep. But I was scared for the longest time, which caused me to make mistakes. Get comfortable sending by _sending_. Create a couple accounts and send 0.01 ETH to each of them. Then send 0.001 ETH back and forth every single day. Do things wrong. See the errors. Fix the errors. Do things right. Get comfortable.
-
-## Source
-
-[https://www.reddit.com/r/ethtrader/comments/68vf2i/things_i_would_do_for_you_if_you_were_about_to/dh2cy9t/](https://www.reddit.com/r/ethtrader/comments/68vf2i/things_i_would_do_for_you_if_you_were_about_to/dh2cy9t/)

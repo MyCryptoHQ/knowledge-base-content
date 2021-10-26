@@ -6,7 +6,9 @@ tags:
   - Transactions
 priority: 60
 date_published: '2018-02-06'
-date_modified: '2021-01-27'
+date_modified: '2021-10-26'
+related_articles:
+  - general-knowledge/ethereum-blockchain/what-is-gas
 ---
 
 If you send a transaction with a gas limit that is too low, you may run into the following error: "Warning! Error encountered during contract execution [Out of Gas]." Each transaction on the blockchain requires gas, and the higher the complexity is of the transaction, the more gas it needs.
@@ -30,7 +32,3 @@ Alternatively, you can look at other transactions to the same token or contract.
 ![Gas used by transaction](../../assets/how-to/sending/how-to-know-what-gas-limit-to-use/gas-used-by-transaction.png)
 
 The gas used by a transaction may vary slightly, so you can use something that is slightly higher than the gas used by the transaction, like 50,000 in this case.
-
-## Related articles
-
-- [What is Gas?](/general-knowledge/ethereum-blockchain/what-is-gas)

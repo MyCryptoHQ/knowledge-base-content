@@ -6,10 +6,10 @@ tags:
   - Backups
 priority: 90
 date_published: '2018-04-18'
-date_modified: '2021-01-15'
+date_modified: '2021-10-26'
+related_articles:
+  - staying-safe/hardware-wallet-recommendations
 ---
-
-## Preface
 
 The following assumes you are using a Ledger Nano S or Trezor hardware wallet. Due to their ease of use and security, [we recommend a hardware wallet for cold storage](/staying-safe/hardware-wallet-recommendations).
 
@@ -39,12 +39,3 @@ You can also opt for a fire-proof bag if you don't have any external place to ke
 Analyze your personal risk and your situation. Would your life be over if the funds on that device were to be lost? How upset would you be? How much money do you have stored on it? What would be the impact of losing access to that device (including emotional damage / stress)? This is the amount of money you should spend securing it. We were recently talking and arrived at the conclusion that 100% of people who have over 1-weeks' worth of pay in crypto should have a hardware wallet. Considering that a fire-proof bag is < $20, it's pretty much a no-brainer if you are in this space.
 
 Hope this helps!
-
-## Related articles
-
-- [Seed, PIN, and Passphrase - Trezor](https://blog.trezor.io/seed-pin-passphrase-e15d14a0b546)
-- [Setting Up Your Ledger Nano S](/how-to/migrating/moving-from-mycrypto-to-ledger)
-- [Buy a Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
-- [Buy a Trezor](https://shop.trezor.io/?offer_id=10&aff_id=1735)
-- [Buy a Keepkey](http://keepkey.go2cloud.org/aff_c?offer_id=1&aff_id=4086)
-- [More on Hardware Wallets](/how-to/hardware-wallets)

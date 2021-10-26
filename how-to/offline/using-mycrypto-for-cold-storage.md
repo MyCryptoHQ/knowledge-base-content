@@ -6,7 +6,10 @@ tags:
   - Private Keys
 priority: 80
 date_published: '2017-07-05'
-date_modified: '2021-10-25'
+date_modified: '2021-10-26'
+related_articles:
+  - general-knowledge/ethereum-blockchain/difference-between-wallet-types
+  - staying-safe/protecting-yourself-and-your-funds
 ---
 
 <Alert label="The desktop application is not actively maintained.">
@@ -75,8 +78,3 @@ This prevents loss of the private key & password due to: dead hard drive, lost U
 MyCrypto is not a web wallet and cannot recover your private key or password, access your account, move funds, recover funds, nor cancel/reverse transactions.
 
 We are a client-side interface that allows you to interact with the Ethereum blockchain. Please secure & back up your key like the millions of dollars it could someday be worth.
-
-### Related articles
-
-- [What is the difference between private key & Keystore / UTC file?](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)
-- [Protecting yourself and your funds](/staying-safe/protecting-yourself-and-your-funds)

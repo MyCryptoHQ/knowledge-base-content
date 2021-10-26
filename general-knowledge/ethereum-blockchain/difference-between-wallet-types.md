@@ -5,7 +5,11 @@ tags:
   - Private Keys
 priority: 110
 date_published: '2017-07-05'
-date_modified: '2021-06-23'
+date_modified: '2021-10-26'
+related_articles:
+  - staying-safe/protecting-yourself-and-your-funds
+  - how-to/backup-restore/how-to-save-back-up-your-wallet
+  - staying-safe/hardware-wallet-recommendations
 ---
 
 Cryptocurrency might be home to some of the most confusing naming conventions on Earth.
@@ -79,9 +83,3 @@ We absolutely recommend being proactive about the [security of your funds](/stay
 
 - Buy a [Ledger](https://www.ledgerwallet.com/r/1985?path=/products/)
 - Buy a [Trezor](https://shop.trezor.io/?offer_id=10&aff_id=1735)
-
-## Related articles
-
-- [Protecting Yourself and Your Funds](/staying-safe/protecting-yourself-and-your-funds)
-- [How to Properly Save and Backup your Wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
-- [Hardware Wallet Recommendations](/staying-safe/hardware-wallet-recommendations)

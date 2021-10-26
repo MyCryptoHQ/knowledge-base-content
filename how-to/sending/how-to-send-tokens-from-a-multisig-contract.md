@@ -4,7 +4,9 @@ tags:
   - Tokens
 priority: 90
 date_published: '2020-06-26'
-date_modified: '2021-10-25'
+date_modified: '2021-10-26'
+related_articles:
+  - how-to/sending/how-to-interact-with-a-multisig-contract
 ---
 
 <Alert label="Looking to send Ether instead?">

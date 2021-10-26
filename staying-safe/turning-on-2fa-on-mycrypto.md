@@ -6,7 +6,10 @@ tags:
   - MyCrypto
 priority: 60
 date_published: '2017-07-05'
-date_modified: '2021-06-23'
+date_modified: '2021-10-26'
+related_articles:
+  - >-
+    general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto
 ---
 
 [2FA / MFA](https://en.wikipedia.org/wiki/Multi-factor_authentication) is something that works for server-side applications in order to add an additional layer of security on top of the username and password.
@@ -57,8 +60,3 @@ In the case of MyCrypto.com, a client-side application, we do not have servers i
 In order to implement 2FA, we would need to store your key and protect it on our servers. This is simply not something we want to do. If we did so, we would have a situation where anyone who gets access to our servers, your keys, or your 2FA codes gets access to the funds of every user on our servers. The bounty on hacking our servers is as large as the funds held by every user. That's a huge bounty and is dangerous.
 
 If this is functionality that you do want, feel free to use an exchange or hosted wallet, such as Coinbase, Kraken, Poloniex, Bittrex, Bitfinex, Gemini, and so forth. Just be aware of the risk of letting someone else hold your keys and, in turn, 2FA codes for you.
-
-## Related articles
-
-- [Security & Phishing](/staying-safe)
-- [What is the Difference between an Exchange and MyCrypto?](/general-knowledge/about-mycrypto/whats-the-difference-between-an-exchange-and-mycrypto)
