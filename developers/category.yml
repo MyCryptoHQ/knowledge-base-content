@@ -1,6 +1,7 @@
 title: For Developers / Contributors
 description: Ethereum thrives on the efforts of builders. Read up on how you can contribute to MyCrypto's open-source platform.
 priority: 1
+badge: info
 icon:
   small: team
   large: ../assets/developers/icon.svg

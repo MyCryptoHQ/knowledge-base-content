@@ -1,6 +1,7 @@
 title: How to Stay Safe
 description: Safety first! Learn how to spot scams, avoid phishing, and protect your digital assets.
 priority: 3
+badge: warning
 icon:
   small: lock
   large: ../assets/staying-safe/icon.svg
