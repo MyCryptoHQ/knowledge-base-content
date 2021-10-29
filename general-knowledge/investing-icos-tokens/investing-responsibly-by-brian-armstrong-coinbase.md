@@ -5,7 +5,7 @@ tags:
   - Exchanges
 priority: 50
 date_published: '2017-12-09'
-date_modified: '2021-01-14'
+date_modified: '2021-10-26'
 ---
 
 We at Coinbase couldn’t be more excited by the explosion of interest in digital currencies. The last few weeks has seen an unprecedented increase in the price of digital currencies. More people are engaging with our platform than ever and that bodes well for the future of the digital currency. At the same time, it does create extreme volatility and stress on our systems. We take this very seriously and wanted to share some important thoughts.
@@ -29,11 +29,3 @@ As a proactive measure, we encourage customers to check the following items on t
 3. Familiarize yourself with your buy and sell limits. They can be found here.
 4. Complete any pending identity verifications. During times of significant volatility, ID verification may become degraded or unavailable. To learn more about identity verification on Coinbase, please refer to this FAQ.
 5. Expect payments to take the maximum number of days indicated when making a deposit or withdrawal.
-
-## Related articles
-
-- [https://buynhodl.com/ether-investor-focus-olaf-carlson-wee-polychain-capital/](https://buynhodl.com/ether-investor-focus-olaf-carlson-wee-polychain-capital/)
-
-## Source
-
-- [https://blog.coinbase.com/please-invest-responsibly-an-important-message-from-the-coinbase-team-bf7f13a4b0b1](https://blog.coinbase.com/please-invest-responsibly-an-important-message-from-the-coinbase-team-bf7f13a4b0b1)

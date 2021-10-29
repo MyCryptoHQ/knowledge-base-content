@@ -5,7 +5,12 @@ tags:
   - Tokens
 priority: 100
 date_published: '2017-01-25'
-date_modified: '2021-01-27'
+date_modified: '2021-10-26'
+related_articles:
+  - troubleshooting/tokens/unable-to-see-token-balance
+  - >-
+    general-knowledge/about-mycrypto/does-mycrypto-support-bitcoin-or-other-coins
+  - developers/add-token-to-default-list
 ---
 
 If you can't see a token when you access your address with MyCrypto, you simply need to add it as a custom token to your interface. MyCrypto ships with a list of tokens that it will automatically scan your address for, which is regularly updated. However, it may happen that a new token is not on this list just yet, in which case you will have to manually add it to your interface.
@@ -53,9 +58,3 @@ You can hide token balances by expanding the Balance Breakdown and clicking the 
 ![Hide token](../../assets/troubleshooting/tokens/adding-new-token-and-sending-custom-tokens/hide-token.png)
 
 Hiding tokens will merely remove the visibility of these tokens. It will not delete or remove the token from the address itself.
-
-## Related articles
-
-- [Unable to see token balance](/troubleshooting/tokens/unable-to-see-token-balance)
-- [Can I store any coin in MyCrypto?](/general-knowledge/about-mycrypto/does-mycrypto-support-bitcoin-or-other-coins)
-- [Adding a token as a default token in MyCrypto](/developers/add-token-to-default-list)

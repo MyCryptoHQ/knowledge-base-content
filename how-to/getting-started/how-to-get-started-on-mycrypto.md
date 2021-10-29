@@ -1,12 +1,14 @@
 ---
 title: Learn More About MyCrypto and How to Get Started
-description: ''
 tags:
   - MyCrypto
   - Safety & Security
-priority: 100
 date_published: '2015-10-05'
-date_modified: '2021-06-23'
+date_modified: '2021-10-26'
+related_articles:
+  - staying-safe/protecting-yourself-and-your-funds
+  - staying-safe/hardware-wallet-recommendations
+  - how-to/offline/how-to-run-mycrypto-offline-and-locally
 ---
 
 - Please take some time to understand this for your own security.
@@ -19,7 +21,7 @@ date_modified: '2021-06-23'
 - You and only you are responsible for your security.
 - We cannot recover your funds or freeze your account if you visit a phishing site or lose your private key.
 
-<Image float="right" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-1.svg" />
+<Image float="right" max="250px" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-1.svg" />
 
 ## MyCrypto is not a bank
 
@@ -31,7 +33,7 @@ date_modified: '2021-06-23'
 
 <Clearfix />
 
-<Image float="left" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-2.svg" />
+<Image float="left" max="250px" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-2.svg" />
 
 ## MyCrypto is an interface
 
@@ -45,7 +47,7 @@ date_modified: '2021-06-23'
 
 <Clearfix />
 
-<Image float="right" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-3.svg" />
+<Image float="right" max="250px" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-3.svg" />
 
 ## Wait, what is a blockchain?
 
@@ -58,7 +60,7 @@ date_modified: '2021-06-23'
 
 <Clearfix />
 
-<Image float="left" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-4.svg" />
+<Image float="left" max="250px" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-4.svg" />
 
 ## We need you to understand that we **cannot**...
 
@@ -77,7 +79,7 @@ date_modified: '2021-06-23'
 - If lose your private key or password, no one can recover it.
 - If you enter your private key on a phishing website, you will have all your funds taken.
 
-<Image float="right" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-5.svg" />
+<Image float="right" max="250px" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-5.svg" />
 
 ## If MyCrypto can't do those things, what's the point?
 
@@ -90,7 +92,7 @@ date_modified: '2021-06-23'
 
 <Clearfix />
 
-<Image float="left" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-6.svg" />
+<Image float="left" max="250px" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-6.svg" />
 
 ## How to protect yourself from phishers
 
@@ -104,7 +106,7 @@ Phishers send you a message with a link to a website that looks just like MyCryp
 
 <Clearfix />
 
-<Image float="right" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-7.svg" />
+<Image float="right" max="250px" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-7.svg" />
 
 ## How to protect yourself from scams
 
@@ -115,7 +117,7 @@ Phishers send you a message with a link to a website that looks just like MyCryp
 
 <Clearfix />
 
-<Image float="left" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-8.svg" />
+<Image float="left" max="250px" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-8.svg" />
 
 ## How to protect yourself from loss
 
@@ -128,7 +130,7 @@ If you lose your private key or password, it is gone forever. Don't lose it.
 
 <Clearfix />
 
-<Image float="right" max="25rem" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-9.svg" />
+<Image float="right" max="250px" src="../../assets/how-to/getting-started/how-to-get-started-on-mycrypto/onboarding-icon-9.svg" />
 
 ## Onwards!
 

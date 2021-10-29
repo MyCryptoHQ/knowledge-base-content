@@ -6,7 +6,7 @@ tags:
   - Exchanges
 priority: 75
 date_published: '2015-07-15'
-date_modified: '2020-10-08'
+date_modified: '2021-10-26'
 ---
 
 > How do I move from Coinbase to MyCrypto? [Exchange/Hosted Wallet -> MyCrypto]
@@ -55,8 +55,3 @@ When it shows up, you now have your funds. If you want to send them, simply unlo
 If you do not back up your private key, you cannot access your ETH and we cannot recover them. Please make sure to have backups of your private key.
 
 Enjoy!
-
-## Related articles
-
-- [Coinbase Privacy Policy](https://www.coinbase.com/legal/privacy)
-- [Coinbase User Policies and Other Legal Disclosures](https://www.coinbase.com/legal/user_agreement)

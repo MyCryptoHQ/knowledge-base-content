@@ -6,7 +6,7 @@ tags:
   - MyCrypto
 priority: 60
 date_published: '2017-07-05'
-date_modified: '2020-10-08'
+date_modified: '2021-10-26'
 ---
 
 One of the important things that you need to understand is that every address already "exists". When you "create a wallet" you are not actually doing anything on the blockchain or communicating with the blockchain in any way.
@@ -34,11 +34,3 @@ Your password enables you to decrypt a keystore file, which can be used to unloc
 You can generate a transaction offline using the same MyCrypto software in an offline environment and then broadcast that transaction code using an online device.
 
 This way your private key can remain secure on the offline device, and it can be used to generate a valid transaction for the online device to broadcast.
-
-## Related articles
-
-- [https://www.reddit.com/r/ethereum/comments/6n5qja/how_can_mycrypto_create_a_private_key_while/](https://www.reddit.com/r/ethereum/comments/6n5qja/how_can_mycrypto_create_a_private_key_while/)
-
-### Source
-
-- [/u/chickenbreth](https://www.reddit.com/r/ethtrader/comments/6hqycv/how_can_mew_send_coins_offline/)

@@ -6,7 +6,11 @@ tags:
   - Private Keys
 priority: 40
 date_published: '2018-06-20'
-date_modified: '2021-08-13'
+date_modified: '2021-10-26'
+related_articles:
+  - how-to/accessing-wallet/how-to-access-your-wallet-with-mnemonic-phrase
+  - how-to/getting-started/how-to-create-a-wallet
+  - how-to/backup-restore/how-to-save-back-up-your-wallet
 ---
 
 A **Secret Recovery Phrase**, **mnemonic phrase**, or **Seed Phrase** is a set of typically either 12 or 24 words, which can be used to derive an infinite number of accounts. Often times these phrases are used by cryptocurrency hardware wallets, to be written down on a piece of paper by the user to safely back up the users' funds.
@@ -31,16 +35,8 @@ There are some key differences between a typical password and the password that 
 
 Since every password generates a valid seed and will unlock a different account, there is no "wrong" password. It is meant to protect you from the ["wrench attack,"](https://xkcd.com/538/) and enables you to create a decoy wallet which has the same Secret Recovery Phrase but uses a different password. If someone forces you to give them access to your wallets, you could provide the decoy password, and keep the real password (with all your funds) a secret.
 
-<Alert>
+<Alert label="Be careful!">
 
 Losing this password will result in you losing access to your wallets and funds.
 
 </Alert>
-
-## Related articles
-
-- [How to Access Your Wallet with Secret Recovery Phrase](/how-to/accessing-wallet/how-to-access-your-wallet-with-mnemonic-phrase)
-- [How to Create a Wallet](/how-to/getting-started/how-to-create-a-wallet)
-- [How to Properly Save & Back Up Your Wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)
-- [The Journey from Secret Recovery Phrase to Address](https://blog.mycrypto.com/the-journey-from-mnemonic-phrase-to-address/)
-- [Trezor's Guide to Passphrases](https://wiki.trezor.io/User_manual:Advanced_settings#Passphrase)

@@ -1,5 +1,11 @@
 title: How-To Guides
 description: Step by step instructions on how to use MyCrypto & all its features.
+priority: 4
+list: true
+badge: action
+icon:
+  small: blog
+  large: ../assets/how-to/icon.svg
 
 categories:
   - getting-started
@@ -14,3 +20,7 @@ categories:
 
 articles:
   - how-to-buy-mycrypto-membership
+
+popular_articles:
+  - getting-started/where-to-get-testnet-ether
+  - getting-started/how-to-sign-and-verify-messages-on-ethereum

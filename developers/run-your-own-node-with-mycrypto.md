@@ -7,12 +7,12 @@ tags:
   - MyCrypto
 priority: 8
 date_published: '2017-07-05'
-date_modified: '2021-01-14'
+date_modified: '2021-10-25'
 ---
 
 You can use MyCrypto to connect to your own node, which decouples the frontend and features that you love about MyCrypto from our backend infrastructure. This means more nodes send more transactions and is closer to the decentralized nature of Ethereum. It also means that you fully control the entire process and don't rely on us.
 
-<Alert>
+<Alert label="Be careful!">
 
 When connecting to your own node, please do not have any accounts in that node. Meaning: Do not do things like `Geth account add` or store your private keys in the Geth Keystore folder.
 

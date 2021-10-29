@@ -8,7 +8,7 @@ tags:
   - Backups
 priority: 90
 date_published: '2017-07-05'
-date_modified: '2020-10-08'
+date_modified: '2021-10-26'
 ---
 
 _This is part of a series where Taylor pulls sweet comments she's made in the hope that they can be useful, searchable, remembered, referenced, and / or aid in the creation of future Knowledge Base posts._
@@ -50,9 +50,3 @@ You can also break out that old computer and see if you are still logged in anyw
 There are a few that you will not be able to get into. In those cases, you will need to reach out to the service itself and see what you would need to provide in order to get them to turn off 2FA for you or otherwise bypass.
 
 I strongly encourage everyone to have a beer, turn off your phone, and see what accounts you can get into without your 2FA codes. If you can get in, you need to adjust your settings to be more secure **AFTER you actually have viable, secure, offline backups of the recovery codes.**
-
----
-
-## Source
-
-- [https://www.reddit.com/r/ethtrader/comments/6vwk7p/what_happens_if_you_lose_your_phone_with_google/](https://www.reddit.com/r/ethtrader/comments/6vwk7p/what_happens_if_you_lose_your_phone_with_google/)

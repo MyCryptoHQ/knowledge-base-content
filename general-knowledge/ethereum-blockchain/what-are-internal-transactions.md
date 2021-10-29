@@ -5,7 +5,10 @@ tags:
   - Transactions
 priority: 70
 date_published: '2018-02-06'
-date_modified: '2020-07-01'
+date_modified: '2021-10-26'
+related_articles:
+  - troubleshooting/sending/transactions-not-showing-or-pending
+  - how-to/tokens/showing-and-loading-tokens
 ---
 
 Internal transactions, despite the name (which isn't part of the yellow paper but is a convention people have settled on), are not actual transactions. They are also not included directly in the blockchain; they are value transfers that were initiated by executing a smart contract (smart contract Ether or token transfer).

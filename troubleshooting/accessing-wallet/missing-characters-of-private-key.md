@@ -5,7 +5,9 @@ tags:
   - Private Keys
 priority: 60
 date_published: '2017-12-12'
-date_modified: '2021-01-15'
+date_modified: '2021-10-26'
+related_articles:
+  - troubleshooting/accessing-wallet/missing-characters-of-private-key
 ---
 
 Credit goes to Bahk (<https://github.com/domalak>).
@@ -129,8 +131,3 @@ for (var i = 0; i <= maxVal; i++) {
   }
 }
 ```
-
-## Related articles
-
-- [Finding multiple missing characters in private key.](https://gist.github.com/domalak/f72414b6be6bbe497416f11bfe0d224a)
-- [Find multiple missing characters of the very end of a private key.](/troubleshooting/accessing-wallet/missing-characters-of-private-key)

@@ -6,7 +6,10 @@ tags:
   - Safety & Security
 priority: 90
 date_published: '2019-03-29'
-date_modified: '2021-01-15'
+date_modified: '2021-10-26'
+related_articles:
+  - how-to/migrating/moving-from-mycrypto-to-ledger
+  - how-to/backup-restore/how-to-save-back-up-your-wallet
 ---
 
 When you first set up your Ledger device, you are asked to write down your recovery phrase. You can use this recovery phrase to get access to your funds when the device breaks, or you have to setup the device again for some reason. It is good practice to verify the recovery phrase, to make sure you didn't make any mistakes when writing it down.
@@ -47,8 +50,3 @@ There is a chance that the recovery phrase doesn't match. You may have wrote it 
 - You did not run the Recovery Check application with a passphrase.
 
 If the recovery phrase is still wrong, it's recommended to move all your funds to another wallet and fully reset the Ledger, so you can get a new recovery phrase. Carefully write it down and check it again after setting up the Ledger. Then, simply send back the funds to the new address for your Ledger device. We recommend that you carefully read [this guide](/how-to/backup-restore/how-to-save-back-up-your-wallet) on how to properly back-up your recovery phrase.
-
-## Related articles
-
-- [[MyCrypto ➡ Ledger] Moving from MyCrypto to Ledger](/how-to/migrating/moving-from-mycrypto-to-ledger)
-- [How to properly save & back up your wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)

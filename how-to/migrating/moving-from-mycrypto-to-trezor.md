@@ -6,7 +6,7 @@ tags:
   - Trezor
 priority: 90
 date_published: '2017-11-08'
-date_modified: '2021-06-23'
+date_modified: '2021-10-25'
 ---
 
 The Trezor is one of the best and easiest-to-use cryptocurrency hardware wallets out there, and is available for purchase [here](https://shop.trezor.io/?offer_id=10&aff_id=1735). While the Trezor supports a wide range of cryptocurrencies, this guide was specifically written for using Ether and ERC-20 tokens with MyCrypto.
@@ -152,4 +152,4 @@ Trezor made a clear and easy-to-follow guide on how to restore the device [here]
 ## Troubleshooting
 
 - Trezor has an extensive knowledge base that you can find [here](https://trezor.io/support/), and MyCrypto's is [here](/). There is a big chance that any issue you might encounter is already listed on one of them.
-- If you need further assistance, reach out to [Trezor](https://trezor.io/support/technical/issue/) or [MyCrypto](/contact-us/) support.
+- If you need further assistance, reach out to [Trezor](https://trezor.io/support/technical/issue/) or [MyCrypto](mailto:support@mycrypto.com) support.

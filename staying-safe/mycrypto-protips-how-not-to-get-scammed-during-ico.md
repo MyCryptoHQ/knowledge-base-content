@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 85
 date_published: '2017-07-05'
-date_modified: '2021-08-15'
+date_modified: '2021-10-26'
 ---
 
 Below are some tips to reduce the risk of losing your hard-earned coins
@@ -74,7 +74,3 @@ In this case, district0x's is kinda pinky-yellow and the address starts with 0xF
 ## 7. Use protected transactions
 
 MyCrypto can automatically check your transaction to ensure it is sent to the right person. Learn more about [how to use protected transactions](/general-knowledge/about-mycrypto/what-are-protected-transactions).
-
-### Related articles
-
-- ["I Got Sloppy, I Got Scammed"](https://hackernoon.com/i-got-sloppy-i-got-scammed-10e00ac0905)

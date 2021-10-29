@@ -6,7 +6,10 @@ tags:
   - Transactions
 priority: 60
 date_published: '2020-08-05'
-date_modified: '2021-01-26'
+date_modified: '2021-10-26'
+related_articles:
+  - general-knowledge/ethereum-blockchain/what-is-gas
+  - how-to/sending/how-to-know-what-gas-limit-to-use
 ---
 
 The gas price determines how much you pay per unit of gas. A higher gas price will mean that your transaction is confirmed faster, but will cost more, and a transaction with a lower gas price will take longer to confirm, but will cost less. The average gas prices can fluctuate a lot, and using a gas price that is too low, may result in your transaction being stuck. In this article, you'll find some recommendations on what gas price you should use.
@@ -30,8 +33,3 @@ Note that the recommended gas prices can change very quickly in times with lots 
 As explained in [our "What Is Gas?" article](/general-knowledge/ethereum-blockchain/what-is-gas), the transaction fee is paid to the miners directly. Miners can set a minimum gas price for each transaction, which can differ per mining pool. You should make sure that your gas price is above the minimum gas price, to ensure that your transaction will be mined.
 
 You can see the minimum gas prices accepted by miners on [ETH Gas Station](https://ethgasstation.info/).
-
-## Related articles
-
-- [What is Gas?](/general-knowledge/ethereum-blockchain/what-is-gas)
-- [How To Know What Gas Limit to Use?](/how-to/sending/how-to-know-what-gas-limit-to-use)

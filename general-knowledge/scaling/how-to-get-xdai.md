@@ -3,7 +3,10 @@ title: How to get xDai
 tags:
   - xDai
 date_published: '2021-03-17'
-date_modified: '2021-03-17'
+date_modified: '2021-10-26'
+related_articles:
+  - general-knowledge/scaling/what-is-the-xdai-chain
+  - general-knowledge/scaling/how-to-connect-an-xdai-account-to-mycrypto
 ---
 
 Since xDai is based on the EVM (Ethereum Virtual Machine), any Ethereum account can also be used on the xDai chain. This means that if you have an Ethereum account, you also have an xDai account and can get started!
@@ -32,8 +35,3 @@ There are currently two fiat onramps you can use to go directly from cash (fiat)
 - The [Mt Pelerin Bridge Wallet](https://www.xdaichain.com/for-users/wallets/mt-pelerin) application also recently announced support for direct fiat to xDai chain purchases and should have a process similar to any other fiat onramp.
 
 _MyCrypto does not endorse any of the above applications. Please do your own research before interacting with any of these._
-
-## Related Articles
-
-- [What is the xDai chain?](/general-knowledge/scaling/what-is-the-xdai-chain)
-- [How to connect an xDai account to MyCrypto](/general-knowledge/scaling/how-to-connect-an-xdai-account-to-mycrypto)

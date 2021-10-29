@@ -6,7 +6,11 @@ tags:
   - Private Keys
 priority: 90
 date_published: '2015-10-05'
-date_modified: '2021-06-23'
+date_modified: '2021-10-26'
+related_articles:
+  - general-knowledge/ethereum-blockchain/difference-between-wallet-types
+  - staying-safe/protecting-yourself-and-your-funds
+  - how-to/backup-restore/how-to-save-back-up-your-wallet
 ---
 
 We highly recommend getting a hardware wallet or using MetaMask as a method to access your wallet and store your funds.
@@ -19,9 +23,9 @@ Remember to back up any wallets you create! Including the 12-word or 24-word Sec
 
 If you do not choose to use a hardware wallet or MetaMask, then we recommend to use the MyCrypto desktop app. The desktop app is available for Mac, Windows, Linux or as a standalone app.
 
-<Alert>
+<Alert label="The desktop application is not actively maintained.">
 
-The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com).
+The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com/).
 
 </Alert>
 
@@ -108,9 +112,3 @@ This prevents loss of the private key and password due to a dead hard drive, los
 MyCrypto is not a web wallet and cannot recover your private key or password, access your account, move funds, recover funds, nor cancel/reverse transactions.
 
 We are a client-side interface that allows you to interact with the Ethereum blockchain. Please secure and back up your key like the millions of dollars it could someday be worth.
-
-## Related articles
-
-- [What is the difference between private key & Keystore / UTC file?](/general-knowledge/ethereum-blockchain/difference-between-wallet-types)
-- [Protecting yourself and your funds](/staying-safe/protecting-yourself-and-your-funds)
-- [How to Back Up Your Wallet](/how-to/backup-restore/how-to-save-back-up-your-wallet)

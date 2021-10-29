@@ -6,14 +6,8 @@ tags:
   - Phishing
 priority: 80
 date_published: '2017-07-05'
-date_modified: '2021-06-23'
+date_modified: '2021-10-26'
 ---
-
-_[Source: /u/drewshaver](https://www.reddit.com/r/CryptoCurrency/comments/6vo0tw/a_guide_for_newbies_on_how_to_properly_and/)_
-
----
-
-## Preface
 
 This guide assumes that you just received a Trezor and Cryptosteel in the mail. Which hardware wallet you chose is not integral to the guide -- any hardware wallet will do. The cryptosteel is not necessary to follow the guide, but protects against fire, flood, and decay, and so comes highly recommended.\*
 

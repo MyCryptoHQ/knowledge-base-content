@@ -5,7 +5,9 @@ tags:
   - NFTs
 priority: 90
 date_published: '2021-06-29'
-date_modified: '2021-06-29'
+date_modified: '2021-10-26'
+related_articles:
+  - staying-safe/common-scams/common-nft-scams
 ---
 
 What does Non-Fungible Token actually mean? Fungibility is defined by Merriam-Webster as:
@@ -31,7 +33,3 @@ ERC-1155 works towards bridging all the standards together into one token. This 
 ![Example of how ERC-1155 could work](../../assets/general-knowledge/ethereum-blockchain/intro-to-nfts-and-nft-token-standards/erc-1155-example.png)
 
 The NFT market is still fairly new and can be dangerous. If you stay vigilant you should have no problem navigating the open seas of NFTs (pun intended). These common scams should increase your awareness, but should not scare you off from getting into the market. Whether it be for investing, collecting, or just because you respect the artist or love the piece, get out there and do it! The NFT community is strong and tight-knit, and any member of the community would be more than happy to help with anything. If you enjoyed this article, feel free to take a look at the previous one we published on [the relationship between NFTs and IPFS](https://blog.mycrypto.com/ipfs-and-nft-the-relationship/).
-
-## Related articles
-
-- [Common NFT scams](/staying-safe/common-scams/common-nft-scams)

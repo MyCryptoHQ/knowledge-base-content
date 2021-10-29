@@ -4,10 +4,12 @@ tags:
   - Tokens
 priority: 90
 date_published: '2020-06-26'
-date_modified: '2021-06-23'
+date_modified: '2021-10-26'
+related_articles:
+  - how-to/sending/how-to-interact-with-a-multisig-contract
 ---
 
-<Alert>
+<Alert label="Looking to send Ether instead?">
 
 If you're looking to send Ether from a Mist multisig contract, please refer to [this article](/how-to/sending/how-to-interact-with-a-multisig-contract) instead.
 

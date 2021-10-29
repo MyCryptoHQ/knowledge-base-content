@@ -6,12 +6,15 @@ tags:
   - Tokens
 priority: 60
 date_published: '2017-06-20'
-date_modified: '2021-06-23'
+date_modified: '2021-10-26'
+related_articles:
+  - >-
+    general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space
 ---
 
 Hello and welcome to Ethereum! Ethereum and digital currencies are pretty new and in this new financial world, things can be a little bit different. This article gives an overview of what ETH is, where and how you can buy ETH with USD, some important info on how to store it, and how to be secure. We tried to keep it as short as possible so please take the time to read through the article. Don't hesitate to contact us directly if you have any questions or concerns, we are here to help!
 
-## What IS Ether (ETH)?
+## What is Ether (ETH)?
 
 Ether, or ETH, is Ethereum's native currency. It is "digital money" that can be sent over the internet instantly and cheaply, and also be used in many Ethereum-based applications. (from [ethereum.org](https://ethereum.org/eth/))
 
@@ -84,8 +87,3 @@ Then, create an Ethereum account and back it up. From where you have stored your
 - [Legacy MyCrypto](https://legacy.mycrypto.com)
 - [JAXX](https://jaxx.io/) - multi-platform, multi-currency
 - [Exodus.io](https://www.exodus.io/) - multi-currency desktop app
-
-## Related Articles
-
-- [How to Stay Safe](/staying-safe)
-- [Glossary of Common Terms](/general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space)

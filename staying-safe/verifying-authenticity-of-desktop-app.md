@@ -6,10 +6,10 @@ tags:
   - MyCrypto
 priority: 75
 date_published: '2018-05-01'
-date_modified: '2021-01-15'
+date_modified: '2021-10-25'
 ---
 
-<Alert>
+<Alert label="The desktop application is not actively maintained.">
 
 The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com/).
 
@@ -50,9 +50,9 @@ To check the signature of the `checksums.txt.gpg` file, you have to run the foll
 > gpg --output checksums.txt --decrypt checksums.txt.gpg
 ```
 
-<Alert>
+<Alert label="If you see a warning about the GPG key being expired, you may have to import the key again.">
 
-If you see a warning about the GPG key being expired, you may have to import the key again, by following step 3.
+You can do this by following step 3.
 
 </Alert>
 
@@ -109,9 +109,9 @@ To check the signature of the `checksums.txt.gpg` file, you have to run the foll
 $ gpg --output checksums.txt --decrypt checksums.txt.gpg
 ```
 
-<Alert>
+<Alert label="If you see a warning about the GPG key being expired, you may have to import the key again.">
 
-If you see a warning about the GPG key being expired, you may have to import the key again, by following step 3.
+You can do this by following step 3.
 
 </Alert>
 
@@ -180,9 +180,9 @@ To check the signature of the `checksums.txt.gpg` file, you have to run the foll
 $ gpg --output checksums.txt --decrypt checksums.txt.gpg
 ```
 
-<Alert>
+<Alert label="If you see a warning about the GPG key being expired, you may have to import the key again.">
 
-If you see a warning about the GPG key being expired, you may have to import the key again, by following step 3.
+You can do this by following step 3.
 
 </Alert>
 

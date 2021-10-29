@@ -6,14 +6,14 @@ tags:
   - Ethereum
 priority: 70
 date_published: '2018-04-18'
-date_modified: '2021-01-27'
+date_modified: '2021-10-26'
 ---
 
 With Ethereum, signatures are a way of providing evidence that a specific user has access to a specific address.
 
 For example, if user A wants to provide evidence to user B that user A has access to address X, they could sign a message with their private key, stating that user A has access to address X, then share the signed signature with user B. If the signature is correct, user B can verify that user A has access to address X without user A ever having to share their private key to user B.
 
-### Signing a message
+## Signing a message
 
 1. Go to the [message signing page on MyCrypto](https://app.mycrypto.com/sign-message).
 2. Access your wallet.
@@ -38,7 +38,7 @@ For example, if user A wants to provide evidence to user B that user A has acces
 
 You can use this message as proof that you own an address, and share it with anyone.
 
-### Verifying a message
+## Verifying a message
 
 1. Go to the [message verifying page on MyCrypto](https://app.mycrypto.com/verify-message).
 2. Enter the signed message that you want to check, and click "Verify Message."

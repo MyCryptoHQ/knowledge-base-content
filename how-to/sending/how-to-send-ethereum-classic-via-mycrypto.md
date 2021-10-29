@@ -5,7 +5,9 @@ tags:
   - Transactions
 priority: 70
 date_published: '2017-10-08'
-date_modified: '2021-01-27'
+date_modified: '2021-10-26'
+related_articles:
+  - how-to/sending/how-to-send-a-transaction
 ---
 
 When adding a new address to your MyCrypto interface, make sure that you select the Ethereum Classic network while adding it. This will let MyCrypto know for which network it should find your funds, so you can interact with it.

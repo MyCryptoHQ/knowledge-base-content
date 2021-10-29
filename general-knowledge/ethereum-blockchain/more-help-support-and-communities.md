@@ -7,7 +7,7 @@ tags:
   - Ethereum
 priority: 50
 date_published: '2018-06-21'
-date_modified: '2021-01-14'
+date_modified: '2021-10-25'
 ---
 
 ## General Questions and Ethereum
@@ -24,7 +24,7 @@ date_modified: '2021-01-14'
 - Geth: [Website](https://geth.ethereum.org/) · [Discord Server](https://discord.gg/invite/nthXNEv)
 - OpenEthereum: [GitHub](https://github.com/openethereum/openethereum)
 - Metamask: [Website](https://metamask.io/) · [Support](https://metamask.zendesk.com/hc/en-us)
-- MyCrypto: [Website](https://mycrypto.com/) · [FAQ](/) · [Support](/contact-us)
+- MyCrypto: [Website](https://mycrypto.com/) · [FAQ](/) · [Support](mailto:support@mycrypto.com)
 - Jaxx: [Website](https://jaxx.io/) · [Support](https://support.decentral.ca/hc/en-us)
 - Ledger: [Website](https://www.ledgerwallet.com/r/1985?path=/products/) · [Support](https://support.ledger.com/hc/en-us/requests/new)
 - Trezor: [Website](https://shop.trezor.io/?offer_id=10&aff_id=1735) · [Gitter](https://gitter.im/trezor/community) · [Support](https://trezor.io/support/)

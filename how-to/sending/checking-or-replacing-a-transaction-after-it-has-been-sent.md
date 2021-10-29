@@ -5,7 +5,10 @@ tags:
   - Transactions
 priority: 70
 date_published: '2017-10-08'
-date_modified: '2021-01-27'
+date_modified: '2021-10-26'
+related_articles:
+  - general-knowledge/ethereum-blockchain/what-is-gas
+  - general-knowledge/ethereum-blockchain/what-is-nonce
 ---
 
 In certain cases you may want to _cancel_ or _replace_ a transaction, for example, when you used a [gas price](/how-to/sending/how-to-know-what-gas-price-to-use) that was too low. Especially in times when gas prices are relatively high, you may want to increase the gas price of your transaction, to make sure it will be confirmed quickly.
@@ -31,7 +34,7 @@ Make sure that everything seems right, and hit "Confirm and Send". Your transact
 
 ## Replacing a transaction
 
-<Alert>
+<Alert label="You can speed up transactions from the interface.">
 
 If you'd like to replace a transaction to get it mined quicker, [you can speed it up right from the interface](/how-to/sending/how-to-speed-up-a-transaction).
 
@@ -49,8 +52,3 @@ If you'd like to replace a transaction to get it mined quicker, [you can speed i
 Go ahead and send the transaction with the "Next" button. You can check the status of your new transaction on Etherscan, or on [the transaction status page](https://mycrypto.com/tx-status).
 
 If all went well, your original transaction should be cancelled or replaced once the new transaction is confirmed.
-
-## Related articles
-
-- [What Is Gas?](/general-knowledge/ethereum-blockchain/what-is-gas)
-- [What Is Nonce?](/general-knowledge/ethereum-blockchain/what-is-nonce)

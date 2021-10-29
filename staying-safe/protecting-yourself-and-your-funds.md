@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 100
 date_published: '2015-07-15'
-date_modified: '2021-01-15'
+date_modified: '2021-10-26'
 ---
 
 ![Cryptocurrency Security Guide](../assets/staying-safe/protecting-yourself-and-your-funds/cryptocurrenty-security-guide.jpg)
@@ -32,7 +32,7 @@ Install the [EAL Chrome Extension](https://chrome.google.com/webstore/detail/eth
 
 ## 4. [Use MyCrypto locally and offline](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
 
-<Alert>
+<Alert label="The desktop application is not actively maintained.">
 
 The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com/).
 
@@ -112,7 +112,3 @@ ONLY unlock your wallet when you want to send a transaction. Check your balance 
 ## 19. Lastly: Use your brain.
 
 - Think for a moment. Don't assume—ask. Don't blindly follow—question. If something doesn't seem right, if you feel like the luckiest person on Earth, or if you find yourself pondering, "I wonder why I haven't seen this on Reddit yet," there is likely a reason.
-
-## Related articles
-
-- [How to Stay Safe](https://support.mycrypto.com/staying-safe)
