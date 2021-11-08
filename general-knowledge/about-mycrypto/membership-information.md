@@ -2,10 +2,10 @@
 title: MyCrypto Membership Information
 tags:
   - MyCrypto
-  - Beta
+  - Membership
 priority: 85
 date_published: '2020-08-10'
-date_modified: '2021-10-25'
+date_modified: '2021-11-08'
 ---
 
 <Alert label="Memberships are available on the xDai and Polygon networks too.">
@@ -28,17 +28,21 @@ While creating free and open-source products is extremely important to us, we ne
 
 This is just the beginning, but right now being a MyCrypto Member gives you:
 
-- Membership token/badge
-- Unlimited Protected Transactions
-- Removed ad/sponsor slots
-- Physical stickers
-- Physical shirt (must be a member for at least 3 months)
+* Membership Badge & NFT
+* MyCrypto Stickers
+* MyCrypto Shirt (Requires annual or lifetime membership)
+* Unlimited Protected Transactions
+* Zero Ads
+* [New!] Regular POAP NFT drops
+* [New!] 10% Discount for Trezor Hardware Wallets
+* [New!] Extra Faucet Testnet ETH (Rinkeby, Ropsten, Kovan, Goerli)
+* [New!] Access to the exclusive MyCrypto Citadel
 
 We have a lot of plans for the MyCrypto Membership and a long-term roadmap that will see many new rewards and features coming soon.
 
 ### How much does the MyCrypto Membership cost?
 
-$4.00 per month, or you can purchase multiple month packages at a discounted rate. For the hardcore, there’s also a lifetime membership.
+$10 per month, or you can purchase multiple month packages at a discounted rate. For the hardcore, there’s also a lifetime membership.
 
 ### How does the MyCrypto Membership work?
 
@@ -72,29 +76,6 @@ Unfortunately, no. We will not be offering refunds for MyCrypto Membership.
 
 ### How do I receive my MyCrypto stickers and / or shirt?
 
-All MyCrypto Members can receive MyCrypto stickers, but you must have been a member for at least three months in order to receive a MyCrypto shirt. 12-month or lifetime membership in order to circumvent this. Please follow the instructions below to redeem your rewards.
+All MyCrypto Members can receive MyCrypto stickers, but you must have a year or lifetime membership in order to receive a MyCrypto shirt. Please follow these [instructions](https://support.mycrypto.com/general-knowledge/about-mycrypto/membership-rewards/) to receieve your MyCrypto shirt and other benefits.
 
-## How to receive your physical rewards
 
-**To request your MyCrypto Stickers**, send an email to [membership@mycrypto.com](mailto:membership@mycrypto.com) with the following:
-
-- Subject line: **Sticker Request - MyCrypto Member**
-
-- Include the following in the body of your email:
-  - The ETH address that holds your Membership Token (so we can verify)
-  - Your name or alias
-  - Your mailing address
-
-Click [here](mailto:membership@mycrypto.com?subject=Sticker%20Request%20-%20MyCrypto%20Member) to open an email prompt with the address and subject line pre-filled.
-
-**If you’ve been a member for at least 3 months and would like to request your MyCrypto Shirt**, send an email to [membership@mycrypto.com](mailto:membership@mycrypto.com) with the following:
-
-- Subject line: **Shirt Request - MyCrypto Member**
-
-- Include the following in the body of your email:
-  - The ETH address that holds your Membership Token (so we can verify)
-  - Your name or alias
-  - Your mailing address
-  - Your preferred shirt size
-
-Click [here](mailto:membership@mycrypto.com?subject=Shirt%20Request%20-%20MyCrypto%20Member) to open an email prompt with the address and subject line pre-filled.
