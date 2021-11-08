@@ -28,15 +28,15 @@ While creating free and open-source products is extremely important to us, we ne
 
 This is just the beginning, but right now being a MyCrypto Member gives you:
 
-* Membership Badge & NFT
-* MyCrypto Stickers
-* MyCrypto Shirt (Requires annual or lifetime membership)
-* Unlimited Protected Transactions
-* Zero Ads
-* [New!] Regular POAP NFT drops
-* [New!] 10% Discount for Trezor Hardware Wallets
-* [New!] Extra Faucet Testnet ETH (Rinkeby, Ropsten, Kovan, Goerli)
-* [New!] Access to the exclusive MyCrypto Citadel
+- Membership Badge & NFT
+- MyCrypto Stickers
+- MyCrypto Shirt (Requires annual or lifetime membership)
+- Unlimited Protected Transactions
+- Zero Ads
+- [New!] Regular POAP NFT drops
+- [New!] 10% Discount for Trezor Hardware Wallets
+- [New!] Extra Faucet Testnet ETH (Rinkeby, Ropsten, Kovan, Goerli)
+- [New!] Access to the exclusive MyCrypto Citadel
 
 We have a lot of plans for the MyCrypto Membership and a long-term roadmap that will see many new rewards and features coming soon.
 
@@ -77,5 +77,3 @@ Unfortunately, no. We will not be offering refunds for MyCrypto Membership.
 ### How do I receive my MyCrypto stickers and / or shirt?
 
 All MyCrypto Members can receive MyCrypto stickers, but you must have a year or lifetime membership in order to receive a MyCrypto shirt. Please follow these [instructions](https://support.mycrypto.com/general-knowledge/about-mycrypto/membership-rewards/) to receieve your MyCrypto shirt and other benefits.
-
-
