@@ -12,22 +12,19 @@ The MyCrypto Membership is a way to support MyCrypto's mission of making this in
 
 Beyond that, your MyCrypto Membership yields a variety of benefits!
 
-* Membership Badge & NFT
-* MyCrypto Stickers
-* MyCrypto Shirt (Requires annual or lifetime membership)
-* Unlimited Protected Transactions
-* Zero Ads
-* [New!] Regular POAP NFT drops
-* [New!] 10% Discount for Trezor Hardware Wallets
-* [New!] Extra Faucet Testnet ETH (Rinkeby, Ropsten, Kovan, Goerli)
-* [New!] Access to the exclusive MyCrypto Citadel
-
+- Membership Badge & NFT
+- MyCrypto Stickers
+- MyCrypto Shirt (Requires annual or lifetime membership)
+- Unlimited Protected Transactions
+- Zero Ads
+- [New!] Regular POAP NFT drops
+- [New!] 10% Discount for Trezor Hardware Wallets
+- [New!] Extra Faucet Testnet ETH (Rinkeby, Ropsten, Kovan, Goerli)
+- [New!] Access to the exclusive MyCrypto Citadel
 
 ## Requesting MyCrypto Membership Rewards
 
 To receive your **Membership Badge & NFT**, all you have to do is purchase the membership. The NFT is then delivered directly into your account and you'll be able to view it on your [NFT Dashboard](https://app.mycrypto.com/nft-dashboard?utm_medium=organic&utm_source=support&utm_campaign=membership) or on another site like [OpenSea](https://opensea.io).
-
----
 
 ### MyCrypto Stickers
 
@@ -42,8 +39,6 @@ To receive your **Membership Badge & NFT**, all you have to do is purchase the m
 
 Click [here](mailto:membership@mycrypto.com?subject=Sticker%20Request%20-%20MyCrypto%20Member) to open an email prompt with the address and subject line pre-filled.
 
----
-
 ### MyCrypto Shirt
 
 **If you have a yearly or lifetime membership and would like to request your shirt**, send an email to [membership@mycrypto.com](mailto:membership@mycrypto.com) with the following:
@@ -57,8 +52,6 @@ Click [here](mailto:membership@mycrypto.com?subject=Sticker%20Request%20-%20MyCr
   - Your preferred shirt size
 
 Click [here](mailto:membership@mycrypto.com?subject=Shirt%20Request%20-%20MyCrypto%20Member) to open an email prompt with the address and subject line pre-filled.
-
----
 
 ### Regular POAP NFT drops
 
@@ -76,13 +69,11 @@ If you purchase a year or lifetime membership, you can also request previous POA
 
 Click [here](mailto:membership@mycrypto.com?subject=POAP%20Request%20-%20MyCrypto%20Member) to open an email prompt with the address and subject line pre-filled.
 
-*A note regarding POAPs: Sometimes we give out POAPs on the MyCrypto Dashboard for the community. Due to our method for sybil resistance (so users can't claim more than one POAP), we are unable to give out these POAP codes to users who have "Product Analytics" turned off in their MyCrypto Settings.*
-
----
+_A note regarding POAPs: Sometimes we give out POAPs on the MyCrypto Dashboard for the community. Due to our method for sybil resistance (so users can't claim more than one POAP), we are unable to give out these POAP codes to users who have "Product Analytics" turned off in their MyCrypto Settings._
 
 ### 10% Discount for Trezor Hardware Wallets
 
-MyCrypto Membership holders will receive a special 10% discount on Trezor purchases -- that’s worth $20 off if you get a Trezor Model T! 
+MyCrypto Membership holders will receive a special 10% discount on Trezor purchases -- that’s worth $20 off if you get a Trezor Model T!
 
 To request your 10% discount code, please send an email to [membership@mycrypto.com](mailto:membership@mycrypto.com) with the following:
 
@@ -92,8 +83,6 @@ To request your 10% discount code, please send an email to [membership@mycrypto.
   - The ETH address that holds your Membership Token (so we can verify)
 
 Click [here](mailto:membership@mycrypto.com?subject=Trezor%20Discount%20Request%20-%20MyCrypto%20Member) to open an email prompt with the address and subject line pre-filled.
-
----
 
 ### Extra Faucet Testnet ETH
 
@@ -113,15 +102,13 @@ These requests are handled manually for now but in the future we will automatica
 
 Click [here](mailto:membership@mycrypto.com?subject=Testnet%20ETH%20Request%20-%20MyCrypto%20Member) to open an email prompt with the address and subject line pre-filled.
 
----
-
 ### The MyCrypto Citadel
 
 The MyCrypto Citadel is an exclusive Discord channel for MyCrypto Members and MyCrypto Staff ONLY. You’ll have a direct line to our team and will be able to chat with us and with other members - we might share some teasers of what we’re building, and other alpha! 👀
 
 To join the MyCrypto Citadel:
 
-* Purchase a MyCrypto Membership
-* Join The [MyCrypto Discord](https://discord.gg/VSaTXEA)
-* Visit the #join-the-citadel channel and type "!join" (without the quotations)
-* Verify the account that holds the Membership via the collab.land bot
+- Purchase a MyCrypto Membership
+- Join The [MyCrypto Discord](https://discord.gg/VSaTXEA)
+- Visit the #join-the-citadel channel and type "!join" (without the quotations)
+- Verify the account that holds the Membership via the collab.land bot
