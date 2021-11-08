@@ -76,6 +76,8 @@ If you purchase a year or lifetime membership, you can also request previous POA
 
 Click [here](mailto:membership@mycrypto.com?subject=POAP%20Request%20-%20MyCrypto%20Member) to open an email prompt with the address and subject line pre-filled.
 
+*A note regarding POAPs: Sometimes we give out POAPs on the MyCrypto Dashboard for the community. Due to our method for sybil resistance (so users can't claim more than one POAP), we are unable to give out these POAP codes to users who have "Product Analytics" turned off in their MyCrypto Settings.*
+
 ---
 
 ### 10% Discount for Trezor Hardware Wallets
