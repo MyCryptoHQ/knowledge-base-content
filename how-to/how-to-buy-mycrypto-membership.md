@@ -2,13 +2,17 @@
 title: How to Buy a MyCrypto Membership
 tags:
   - MyCrypto
-  - Beta
+  - Membership
 priority: 50
 date_published: '2020-08-20'
-date_modified: '2021-08-12'
+date_modified: '2021-11-08'
 ---
 
-The MyCrypto Membership is a monthly subscription that gives you additional features and helps to support MyCrypto’s future developments.
+MyCrypto is free, open-source, and built by a small, dedicated team of cryptocurrency addicts.
+
+We're on a mission to create a safer, more secure, and more accessible industry, and we need your help.
+
+Purchasing a MyCrypto Membership means you're investing directly in the future of this industry while also reaping the benefits with exclusive NFT drops, swag, partner discounts, and an entirely elevated MyCrypto experience.
 
 [Learn more about MyCrypto Membership](/general-knowledge/about-mycrypto/membership-information).
 
