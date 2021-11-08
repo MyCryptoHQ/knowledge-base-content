@@ -76,4 +76,4 @@ Unfortunately, no. We will not be offering refunds for MyCrypto Membership.
 
 ### How do I receive my MyCrypto stickers and / or shirt?
 
-All MyCrypto Members can receive MyCrypto stickers, but you must have a year or lifetime membership in order to receive a MyCrypto shirt. Please follow these [instructions](https://support.mycrypto.com/general-knowledge/about-mycrypto/membership-rewards/) to receieve your MyCrypto shirt and other benefits.
+All MyCrypto Members can receive MyCrypto stickers, but you must have a year or lifetime membership in order to receive a MyCrypto shirt. Please [follow our instructions for receiving your MyCrypto shirt and other benefits](/general-knowledge/about-mycrypto/membership-rewards/).
