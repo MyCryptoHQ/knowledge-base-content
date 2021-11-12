@@ -3,10 +3,10 @@ title: What is contract ABI?
 tags:
   - Contracts
 date_published: '2021-10-29'
-date_modified: '2021-10-29'
+date_modified: '2021-11-12'
 ---
 
-An Application Binary Interface (ABI) allows the MyCrypto interface to get very basic information about the functions and function types that are available in a smart contract. It is able to show functions in a way that is minimal and comprehensible. Without ABI we wouldn't be able to know if you want to `withdrawDeFiToken(amountOfDeFiToken)` or `setOwner (address)` or both, or neither.
+An Application Binary Interface (ABI) allows the MyCrypto interface to get very basic information about the functions and function types that are available in a smart contract. It is able to show functions in a way that is minimal and comprehensible. Without ABI, we wouldn't be able to know if you want to `withdrawDeFiToken(amountOfDeFiToken)`, or `setOwner (address)`, or both, or neither.
 
 ![Contract ABI infographic](../../assets/general-knowledge/ethereum-blockchain/what-is-contract-abi/contract-abi.jpg)
 
