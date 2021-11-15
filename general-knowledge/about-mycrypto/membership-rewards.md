@@ -5,7 +5,7 @@ tags:
   - Membership
 priority: 85
 date_published: '2021-11-08'
-date_modified: '2021-11-08'
+date_modified: '2021-11-15'
 ---
 
 The MyCrypto Membership is a way to support MyCrypto's mission of making this industry more accessible, safe, and secure every single day. It supports the products and [our team](https://mycrypto.com/about/) who build them.
