@@ -100,7 +100,7 @@ If you hold an active MyCrypto Membership, you can request up to 5 testnet ETH p
 
 These requests are handled manually for now but in the future we will automatically detect if you hold a membership and will increase your limit directly on the faucet.
 
-Click [here](mailto:membership@mycrypto.com?subject=Testnet%20ETH%20Request%20-%20MyCrypto%20Member) to open an email prompt with the address and subject line pre-filled.
+Click [here](mailto:support@mycrypto.com?subject=Testnet%20ETH%20Request%20-%20MyCrypto%20Member) to open an email prompt with the address and subject line pre-filled.
 
 ### The MyCrypto Citadel
 
