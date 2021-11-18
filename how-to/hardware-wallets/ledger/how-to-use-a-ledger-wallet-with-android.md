@@ -5,7 +5,7 @@ tags:
   - Ledger
 priority: 80
 date_published: '2015-12-29'
-date_modified: '2020-10-08'
+date_modified: '2021-11-18'
 ---
 
 ## Requirements
@@ -18,7 +18,7 @@ If you are not sure whether your device supports USB-OTG, the easiest way to che
 
 Before you connect your Ledger Wallet to your device, you first have to install an application made by Ledger, which can be found [here](https://github.com/LedgerHQ/android-u2f-bridge/releases). Simply open the URL on your device and click on the file `android-u2f-bridge-x.x.apk`. Once you downloaded the file, open it on your device and you should be asked to install it. Once installed, tap `Done`, as it is not yet possible to open the app.
 
-Now, connect your Ledger Wallet and open the Ethereum application. Make sure both `Contract Data` and `Browser Support` are **ON** _(Note: this is no longer required in newer versions of the Ledger firmware)_. Open your browser and go to MyCrypto. On the Send & Receive page, select the Ledger option and tap on `Connect to Ledger Wallet`.
+Now, connect your Ledger Wallet and open the Ethereum application. Make sure that `contract data` or `blind signing` are **enabled**. Open your browser and go to MyCrypto. On the Send & Receive page, select the Ledger option and tap on `Connect to Ledger Wallet`.
 
 ![](../../../assets/how-to/hardware-wallets/ledger/how-to-use-a-ledger-wallet-with-android/how-to-use-a-ledger-wallet-with-android-1.png)
 

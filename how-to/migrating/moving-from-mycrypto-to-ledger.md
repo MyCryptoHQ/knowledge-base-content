@@ -6,7 +6,7 @@ tags:
   - Ledger
 priority: 100
 date_published: '2017-10-08'
-date_modified: '2021-10-26'
+date_modified: '2021-11-18'
 ---
 
 The Ledger Nano S is one of the best and easiest-to-use cryptocurrency hardware wallets out there, and is available for purchase [here](https://www.ledgerwallet.com/r/1985?path=/products/). While the Ledger Nano S supports a wide range of cryptocurrencies, this guide was specifically written for using Ether and ERC-20 tokens with MyCrypto.
@@ -37,7 +37,7 @@ Now your Ledger Nano S is all set-up and ready to be used!
 
 ## Enabling your Ledger Nano S to work with MyCrypto
 
-In order to make your Nano S work with MyCrypto, we will need to enable browser support. We are also going to enable contract data while we're at it, so we can have the ability to create token transfers as well.
+In order to make your Nano S work with MyCrypto, we will need to enable browser support. We are also going to enable "contract data" or "blind signing" while we're at it, so we can have the ability to create token transfers as well.
 
 ![Ethereum app](../../assets/how-to/migrating/moving-from-mycrypto-to-ledger/ethereum-app.jpg)
 
@@ -45,7 +45,7 @@ First of all, open up the Ethereum app by navigating to it and pressing both but
 
 ![Ethereum settings](../../assets/how-to/migrating/moving-from-mycrypto-to-ledger/ethereum-settings.jpg)
 
-Now press both buttons at the same time again to open up "Contract Data," then press the right button to select "Yes," and then press both buttons again to proceed.
+Now press both buttons at the same time again to open up "Contract Data" or "Blind Signing," then press the right button to select "Yes," and then press both buttons again to proceed.
 
 ![Ethereum contract data](../../assets/how-to/migrating/moving-from-mycrypto-to-ledger/ethereum-contract-data.jpg)
 

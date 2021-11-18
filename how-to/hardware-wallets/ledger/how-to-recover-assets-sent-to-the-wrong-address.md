@@ -3,7 +3,7 @@ title: How to recover assets sent to the wrong address
 tags:
   - Ledger
 date_published: '2021-01-14'
-date_modified: '2021-10-25'
+date_modified: '2021-11-18'
 ---
 
 If you've ever sent coins to the wrong address (for example, sending ETC or EWT to your ETH address), it can be scary, but it's solvable. Making this mistake with a Ledger requires a little more time and effort to solve it as you cannot send ETC or EWT transactions from an ETH address by default with a Ledger device.
@@ -52,4 +52,4 @@ You should now see the ETH Recovery app on your Ledger device. This app works ve
 
 From here on, you can simply send a transaction as usual. We recommend sending it to one of the addresses specific for that coin, e.g. "Ledger (ETC)" for ETC coins, and "Default (EWC)" for EWT coins.
 
-Note that if you sent ERC-20 tokens to the wrong address, you have to make sure that Contract Data is enabled on your Ledger device. Even if you enabled it previously using the regular ETH app, you have to enable it again.
+Note that if you sent ERC-20 tokens to the wrong address, you have to make sure that "contract data" or "blind signing" is enabled on your Ledger device. Even if you enabled it previously using the regular ETH app, you have to enable it again.
