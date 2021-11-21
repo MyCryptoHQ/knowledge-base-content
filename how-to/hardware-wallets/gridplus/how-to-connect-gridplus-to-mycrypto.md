@@ -38,7 +38,7 @@ Once we have inputted the DeviceID, we will then ask for a pairing password. The
 
 After you have inserted the GridPlus secret, it will connect your GridPlus to MyCrypto. MyCrypto will use our [Hardware Wallet Scanner](https://blog.mycrypto.com/new--hardware-wallet-scanner--rep-migration--tx-status--and-more-/) to find any previously used addresses and allow you to search for an address with a specific [derivation path](https://support.mycrypto.com/general-knowledge/ethereum-blockchain/what-is-a-derivation-path/).
 
-  ![Select Account](../../../assets/how-to/hardware-wallets/gridplus/how-to-connect-gridplus-to-mycrypto/grid-plus-select-acount.png)
+  ![Select Account](../../../assets/how-to/hardware-wallets/gridplus/how-to-connect-gridplus-to-mycrypto/grid-plus-select-account.png)
 
 On this screen, you can select any addresses (flip the “Show Empty Addresses” toggle at the top if you want) to add to MyCrypto, then press the “Add $x Account” button to complete the process.
 
