@@ -40,7 +40,7 @@ With the output signature, you can go to the "Verify Message" option at the top 
 
   ![Verify message](../../../assets/how-to/hardware-wallets/gridplus/signing-offchain-message/verify-message.png)
 
-```
+```json
 {
   "address": "0xcb62c8C418ee4C39B6b023cB50149e62D6E90926",
   "msg": "Hello World, this is a message I am signing with the MyCrypto UI using a GridPlus!",

@@ -43,3 +43,4 @@ After you have inserted the GridPlus secret, it will connect your GridPlus to My
 On this screen, you can select any addresses (flip the “Show Empty Addresses” toggle at the top if you want) to add to MyCrypto, then press the “Add $x Account” button to complete the process.
 
   ![Account Added](../../../assets/how-to/hardware-wallets/gridplus/how-to-connect-gridplus-to-mycrypto/account-added.png)
+  
