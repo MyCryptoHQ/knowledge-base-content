@@ -6,39 +6,39 @@ date_published: '2021-11-21'
 date_modified: '2021-11-21'
 ---
 
-With a GridPlus (and pretty much any Hardware wallet), we can use MyCrypto to [sign an offchain message](https://support.mycrypto.com/how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum/). 
+With a GridPlus (and pretty much any Hardware wallet), we can use MyCrypto to [sign an offchain message](/how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum/). 
 
 This is a message that is signed cryptographically with your Ethereum keypair to prove that the owner of an address signed a specific message. This is an offchain process, so the act of signing this particular message is not a transaction broadcasted to the blockchain, so there is no gas involved.
 
-This article assumes that you have connected your GridPlus accounts to the MyCrypto interface.
+This article assumes that you have [connected your GridPlus accounts to the MyCrypto interface](/how-to/hardware-wallets-gridplus/how-to-connect-gridplus-to-mycrypto/).
 
 To start, go to "Tools" > "Sign/Verify Message" in the MyCrypto navigation, then select GridPlus option.
 
-  ![Select GridPlus option](../../../assets/how-to/hardware-wallets/gridplus/how-to-connect-gridplus-to-mycrypto/select-gridplus-option.png)
+  ![Select GridPlus option](../../../assets/how-to/hardware-wallets/gridplus/signing-offchain-message/select-gridplus-option.png)
 
 Make sure your GridPlus device is unlocked, with the SafeCard inserted, and wait for MyCrypto to detect the device is unlocked.
 
-  ![Wait for unlock](../../../assets/how-to/hardware-wallets/gridplus/how-to-connect-gridplus-to-mycrypto/wait-for-unlock.png)
+  ![Wait for unlock](../../../assets/how-to/hardware-wallets/gridplus/signing-offchain-message/wait-for-unlock.png)
 
 Next, select the account you want to sign the specific message for, then press the "Next" button
 
-  ![Select account](../../../assets/how-to/hardware-wallets/gridplus/how-to-connect-gridplus-to-mycrypto/select-account-to-sign.png)
+  ![Select account](../../../assets/how-to/hardware-wallets/gridplus/signing-offchain-message/select-account-to-sign.png)
 
 Now, in the textbox, input the message you want to sign and press the "Sign Message" button.
 
-  ![Input message](../../../assets/how-to/hardware-wallets/gridplus/how-to-connect-gridplus-to-mycrypto/input-message.png)
+  ![Input message](../../../assets/how-to/hardware-wallets/gridplus/signing-offchain-message/input-message.png)
 
 Then, look at your GridPlus device and ensure you are signing the correct message, then press "Approve" button on the GridPlus device
 
-  ![Review message](../../../assets/how-to/hardware-wallets/gridplus/how-to-connect-gridplus-to-mycrypto/review-message.png)
+  ![Review message](../../../assets/how-to/hardware-wallets/gridplus/signing-offchain-message/review-message.png)
 
 Once you have approved the signing on the GridPlus device, the signature will appear on the MyCrypto UI, and you can send this message to anyone offchain to prove you own keys to this specific address.
 
-  ![Signed message](../../../assets/how-to/hardware-wallets/gridplus/how-to-connect-gridplus-to-mycrypto/signed-message.png)
+  ![Signed message](../../../assets/how-to/hardware-wallets/gridplus/signing-offchain-message/signed-message.png)
 
 With the output signature, you can go to the "Verify Message" option at the top right, paste the entire signature (like below) and press "Verify Message" button. MyCrypto will verify the signature is cryptographically correct and let you know if the signed message is legitimate.
 
-  ![Verify message](../../../assets/how-to/hardware-wallets/gridplus/how-to-connect-gridplus-to-mycrypto/verify-message.png)
+  ![Verify message](../../../assets/how-to/hardware-wallets/gridplus/signing-offchain-message/verify-message.png)
 
 ```
 {
