@@ -1,9 +1,11 @@
 ---
 title: How to connect GridPlus to MyCrypto
 tags:
-  - Gridplus
+  - GridPlus
 date_published: '2021-11-21'
-date_modified: '2021-11-21'
+date_modified: '2021-11-23'
+related_articles:
+  - how-to/hardware-wallets/gridplus/signing-offchain-messages
 ---
 
 Connecting your GridPlus wallet to MyCrypto follows the same path as connecting any wallet (software or hardware) to MyCrypto.

@@ -1,16 +1,18 @@
 ---
 title: Signing offchain messages with GridPlus
 tags:
-  - Gridplus
+  - GridPlus
 date_published: '2021-11-21'
-date_modified: '2021-11-21'
+date_modified: '2021-11-23'
+related_articles:
+  - how-to/hardware-wallets/gridplus/how-to-connect-gridplus-to-mycrypto
 ---
 
 With a GridPlus (and pretty much any Hardware wallet), we can use MyCrypto to [sign an offchain message](/how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum/).
 
 This is a message that is signed cryptographically with your Ethereum keypair to prove that the owner of an address signed a specific message. This is an offchain process, so the act of signing this particular message is not a transaction broadcasted to the blockchain, so there is no gas involved.
 
-This article assumes that you have [connected your GridPlus accounts to the MyCrypto interface](/how-to/hardware-wallets-gridplus/how-to-connect-gridplus-to-mycrypto/).
+This article assumes that you have [connected your GridPlus accounts to the MyCrypto interface](/how-to/hardware-wallets/gridplus/how-to-connect-gridplus-to-mycrypto/).
 
 To start, go to "Tools" > "Sign/Verify Message" in the MyCrypto navigation, then select GridPlus option.
 
