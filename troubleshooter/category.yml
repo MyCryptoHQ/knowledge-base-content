@@ -1,0 +1,12 @@
+title: Troubleshooter
+badge: success
+icon:
+  small: tool
+  large: ../assets/troubleshooting/icon.svg
+
+categories:
+  - transaction
+  - balance
+  - accessing-account
+  - creating-account
+  - lost-funds
