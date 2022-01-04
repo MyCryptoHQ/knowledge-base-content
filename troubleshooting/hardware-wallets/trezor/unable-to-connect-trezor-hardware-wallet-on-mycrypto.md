@@ -5,13 +5,12 @@ tags:
   - Trezor
 priority: 30
 date_published: '2019-03-29'
-date_modified: '2021-10-26'
+date_modified: '2022-01-04'
 ---
 
 Sometimes your Trezor hardware wallet won't connect to MyCrypto. Here are some troubleshooting tips to try:
 
 - Make sure that your Trezor firmware is fully up to date by using [Trezor Wallet](https://trezor.io/start/). Read the [instructions on their wiki](https://wiki.trezor.io/User_manual:Updating_the_Trezor_device_firmware).
-- Use the [MyCrypto Desktop App](https://download.mycrypto.com/).
 - Try unplugging your Trezor device, then plugging it back in.
 - Restart your computer.
 - Try a different USB cable.
