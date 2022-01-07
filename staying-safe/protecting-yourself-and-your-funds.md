@@ -6,7 +6,7 @@ tags:
   - Phishing
 priority: 100
 date_published: '2015-07-15'
-date_modified: '2021-10-26'
+date_modified: '2022-01-07'
 ---
 
 ![Cryptocurrency Security Guide](../assets/staying-safe/protecting-yourself-and-your-funds/cryptocurrenty-security-guide.jpg)
@@ -30,13 +30,7 @@ Use those bookmarks and only those. Don't type in the addresses by hand.
 
 Install the [EAL Chrome Extension](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or the [MetaMask Chrome Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) to warn you if you go to a crypto-phishing link.
 
-## 4. [Use MyCrypto locally and offline](/how-to/offline/how-to-run-mycrypto-offline-and-locally).
-
-<Alert label="The desktop application is not actively maintained.">
-
-The MyCrypto desktop application is part of an older version of MyCrypto that is not actively maintained. You can find the latest version of MyCrypto on [mycrypto.com](https://mycrypto.com/).
-
-</Alert>
+## 4. [Access your keys locally and offline with Quill](/how-to/quill/how-to-use-quill-offline).
 
 ## 5. Do not trust random URLs.
 

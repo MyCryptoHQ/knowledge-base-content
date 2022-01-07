@@ -4,7 +4,7 @@ tags:
   - Tokens
 priority: 90
 date_published: '2020-06-26'
-date_modified: '2021-10-26'
+date_modified: '2022-01-07'
 related_articles:
   - how-to/sending/how-to-interact-with-a-multisig-contract
 ---
@@ -19,7 +19,7 @@ If you have tokens in a Mist multisig contract, sending them from the contract i
 
 - Navigate to [the contracts page on MyCrypto](https://mycrypto.com/contracts/interact).
 
-  - If you are using a private key, keystore file or Secret Recovery Phrase, please use the [desktop application](https://download.mycrypto.com) instead.
+  - If you are using a private key, keystore file, or Secret Recovery Phrase, you need to [import these in Quill](/how-to/quill/how-to-import-private-key-keystore-file-phrase), so you can access them with MyCrypto.
 
 - Select the Mist Multisig Contract from the drop down menu.
 

@@ -6,7 +6,7 @@ tags:
   - Gas
 priority: 50
 date_published: '2017-07-05'
-date_modified: '2021-10-26'
+date_modified: '2022-01-07'
 related_articles:
   - general-knowledge/ethereum-blockchain/what-is-gas
   - troubleshooting/sending/transaction-failed-out-of-gas
@@ -21,8 +21,3 @@ You are paying for the _computation_, regardless of whether your transaction suc
 You can see your TX fee (`gas limit` \* `gas price`) in ETH & USD when you search for your transaction on [etherscan.io](https://etherscan.io/tx/0xd0790ea27df12a3b4ce026ee2ffc7402c30cf7d988eef17b5c1d899c52a70b67).
 
 This is **not** a transaction fee that MyCrypto, or any other service provider, receives. This fee is paid to miners for mining transactions, putting them into blocks, and securing the blockchain.
-
-## Related articles
-
-- [What is Gas?](/general-knowledge/ethereum-blockchain/what-is-gas)
-- [Transaction failed: Out of gas](/troubleshooting/sending/transaction-failed-out-of-gas)

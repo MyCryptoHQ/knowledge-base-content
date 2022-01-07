@@ -5,7 +5,7 @@ tags:
   - Private Keys
 priority: 110
 date_published: '2017-07-05'
-date_modified: '2021-10-26'
+date_modified: '2022-01-07'
 related_articles:
   - staying-safe/protecting-yourself-and-your-funds
   - how-to/backup-restore/how-to-save-back-up-your-wallet
@@ -33,7 +33,9 @@ The following will describe these wallets and the differences between them in fu
 
 A private key proves full ownership of an Ethereum account, which includes any and all funds on that account. A raw private key is a string of 64 characters, consisting of a combination of characters between A-F and 0-9, and could be written down on a piece of paper. No password is required, which means that if someone were to find your unencrypted private key, they could access your account easily.
 
-Using raw private keys is not recommended, as they are [insecure](https://medium.com/mycrypto/a-safer-mycrypto-79d65196e7d8). If you were to access your account on a phishing site with a private key, the phishers would get full access to your wallet. However, if you still desire to create and use a wallet in this manner, you can generate them locally with the [MyCrypto Desktop App](https://download.mycrypto.com/).
+Using raw private keys is not recommended, as they are [insecure](https://medium.com/mycrypto/a-safer-mycrypto-79d65196e7d8). If you were to access your account on a phishing site with a private key, the phishers would get full access to your wallet. However, if you still desire to access and interact with your wallet in this manner, it's possible to [import your private key in Quill](/how-to/quill/how-to-import-private-key-keystore-file-phrase).
+
+However, if you still desire to create and use a wallet in this manner, you can generate them locally with the [MyCrypto Desktop App](https://download.mycrypto.com/).
 
 ## Web Wallets
 
