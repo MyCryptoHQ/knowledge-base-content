@@ -6,7 +6,7 @@ tags:
   - Tokens
 priority: 60
 date_published: '2017-06-20'
-date_modified: '2021-10-26'
+date_modified: '2022-02-01'
 related_articles:
   - >-
     general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space
@@ -85,5 +85,4 @@ Then, create an Ethereum account and back it up. From where you have stored your
 - [MyCrypto.com](https://mycrypto.com/)
 - [Beta MyCrypto](https://mycrypto.com/)
 - [Legacy MyCrypto](https://legacy.mycrypto.com)
-- [JAXX](https://jaxx.io/) - multi-platform, multi-currency
 - [Exodus.io](https://www.exodus.io/) - multi-currency desktop app
