@@ -85,5 +85,4 @@ Then, create an Ethereum account and back it up. From where you have stored your
 - [MyCrypto.com](https://mycrypto.com/)
 - [Beta MyCrypto](https://mycrypto.com/)
 - [Legacy MyCrypto](https://legacy.mycrypto.com)
-- [JAXX](https://jaxx.io/) - multi-platform, multi-currency
 - [Exodus.io](https://www.exodus.io/) - multi-currency desktop app
