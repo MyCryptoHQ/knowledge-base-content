@@ -6,7 +6,7 @@ tags:
   - Tokens
 priority: 60
 date_published: '2017-06-20'
-date_modified: '2021-10-26'
+date_modified: '2022-02-01'
 related_articles:
   - >-
     general-knowledge/ethereum-blockchain/a-glossary-of-common-terms-in-the-ethereum-crypto-space
