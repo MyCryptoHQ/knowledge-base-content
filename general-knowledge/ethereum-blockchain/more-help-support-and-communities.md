@@ -25,7 +25,6 @@ date_modified: '2021-10-25'
 - OpenEthereum: [GitHub](https://github.com/openethereum/openethereum)
 - Metamask: [Website](https://metamask.io/) · [Support](https://metamask.zendesk.com/hc/en-us)
 - MyCrypto: [Website](https://mycrypto.com/) · [FAQ](/) · [Support](mailto:support@mycrypto.com)
-- Jaxx: [Website](https://jaxx.io/) · [Support](https://support.decentral.ca/hc/en-us)
 - Ledger: [Website](https://www.ledgerwallet.com/r/1985?path=/products/) · [Support](https://support.ledger.com/hc/en-us/requests/new)
 - Trezor: [Website](https://shop.trezor.io/?offer_id=10&aff_id=1735) · [Gitter](https://gitter.im/trezor/community) · [Support](https://trezor.io/support/)
 
