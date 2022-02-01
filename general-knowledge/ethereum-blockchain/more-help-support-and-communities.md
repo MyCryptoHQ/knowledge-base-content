@@ -7,7 +7,7 @@ tags:
   - Ethereum
 priority: 50
 date_published: '2018-06-21'
-date_modified: '2021-10-25'
+date_modified: '2022-02-01'
 ---
 
 ## General Questions and Ethereum
