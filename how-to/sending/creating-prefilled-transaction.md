@@ -6,7 +6,7 @@ tags:
   - Beta
 priority: 40
 date_published: '2019-01-22'
-date_modified: '2021-10-26'
+date_modified: '2022-03-16'
 related_articles:
   - general-knowledge/ethereum-blockchain/what-is-gas
 ---
@@ -19,8 +19,11 @@ If you create a pre-filled MyCrypto transaction URL and send it to someone, they
 
 ## Parameters
 
-- `type` - The _type_ of pre-filled transaction (use **resubmit** in most cases).
-- `gasPrice` - The _gas price_ of the transaction (should be in hex wei format. ex: **0x059682f000**).
+- `queryType` - The _type_ of pre-filled transaction (use **speedup** in most cases).
+- `type` - The _type_ of the transaction (0 for legacy, 2 for EIP-1559 transactions)
+- `gasPrice` - The _gas price_ of the transaction (only for legacy txs) (should be in hex wei format. ex: **0x059682f000**).
+- `maxFeePerGas` The _max fee_ of the transaction (only for EIP1559 txs) (should be in hex wei format. ex: **0x059682f000**).
+- `maxPriorityFeePerGas` The _max priority fee_ of the transaction (only for EIP1559 txs) (should be in hex wei format. ex: **0x059682f000**).
 - `gasLimit` - The _gas limit_ field of the transaction (should be in hex format. ex: **0xcb56**).
 - `chainId` - The _chainid_ of the network the transaction should be conducted on (ex: **1**).
 - `value` - The _value_ of the transaction (should be in hex wei format. ex: **0x8AC7230489E80000**).
