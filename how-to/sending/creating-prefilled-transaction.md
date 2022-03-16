@@ -22,8 +22,8 @@ If you create a pre-filled MyCrypto transaction URL and send it to someone, they
 - `queryType` - The _type_ of pre-filled transaction (use **speedup** in most cases).
 - `type` - The _type_ of the transaction (0 for legacy, 2 for EIP-1559 transactions)
 - `gasPrice` - The _gas price_ of the transaction (only for legacy transactions) (should be in hex wei format. ex: **0x059682f000**).
-- `maxFeePerGas` The _max fee_ of the transaction (only for EIP1559 transactions) (should be in hex wei format. ex: **0x059682f000**).
-- `maxPriorityFeePerGas` The _max priority fee_ of the transaction (only for EIP1559 transactions) (should be in hex wei format. ex: **0x059682f000**).
+- `maxFeePerGas` The _max fee_ of the transaction (only for EIP-1559 transactions) (should be in hex wei format. ex: **0x059682f000**).
+- `maxPriorityFeePerGas` The _max priority fee_ of the transaction (only for EIP-1559 transactions) (should be in hex wei format. ex: **0x059682f000**).
 - `gasLimit` - The _gas limit_ field of the transaction (should be in hex format. ex: **0xcb56**).
 - `chainId` - The _chainid_ of the network the transaction should be conducted on (ex: **1**).
 - `value` - The _value_ of the transaction (should be in hex wei format. ex: **0x8AC7230489E80000**).
@@ -34,11 +34,11 @@ If you create a pre-filled MyCrypto transaction URL and send it to someone, they
 
 ### Examples
 
-ETH Transaction - EIP 1559
+ETH Transaction - EIP-1559
 
 <https://app.mycrypto.com/send?queryType=speedup&type=2&gasLimit=0x5208&chainId=1&nonce=0xD8&maxFeePerGas=0x059682f000&maxPriorityFeePerGas=0xb2d05e00&from=0x5197B5b062288Bbf29008C92B08010a92Dd677CD&to=0x5197B5b062288Bbf29008C92B08010a92Dd677CD&value=0x8AC7230489E80000&data=0x>
 
-ERC20 Transaction - EIP 1559
+ERC20 Transaction - EIP-1559
 
 <https://app.mycrypto.com/send?queryType=speedup&type=2&gasLimit=0x5208&chainId=1&nonce=0xD8&maxFeePerGas=0x059682f000&from=0x5197B5b062288Bbf29008C92B08010a92Dd677CD&to=0x6B175474E89094C44Da98b954EedeAC495271d0F&value=0x0&data=0xa9059cbb0000000000000000000000005197B5b062288Bbf29008C92B08010a92Dd677CD000000000000000000000000000000000000000000000104f6e0a229913de8a2>
 
